@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=ConfigPage_ConfigureStartingPawns
+|ScenPartDef.defName=ConfigPage_ConfigureStartingPawns
+|ScenPartDef.label=starting people
+|ScenPartDef.label.zh-cn=开局人数
+|ScenPartDef.label.zh-tw=起始人口數
+|ScenPartDef.category=Fixed
+|ScenPartDef.scenPartClass=ScenPart_ConfigPage_ConfigureStartingPawns
+|ScenPartDef.summaryPriority=500
+|ScenPartDef.pageClass=Page_ConfigureStartingPawns
+}}

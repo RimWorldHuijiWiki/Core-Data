@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=AteFineMeal
+|ThoughtDef.defName=AteFineMeal
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=ate fine meal
+|ThoughtDef.stages.0.label.zh-cn=吃了精致的食物
+|ThoughtDef.stages.0.label.zh-tw=吃了精緻的料理
+|ThoughtDef.stages.0.description=I ate a really tasty fine meal. Yum!
+|ThoughtDef.stages.0.description.zh-cn=我吃了一份很不错的食物，好吃！
+|ThoughtDef.stages.0.description.zh-tw=我吃了一份很不錯的料理，美味！
+|ThoughtDef.stages.0.baseMoodEffect=5
+|ThoughtDef.stackLimit=1
+|ThoughtDef.durationDays=0.5
+}}

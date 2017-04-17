@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=SiteCoreDef
+|defName=PreciousLump
+|SiteCoreDef.defName=PreciousLump
+|SiteCoreDef.label=lump of precious resources
+|SiteCoreDef.label.zh-cn=lump of precious resources
+|SiteCoreDef.label.zh-tw=lump of precious resources
+|SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
+|SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/PreciousLump
+|SiteCoreDef.workerClass=SiteCoreWorker_PreciousLump
+}}

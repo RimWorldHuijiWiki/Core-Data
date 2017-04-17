@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=TimeAsPrisoner
+|RecordDef.defName=TimeAsPrisoner
+|RecordDef.label=time as a prisoner
+|RecordDef.label.zh-cn=作为囚犯的时间
+|RecordDef.label.zh-tw=身為俘虜
+|RecordDef.description=Total time spent as a prisoner.
+|RecordDef.description.zh-cn=作为一名囚犯所度过的总时间。
+|RecordDef.description.zh-tw=身為俘虜的時間。
+|RecordDef.type=Time
+|RecordDef.workerClass=RecordWorker_TimeAsPrisoner
+}}

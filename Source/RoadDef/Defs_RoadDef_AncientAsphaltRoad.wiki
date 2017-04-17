@@ -1,0 +1,31 @@
+{{#set:
+|dataType=Def
+|defType=RoadDef
+|defName=AncientAsphaltRoad
+|RoadDef.defName=AncientAsphaltRoad
+|RoadDef.label=ancient asphalt road
+|RoadDef.label.zh-cn=ancient asphalt road
+|RoadDef.label.zh-tw=ancient asphalt road
+|RoadDef.priority=40
+|RoadDef.movementCostMultiplier=0.5
+|RoadDef.tilesPerSegment=100
+|RoadDef.pathingMode=Bulldoze
+|RoadDef.roadGenSteps=Exist
+|RoadDef.roadGenSteps.Count=4
+|RoadDef.roadGenSteps.0=Exist
+|RoadDef.roadGenSteps.0.chancePerPositionCurve=Exist
+|RoadDef.roadGenSteps.0.chancePerPositionCurve.points="(0, 0.8)","(1.4, 0.8)","(2.0, 0)"
+|RoadDef.roadGenSteps.0.place=Gravel
+|RoadDef.roadGenSteps.1=Exist
+|RoadDef.roadGenSteps.1.chancePerPositionCurve=Exist
+|RoadDef.roadGenSteps.1.chancePerPositionCurve.points="(0, 0.8)","(1.4, 0.6)","(1.8, 0)"
+|RoadDef.roadGenSteps.1.place=BrokenAsphalt
+|RoadDef.roadGenSteps.2=Exist
+|RoadDef.roadGenSteps.2.chancePerPositionCurve=Exist
+|RoadDef.roadGenSteps.2.chancePerPositionCurve.points="(0, 0.003)","(1.7, 0.003)","(1.8, 0.5)","(1.9, 0)"
+|RoadDef.roadGenSteps.2.place=AncientConcreteBarrier
+|RoadDef.roadGenSteps.3=Exist
+|RoadDef.roadGenSteps.3.chancePerPositionCurve=Exist
+|RoadDef.roadGenSteps.3.chancePerPositionCurve.points="(0, 0)","(1.7, 0)","(1.8, 0.3)","(1.9, 0)"
+|RoadDef.roadGenSteps.3.place=AncientLamppost
+}}

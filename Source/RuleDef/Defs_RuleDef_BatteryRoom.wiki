@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=RuleDef
+|defName=BatteryRoom
+|RuleDef.defName=BatteryRoom
+|RuleDef.symbol=batteryRoom
+|RuleDef.resolvers=Exist
+|RuleDef.resolvers.Count=1
+|RuleDef.resolvers.0=Exist
+|RuleDef.resolvers.0.Class=SymbolResolver_BatteryRoom
+|RuleDef.resolvers.0.minRectSize=(4, 4)
+}}

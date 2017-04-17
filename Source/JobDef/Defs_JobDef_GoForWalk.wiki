@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=GoForWalk
+|JobDef.defName=GoForWalk
+|JobDef.driverClass=JobDriver_GoForWalk
+|JobDef.reportString=going for a walk.
+|JobDef.reportString.zh-cn=散步。
+|JobDef.reportString.zh-tw=散步。
+|JobDef.joyDuration=8000
+|JobDef.joyGainRate=1
+|JobDef.joyKind=Meditative
+}}

@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=SnakeHead
+|BodyPartDef.defName=SnakeHead
+|BodyPartDef.label=head
+|BodyPartDef.label.zh-cn=头
+|BodyPartDef.label.zh-tw=蛇頭
+|BodyPartDef.tags="HearingSource"
+|BodyPartDef.hitPoints=30
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+}}

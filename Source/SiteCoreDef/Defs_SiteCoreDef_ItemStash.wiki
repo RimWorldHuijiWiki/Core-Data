@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=SiteCoreDef
+|defName=ItemStash
+|SiteCoreDef.defName=ItemStash
+|SiteCoreDef.label=item stash
+|SiteCoreDef.label.zh-cn=item stash
+|SiteCoreDef.label.zh-tw=item stash
+|SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
+|SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/ItemStash
+|SiteCoreDef.workerClass=SiteCoreWorker_ItemStash
+}}

@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=GotSomeLovin
+|ThoughtDef.defName=GotSomeLovin
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=got some lovin’
+|ThoughtDef.stages.0.label.zh-cn=滚床单
+|ThoughtDef.stages.0.label.zh-tw=做愛做的事
+|ThoughtDef.stages.0.description=There's nothing like a tumble between the sheets to lift the mood.
+|ThoughtDef.stages.0.description.zh-cn=再也没有什么比滚床单更开心了，嘿嘿！
+|ThoughtDef.stages.0.description.zh-tw=再也沒有其他事比得上滾床單了，爽！
+|ThoughtDef.stages.0.baseMoodEffect=12
+|ThoughtDef.stages.0.baseOpinionOffset=10
+|ThoughtDef.stackLimit=3
+|ThoughtDef.stackedEffectMultiplier=0.2
+|ThoughtDef.durationDays=1.0
+}}

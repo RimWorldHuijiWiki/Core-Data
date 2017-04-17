@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=SkillDef
+|defName=Animals
+|SkillDef.defName=Animals
+|SkillDef.label=Animals
+|SkillDef.label.zh-cn=驯兽
+|SkillDef.label.zh-tw=動物
+|SkillDef.description=Taming, training, managing, and controlling animals.
+|SkillDef.description.zh-cn=驯服、训练、管理、控制动物。
+|SkillDef.description.zh-tw=馴養、訓練、管理及控制動物。
+|SkillDef.skillLabel=Animals
+|SkillDef.skillLabel.zh-cn=驯兽
+|SkillDef.skillLabel.zh-tw=動物
+|SkillDef.usuallyDefinedInBackstories=false
+}}

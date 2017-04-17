@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=UseTelescope
+|JobDef.defName=UseTelescope
+|JobDef.driverClass=JobDriver_WatchBuilding
+|JobDef.reportString=using telescope.
+|JobDef.reportString.zh-cn=用望远镜。
+|JobDef.reportString.zh-tw=觀星。
+|JobDef.joyDuration=4000
+|JobDef.joyMaxParticipants=1
+|JobDef.joyGainRate=1.2
+|JobDef.joySkill=Intellectual
+|JobDef.joyXpPerTick=0.004
+|JobDef.joyKind=Study
+}}

@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=StatCategoryDef
+|defName=Weapon
+|StatCategoryDef.defName=Weapon
+|StatCategoryDef.label=Weapon
+|StatCategoryDef.label.zh-cn=武器
+|StatCategoryDef.label.zh-tw=武器
+|StatCategoryDef.displayOrder=40
+}}

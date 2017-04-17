@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=EffecterDef
+|defName=ArmorDeflect
+|EffecterDef.defName=ArmorDeflect
+|EffecterDef.children=Exist
+|EffecterDef.children.Count=1
+|EffecterDef.children.0=Exist
+|EffecterDef.children.0.subEffecterClass=SubEffecter_SprayerTriggered
+|EffecterDef.children.0.chancePerTick=0.2
+|EffecterDef.children.0.positionLerpFactor=0.6
+|EffecterDef.children.0.moteDef=Mote_SparkFlash
+|EffecterDef.children.0.scale=Exist
+|EffecterDef.children.0.scale.min=2.5
+|EffecterDef.children.0.scale.max=4.5
+}}

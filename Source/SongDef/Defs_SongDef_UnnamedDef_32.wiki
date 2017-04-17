@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=SongDef
+|defName=UnnamedDef
+|SongDef.clipPath=Songs/Relax/Seasons_Turn
+|SongDef.volume=1.00
+}}

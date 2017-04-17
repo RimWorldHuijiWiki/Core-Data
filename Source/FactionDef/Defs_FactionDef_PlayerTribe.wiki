@@ -1,0 +1,28 @@
+{{#set:
+|dataType=Def
+|defType=FactionDef
+|defName=PlayerTribe
+|FactionDef.defName=PlayerTribe
+|FactionDef.label=New Tribe
+|FactionDef.label.zh-cn=新部落
+|FactionDef.label.zh-tw=部落
+|FactionDef.description=Your own tribe.
+|FactionDef.description.zh-cn=这是你自己的部落。
+|FactionDef.description.zh-tw=屬於你的部落。
+|FactionDef.isPlayer=true
+|FactionDef.baseNameMaker=NamerFactionBasePlayerTribe
+|FactionDef.basicMemberKind=Tribesperson
+|FactionDef.startingResearchTags="TribalStart"
+|FactionDef.pawnsPlural=tribespeople
+|FactionDef.pawnsPlural.zh-cn=部众
+|FactionDef.pawnsPlural.zh-tw=部落民
+|FactionDef.pawnNameMaker=NamerPersonTribal
+|FactionDef.techLevel=Neolithic
+|FactionDef.backstoryCategory=Tribal
+|FactionDef.hairTags="Tribal"
+|FactionDef.apparelStuffFilter=Exist
+|FactionDef.apparelStuffFilter.thingDefs="Cloth"
+|FactionDef.homeIconPath=World/WorldObjects/TribalFactionBase
+|FactionDef.expandingIconTexture=World/WorldObjects/Expanding/Village
+|FactionDef.colorSpectrum="(0, 0.737, 0.847)"
+}}

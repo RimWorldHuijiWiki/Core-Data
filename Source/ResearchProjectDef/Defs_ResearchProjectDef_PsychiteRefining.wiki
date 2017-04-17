@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=PsychiteRefining
+|ResearchProjectDef.defName=PsychiteRefining
+|ResearchProjectDef.label=psychite refining
+|ResearchProjectDef.label.zh-cn=精神药物提炼
+|ResearchProjectDef.label.zh-tw=提煉
+|ResearchProjectDef.description=Learn to refine psychoid leaves into flake and yayo, different forms of the euphoric drug psychite.
+|ResearchProjectDef.description.zh-cn=允许殖民者对精神叶进行精炼，制作薄片和呀呦粉。
+|ResearchProjectDef.description.zh-tw=研究從迷幻草中提煉成分的技術，用來製成薄片及Y他命，兩種不同的精神藥物。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=400
+|ResearchProjectDef.prerequisites="DrugProduction"
+|ResearchProjectDef.researchViewX=2
+|ResearchProjectDef.researchViewY=0.5
+}}

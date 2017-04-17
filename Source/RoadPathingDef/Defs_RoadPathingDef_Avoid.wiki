@@ -1,0 +1,6 @@
+{{#set:
+|dataType=Def
+|defType=RoadPathingDef
+|defName=Avoid
+|RoadPathingDef.defName=Avoid
+}}

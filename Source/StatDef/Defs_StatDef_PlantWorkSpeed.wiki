@@ -1,0 +1,32 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=PlantWorkSpeed
+|StatDef.defName=PlantWorkSpeed
+|StatDef.label=plant work speed
+|StatDef.label.zh-cn=种植速度
+|StatDef.label.zh-tw=種植速度
+|StatDef.description=Speed at which this person sows and harvests plants.
+|StatDef.description.zh-cn=此人在种植与收获植物时的速度。
+|StatDef.description.zh-tw=這名角色進行種植工作時的效率加成。
+|StatDef.category=PawnWork
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1
+|StatDef.statFactors="WorkSpeedGlobal"
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
+|StatDef.skillNeedFactors.0.skill=Growing
+|StatDef.skillNeedFactors.0.baseFactor=0.20
+|StatDef.skillNeedFactors.0.bonusFactor=0.12
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Manipulation
+|StatDef.capacityFactors.0.weight=1
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Sight
+|StatDef.capacityFactors.1.weight=0.5
+|StatDef.capacityFactors.1.max=1
+}}

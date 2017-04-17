@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=LifeStageDef
+|defName=MechanoidFullyFormed
+|LifeStageDef.defName=MechanoidFullyFormed
+|LifeStageDef.label=fully-formed
+|LifeStageDef.label.zh-cn=完全体
+|LifeStageDef.label.zh-tw=完全體
+|LifeStageDef.visible=false
+}}

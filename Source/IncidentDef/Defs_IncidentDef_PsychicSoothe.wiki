@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=PsychicSoothe
+|IncidentDef.defName=PsychicSoothe
+|IncidentDef.label=psychic soothe
+|IncidentDef.label.zh-cn=心灵抚慰波
+|IncidentDef.label.zh-tw=撫慰電波
+|IncidentDef.workerClass=IncidentWorker_PsychicSoothe
+|IncidentDef.targetType=BaseMap
+|IncidentDef.baseChance=1.0
+|IncidentDef.minRefireDays=15
+|IncidentDef.durationDays=Exist
+|IncidentDef.durationDays.min=0.75
+|IncidentDef.durationDays.max=1.75
+}}

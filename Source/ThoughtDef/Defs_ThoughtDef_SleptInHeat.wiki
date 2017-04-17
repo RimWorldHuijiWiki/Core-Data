@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=SleptInHeat
+|ThoughtDef.defName=SleptInHeat
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=slept in the heat
+|ThoughtDef.stages.0.label.zh-cn=在炎热中睡觉
+|ThoughtDef.stages.0.label.zh-tw=睡在炎熱的地方
+|ThoughtDef.stages.0.description=I had to sleep in unbearable heat. Can't we have air conditioning?
+|ThoughtDef.stages.0.description.zh-cn=我睡觉的时候太热了，我们的空调哪去了？
+|ThoughtDef.stages.0.description.zh-tw=我别無選擇只能睡在炎熱的地方，就不能裝台冷氣嗎？
+|ThoughtDef.stages.0.baseMoodEffect=-4
+|ThoughtDef.stackLimit=1
+|ThoughtDef.durationDays=1
+}}

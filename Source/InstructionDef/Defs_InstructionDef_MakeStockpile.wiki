@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=MakeStockpile
+|InstructionDef.defName=MakeStockpile
+|InstructionDef.instructionClass=Instruction_PlaceStockpile
+|InstructionDef.text=Great!<br/><br/>Now, make a stockpile so your colonists know where to keep items.<br/><br/>1. Click ARCHITECT tab in the bottom left.<br/>2. Click the ZONE/AREA category.<br/>3. Select the CREATE STOCKPILE tool.<br/>4. Click and drag out a square as indicated on the map.
+|InstructionDef.text.zh-cn=不错！<br/><br/>现在让我们来规划一片「储存区」来存放物资吧。<br/><br/>你可以在「建筑规划」的面板中找到「区域」——「储存区」来设置。
+|InstructionDef.text.zh-tw=做得好！<br/><br/>現在，劃設一個儲存區讓居民知道東西該存放在哪裡。<br/><br/>1. 點擊左下角的「建設」開啟建設選單。<br/>2. 點選「區域」項目。<br/>3選擇「劃設儲存區」工具。<br/>4按壓滑鼠左鍵並拖曳，依據指示劃設儲存區。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-TimeControls
+|InstructionDef.eventTagsEnd="Designate-ZoneAddStockpile_Resources"
+|InstructionDef.actionTagsAllowed="MainTab-Architect-Open","SelectDesignator-ZoneAddStockpile_Resources","Designate-ZoneAddStockpile_Resources"
+|InstructionDef.rejectInputMessage=Please make a stockpile on the indicated area.
+|InstructionDef.rejectInputMessage.zh-cn=请在标注的地方建立储存区
+|InstructionDef.rejectInputMessage.zh-tw=請將儲存區劃設在提示區域內。
+|InstructionDef.highlightTags="MainTab-Architect-Closed","DesignationCategoryButton-Zone-Closed","Designator-ZoneAddStockpile_Resources"
+|InstructionDef.onMapInstruction=Place stockpile here<br/>(drag corner-to-corner)
+|InstructionDef.onMapInstruction.zh-cn=请在这里设立<br/>（拉伸对角来选择区域）
+|InstructionDef.onMapInstruction.zh-tw=在此劃設儲存區。<br/>(由一角拖曳至對角)
+}}

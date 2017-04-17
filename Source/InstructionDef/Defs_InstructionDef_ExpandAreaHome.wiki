@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=ExpandAreaHome
+|InstructionDef.defName=ExpandAreaHome
+|InstructionDef.instructionClass=Instruction_ExpandAreaHome
+|InstructionDef.text=Next, you'll learn to expand the HOME AREA.<br/><br/>Colonists will clean floors and extinguish fires in the home area only, and ignore fires or filth outside of it.<br/><br/>The home area is added automatically when you build things - but you can also expand it manually.<br/><br/>Select the EXPAND HOME AREA tool and drag out a new area on the map.
+|InstructionDef.text.zh-cn=下一步，你需要学会如何扩大「居住区」。<br/><br/>居住区是你的殖民者会打扫以及灭火的区域。<br/><br/>在「建筑规划」菜单下的「区域」选项里可以设立居住区。
+|InstructionDef.text.zh-tw=接下來，你將學到如何擴張生活區。<br/><br/>居民只會打掃生活區內的垃圾、撲滅生活區內的火，並無視生活區外的髒污與火災。<br/><br/>生活區會自動劃設在新的建築或設施周邊，但你也可以手動劃設。<br/><br/>使用「劃設生活區」工具在地圖上劃設新的生活區。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-SelectResearchProject
+|InstructionDef.actionTagsAllowed="MainTab-Architect-Open","MainTab-Work-Open","SelectDesignator-AreaHomeExpand","Designate-AreaHomeExpand"
+|InstructionDef.rejectInputMessage=Please expand the home area a bit, just for practice.
+|InstructionDef.rejectInputMessage.zh-cn=请稍微扩大一下居住区域
+|InstructionDef.rejectInputMessage.zh-tw=請劃設一小塊的生活區，僅做為練習目的。
+|InstructionDef.highlightTags="MainTab-Architect-Closed","DesignationCategoryButton-Zone-Closed","Designator-AreaHomeExpand"
+|InstructionDef.targetCount=30
+}}

@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=MentalStateDef
+|defName=WanderSad
+|MentalStateDef.defName=WanderSad
+|MentalStateDef.label=sad wandering
+|MentalStateDef.label.zh-cn=悲伤徘徊
+|MentalStateDef.label.zh-tw=悲傷
+|MentalStateDef.stateClass=MentalState_WanderSad
+|MentalStateDef.category=Sad
+|MentalStateDef.unspawnedCanDo=true
+|MentalStateDef.colonistsOnly=true
+|MentalStateDef.blockNormalThoughts=true
+|MentalStateDef.allowBeatfire=true
+|MentalStateDef.recoveryMtbDays=0.3
+|MentalStateDef.minTicksBeforeRecovery=30000
+|MentalStateDef.maxTicksBeforeRecovery=60000
+|MentalStateDef.recoverFromSleep=true
+|MentalStateDef.recoverFromDowned=true
+|MentalStateDef.moodRecoveryThought=Catharsis
+|MentalStateDef.beginLetter={0} is wandering around in sadness.
+|MentalStateDef.beginLetter.zh-cn={0}已经失控，悲伤着四处徘徊。
+|MentalStateDef.beginLetter.zh-tw={0}陷入悲傷之中。
+|MentalStateDef.beginLetterLabel=sad wander
+|MentalStateDef.beginLetterLabel.zh-cn=悲伤徘徊
+|MentalStateDef.beginLetterLabel.zh-tw=悲傷
+|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.nameColor=(0.65, 0.9, 0.93)
+|MentalStateDef.recoveryMessage={0} is no longer wandering in sadness.
+|MentalStateDef.recoveryMessage.zh-cn={0}不再悲伤徘徊。
+|MentalStateDef.recoveryMessage.zh-tw={0}從悲傷中重新振作了。
+|MentalStateDef.baseInspectLine=Mental state: Sad wandering
+|MentalStateDef.baseInspectLine.zh-cn=失控：悲伤徘徊
+|MentalStateDef.baseInspectLine.zh-tw=心理狀態：悲傷
+}}

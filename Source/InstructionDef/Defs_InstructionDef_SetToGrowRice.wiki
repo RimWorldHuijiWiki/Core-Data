@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=SetToGrowRice
+|InstructionDef.defName=SetToGrowRice
+|InstructionDef.instructionClass=Instruction_SetGrowingZonePlant
+|InstructionDef.text=You can decide what plant your colonists should sow in a growing zone.<br/><br/>1. Right-click to exit architect mode.<br/>2. Click your growing zone to select it.<br/>3. Click the "Select plant" command at the bottom and change it to Rice.
+|InstructionDef.text.zh-cn=你能决定在地里种什么。<br/><br/>1. 右键退出规划模式<br/>2. 左键选中种植区<br/>3. 在下方的菜单里选择种下「水稻」
+|InstructionDef.text.zh-tw=你可以決定種植區該種何種作物。<br/><br/>1. 點一下右鍵退出建築清單。<br/>2. 點一下以選取你的種植區。<br/>3. 點擊位於底部的「選擇作物」將作物調整為稻米。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-MakeGrowingZone
+|InstructionDef.eventTagsEnd="GrowingZoneSetPlant-PlantRice"
+|InstructionDef.actionTagsAllowed="GrowingZoneSetPlant","GrowingZoneSetPlant-PlantRice"
+|InstructionDef.rejectInputMessage=Please set your growing zone to grow rice.
+|InstructionDef.rejectInputMessage.zh-cn=请在种植区内选择「水稻」
+|InstructionDef.rejectInputMessage.zh-tw=請將種植區作物更改為稻米。
+|InstructionDef.highlightTags="GrowingZoneSetPlant"
+|InstructionDef.onMapInstruction=Set this growing zone to grow rice
+|InstructionDef.onMapInstruction.zh-cn=设置种植水稻
+|InstructionDef.onMapInstruction.zh-tw=選擇這個種植區來更換作物
+}}

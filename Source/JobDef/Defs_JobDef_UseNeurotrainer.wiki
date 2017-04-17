@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=UseNeurotrainer
+|JobDef.defName=UseNeurotrainer
+|JobDef.driverClass=JobDriver_UseItem
+|JobDef.reportString=using neurotrainer.
+|JobDef.reportString.zh-cn=使用神经训练器。
+|JobDef.reportString.zh-tw=使用神經技能訓練機。
+}}

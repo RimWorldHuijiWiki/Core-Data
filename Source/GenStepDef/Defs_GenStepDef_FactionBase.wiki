@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=FactionBase
+|GenStepDef.defName=FactionBase
+|GenStepDef.linkWithMapGenerator=FactionBase
+|GenStepDef.order=400
+|GenStepDef.genStep=Exist
+|GenStepDef.genStep.Class=GenStep_FactionBase
+|GenStepDef.genStep.count=1
+|GenStepDef.genStep.nearMapCenter=true
+}}

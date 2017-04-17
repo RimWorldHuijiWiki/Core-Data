@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=MapCondition_Planetkiller
+|ScenPartDef.defName=MapCondition_Planetkiller
+|ScenPartDef.label=planetkiller weapon incoming
+|ScenPartDef.label.zh-cn=行星毁灭
+|ScenPartDef.label.zh-tw=行星殺手
+|ScenPartDef.category=MapCondition
+|ScenPartDef.scenPartClass=ScenPart_MapCondition
+|ScenPartDef.summaryPriority=400
+|ScenPartDef.selectionWeight=0.8
+|ScenPartDef.maxUses=1
+|ScenPartDef.mapCondition=Planetkiller
+|ScenPartDef.durationRandomRange=Exist
+|ScenPartDef.durationRandomRange.min=90
+|ScenPartDef.durationRandomRange.max=500
+}}

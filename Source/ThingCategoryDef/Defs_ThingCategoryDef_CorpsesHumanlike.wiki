@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=CorpsesHumanlike
+|ThingCategoryDef.defName=CorpsesHumanlike
+|ThingCategoryDef.label=humanlike corpses
+|ThingCategoryDef.label.zh-cn=人类尸体
+|ThingCategoryDef.label.zh-tw=人類屍體
+|ThingCategoryDef.parent=Corpses
+}}

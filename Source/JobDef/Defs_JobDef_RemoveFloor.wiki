@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=RemoveFloor
+|JobDef.defName=RemoveFloor
+|JobDef.driverClass=JobDriver_RemoveFloor
+|JobDef.reportString=removing floor.
+|JobDef.reportString.zh-cn=正在拆除地板。
+|JobDef.reportString.zh-tw=拆除地板。
+}}

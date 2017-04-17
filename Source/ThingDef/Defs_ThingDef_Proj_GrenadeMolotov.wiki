@@ -1,0 +1,26 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Proj_GrenadeMolotov
+|ThingDef.defName=Proj_GrenadeMolotov
+|ThingDef.label=molotov cocktail
+|ThingDef.label.zh-cn=莫洛托夫燃烧瓶
+|ThingDef.label.zh-tw=莫洛托夫燃燒彈
+|ThingDef.altitudeLayer=Projectile
+|ThingDef.thingClass=Projectile_Explosive
+|ThingDef.category=Projectile
+|ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=False
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Projectile/Molotov
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.shaderType=Transparent
+|ThingDef.neverMultiSelect=True
+|ThingDef.projectile=Exist
+|ThingDef.projectile.speed=12
+|ThingDef.projectile.flyOverhead=false
+|ThingDef.projectile.damageDef=Flame
+|ThingDef.projectile.damageAmountBase=10
+|ThingDef.projectile.explosionRadius=1.1
+|ThingDef.projectile.preExplosionSpawnThingDef=FilthFuel
+}}

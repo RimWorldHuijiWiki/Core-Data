@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=TubeTelevision
+|ResearchProjectDef.defName=TubeTelevision
+|ResearchProjectDef.label=tube television
+|ResearchProjectDef.label.zh-cn=显像管电视
+|ResearchProjectDef.label.zh-tw=顯像管電視
+|ResearchProjectDef.description=Allows the production of tube televisions.
+|ResearchProjectDef.description.zh-cn=解锁建造显像管电视。
+|ResearchProjectDef.description.zh-tw=解鎖建造顯像管電視。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=800
+|ResearchProjectDef.prerequisites="MicroelectronicsBasics"
+|ResearchProjectDef.researchViewX=7
+|ResearchProjectDef.researchViewY=5
+}}

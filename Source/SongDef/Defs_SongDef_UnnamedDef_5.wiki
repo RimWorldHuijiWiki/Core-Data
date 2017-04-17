@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=SongDef
+|defName=UnnamedDef
+|SongDef.clipPath=Songs/Relax/A_New_Day
+|SongDef.volume=0.7
+|SongDef.allowedTimeOfDay=Day
+}}

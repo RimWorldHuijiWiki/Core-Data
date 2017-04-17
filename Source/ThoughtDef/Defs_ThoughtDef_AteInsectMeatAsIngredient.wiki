@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=AteInsectMeatAsIngredient
+|ThoughtDef.defName=AteInsectMeatAsIngredient
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=ate cooked insect meat
+|ThoughtDef.stages.0.label.zh-cn=吃了烹饪过的虫肉
+|ThoughtDef.stages.0.label.zh-tw=吃了烹調過的蟲肉
+|ThoughtDef.stages.0.description=I ate a meal cooked from gray, slimy insect meat. The seasoning partly covered the taste, but there were glands and fluid pockets in there that I can't identify.
+|ThoughtDef.stages.0.description.zh-cn=我吃了一顿由那种灰灰的发粘的虫子肉做成的饭，尽管调料掩盖了部分味道，但是我还是吃到了很多诡异的囊泡。
+|ThoughtDef.stages.0.description.zh-tw=我吃了蟲肉作成的料理，雖然調味醬汁已經蓋過了部分味道，但因為和一堆昆蟲分泌物混在一起，我也分不太出來。
+|ThoughtDef.stages.0.baseMoodEffect=-3
+|ThoughtDef.stackLimit=3
+|ThoughtDef.durationDays=0.5
+|ThoughtDef.icon=Things/Mote/ThoughtSymbol/Food
+|ThoughtDef.showBubble=true
+}}

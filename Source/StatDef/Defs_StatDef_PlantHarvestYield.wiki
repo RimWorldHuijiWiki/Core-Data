@@ -1,0 +1,30 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=PlantHarvestYield
+|StatDef.defName=PlantHarvestYield
+|StatDef.label=plant harvest yield
+|StatDef.label.zh-cn=植物收获产出
+|StatDef.label.zh-tw=plant harvest yield
+|StatDef.description=The yield someone gets when harvesting plants. Low yields give a chance that this person will accidentally destroy the harvest.
+|StatDef.description.zh-cn=收获植物时获取的产出。低产出会导致此人有一定几率意外地毁坏收获物。
+|StatDef.description.zh-tw=The yield someone gets when harvesting plants. Low yields give a chance that this person will accidentally destroy the harvest.
+|StatDef.category=PawnWork
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
+|StatDef.skillNeedFactors.0.skill=Growing
+|StatDef.skillNeedFactors.0.factorsPerLevel="0.50","0.60","0.70","0.75","0.80","0.85","0.875","0.90","0.925","0.95","0.96","0.97","0.98","0.99","0.99","0.99","1","1","1","1","1"
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Manipulation
+|StatDef.capacityFactors.0.weight=0.7
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Sight
+|StatDef.capacityFactors.1.weight=0.1
+|StatDef.capacityFactors.1.max=1
+}}

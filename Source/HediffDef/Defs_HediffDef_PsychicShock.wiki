@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=PsychicShock
+|HediffDef.defName=PsychicShock
+|HediffDef.label=psychic shock
+|HediffDef.label.zh-cn=心灵冲击
+|HediffDef.label.zh-tw=心理衝擊
+|HediffDef.hediffClass=HediffWithComps
+|HediffDef.comps=Exist
+|HediffDef.comps.Count=1
+|HediffDef.comps.0=Exist
+|HediffDef.comps.0.Class=HediffCompProperties_Disappears
+|HediffDef.comps.0.disappearsAfterTicks=Exist
+|HediffDef.comps.0.disappearsAfterTicks.min=7500
+|HediffDef.comps.0.disappearsAfterTicks.max=7500
+|HediffDef.initialSeverity=0.001
+|HediffDef.stages=Exist
+|HediffDef.stages.Count=1
+|HediffDef.stages.0=Exist
+|HediffDef.stages.0.capMods=Exist
+|HediffDef.stages.0.capMods.Count=1
+|HediffDef.stages.0.capMods.0=Exist
+|HediffDef.stages.0.capMods.0.capacity=Consciousness
+|HediffDef.stages.0.capMods.0.setMax=0.1
+|HediffDef.defaultLabelColor=(0.8, 0.8, 0.35)
+}}

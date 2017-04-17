@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=CrashedTogether
+|ThoughtDef.defName=CrashedTogether
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=crashed together
+|ThoughtDef.stages.0.label.zh-cn=一起迫降
+|ThoughtDef.stages.0.label.zh-tw=墜入愛河
+|ThoughtDef.stages.0.baseOpinionOffset=25
+|ThoughtDef.stackLimit=20
+|ThoughtDef.durationDays=10.0
+|ThoughtDef.stackLimitPerPawn=1
+}}

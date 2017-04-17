@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=PawnsDownedAnimals
+|RecordDef.defName=PawnsDownedAnimals
+|RecordDef.label=enemies downed (animals)
+|RecordDef.label.zh-cn=击倒（动物）
+|RecordDef.label.zh-tw=擊倒數(動物)
+|RecordDef.description=The number of animals downed.
+|RecordDef.description.zh-cn=我所击倒的动物数量。
+|RecordDef.description.zh-tw=我擊倒的動物數量。
+|RecordDef.type=Int
+}}

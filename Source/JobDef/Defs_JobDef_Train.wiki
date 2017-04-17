@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Train
+|JobDef.defName=Train
+|JobDef.driverClass=JobDriver_Train
+|JobDef.reportString=training TargetA.
+|JobDef.reportString.zh-cn=正在训练TargetA。
+|JobDef.reportString.zh-tw=訓練TargetA。
+|JobDef.casualInterruptible=false
+}}

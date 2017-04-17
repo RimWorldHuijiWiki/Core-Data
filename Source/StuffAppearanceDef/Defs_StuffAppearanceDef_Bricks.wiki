@@ -1,0 +1,6 @@
+{{#set:
+|dataType=Def
+|defType=StuffAppearanceDef
+|defName=Bricks
+|StuffAppearanceDef.defName=Bricks
+}}

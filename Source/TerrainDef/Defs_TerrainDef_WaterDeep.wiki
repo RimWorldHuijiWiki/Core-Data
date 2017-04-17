@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=WaterDeep
+|TerrainDef.defName=WaterDeep
+|TerrainDef.label=deep water
+|TerrainDef.label.zh-cn=深水
+|TerrainDef.label.zh-tw=深水
+|TerrainDef.passability=Impassable
+|TerrainDef.pathCost=300
+|TerrainDef.fertility=0
+|TerrainDef.texturePath=Terrain/Surfaces/WaterDeep
+|TerrainDef.edgeType=FadeRough
+|TerrainDef.renderPrecedence=395
+|TerrainDef.avoidWander=true
+|TerrainDef.changeable=false
+|TerrainDef.holdSnow=false
+|TerrainDef.acceptFilth=false
+}}

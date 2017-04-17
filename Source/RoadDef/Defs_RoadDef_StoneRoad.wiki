@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=RoadDef
+|defName=StoneRoad
+|RoadDef.defName=StoneRoad
+|RoadDef.label=stone road
+|RoadDef.label.zh-cn=stone road
+|RoadDef.label.zh-tw=stone road
+|RoadDef.priority=30
+|RoadDef.movementCostMultiplier=0.5
+|RoadDef.tilesPerSegment=25
+|RoadDef.pathingMode=Avoid
+|RoadDef.roadGenSteps=Exist
+|RoadDef.roadGenSteps.Count=1
+|RoadDef.roadGenSteps.0=Exist
+|RoadDef.roadGenSteps.0.chancePerPositionCurve=Exist
+|RoadDef.roadGenSteps.0.chancePerPositionCurve.points="(0, 1.0)","(0.8, 1.0)","(1.0, 0)"
+|RoadDef.roadGenSteps.0.place=TileSandstone
+}}

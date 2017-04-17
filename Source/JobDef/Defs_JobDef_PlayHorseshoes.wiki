@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=PlayHorseshoes
+|JobDef.defName=PlayHorseshoes
+|JobDef.driverClass=JobDriver_PlayHorseshoes
+|JobDef.reportString=playing horseshoes.
+|JobDef.reportString.zh-cn=玩马蹄钉。
+|JobDef.reportString.zh-tw=擲馬蹄鐵。
+|JobDef.joyDuration=4000
+|JobDef.joyMaxParticipants=3
+|JobDef.joyGainRate=1
+|JobDef.joySkill=Shooting
+|JobDef.joyXpPerTick=0.003
+|JobDef.joyKind=GamingDexterity
+}}

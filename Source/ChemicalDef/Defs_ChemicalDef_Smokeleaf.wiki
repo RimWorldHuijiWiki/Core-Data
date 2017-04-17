@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=ChemicalDef
+|defName=Smokeleaf
+|ChemicalDef.defName=Smokeleaf
+|ChemicalDef.label=Smokeleaf
+|ChemicalDef.label.zh-cn=大麻
+|ChemicalDef.label.zh-tw=Smokeleaf
+|ChemicalDef.addictionHediff=SmokeleafAddiction
+|ChemicalDef.toleranceHediff=SmokeleafTolerance
+|ChemicalDef.onGeneratedAddictedToleranceChance=0.8
+}}

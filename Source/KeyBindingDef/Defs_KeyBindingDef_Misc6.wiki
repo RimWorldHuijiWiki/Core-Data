@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=Misc6
+|KeyBindingDef.defName=Misc6
+|KeyBindingDef.label=Misc 6
+|KeyBindingDef.label.zh-cn=其它 6
+|KeyBindingDef.label.zh-tw=其它 6
+|KeyBindingDef.category=SelectionMisc
+|KeyBindingDef.defaultKeyCodeA=U
+}}

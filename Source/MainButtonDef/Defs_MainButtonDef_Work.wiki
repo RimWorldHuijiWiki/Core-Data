@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=MainButtonDef
+|defName=Work
+|MainButtonDef.defName=Work
+|MainButtonDef.label=work
+|MainButtonDef.label.zh-cn=工作
+|MainButtonDef.label.zh-tw=work
+|MainButtonDef.description=Choose which colonist does what kinds of work, and in what priority order.
+|MainButtonDef.description.zh-cn=指定殖民者进行何种工作，以及各种工作的优先顺序。
+|MainButtonDef.description.zh-tw=Choose which colonist does what kinds of work, and in what priority order.
+|MainButtonDef.tabWindowClass=MainTabWindow_Work
+|MainButtonDef.order=10
+|MainButtonDef.defaultHotKey=F1
+}}

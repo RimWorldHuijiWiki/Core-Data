@@ -1,0 +1,23 @@
+{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=BrokenAsphalt
+|TerrainDef.defName=BrokenAsphalt
+|TerrainDef.label=broken asphalt
+|TerrainDef.label.zh-cn=broken asphalt
+|TerrainDef.label.zh-tw=broken asphalt
+|TerrainDef.statBases="Beauty","-1";"Cleanliness","-1";"WorkToBuild","135"
+|TerrainDef.pathCost=0
+|TerrainDef.fertility=0.0
+|TerrainDef.terrainAffordanceNeeded=Light
+|TerrainDef.constructEffect=ConstructDirt
+|TerrainDef.designationCategory=Floors
+|TerrainDef.texturePath=Terrain/Surfaces/BrokenAsphalt
+|TerrainDef.edgeType=FadeRough
+|TerrainDef.renderPrecedence=370
+|TerrainDef.affordances="Light","Heavy","SmoothHard","Light","Heavy"
+|TerrainDef.layerable=true
+|TerrainDef.scatterType=Rocky
+|TerrainDef.terrainFilthDef=FilthDirt
+|TerrainDef.acceptTerrainSourceFilth=True
+}}

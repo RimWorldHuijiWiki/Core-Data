@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=Pyromaniac
+|TraitDef.defName=Pyromaniac
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=pyromaniac
+|TraitDef.degreeDatas.0.label.zh-cn=纵火狂
+|TraitDef.degreeDatas.0.label.zh-tw=縱火狂
+|TraitDef.degreeDatas.0.description=NAME loves fire. HECAP will occasionaly start fires and will never extinguish them.
+|TraitDef.degreeDatas.0.description.zh-cn=NAME迷恋火焰。HECAP偶尔会放火且从不扑灭火焰。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME喜愛火焰，HECAP偶爾以縱火為樂，而且從沒有滅火的打算。
+|TraitDef.degreeDatas.0.randomMentalState=FireStartingSpree
+|TraitDef.degreeDatas.0.randomMentalStateMtbDaysMoodCurve=Exist
+|TraitDef.degreeDatas.0.randomMentalStateMtbDaysMoodCurve.points="(0, 15)","(50, 50)","(100, 100)"
+|TraitDef.degreeDatas.0.allowedMentalBreaks="FireStartingSpree"
+|TraitDef.disabledWorkTags=Firefighting
+|TraitDef.commonality=0.3
+}}

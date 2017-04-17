@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=ScatterableDef
+|defName=DirtSmearB
+|ScatterableDef.defName=DirtSmearB
+|ScatterableDef.texturePath=Terrain/Scatter/DirtSmearB
+|ScatterableDef.minSize=1.5
+|ScatterableDef.maxSize=7.0
+|ScatterableDef.selectionWeight=40
+|ScatterableDef.scatterType=SoftDry
+}}

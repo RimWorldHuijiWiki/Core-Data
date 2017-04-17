@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=ViewArt
+|JobDef.defName=ViewArt
+|JobDef.driverClass=JobDriver_ViewArt
+|JobDef.reportString=viewing art.
+|JobDef.reportString.zh-cn=观赏艺术。
+|JobDef.reportString.zh-tw=鑑賞藝術。
+|JobDef.joyDuration=4000
+|JobDef.joyGainRate=1
+|JobDef.joyKind=Meditative
+}}

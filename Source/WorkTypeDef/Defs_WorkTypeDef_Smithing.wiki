@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=WorkTypeDef
+|defName=Smithing
+|WorkTypeDef.defName=Smithing
+|WorkTypeDef.label=Smith
+|WorkTypeDef.label.zh-cn=锻造
+|WorkTypeDef.label.zh-tw=Smith
+|WorkTypeDef.description=Create weapons and tools from raw materials, either as a blacksmith or by machining.
+|WorkTypeDef.description.zh-cn=铁匠负责将原材料锻造成武器和工具。
+|WorkTypeDef.description.zh-tw=鍛造師會將原料打造成武器或工具。
+|WorkTypeDef.workTags="Crafting","ManualSkilled"
+|WorkTypeDef.labelShort=Smith
+|WorkTypeDef.labelShort.zh-cn=锻造
+|WorkTypeDef.labelShort.zh-tw=鍛造師
+|WorkTypeDef.pawnLabel=Smith
+|WorkTypeDef.pawnLabel.zh-cn=铁匠
+|WorkTypeDef.pawnLabel.zh-tw=鍛造師
+|WorkTypeDef.gerundLabel=Smithing
+|WorkTypeDef.gerundLabel.zh-cn=锻造
+|WorkTypeDef.gerundLabel.zh-tw=鍛造師
+|WorkTypeDef.verb=Smith at
+|WorkTypeDef.verb.zh-cn=锻造
+|WorkTypeDef.verb.zh-tw=鍛造於
+|WorkTypeDef.naturalPriority=470
+|WorkTypeDef.relevantSkills="Crafting"
+}}

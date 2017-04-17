@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RightEye
+|BodyPartDef.defName=RightEye
+|BodyPartDef.label=right eye
+|BodyPartDef.label.zh-cn=右眼
+|BodyPartDef.label.zh-tw=右眼
+|BodyPartDef.tags="SightSource"
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=1
+|BodyPartDef.skinCovered=false
+|BodyPartDef.useDestroyedOutLabel=true
+|BodyPartDef.beautyRelated=true
+|BodyPartDef.hitChanceFactors="Blunt","0"
+}}

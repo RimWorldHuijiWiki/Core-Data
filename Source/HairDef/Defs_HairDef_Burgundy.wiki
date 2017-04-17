@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=Burgundy
+|HairDef.defName=Burgundy
+|HairDef.label=burgundy
+|HairDef.label.zh-cn=勃艮地
+|HairDef.label.zh-tw=酒紅色
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Burgundy
+|HairDef.hairGender=Male
+|HairDef.hairTags="Urban"
+}}

@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=PawnGroupKindDef
+|defName=Trader
+|PawnGroupKindDef.defName=Trader
+|PawnGroupKindDef.workerClass=PawnGroupKindWorker_Trader
+}}

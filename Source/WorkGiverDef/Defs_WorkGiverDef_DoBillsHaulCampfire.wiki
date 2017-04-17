@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoBillsHaulCampfire
+|WorkGiverDef.defName=DoBillsHaulCampfire
+|WorkGiverDef.label=do bills at campfire
+|WorkGiverDef.label.zh-cn=在篝火旁工作
+|WorkGiverDef.label.zh-tw=在篝火焚毀物品
+|WorkGiverDef.giverClass=WorkGiver_DoBill
+|WorkGiverDef.workType=Hauling
+|WorkGiverDef.priorityInType=30
+|WorkGiverDef.verb=work at
+|WorkGiverDef.verb.zh-cn=正在工作
+|WorkGiverDef.verb.zh-tw=焚毀
+|WorkGiverDef.gerund=working at
+|WorkGiverDef.gerund.zh-cn=正在进行
+|WorkGiverDef.gerund.zh-tw=焚毀於
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.fixedBillGiverDefs="Campfire"
+}}

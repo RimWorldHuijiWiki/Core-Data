@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=Greedy
+|TraitDef.defName=Greedy
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=greedy
+|TraitDef.degreeDatas.0.label.zh-cn=贪心
+|TraitDef.degreeDatas.0.label.zh-tw=貪心
+|TraitDef.degreeDatas.0.description=NAME needs a really impressive bedroom. HECAP gets a mood loss if HE doesn't get what HE wants.
+|TraitDef.degreeDatas.0.description.zh-cn=NAME需要一间令人印象深刻的卧室，如果不能满足就会不开心。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME必須擁有一間高檔的房間。如果得不到HE想要的會讓HE感到不悅。
+|TraitDef.conflictingTraits="Ascetic"
+|TraitDef.commonality=0.2
+}}

@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=LeftFoot
+|BodyPartDef.defName=LeftFoot
+|BodyPartDef.label=left foot
+|BodyPartDef.label.zh-cn=左足
+|BodyPartDef.label.zh-tw=左腳
+|BodyPartDef.tags="MovingLimbSegment"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=0.5
+}}

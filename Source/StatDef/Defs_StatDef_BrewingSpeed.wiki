@@ -1,0 +1,32 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=BrewingSpeed
+|StatDef.defName=BrewingSpeed
+|StatDef.label=brewing speed
+|StatDef.label.zh-cn=酿酒速度
+|StatDef.label.zh-tw=釀造速度
+|StatDef.description=Speed at which this person brews beer.
+|StatDef.description.zh-cn=此人在酿造啤酒时的速度。
+|StatDef.description.zh-tw=這名角色進行釀造工作時的工作速度。
+|StatDef.category=PawnWork
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1
+|StatDef.statFactors="WorkSpeedGlobal"
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
+|StatDef.skillNeedFactors.0.skill=Cooking
+|StatDef.skillNeedFactors.0.baseFactor=0.4
+|StatDef.skillNeedFactors.0.bonusFactor=0.06
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Sight
+|StatDef.capacityFactors.0.weight=0.3
+|StatDef.capacityFactors.0.max=1
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Manipulation
+|StatDef.capacityFactors.1.weight=1
+}}

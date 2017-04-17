@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=BillsTab
+|ConceptDef.defName=BillsTab
+|ConceptDef.label=Bills tab
+|ConceptDef.label.zh-cn=清单标签页
+|ConceptDef.label.zh-tw=工作介面
+|ConceptDef.priority=50
+|ConceptDef.needsOpportunity=true
+|ConceptDef.opportunityDecays=false
+|ConceptDef.helpText=To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher.
+|ConceptDef.helpText.zh-cn=要使得殖民者在工作台前工作，请选择工作台并打开「清单」标签页。在这里，你可以指定要烹饪什么食品，要制作什么物品，要屠宰什么尸体等。
+|ConceptDef.helpText.zh-tw=要讓居民執行工作台的工作，選擇一張工作台後點擊「選單」開啟工作面板。在這裡你可以指定要烹煮何種料理、要打造什麼裝備、要屠宰哪些生物。
+|ConceptDef.highlightTags="ITab-Bills-Closed"
+}}

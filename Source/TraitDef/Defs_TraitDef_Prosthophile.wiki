@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=Prosthophile
+|TraitDef.defName=Prosthophile
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=prosthophile
+|TraitDef.degreeDatas.0.label.zh-cn=仿生学神教
+|TraitDef.degreeDatas.0.label.zh-tw=仿生愛好者
+|TraitDef.degreeDatas.0.description=NAME feels limited in HIS feeble human body. HECAP often dreams of going bionic.
+|TraitDef.degreeDatas.0.description.zh-cn=NAME深深感受到了人类虚弱的躯体对自身的限制。HECAP经常梦想着能装上一些仿生部件。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME覺得自己軟弱的人類身體是某種限制。HECAP總是夢想裝上仿生肢體。
+|TraitDef.conflictingTraits="Prosthophobe"
+|TraitDef.commonality=0.3
+}}

@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=Autodoors
+|ResearchProjectDef.defName=Autodoors
+|ResearchProjectDef.label=autodoors
+|ResearchProjectDef.label.zh-cn=自动门
+|ResearchProjectDef.label.zh-tw=自動門
+|ResearchProjectDef.description=Build autodoors which open to permit movement without slowing anyone down.
+|ResearchProjectDef.description.zh-cn=解锁建造自动门，人通过时不会减速。
+|ResearchProjectDef.description.zh-tw=解鎖建造自動門，使人通過門時不需減速。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=400
+|ResearchProjectDef.prerequisites="Electricity"
+|ResearchProjectDef.researchViewX=5
+|ResearchProjectDef.researchViewY=3
+}}

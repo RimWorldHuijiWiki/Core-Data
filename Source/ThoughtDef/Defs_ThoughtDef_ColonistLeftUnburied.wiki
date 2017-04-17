@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=ColonistLeftUnburied
+|ThoughtDef.defName=ColonistLeftUnburied
+|ThoughtDef.workerClass=ThoughtWorker_ColonistLeftUnburied
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=colonist left unburied
+|ThoughtDef.stages.0.label.zh-cn=殖民者未埋葬
+|ThoughtDef.stages.0.label.zh-tw=有居民未受埋葬
+|ThoughtDef.stages.0.description=One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial.
+|ThoughtDef.stages.0.description.zh-cn=我们中的一员去世了，然而尸体就那么放在露天里。没人应该被这样对待。死者需要有一个体面的葬礼。
+|ThoughtDef.stages.0.description.zh-tw=有同伴去逝了而我們卻將屍體留在這裡。沒人應該受到這種待遇。死者最起碼要被埋起来。
+|ThoughtDef.stages.0.baseMoodEffect=-10
+|ThoughtDef.nullifyingTraits="Psychopath"
+}}

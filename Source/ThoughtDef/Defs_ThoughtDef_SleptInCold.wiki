@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=SleptInCold
+|ThoughtDef.defName=SleptInCold
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=slept in the cold
+|ThoughtDef.stages.0.label.zh-cn=在寒冷中睡觉
+|ThoughtDef.stages.0.label.zh-tw=睡在寒冷的地方
+|ThoughtDef.stages.0.description=I had to sleep in the cold. We really need some heaters.
+|ThoughtDef.stages.0.description.zh-cn=我睡觉的时候太冷了，我们应该有些加热器才对。
+|ThoughtDef.stages.0.description.zh-tw=我别無選擇只能睡在寒冷的地方，我們真的需要一台電暖器。
+|ThoughtDef.stages.0.baseMoodEffect=-4
+|ThoughtDef.stackLimit=1
+|ThoughtDef.durationDays=1
+}}

@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MapZoomOut
+|KeyBindingDef.defName=MapZoomOut
+|KeyBindingDef.label=zoom out
+|KeyBindingDef.label.zh-cn=缩小
+|KeyBindingDef.label.zh-tw=縮小鏡頭
+|KeyBindingDef.category=GameMapCamera
+|KeyBindingDef.defaultKeyCodeA=PageUp
+}}

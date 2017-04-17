@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=RockChunks
+|GenStepDef.defName=RockChunks
+|GenStepDef.linkWithMapGenerator=BasicMap
+|GenStepDef.order=220
+|GenStepDef.genStep=
+}}

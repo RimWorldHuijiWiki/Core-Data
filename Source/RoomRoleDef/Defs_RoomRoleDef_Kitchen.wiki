@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=RoomRoleDef
+|defName=Kitchen
+|RoomRoleDef.defName=Kitchen
+|RoomRoleDef.label=kitchen
+|RoomRoleDef.label.zh-cn=厨房
+|RoomRoleDef.label.zh-tw=廚房
+|RoomRoleDef.workerClass=RoomRoleWorker_Kitchen
+}}

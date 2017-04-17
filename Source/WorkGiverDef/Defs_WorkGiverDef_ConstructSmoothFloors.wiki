@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=ConstructSmoothFloors
+|WorkGiverDef.defName=ConstructSmoothFloors
+|WorkGiverDef.label=smooth floors
+|WorkGiverDef.label.zh-cn=打磨地面
+|WorkGiverDef.label.zh-tw=磨光地面
+|WorkGiverDef.giverClass=WorkGiver_ConstructSmoothFloor
+|WorkGiverDef.workType=Construction
+|WorkGiverDef.priorityInType=5
+|WorkGiverDef.verb=smooth
+|WorkGiverDef.verb.zh-cn=打磨
+|WorkGiverDef.verb.zh-tw=進行
+|WorkGiverDef.gerund=smoothing
+|WorkGiverDef.gerund.zh-cn=打磨
+|WorkGiverDef.gerund.zh-tw=進行
+|WorkGiverDef.scanThings=false
+|WorkGiverDef.scanCells=true
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

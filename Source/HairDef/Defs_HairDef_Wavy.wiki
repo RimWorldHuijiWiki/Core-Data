@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=Wavy
+|HairDef.defName=Wavy
+|HairDef.label=wavy
+|HairDef.label.zh-cn=波浪卷
+|HairDef.label.zh-tw=波浪捲
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Wavy
+|HairDef.hairGender=Any
+|HairDef.hairTags="Urban","Rural"
+}}

@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoBillsUseCraftingSpot
+|WorkGiverDef.defName=DoBillsUseCraftingSpot
+|WorkGiverDef.label=do bills at crafting spot
+|WorkGiverDef.label.zh-cn=完成手工加工点的清单
+|WorkGiverDef.label.zh-tw=製造兵器
+|WorkGiverDef.giverClass=WorkGiver_DoBill
+|WorkGiverDef.workType=Crafting
+|WorkGiverDef.priorityInType=100
+|WorkGiverDef.verb=craft
+|WorkGiverDef.verb.zh-cn=制作
+|WorkGiverDef.verb.zh-tw=工作
+|WorkGiverDef.gerund=crafting at
+|WorkGiverDef.gerund.zh-cn=制作于
+|WorkGiverDef.gerund.zh-tw=工作於
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.fixedBillGiverDefs="CraftingSpot"
+}}

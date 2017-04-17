@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=SongDef
+|defName=UnnamedDef
+|SongDef.clipPath=Songs/Relax/Noodles_Planetfall/Noodle_Planetfall_d
+|SongDef.volume=0.65
+|SongDef.allowedTimeOfDay=Day
+}}

@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=MentalBreakDef
+|defName=Berserk
+|MentalBreakDef.defName=Berserk
+|MentalBreakDef.mentalState=Berserk
+|MentalBreakDef.baseCommonality=1.5
+|MentalBreakDef.intensity=Extreme
+}}

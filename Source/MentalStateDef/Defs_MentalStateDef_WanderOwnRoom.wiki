@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=MentalStateDef
+|defName=WanderOwnRoom
+|MentalStateDef.defName=WanderOwnRoom
+|MentalStateDef.label=sitting alone
+|MentalStateDef.label.zh-cn=封闭自我
+|MentalStateDef.label.zh-tw=閉門不出
+|MentalStateDef.stateClass=MentalState_WanderOwnRoom
+|MentalStateDef.workerClass=MentalStateWorker_WanderOwnRoom
+|MentalStateDef.category=Sad
+|MentalStateDef.colonistsOnly=true
+|MentalStateDef.blockNormalThoughts=true
+|MentalStateDef.allowBeatfire=true
+|MentalStateDef.recoveryMtbDays=0.6
+|MentalStateDef.minTicksBeforeRecovery=30000
+|MentalStateDef.maxTicksBeforeRecovery=60000
+|MentalStateDef.recoverFromSleep=true
+|MentalStateDef.recoverFromDowned=true
+|MentalStateDef.moodRecoveryThought=Catharsis
+|MentalStateDef.beginLetter={0} is hiding in HIS room.
+|MentalStateDef.beginLetter.zh-cn={0}把自己关在房间中。
+|MentalStateDef.beginLetter.zh-tw={0}把自己鎖在房間中。
+|MentalStateDef.beginLetterLabel=hide in room
+|MentalStateDef.beginLetterLabel.zh-cn=封闭自我
+|MentalStateDef.beginLetterLabel.zh-tw=閉門不出
+|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.nameColor=(0.65, 0.9, 0.93)
+|MentalStateDef.recoveryMessage={0} is no longer hiding in HIS room.
+|MentalStateDef.recoveryMessage.zh-cn={0}不再把自己关在房间中。
+|MentalStateDef.recoveryMessage.zh-tw={0}不再閉門不出了。
+|MentalStateDef.baseInspectLine=Mental state: Hiding in room
+|MentalStateDef.baseInspectLine.zh-cn=失控：封闭自我
+|MentalStateDef.baseInspectLine.zh-tw=心理狀態：閉門不出
+}}

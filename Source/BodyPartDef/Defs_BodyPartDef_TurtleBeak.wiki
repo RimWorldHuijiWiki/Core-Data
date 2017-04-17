@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=TurtleBeak
+|BodyPartDef.defName=TurtleBeak
+|BodyPartDef.label=beak
+|BodyPartDef.label.zh-cn=喙
+|BodyPartDef.label.zh-tw=龜喙
+|BodyPartDef.tags="ManipulationLimbCore"
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=0.03
+|BodyPartDef.bleedingRateMultiplier=0
+|BodyPartDef.skinCovered=true
+|BodyPartDef.isSolid=false
+|BodyPartDef.isAlive=false
+}}

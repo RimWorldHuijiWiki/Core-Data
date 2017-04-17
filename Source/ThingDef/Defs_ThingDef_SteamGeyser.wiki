@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=SteamGeyser
+|ThingDef.defName=SteamGeyser
+|ThingDef.label=steam geyser
+|ThingDef.label.zh-cn=蒸汽间歇喷泉
+|ThingDef.label.zh-tw=蒸氣間歇泉
+|ThingDef.description=Natural steam source.
+|ThingDef.description.zh-cn=天然的蒸汽源。
+|ThingDef.description.zh-tw=天然的蒸氣間歇泉。
+|ThingDef.altitudeLayer=Floor
+|ThingDef.thingClass=Building_SteamGeyser
+|ThingDef.category=Building
+|ThingDef.tickerType=Normal
+|ThingDef.size=(2,2)
+|ThingDef.destroyable=false
+|ThingDef.rotatable=false
+|ThingDef.useHitPoints=false
+|ThingDef.filthLeaving=RockRubble
+|ThingDef.scatterableOnMapGen=false
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Building/Natural/SteamGeyser
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.shaderType=Transparent
+|ThingDef.graphicData.drawSize=(4,4)
+|ThingDef.drawerType=MapMeshOnly
+|ThingDef.selectable=true
+|ThingDef.neverOverlapFloors=true
+|ThingDef.blockPlants=true
+|ThingDef.building=Exist
+|ThingDef.building.isEdifice=false
+|ThingDef.building.deconstructible=false
+|ThingDef.building.claimable=false
+}}

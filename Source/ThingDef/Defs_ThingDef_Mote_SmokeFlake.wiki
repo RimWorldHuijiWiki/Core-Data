@@ -1,0 +1,25 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Mote_SmokeFlake
+|ThingDef.defName=Mote_SmokeFlake
+|ThingDef.label=Mote
+|ThingDef.altitudeLayer=MoteOverhead
+|ThingDef.thingClass=MoteThrown
+|ThingDef.category=Mote
+|ThingDef.tickerType=Normal
+|ThingDef.rotatable=false
+|ThingDef.useHitPoints=false
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Mote/Smoke
+|ThingDef.graphicData.graphicClass=Graphic_Mote
+|ThingDef.graphicData.shaderType=Mote
+|ThingDef.graphicData.color=(200, 225, 255)
+|ThingDef.isSaveable=false
+|ThingDef.mote=Exist
+|ThingDef.mote.fadeInTime=0.25
+|ThingDef.mote.solidTime=2.75
+|ThingDef.mote.fadeOutTime=4.7
+|ThingDef.mote.acceleration=(0,0,0.0014)
+|ThingDef.mote.growthRate=0.54
+}}

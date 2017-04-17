@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=SkillDef
+|defName=Intellectual
+|SkillDef.defName=Intellectual
+|SkillDef.label=Intellectual
+|SkillDef.label.zh-cn=智识
+|SkillDef.label.zh-tw=Intellectual
+|SkillDef.description=Investigating evidence, making connections, calculating and using logic.
+|SkillDef.description.zh-cn=调查取证、建立关联、计算以及使用逻辑。
+|SkillDef.description.zh-tw=Investigating evidence, making connections, calculating and using logic.
+|SkillDef.skillLabel=Intellectual
+|SkillDef.skillLabel.zh-cn=智识
+|SkillDef.skillLabel.zh-tw=Intellectual
+}}

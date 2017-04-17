@@ -1,0 +1,26 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Proj_GrenadeFrag
+|ThingDef.defName=Proj_GrenadeFrag
+|ThingDef.label=frag grenade
+|ThingDef.label.zh-cn=破片手榴弹
+|ThingDef.label.zh-tw=手榴彈
+|ThingDef.altitudeLayer=Projectile
+|ThingDef.thingClass=Projectile_Explosive
+|ThingDef.category=Projectile
+|ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=False
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Projectile/Grenade
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.shaderType=Transparent
+|ThingDef.neverMultiSelect=True
+|ThingDef.projectile=Exist
+|ThingDef.projectile.speed=12
+|ThingDef.projectile.flyOverhead=false
+|ThingDef.projectile.damageDef=Bomb
+|ThingDef.projectile.damageAmountBase=40
+|ThingDef.projectile.explosionRadius=1.9
+|ThingDef.projectile.explosionDelay=100
+}}

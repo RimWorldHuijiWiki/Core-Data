@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=PawnCapacityDef
+|defName=Consciousness
+|PawnCapacityDef.defName=Consciousness
+|PawnCapacityDef.label=consciousness
+|PawnCapacityDef.label.zh-cn=意识
+|PawnCapacityDef.label.zh-tw=意識
+|PawnCapacityDef.listOrder=10
+|PawnCapacityDef.workerClass=PawnCapacityWorker_Consciousness
+|PawnCapacityDef.labelMechanoids=Data processing
+|PawnCapacityDef.labelMechanoids.zh-cn=数据处理
+|PawnCapacityDef.labelMechanoids.zh-tw=系統運行
+|PawnCapacityDef.lethalFlesh=true
+|PawnCapacityDef.lethalMechanoids=true
+|PawnCapacityDef.showOnCaravanHealthTab=true
+}}

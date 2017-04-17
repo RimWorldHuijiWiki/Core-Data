@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=FilthAnimalFilth
+|ThingDef.defName=FilthAnimalFilth
+|ThingDef.label=animal filth
+|ThingDef.label.zh-cn=动物污物
+|ThingDef.label.zh-tw=動物糞便
+|ThingDef.statBases="Beauty","-15";"Cleanliness","-5"
+|ThingDef.altitudeLayer=Filth
+|ThingDef.thingClass=Filth
+|ThingDef.category=Filth
+|ThingDef.useHitPoints=false
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Filth/Grainy
+|ThingDef.graphicData.graphicClass=Graphic_Cluster
+|ThingDef.graphicData.shaderType=Transparent
+|ThingDef.graphicData.color=(97,65,48,97)
+|ThingDef.drawerType=MapMeshOnly
+|ThingDef.filth=Exist
+|ThingDef.filth.cleaningWorkToReduceThickness=35
+|ThingDef.filth.terrainSourced=true
+|ThingDef.filth.canFilthAttach=true
+}}

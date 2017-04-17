@@ -1,0 +1,23 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Bullet_AssaultRifle
+|ThingDef.defName=Bullet_AssaultRifle
+|ThingDef.label=assault rifle bullet
+|ThingDef.label.zh-cn=突击步枪子弹
+|ThingDef.label.zh-tw=子彈(突擊步槍)
+|ThingDef.altitudeLayer=Projectile
+|ThingDef.thingClass=Bullet
+|ThingDef.category=Projectile
+|ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=False
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Projectile/Bullet_Small
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.shaderType=Transparent
+|ThingDef.neverMultiSelect=True
+|ThingDef.projectile=Exist
+|ThingDef.projectile.speed=70
+|ThingDef.projectile.damageDef=Bullet
+|ThingDef.projectile.damageAmountBase=7
+}}

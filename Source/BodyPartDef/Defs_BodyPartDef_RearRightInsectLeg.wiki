@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RearRightInsectLeg
+|BodyPartDef.defName=RearRightInsectLeg
+|BodyPartDef.label=rear right leg
+|BodyPartDef.label.zh-cn=右后肢
+|BodyPartDef.label.zh-tw=右後肢
+|BodyPartDef.tags="MovingLimbCore"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.frostbiteVulnerability=0.1
+}}

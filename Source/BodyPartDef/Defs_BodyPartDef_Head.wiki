@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Head
+|BodyPartDef.defName=Head
+|BodyPartDef.label=head
+|BodyPartDef.label.zh-cn=头
+|BodyPartDef.label.zh-tw=頭部
+|BodyPartDef.hitPoints=30
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.bleedingRateMultiplier=2
+|BodyPartDef.skinCovered=true
+|BodyPartDef.dontSuggestAmputation=true
+}}

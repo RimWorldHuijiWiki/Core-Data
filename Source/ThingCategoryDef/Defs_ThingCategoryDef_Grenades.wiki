@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=Grenades
+|ThingCategoryDef.defName=Grenades
+|ThingCategoryDef.label=grenades
+|ThingCategoryDef.label.zh-cn=手榴弹
+|ThingCategoryDef.label.zh-tw=手榴彈
+|ThingCategoryDef.parent=WeaponsRanged
+}}

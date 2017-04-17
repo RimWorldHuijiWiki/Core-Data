@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=JoyGiverDef
+|defName=PlayChess
+|JoyGiverDef.defName=PlayChess
+|JoyGiverDef.giverClass=JoyGiver_InteractBuildingSitAdjacent
+|JoyGiverDef.baseChance=1.5
+|JoyGiverDef.thingDefs="ChessTable"
+|JoyGiverDef.jobDef=PlayChess
+|JoyGiverDef.joyKind=GamingCerebral
+|JoyGiverDef.requiredCapacities="Sight","Manipulation"
+}}

@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=DesignatorCancel
+|KeyBindingDef.defName=DesignatorCancel
+|KeyBindingDef.label=cancel
+|KeyBindingDef.label.zh-cn=取消
+|KeyBindingDef.label.zh-tw=取消
+|KeyBindingDef.category=Architect
+|KeyBindingDef.defaultKeyCodeA=C
+}}

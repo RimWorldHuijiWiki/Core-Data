@@ -1,0 +1,29 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=ResearchSpeedFactor
+|StatDef.defName=ResearchSpeedFactor
+|StatDef.label=research speed factor
+|StatDef.label.zh-cn=研究速度系数
+|StatDef.label.zh-tw=研究速度倍率
+|StatDef.description=Speed at which people do research is multiplied by this value.
+|StatDef.description.zh-cn=进行研究时的速度会乘以此项的值。
+|StatDef.description.zh-tw=進行研究工作時的速度倍率。
+|StatDef.category=Building
+|StatDef.showIfUndefined=false
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1
+|StatDef.minValue=0.25
+|StatDef.parts=Exist
+|StatDef.parts.Count=2
+|StatDef.parts.0=Exist
+|StatDef.parts.0.Class=StatPart_Outdoors
+|StatDef.parts.0.factorIndoors=1.00
+|StatDef.parts.0.factorOutdoors=0.75
+|StatDef.parts.1=Exist
+|StatDef.parts.1.Class=StatPart_RoomStat
+|StatDef.parts.1.roomStat=ResearchSpeedFactor
+|StatDef.parts.1.customLabel=Room cleanliness
+|StatDef.parts.1.customLabel.zh-cn=房间清洁度
+|StatDef.parts.1.customLabel.zh-tw=研究速度倍率
+}}

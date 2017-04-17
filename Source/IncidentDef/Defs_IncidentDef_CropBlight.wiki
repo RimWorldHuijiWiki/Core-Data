@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=CropBlight
+|IncidentDef.defName=CropBlight
+|IncidentDef.label=crop blight
+|IncidentDef.label.zh-cn=枯萎病
+|IncidentDef.label.zh-tw=枯萎病
+|IncidentDef.workerClass=IncidentWorker_CropBlight
+|IncidentDef.targetType=BaseMap
+|IncidentDef.baseChance=0.4
+|IncidentDef.minRefireDays=35
+}}

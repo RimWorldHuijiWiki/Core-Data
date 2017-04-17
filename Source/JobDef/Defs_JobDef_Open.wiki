@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Open
+|JobDef.defName=Open
+|JobDef.driverClass=JobDriver_Open
+|JobDef.reportString=opening TargetA.
+|JobDef.reportString.zh-cn=打开TargetA。
+|JobDef.reportString.zh-tw=開啟TargetA。
+}}

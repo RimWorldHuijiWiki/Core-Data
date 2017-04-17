@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=TimeHauling
+|RecordDef.defName=TimeHauling
+|RecordDef.label=time hauling
+|RecordDef.label.zh-cn=搬运时间
+|RecordDef.label.zh-tw=搬運工作
+|RecordDef.description=Total time spent hauling things.
+|RecordDef.description.zh-cn=搬运物品花费的总时间。
+|RecordDef.description.zh-tw=進行搬運工作的時間。
+|RecordDef.type=Time
+|RecordDef.workerClass=RecordWorker_TimeHauling
+}}

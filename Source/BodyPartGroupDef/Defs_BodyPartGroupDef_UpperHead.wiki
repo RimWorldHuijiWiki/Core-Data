@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartGroupDef
+|defName=UpperHead
+|BodyPartGroupDef.defName=UpperHead
+|BodyPartGroupDef.label=upper head
+|BodyPartGroupDef.label.zh-cn=额部
+|BodyPartGroupDef.label.zh-tw=頭頂
+|BodyPartGroupDef.listOrder=200
+}}

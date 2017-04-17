@@ -1,0 +1,28 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=BionicArm
+|HediffDef.defName=BionicArm
+|HediffDef.label=bionic arm
+|HediffDef.label.zh-cn=仿生臂
+|HediffDef.label.zh-tw=仿生手
+|HediffDef.hediffClass=Hediff_AddedPart
+|HediffDef.comps=Exist
+|HediffDef.comps.Count=1
+|HediffDef.comps.0=Exist
+|HediffDef.comps.0.Class=HediffCompProperties_VerbGiver
+|HediffDef.comps.0.verbs=Exist
+|HediffDef.comps.0.verbs.Count=1
+|HediffDef.comps.0.verbs.0=Exist
+|HediffDef.comps.0.verbs.0.verbClass=Verb_MeleeAttack
+|HediffDef.comps.0.verbs.0.defaultCooldownTime=1.65
+|HediffDef.comps.0.verbs.0.meleeDamageDef=Blunt
+|HediffDef.comps.0.verbs.0.meleeDamageBaseAmount=9
+|HediffDef.isBad=false
+|HediffDef.spawnThingOnRemoved=BionicArm
+|HediffDef.defaultLabelColor=(0.5, 0.5, 0.9)
+|HediffDef.addedPartProps=Exist
+|HediffDef.addedPartProps.partEfficiency=1.4
+|HediffDef.addedPartProps.isBionic=true
+|HediffDef.addedPartProps.isSolid=true
+}}

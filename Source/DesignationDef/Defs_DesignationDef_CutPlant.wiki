@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=DesignationDef
+|defName=CutPlant
+|DesignationDef.defName=CutPlant
+|DesignationDef.texturePath=Designations/CutPlant
+|DesignationDef.targetType=Thing
+}}

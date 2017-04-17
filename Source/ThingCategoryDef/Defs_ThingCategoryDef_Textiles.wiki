@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=Textiles
+|ThingCategoryDef.defName=Textiles
+|ThingCategoryDef.label=textiles
+|ThingCategoryDef.label.zh-cn=织物
+|ThingCategoryDef.label.zh-tw=紡織品
+|ThingCategoryDef.parent=Manufactured
+|ThingCategoryDef.iconPath=UI/Icons/ThingCategories/Textiles
+|ThingCategoryDef.resourceReadoutRoot=true
+}}

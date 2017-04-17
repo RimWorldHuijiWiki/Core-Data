@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=Research
+|WorkGiverDef.defName=Research
+|WorkGiverDef.label=do research
+|WorkGiverDef.label.zh-cn=研究科技
+|WorkGiverDef.label.zh-tw=研究
+|WorkGiverDef.giverClass=WorkGiver_Researcher
+|WorkGiverDef.workType=Research
+|WorkGiverDef.verb=research
+|WorkGiverDef.verb.zh-cn=研究
+|WorkGiverDef.verb.zh-tw=研究
+|WorkGiverDef.gerund=researching at
+|WorkGiverDef.gerund.zh-cn=研究于
+|WorkGiverDef.gerund.zh-tw=研究於
+}}

@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=EffecterDef
+|defName=ProgressBar
+|EffecterDef.defName=ProgressBar
+|EffecterDef.children=Exist
+|EffecterDef.children.Count=1
+|EffecterDef.children.0=Exist
+|EffecterDef.children.0.subEffecterClass=SubEffecter_ProgressBar
+|EffecterDef.children.0.moteDef=Mote_ProgressBar
+}}

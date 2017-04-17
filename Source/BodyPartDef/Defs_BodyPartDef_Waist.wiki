@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Waist
+|BodyPartDef.defName=Waist
+|BodyPartDef.label=waist
+|BodyPartDef.label.zh-cn=腰
+|BodyPartDef.label.zh-tw=waist
+|BodyPartDef.isConceptual=true
+}}

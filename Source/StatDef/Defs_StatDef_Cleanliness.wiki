@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=Cleanliness
+|StatDef.defName=Cleanliness
+|StatDef.label=cleanliness
+|StatDef.label.zh-cn=清洁度
+|StatDef.label.zh-tw=乾淨度
+|StatDef.description=How clean an object is.
+|StatDef.description.zh-cn=一个物品的清洁度。
+|StatDef.description.zh-tw=一個物件的乾淨程度。
+|StatDef.category=BasicsNonPawn
+|StatDef.hideAtValue=0
+|StatDef.toStringStyle=FloatOne
+|StatDef.defaultBaseValue=0
+|StatDef.minValue=-1000
+|StatDef.maxValue=1000
+|StatDef.applyFactorsIfNegative=false
+}}

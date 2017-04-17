@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=Flammability
+|StatDef.defName=Flammability
+|StatDef.label=flammability
+|StatDef.label.zh-cn=易燃性
+|StatDef.label.zh-tw=易燃程度
+|StatDef.description=How easily an object catches fire and how strongly it burns.
+|StatDef.description.zh-cn=一个物品被点燃的几率和燃烧的规模。
+|StatDef.description.zh-tw=此物件的易燃程度與燃燒時的火焰強度。
+|StatDef.category=BasicsNonPawn
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=0
+|StatDef.minValue=0
+|StatDef.maxValue=5
+}}

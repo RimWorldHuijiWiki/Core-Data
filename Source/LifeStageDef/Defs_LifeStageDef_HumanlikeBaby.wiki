@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=LifeStageDef
+|defName=HumanlikeBaby
+|LifeStageDef.defName=HumanlikeBaby
+|LifeStageDef.label=baby
+|LifeStageDef.label.zh-cn=婴儿
+|LifeStageDef.label.zh-tw=嬰兒
+|LifeStageDef.statFactors="MoveSpeed","0.2"
+|LifeStageDef.bodySizeFactor=0.2
+|LifeStageDef.healthScaleFactor=0.2
+|LifeStageDef.hungerRateFactor=0.2
+|LifeStageDef.marketValueFactor=0.5
+}}

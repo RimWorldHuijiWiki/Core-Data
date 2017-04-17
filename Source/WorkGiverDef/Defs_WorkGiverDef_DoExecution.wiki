@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoExecution
+|WorkGiverDef.defName=DoExecution
+|WorkGiverDef.label=execute prisoners
+|WorkGiverDef.label.zh-cn=处决囚犯
+|WorkGiverDef.label.zh-tw=執行死刑
+|WorkGiverDef.giverClass=WorkGiver_Warden_DoExecution
+|WorkGiverDef.workType=Warden
+|WorkGiverDef.priorityInType=110
+|WorkGiverDef.verb=do execution on
+|WorkGiverDef.verb.zh-cn=处决
+|WorkGiverDef.verb.zh-tw=執行死刑
+|WorkGiverDef.gerund=doing execution on
+|WorkGiverDef.gerund.zh-cn=处决
+|WorkGiverDef.gerund.zh-tw=執行死刑
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

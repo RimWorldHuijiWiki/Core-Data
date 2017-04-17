@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=CaravanRequest
+|IncidentDef.defName=CaravanRequest
+|IncidentDef.label=caravan request
+|IncidentDef.label.zh-cn=caravan request
+|IncidentDef.label.zh-tw=caravan request
+|IncidentDef.workerClass=IncidentWorker_CaravanRequest
+|IncidentDef.targetType=BaseMap
+|IncidentDef.baseChance=1
+}}

@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=ScatterThingsAnywhere
+|ScenPartDef.defName=ScatterThingsAnywhere
+|ScenPartDef.label=scattered randomly
+|ScenPartDef.label.zh-cn=地图散落资源
+|ScenPartDef.label.zh-tw=隨機散佈
+|ScenPartDef.category=WorldThing
+|ScenPartDef.scenPartClass=ScenPart_ScatterThingsAnywhere
+|ScenPartDef.summaryPriority=100
+|ScenPartDef.selectionWeight=1.0
+}}

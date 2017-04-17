@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=LeatherAmount
+|StatDef.defName=LeatherAmount
+|StatDef.label=leather amount
+|StatDef.label.zh-cn=可获皮革量
+|StatDef.label.zh-tw=毛皮數量
+|StatDef.description=The amount of leather you will get from butchering this creature.
+|StatDef.description.zh-cn=屠宰这种生物可获得皮革的数量。
+|StatDef.description.zh-tw=屠宰此生物時可獲得的毛皮數量。
+|StatDef.category=BasicsPawn
+|StatDef.hideAtValue=0
+|StatDef.toStringStyle=Integer
+|StatDef.defaultBaseValue=0
+|StatDef.postProcessCurve=Exist
+|StatDef.postProcessCurve.points="(0,0)","(5,14)","(40,40)","(100000,100000)"
+|StatDef.parts=Exist
+|StatDef.parts.Count=2
+|StatDef.parts.0=Exist
+|StatDef.parts.0.Class=StatPart_BodySize
+|StatDef.parts.1=Exist
+|StatDef.parts.1.Class=StatPart_NaturalNotMissingBodyPartsCoverage
+}}

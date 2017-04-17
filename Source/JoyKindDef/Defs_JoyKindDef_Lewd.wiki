@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=JoyKindDef
+|defName=Lewd
+|JoyKindDef.defName=Lewd
+|JoyKindDef.label=lewd
+|JoyKindDef.label.zh-cn=色情
+|JoyKindDef.label.zh-tw=淫蕩
+}}

@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=MentalStateDef
+|defName=SocialFighting
+|MentalStateDef.defName=SocialFighting
+|MentalStateDef.label=social fighting
+|MentalStateDef.label.zh-cn=打架
+|MentalStateDef.label.zh-tw=吵架
+|MentalStateDef.stateClass=MentalState_SocialFighting
+|MentalStateDef.category=Aggro
+|MentalStateDef.unspawnedCanDo=true
+|MentalStateDef.recoveryMtbDays=0.02
+|MentalStateDef.minTicksBeforeRecovery=420
+|MentalStateDef.nameColor=(0.88,0.48,0.16)
+|MentalStateDef.baseInspectLine=Mental state: Social fighting
+|MentalStateDef.baseInspectLine.zh-cn=失控：打架
+|MentalStateDef.baseInspectLine.zh-tw=心理狀態：吵架
+}}

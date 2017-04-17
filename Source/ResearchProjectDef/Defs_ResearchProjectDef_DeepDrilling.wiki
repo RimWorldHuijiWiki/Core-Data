@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=DeepDrilling
+|ResearchProjectDef.defName=DeepDrilling
+|ResearchProjectDef.label=deep drilling
+|ResearchProjectDef.label.zh-cn=深钻井
+|ResearchProjectDef.label.zh-tw=採掘機
+|ResearchProjectDef.description=Allows you to build deep drills for extracting resources from deep underground. You'll need a ground-penetrating scanner to find the resources.
+|ResearchProjectDef.description.zh-cn=允许你建造深钻井，来开采深埋在地表之下的资源。你必须先用地质扫描仪来进行勘探。
+|ResearchProjectDef.description.zh-tw=解鎖建造採掘機，可以從地下深處開採礦物。你需要礦脈聲納才能找出礦物位置。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=1500
+|ResearchProjectDef.prerequisites="MultiAnalyzer"
+|ResearchProjectDef.requiredResearchBuilding=HiTechResearchBench
+|ResearchProjectDef.requiredResearchFacilities="MultiAnalyzer"
+|ResearchProjectDef.researchViewX=9
+|ResearchProjectDef.researchViewY=1
+}}

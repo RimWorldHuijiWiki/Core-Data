@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=Flowy
+|HairDef.defName=Flowy
+|HairDef.label=flowy
+|HairDef.label.zh-cn=飘逸
+|HairDef.label.zh-tw=飄逸
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Flowy
+|HairDef.hairGender=Female
+|HairDef.hairTags="Urban","Rural"
+}}

@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=TimeAssignmentDef
+|defName=Work
+|TimeAssignmentDef.defName=Work
+|TimeAssignmentDef.label=work
+|TimeAssignmentDef.label.zh-cn=工作
+|TimeAssignmentDef.label.zh-tw=工作
+|TimeAssignmentDef.color=(107, 107, 52)
+|TimeAssignmentDef.allowRest=false
+|TimeAssignmentDef.allowJoy=false
+}}

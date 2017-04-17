@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=MapConditionDef
+|defName=VolcanicWinter
+|MapConditionDef.defName=VolcanicWinter
+|MapConditionDef.label=volcanic winter
+|MapConditionDef.label.zh-cn=火山冬天
+|MapConditionDef.label.zh-tw=火山冬天
+|MapConditionDef.description=The atmosphere is choked with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower.
+|MapConditionDef.description.zh-cn=大气层被火山灰遮蔽，到达地面的阳光减弱。气温下降，植物生长速度减缓。
+|MapConditionDef.description.zh-tw=大氣中充滿了巨量的火山灰，大大的減少了照射到地表的陽光。天氣會變得更冷，植物的生長也會變慢。
+|MapConditionDef.conditionClass=MapCondition_VolcanicWinter
+|MapConditionDef.endMessage=Most of the volcanic ash has settled.
+|MapConditionDef.endMessage.zh-cn=火山灰已基本消散了。
+|MapConditionDef.endMessage.zh-tw=幾乎所有火山灰都已經沉澱下來了。
+|MapConditionDef.canBePermanent=true
+}}

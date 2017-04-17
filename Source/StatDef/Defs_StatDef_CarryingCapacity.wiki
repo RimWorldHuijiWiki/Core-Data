@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=CarryingCapacity
+|StatDef.defName=CarryingCapacity
+|StatDef.label=carrying capacity
+|StatDef.label.zh-cn=携带能力
+|StatDef.label.zh-tw=搬運攜帶量
+|StatDef.description=The amount of stuff this creature can carry in its hands, mouth, or other manipulators.
+|StatDef.description.zh-cn=这个角色用手、嘴或其他机械装置携带的物品的数量。
+|StatDef.description.zh-tw=這個單位能夠同時搬運的最大數量。
+|StatDef.category=BasicsPawn
+|StatDef.toStringStyle=Integer
+|StatDef.defaultBaseValue=75
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=1
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Manipulation
+|StatDef.capacityFactors.0.weight=1.0
+|StatDef.parts=Exist
+|StatDef.parts.Count=1
+|StatDef.parts.0=Exist
+|StatDef.parts.0.Class=StatPart_BodySize
+}}

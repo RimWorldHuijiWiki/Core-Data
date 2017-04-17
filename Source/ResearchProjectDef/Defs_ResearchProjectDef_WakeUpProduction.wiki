@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=WakeUpProduction
+|ResearchProjectDef.defName=WakeUpProduction
+|ResearchProjectDef.label=wake-up production
+|ResearchProjectDef.label.zh-cn=清醒丸制作
+|ResearchProjectDef.label.zh-tw=醒神劑生產
+|ResearchProjectDef.description=Your chemists learn the formulas and techniques for synthesizing wake-up, a work performance-enhancing drug.
+|ResearchProjectDef.description.zh-cn=学会制作清醒丸，清醒丸可以延长殖民者的工作时间，使其忘却疲劳，但是带有一些副作用。
+|ResearchProjectDef.description.zh-tw=研究如何生產醒神劑，一種能強化工作能力的藥物。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=600
+|ResearchProjectDef.prerequisites="DrugProduction"
+|ResearchProjectDef.researchViewX=2
+|ResearchProjectDef.researchViewY=1.25
+}}

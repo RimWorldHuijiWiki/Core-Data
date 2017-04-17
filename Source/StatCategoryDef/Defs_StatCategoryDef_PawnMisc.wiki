@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=StatCategoryDef
+|defName=PawnMisc
+|StatCategoryDef.defName=PawnMisc
+|StatCategoryDef.label=Misc
+|StatCategoryDef.label.zh-cn=其它
+|StatCategoryDef.label.zh-tw=其它
+|StatCategoryDef.displayOrder=130
+}}

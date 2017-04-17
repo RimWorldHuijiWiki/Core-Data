@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=RearmTrap
+|JobDef.defName=RearmTrap
+|JobDef.driverClass=JobDriver_RearmTrap
+|JobDef.reportString=rearming TargetA.
+|JobDef.reportString.zh-cn=重置TargetA。
+|JobDef.reportString.zh-tw=重設陷阱TargetA。
+}}

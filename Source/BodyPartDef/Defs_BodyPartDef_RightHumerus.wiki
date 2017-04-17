@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RightHumerus
+|BodyPartDef.defName=RightHumerus
+|BodyPartDef.label=right humerus
+|BodyPartDef.label.zh-cn=右肱骨
+|BodyPartDef.label.zh-tw=右肱骨
+|BodyPartDef.tags="ManipulationLimbSegment"
+|BodyPartDef.hitPoints=25
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+}}

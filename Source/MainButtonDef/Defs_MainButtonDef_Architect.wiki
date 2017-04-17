@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=MainButtonDef
+|defName=Architect
+|MainButtonDef.defName=Architect
+|MainButtonDef.label=architect
+|MainButtonDef.label.zh-cn=建筑规划
+|MainButtonDef.label.zh-tw=architect
+|MainButtonDef.description=Designate where and what colonists should build, farm, store items, and so on.
+|MainButtonDef.description.zh-cn=指定殖民者在哪里修建何种建筑、种植何种植物、储存何种物品等等。
+|MainButtonDef.description.zh-tw=Designate where and what colonists should build, farm, store items, and so on.
+|MainButtonDef.tabWindowClass=MainTabWindow_Architect
+|MainButtonDef.order=1
+|MainButtonDef.defaultHotKey=Tab
+}}

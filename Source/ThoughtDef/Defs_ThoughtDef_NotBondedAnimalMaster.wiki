@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=NotBondedAnimalMaster
+|ThoughtDef.defName=NotBondedAnimalMaster
+|ThoughtDef.workerClass=ThoughtWorker_NotBondedAnimalMaster
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=not {0}'s master
+|ThoughtDef.stages.0.label.zh-cn=不是{0}的主人
+|ThoughtDef.stages.0.label.zh-tw=動物夥伴不在身邊
+|ThoughtDef.stages.0.description=I should be together with my bonded animal.
+|ThoughtDef.stages.0.description.zh-cn=我应该跟我的牵绊动物在一起。
+|ThoughtDef.stages.0.description.zh-tw=動物夥伴應該要和我一起行動。
+|ThoughtDef.stages.0.baseMoodEffect=-3
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.nullifyingTraits="Psychopath"
+}}

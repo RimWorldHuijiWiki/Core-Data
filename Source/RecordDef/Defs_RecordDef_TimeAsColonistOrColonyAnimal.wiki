@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=TimeAsColonistOrColonyAnimal
+|RecordDef.defName=TimeAsColonistOrColonyAnimal
+|RecordDef.label=time as a colonist
+|RecordDef.label.zh-cn=作为殖民者的时间
+|RecordDef.label.zh-tw=加入殖民地
+|RecordDef.description=Total time spent as a colonist.
+|RecordDef.description.zh-cn=作为一名殖民者所度过的总时间。
+|RecordDef.description.zh-tw=加入殖民地的時間。
+|RecordDef.type=Time
+|RecordDef.workerClass=RecordWorker_TimeAsColonistOrColonyAnimal
+}}

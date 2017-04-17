@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=SitePartDef
+|defName=Turrets
+|SitePartDef.defName=Turrets
+|SitePartDef.label=turrets
+|SitePartDef.label.zh-cn=turrets
+|SitePartDef.label.zh-tw=turrets
+|SitePartDef.siteTexture=World/WorldObjects/Sites/Outpost
+|SitePartDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Turrets
+|SitePartDef.applyFactionColorToSiteTexture=true
+|SitePartDef.workerClass=SitePartWorker_Turrets
+}}

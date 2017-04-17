@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=SongDef
+|defName=UnnamedDef
+|SongDef.clipPath=Songs/Relax/Tribal_Assembly
+|SongDef.volume=0.95
+}}

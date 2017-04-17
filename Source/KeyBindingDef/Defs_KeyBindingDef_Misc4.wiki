@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=Misc4
+|KeyBindingDef.defName=Misc4
+|KeyBindingDef.label=Misc 4
+|KeyBindingDef.label.zh-cn=其它 4
+|KeyBindingDef.label.zh-tw=其它 4
+|KeyBindingDef.category=SelectionMisc
+|KeyBindingDef.defaultKeyCodeA=N
+}}

@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoctorTendToSelf
+|WorkGiverDef.defName=DoctorTendToSelf
+|WorkGiverDef.label=tend to self
+|WorkGiverDef.label.zh-cn=治疗自己
+|WorkGiverDef.label.zh-tw=tend to self
+|WorkGiverDef.giverClass=WorkGiver_TendSelf
+|WorkGiverDef.workType=Doctor
+|WorkGiverDef.priorityInType=65
+|WorkGiverDef.verb=tend to
+|WorkGiverDef.verb.zh-cn=治疗
+|WorkGiverDef.verb.zh-tw=tend to
+|WorkGiverDef.gerund=tending to
+|WorkGiverDef.gerund.zh-cn=治疗
+|WorkGiverDef.gerund.zh-tw=tending to
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+}}

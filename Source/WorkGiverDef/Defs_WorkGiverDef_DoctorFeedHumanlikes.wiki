@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoctorFeedHumanlikes
+|WorkGiverDef.defName=DoctorFeedHumanlikes
+|WorkGiverDef.label=feed patients
+|WorkGiverDef.label.zh-cn=喂食病人
+|WorkGiverDef.label.zh-tw=feed patients
+|WorkGiverDef.giverClass=WorkGiver_FeedPatient
+|WorkGiverDef.workType=Doctor
+|WorkGiverDef.priorityInType=60
+|WorkGiverDef.verb=feed
+|WorkGiverDef.verb.zh-cn=喂食
+|WorkGiverDef.verb.zh-tw=feed
+|WorkGiverDef.gerund=feeding
+|WorkGiverDef.gerund.zh-cn=喂食
+|WorkGiverDef.gerund.zh-tw=feeding
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.feedHumanlikesOnly=true
+}}

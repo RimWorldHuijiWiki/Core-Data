@@ -1,0 +1,30 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=ButcherCorpseMechanoid
+|RecipeDef.defName=ButcherCorpseMechanoid
+|RecipeDef.label=disassemble mechanoid
+|RecipeDef.label.zh-cn=拆解机械体
+|RecipeDef.label.zh-tw=拆解機器人
+|RecipeDef.description=Disassembles a dead mechanoid into its component parts.
+|RecipeDef.description.zh-cn=拆解机械体以获取零部件。
+|RecipeDef.description.zh-tw=將一個損壞的機器人拆解成零件。
+|RecipeDef.jobString=Disassembling mechanoid.
+|RecipeDef.jobString.zh-cn=正在拆解机械体。
+|RecipeDef.jobString.zh-tw=拆解機器人。
+|RecipeDef.workAmount=300
+|RecipeDef.workSpeedStat=ButcheryMechanoidSpeed
+|RecipeDef.efficiencyStat=ButcheryMechanoidEfficiency
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Corpses"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="CorpsesMechanoid"
+|RecipeDef.specialProducts="Butchery"
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=ButcherMechanoid
+|RecipeDef.soundWorking=Recipe_ButcherCorpseMechanoid
+}}

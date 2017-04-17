@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=CorpsesMechanoid
+|ThingCategoryDef.defName=CorpsesMechanoid
+|ThingCategoryDef.label=mechanoid corpses
+|ThingCategoryDef.label.zh-cn=机械体尸体
+|ThingCategoryDef.label.zh-tw=損壞的機器人
+|ThingCategoryDef.parent=Corpses
+}}

@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=WorkTypeDef
+|defName=Cooking
+|WorkTypeDef.defName=Cooking
+|WorkTypeDef.label=Cook
+|WorkTypeDef.label.zh-cn=烹饪
+|WorkTypeDef.label.zh-tw=Cook
+|WorkTypeDef.description=Prepare meals and butcher meat.
+|WorkTypeDef.description.zh-cn=厨师负责烹饪食物、屠宰尸体、填充储料器。
+|WorkTypeDef.description.zh-tw=廚師會填充儲料槽、屠宰動物並製作料理。
+|WorkTypeDef.workTags="Cooking","ManualSkilled"
+|WorkTypeDef.labelShort=Cook
+|WorkTypeDef.labelShort.zh-cn=烹饪
+|WorkTypeDef.labelShort.zh-tw=廚師
+|WorkTypeDef.pawnLabel=Cook
+|WorkTypeDef.pawnLabel.zh-cn=厨师
+|WorkTypeDef.pawnLabel.zh-tw=廚師
+|WorkTypeDef.gerundLabel=Cooking
+|WorkTypeDef.gerundLabel.zh-cn=烹饪
+|WorkTypeDef.gerundLabel.zh-tw=烹飪
+|WorkTypeDef.verb=Cook
+|WorkTypeDef.verb.zh-cn=烹饪
+|WorkTypeDef.verb.zh-tw=烹調
+|WorkTypeDef.naturalPriority=1000
+|WorkTypeDef.relevantSkills="Cooking"
+}}

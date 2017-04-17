@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorldObjectDef
+|defName=RoutePlannerWaypoint
+|WorldObjectDef.defName=RoutePlannerWaypoint
+|WorldObjectDef.label=waypoint
+|WorldObjectDef.label.zh-cn=路径点
+|WorldObjectDef.label.zh-tw=waypoint
+|WorldObjectDef.description=A temporary waypoint.
+|WorldObjectDef.description.zh-cn=一个临时的路径点。
+|WorldObjectDef.description.zh-tw=A temporary waypoint.
+|WorldObjectDef.worldObjectClass=RoutePlannerWaypoint
+|WorldObjectDef.saved=false
+|WorldObjectDef.allowCaravanIncidentsWhichGenerateMap=true
+|WorldObjectDef.expandingIcon=true
+|WorldObjectDef.expandingIconTexture=World/WorldObjects/Expanding/RoutePlannerWaypoint
+|WorldObjectDef.expandingIconPriority=1000
+|WorldObjectDef.texture=World/WorldObjects/RoutePlannerWaypoint
+}}

@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=ShieldBelt
+|ResearchProjectDef.defName=ShieldBelt
+|ResearchProjectDef.label=shield belt
+|ResearchProjectDef.label.zh-cn=shield belt
+|ResearchProjectDef.label.zh-tw=shield belt
+|ResearchProjectDef.description=Momenum-repulsion field technology allows you to build shield belts, which block ranged attacks coming in or going out.
+|ResearchProjectDef.description.zh-cn=Momenum-repulsion field technology allows you to build shield belts, which block ranged attacks coming in or going out.
+|ResearchProjectDef.description.zh-tw=Momenum-repulsion field technology allows you to build shield belts, which block ranged attacks coming in or going out.
+|ResearchProjectDef.techLevel=Spacer
+|ResearchProjectDef.baseCost=1500
+|ResearchProjectDef.prerequisites="MultiAnalyzer"
+|ResearchProjectDef.requiredResearchBuilding=HiTechResearchBench
+|ResearchProjectDef.requiredResearchFacilities="MultiAnalyzer"
+|ResearchProjectDef.researchViewX=10
+|ResearchProjectDef.researchViewY=5
+}}

@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=AttackStatic
+|JobDef.defName=AttackStatic
+|JobDef.driverClass=JobDriver_AttackStatic
+|JobDef.reportString=attacking TargetA.
+|JobDef.reportString.zh-cn=攻击TargetA。
+|JobDef.reportString.zh-tw=攻擊TargetA。
+|JobDef.alwaysShowWeapon=true
+|JobDef.casualInterruptible=false
+}}

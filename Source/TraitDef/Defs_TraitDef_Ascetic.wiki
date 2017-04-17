@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=Ascetic
+|TraitDef.defName=Ascetic
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=ascetic
+|TraitDef.degreeDatas.0.label.zh-cn=苦行者
+|TraitDef.degreeDatas.0.label.zh-tw=禁慾主義者
+|TraitDef.degreeDatas.0.description=NAME prefers to live in asceticism. HECAP will be put in a poor mood if HE has a bedroom that's too impressive. HECAP also dislikes fancy food and prefers to eat raw - and raw food won't bother HIM a bit.
+|TraitDef.degreeDatas.0.description.zh-cn=NAME喜欢清苦的生活，如果卧室过于令人印象深刻就会不开心。HECAP还不喜欢奢侈的食品，更喜欢吃生食，生食对HIM没有副作用。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME寧願住得簡單點。房間太過高檔會讓HE感到不高興。
+|TraitDef.conflictingTraits="Greedy","Jealous"
+|TraitDef.commonality=0.2
+}}

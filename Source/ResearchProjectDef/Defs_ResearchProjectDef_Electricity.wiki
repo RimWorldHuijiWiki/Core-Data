@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=Electricity
+|ResearchProjectDef.defName=Electricity
+|ResearchProjectDef.label=electricity
+|ResearchProjectDef.label.zh-cn=电力
+|ResearchProjectDef.label.zh-tw=電力
+|ResearchProjectDef.description=Generate and use electricity for cooking and other simple tasks.
+|ResearchProjectDef.description.zh-cn=研究如何发电，并将电力用于烹饪和其他简单的作业。
+|ResearchProjectDef.description.zh-tw=解鎖部落使用電力及各類用電設備。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=1200
+|ResearchProjectDef.tags="ClassicStart"
+|ResearchProjectDef.researchViewX=3
+|ResearchProjectDef.researchViewY=2.5
+}}

@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RearLeftLegSecondClaw
+|BodyPartDef.defName=RearLeftLegSecondClaw
+|BodyPartDef.label=rear left leg second claw
+|BodyPartDef.label.zh-cn=左后肢第二爪
+|BodyPartDef.label.zh-tw=左後肢次爪
+|BodyPartDef.tags="MovingLimbDigit"
+|BodyPartDef.hitPoints=7
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.frostbiteVulnerability=10
+|BodyPartDef.isAlive=false
+}}

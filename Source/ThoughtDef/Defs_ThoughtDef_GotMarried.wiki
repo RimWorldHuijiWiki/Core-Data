@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=GotMarried
+|ThoughtDef.defName=GotMarried
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=got married to {0}
+|ThoughtDef.stages.0.label.zh-cn=和{0}结婚
+|ThoughtDef.stages.0.label.zh-tw=新婚生活
+|ThoughtDef.stages.0.description=I got married! Life is full of possibility!
+|ThoughtDef.stages.0.description.zh-cn=我结婚了！我的未来充满了动力！
+|ThoughtDef.stages.0.description.zh-tw=我結婚了！生活無限可能！
+|ThoughtDef.stages.0.baseMoodEffect=50
+|ThoughtDef.stackLimit=1
+|ThoughtDef.durationDays=30.0
+}}

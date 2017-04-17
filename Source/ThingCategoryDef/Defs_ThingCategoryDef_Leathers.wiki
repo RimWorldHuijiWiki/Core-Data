@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=Leathers
+|ThingCategoryDef.defName=Leathers
+|ThingCategoryDef.label=leathers
+|ThingCategoryDef.label.zh-cn=皮革
+|ThingCategoryDef.label.zh-tw=毛皮
+|ThingCategoryDef.parent=Textiles
+|ThingCategoryDef.iconPath=UI/Icons/ThingCategories/Leathers
+}}

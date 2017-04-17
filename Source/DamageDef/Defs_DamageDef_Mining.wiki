@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=DamageDef
+|defName=Mining
+|DamageDef.defName=Mining
+|DamageDef.label=mining
+|DamageDef.label.zh-cn=开采
+|DamageDef.label.zh-tw=採掘
+}}

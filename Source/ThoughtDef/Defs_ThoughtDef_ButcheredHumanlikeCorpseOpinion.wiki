@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=ButcheredHumanlikeCorpseOpinion
+|ThoughtDef.defName=ButcheredHumanlikeCorpseOpinion
+|ThoughtDef.thoughtClass=Thought_Tale
+|ThoughtDef.workerClass=ThoughtWorker_Tale
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=butchered humanlike corpse
+|ThoughtDef.stages.0.label.zh-cn=屠宰过人类
+|ThoughtDef.stages.0.label.zh-tw=屠宰了人類
+|ThoughtDef.stages.0.baseOpinionOffset=-10
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.nullifyingTraits="Cannibal","Bloodlust","Psychopath"
+|ThoughtDef.nullifyingOwnTales="ButcheredHumanlikeCorpse","AteRawHumanlikeMeat"
+|ThoughtDef.taleDef=ButcheredHumanlikeCorpse
+}}

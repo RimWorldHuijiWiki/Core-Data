@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=SoldMyBondedAnimal
+|ThoughtDef.defName=SoldMyBondedAnimal
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=bonded animal sold
+|ThoughtDef.stages.0.label.zh-cn=牵绊动物被贩卖
+|ThoughtDef.stages.0.label.zh-tw=賣掉我的動物夥伴{0}
+|ThoughtDef.stages.0.labelSocial=sold my bonded animal
+|ThoughtDef.stages.0.labelSocial.zh-cn=卖了我的牵绊动物
+|ThoughtDef.stages.0.labelSocial.zh-tw=賣掉我的動物夥伴
+|ThoughtDef.stages.0.description=My special bonded animal was sold to a trader!
+|ThoughtDef.stages.0.description.zh-cn=我相依相伴的动物被卖给了一个商人！
+|ThoughtDef.stages.0.description.zh-tw=我的動物夥伴被賣給了商人！
+|ThoughtDef.stages.0.baseMoodEffect=-10
+|ThoughtDef.stages.0.baseOpinionOffset=-10
+|ThoughtDef.stackLimit=10
+|ThoughtDef.durationDays=10.0
+|ThoughtDef.stackLimitPerPawn=2
+}}

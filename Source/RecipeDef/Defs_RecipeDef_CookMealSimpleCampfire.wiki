@@ -1,0 +1,37 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=CookMealSimpleCampfire
+|RecipeDef.defName=CookMealSimpleCampfire
+|RecipeDef.label=cook simple meal
+|RecipeDef.label.zh-cn=烹饪简单的食物
+|RecipeDef.label.zh-tw=烹調簡單的料理
+|RecipeDef.description=Cooks a straightforward meal from one ingredient.
+|RecipeDef.description.zh-cn=用单种材料烹饪一份简单的食物。
+|RecipeDef.description.zh-tw=用一種原料烹調一份簡單的料理
+|RecipeDef.jobString=Cooking simple meal.
+|RecipeDef.jobString.zh-cn=正在烹饪简单食物。
+|RecipeDef.jobString.zh-tw=烹調簡單的料理
+|RecipeDef.requiredGiverWorkType=Cooking
+|RecipeDef.workAmount=1000
+|RecipeDef.workSpeedStat=CookSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="FoodRaw"
+|RecipeDef.ingredients.0.count=0.5
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.disallowedSpecialFilters="AllowPlantFood"
+|RecipeDef.fixedIngredientFilter.categories="FoodRaw"
+|RecipeDef.defaultIngredientFilter=Exist
+|RecipeDef.defaultIngredientFilter.categories="FoodRaw"
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs="Human_Meat","Megaspider_Meat"
+|RecipeDef.defaultIngredientFilter.exceptedCategories="EggsFertilized"
+|RecipeDef.allowMixingIngredients=true
+|RecipeDef.ingredientValueGetterClass=IngredientValueGetter_Nutrition
+|RecipeDef.products="MealSimple","1"
+|RecipeDef.workSkill=Cooking
+|RecipeDef.effectWorking=Cook
+|RecipeDef.soundWorking=Recipe_CookMeal
+}}

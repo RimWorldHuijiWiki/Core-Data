@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=AnnoyingVoice
+|TraitDef.defName=AnnoyingVoice
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=annoying voice
+|TraitDef.degreeDatas.0.label.zh-cn=烦人的声音
+|TraitDef.degreeDatas.0.label.zh-tw=煩人的聲音
+|TraitDef.degreeDatas.0.description=NAME's voice has a particularly grating, nasal quality to it, and HE tends to talk in barked, garbled phrases. This predisposes others to dislike HIM.
+|TraitDef.degreeDatas.0.description.zh-cn=NAME的声音听起来很怪里怪气，HE说话时习惯发出一些叽叽咕咕的怪声，这使得其他人不喜欢HIM。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME說話的語調怪裡怪氣，有很重的鼻音，說話大聲又語意不清。這導致沒有人喜歡與HIM相處。
+|TraitDef.commonality=0.1
+}}

@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RightHandMechanicalThumb
+|BodyPartDef.defName=RightHandMechanicalThumb
+|BodyPartDef.label=right thumb
+|BodyPartDef.label.zh-cn=右拇指
+|BodyPartDef.label.zh-tw=右拇指
+|BodyPartDef.tags="ManipulationLimbDigit"
+|BodyPartDef.hitPoints=7
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.frostbiteVulnerability=10
+|BodyPartDef.isAlive=false
+}}

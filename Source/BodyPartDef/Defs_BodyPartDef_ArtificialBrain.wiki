@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=ArtificialBrain
+|BodyPartDef.defName=ArtificialBrain
+|BodyPartDef.label=artificial brain
+|BodyPartDef.label.zh-cn=仿生大脑
+|BodyPartDef.label.zh-tw=電腦核心
+|BodyPartDef.tags="ConsciousnessSource"
+|BodyPartDef.hitPoints=30
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.isAlive=false
+}}

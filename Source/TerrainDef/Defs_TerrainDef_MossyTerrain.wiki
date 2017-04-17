@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=MossyTerrain
+|TerrainDef.defName=MossyTerrain
+|TerrainDef.label=lichen-covered dirt
+|TerrainDef.label.zh-cn=苔藓地面
+|TerrainDef.label.zh-tw=苔癬地
+|TerrainDef.statBases="Beauty","-1";"Cleanliness","-1"
+|TerrainDef.pathCost=3
+|TerrainDef.fertility=1
+|TerrainDef.texturePath=Terrain/Surfaces/Mossy
+|TerrainDef.edgeType=FadeRough
+|TerrainDef.renderPrecedence=315
+|TerrainDef.affordances="Light","Heavy","GrowSoil","Diggable"
+|TerrainDef.takeFootprints=True
+|TerrainDef.avoidWander=false
+|TerrainDef.terrainFilthDef=FilthDirt
+|TerrainDef.acceptFilth=true
+}}

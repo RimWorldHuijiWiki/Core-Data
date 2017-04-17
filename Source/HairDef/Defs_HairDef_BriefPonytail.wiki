@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=BriefPonytail
+|HairDef.defName=BriefPonytail
+|HairDef.label=brief ponytail
+|HairDef.label.zh-cn=简单的马尾辫
+|HairDef.label.zh-tw=短馬尾
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Gaston
+|HairDef.hairGender=Male
+|HairDef.hairTags="Rural"
+}}

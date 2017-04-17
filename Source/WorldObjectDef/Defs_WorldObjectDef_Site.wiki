@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=WorldObjectDef
+|defName=Site
+|WorldObjectDef.defName=Site
+|WorldObjectDef.worldObjectClass=Site
+|WorldObjectDef.expandingIcon=true
+|WorldObjectDef.expandingIconPriority=70
+}}

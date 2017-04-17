@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=DeepTalk
+|ThoughtDef.defName=DeepTalk
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=had deep talk
+|ThoughtDef.stages.0.label.zh-cn=深入交流
+|ThoughtDef.stages.0.label.zh-tw=談話
+|ThoughtDef.stages.0.baseOpinionOffset=15
+|ThoughtDef.stackLimit=300
+|ThoughtDef.stackedEffectMultiplier=0.88
+|ThoughtDef.durationDays=20
+|ThoughtDef.nullifyingTraits="Psychopath"
+|ThoughtDef.stackLimitPerPawn=10
+}}

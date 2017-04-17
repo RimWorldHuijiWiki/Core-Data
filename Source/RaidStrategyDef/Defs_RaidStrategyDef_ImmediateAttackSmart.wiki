@@ -1,0 +1,22 @@
+{{#set:
+|dataType=Def
+|defType=RaidStrategyDef
+|defName=ImmediateAttackSmart
+|RaidStrategyDef.defName=ImmediateAttackSmart
+|RaidStrategyDef.workerClass=RaidStrategyWorker_ImmediateAttackSmart
+|RaidStrategyDef.arrivalTextFriendly=They are moving in to help you immediately.
+|RaidStrategyDef.arrivalTextFriendly.zh-cn=他们会立即支援你。
+|RaidStrategyDef.arrivalTextFriendly.zh-tw=他們會立即支援你。
+|RaidStrategyDef.arrivalTextEnemy=They are attacking immediately.<br/><br/>Watch out - they appear to be unusually clever with their tactics.
+|RaidStrategyDef.arrivalTextEnemy.zh-cn=他们会立即开始进攻。<br/><br/>注意：他们似乎异常聪明地采取了战术。
+|RaidStrategyDef.arrivalTextEnemy.zh-tw=他們會立即開始進攻。<br/><br/>請小心，這次的襲擊似乎有些不尋常。
+|RaidStrategyDef.pointsFactor=0.85
+|RaidStrategyDef.selectionChance=0.25
+|RaidStrategyDef.letterLabelEnemy=Raid
+|RaidStrategyDef.letterLabelEnemy.zh-cn=袭击
+|RaidStrategyDef.letterLabelEnemy.zh-tw=突襲
+|RaidStrategyDef.letterLabelFriendly=Friendlies
+|RaidStrategyDef.letterLabelFriendly.zh-cn=友军
+|RaidStrategyDef.letterLabelFriendly.zh-tw=支援
+|RaidStrategyDef.arriveModes="EdgeDrop","EdgeWalkIn","CenterDrop"
+}}

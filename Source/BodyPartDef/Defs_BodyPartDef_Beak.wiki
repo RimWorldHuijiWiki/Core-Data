@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Beak
+|BodyPartDef.defName=Beak
+|BodyPartDef.label=beak
+|BodyPartDef.label.zh-cn=喙
+|BodyPartDef.label.zh-tw=鳥喙
+|BodyPartDef.tags="EatingSource","TalkingSource","ManipulationLimbCore"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.bleedingRateMultiplier=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.frostbiteVulnerability=1.5
+|BodyPartDef.isAlive=false
+}}

@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=GrowerHarvest
+|WorkGiverDef.defName=GrowerHarvest
+|WorkGiverDef.label=harvest crops
+|WorkGiverDef.label.zh-cn=收获作物
+|WorkGiverDef.label.zh-tw=收穫
+|WorkGiverDef.giverClass=WorkGiver_GrowerHarvest
+|WorkGiverDef.workType=Growing
+|WorkGiverDef.priorityInType=100
+|WorkGiverDef.verb=harvest
+|WorkGiverDef.verb.zh-cn=收获
+|WorkGiverDef.verb.zh-tw=收穫
+|WorkGiverDef.gerund=harvesting
+|WorkGiverDef.gerund.zh-cn=收获
+|WorkGiverDef.gerund.zh-tw=收穫
+|WorkGiverDef.scanThings=false
+|WorkGiverDef.scanCells=true
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

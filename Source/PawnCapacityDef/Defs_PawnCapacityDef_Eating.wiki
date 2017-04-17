@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=PawnCapacityDef
+|defName=Eating
+|PawnCapacityDef.defName=Eating
+|PawnCapacityDef.label=eating
+|PawnCapacityDef.label.zh-cn=进食能力
+|PawnCapacityDef.label.zh-tw=食用
+|PawnCapacityDef.listOrder=50
+|PawnCapacityDef.workerClass=PawnCapacityWorker_Eating
+|PawnCapacityDef.showOnMechanoids=false
+|PawnCapacityDef.minValue=0.1
+|PawnCapacityDef.zeroIfCannotBeAwake=true
+}}

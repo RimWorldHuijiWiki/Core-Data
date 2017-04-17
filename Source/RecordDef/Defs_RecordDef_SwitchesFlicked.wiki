@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=SwitchesFlicked
+|RecordDef.defName=SwitchesFlicked
+|RecordDef.label=switches flicked
+|RecordDef.label.zh-cn=按下开关数
+|RecordDef.label.zh-tw=電源切換數
+|RecordDef.description=The number of switches I have flicked.
+|RecordDef.description.zh-cn=我按下的开关数量。
+|RecordDef.description.zh-tw=我切換電源開關的次數。
+|RecordDef.type=Int
+}}

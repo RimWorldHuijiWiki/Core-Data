@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=RuleDef
+|defName=AncientTemple
+|RuleDef.defName=AncientTemple
+|RuleDef.symbol=ancientTemple
+|RuleDef.resolvers=Exist
+|RuleDef.resolvers.Count=1
+|RuleDef.resolvers.0=Exist
+|RuleDef.resolvers.0.Class=SymbolResolver_AncientTemple
+|RuleDef.resolvers.0.minRectSize=(6, 5)
+}}

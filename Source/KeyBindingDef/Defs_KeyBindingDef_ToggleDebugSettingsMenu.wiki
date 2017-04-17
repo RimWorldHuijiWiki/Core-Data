@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=ToggleDebugSettingsMenu
+|KeyBindingDef.defName=ToggleDebugSettingsMenu
+|KeyBindingDef.label=toggle debug settings menu
+|KeyBindingDef.label.zh-cn=开关Debug设置菜单
+|KeyBindingDef.label.zh-tw=開啟/關閉Debug設定選單
+|KeyBindingDef.category=Development
+|KeyBindingDef.defaultKeyCodeA=RightBracket
+|KeyBindingDef.devModeOnly=true
+}}

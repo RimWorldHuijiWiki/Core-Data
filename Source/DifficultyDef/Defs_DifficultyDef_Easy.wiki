@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=DifficultyDef
+|defName=Easy
+|DifficultyDef.defName=Easy
+|DifficultyDef.label=Some challenge
+|DifficultyDef.label.zh-cn=小有挑战
+|DifficultyDef.label.zh-tw=簡單
+|DifficultyDef.description=For players on their first game, or casual players who still want a challenge.<br/><br/>Threats are dangerous but not brutal.
+|DifficultyDef.description.zh-cn=为新手或者那些想要一些挑战的休闲玩家而准备。<br/><br/>会有一些挑战，但是无关痛痒，几乎可以无视。
+|DifficultyDef.description.zh-tw=推薦給初次接觸RimWorld的玩家，以及想簡單進行遊戲而仍然想保持一定挑戰性的玩家。襲擊的規模較小。危險性較低。
+|DifficultyDef.difficulty=2
+|DifficultyDef.threatScale=0.35
+|DifficultyDef.colonistMoodOffset=5
+|DifficultyDef.tradePriceFactorLoss=0.05
+|DifficultyDef.cropYieldFactor=1.20
+|DifficultyDef.diseaseIntervalFactor=1.5
+|DifficultyDef.enemyReproductionRateFactor=0.4
+}}

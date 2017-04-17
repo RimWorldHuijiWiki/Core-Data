@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=WakeUpWithdrawal
+|ThoughtDef.defName=WakeUpWithdrawal
+|ThoughtDef.workerClass=ThoughtWorker_Hediff
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=2
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.visible=false
+|ThoughtDef.stages.1=Exist
+|ThoughtDef.stages.1.label=wake-up withdrawal
+|ThoughtDef.stages.1.label.zh-cn=清醒丸戒断
+|ThoughtDef.stages.1.label.zh-tw=醒神劑戒斷
+|ThoughtDef.stages.1.description=I feel all fuzzy and unfocused.
+|ThoughtDef.stages.1.description.zh-cn=头昏脑胀，注意力完全无法集中。
+|ThoughtDef.stages.1.description.zh-tw=我感覺頭昏腦脹，精神無法專注。
+|ThoughtDef.stages.1.baseMoodEffect=-35
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.hediff=WakeUpAddiction
+}}

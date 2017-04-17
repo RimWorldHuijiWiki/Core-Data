@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=DrugBurning
+|ConceptDef.defName=DrugBurning
+|ConceptDef.label=Drug burning
+|ConceptDef.label.zh-cn=销毁成瘾品
+|ConceptDef.label.zh-tw=銷毀藥物
+|ConceptDef.priority=50
+|ConceptDef.needsOpportunity=true
+|ConceptDef.helpText=Drugs can be useful, but can also lead to harmful addictions.<br/><br/>If you want to avoid drugs in your colony, you have the option of burning them at a campfire.
+|ConceptDef.helpText.zh-cn=成瘾品很有用，但也会导致成瘾。<br/><br/>如果你想在殖民地内完全禁用成瘾品，你可以选择在篝火处烧毁成瘾品。
+|ConceptDef.helpText.zh-tw=藥物可以提供正面助益，但經常伴隨著藥癮。<br/><br/>如果你想避免藥物出現在你的殖民地，你可以選擇在營火銷毀藥物。
+|ConceptDef.highlightTags="DesignationCategoryButton-Temperature-Closed","Designator-Build-Campfire","ITab-Bills-Closed"
+}}

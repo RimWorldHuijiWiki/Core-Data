@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=FixBrokenDownBuilding
+|WorkGiverDef.defName=FixBrokenDownBuilding
+|WorkGiverDef.label=fix broken-down buildings
+|WorkGiverDef.label.zh-cn=替换损坏的零部件
+|WorkGiverDef.label.zh-tw=修復損壞的設施
+|WorkGiverDef.giverClass=WorkGiver_FixBrokenDownBuilding
+|WorkGiverDef.workType=Construction
+|WorkGiverDef.priorityInType=90
+|WorkGiverDef.verb=replace broken components in
+|WorkGiverDef.verb.zh-cn=替换损坏的零部件
+|WorkGiverDef.verb.zh-tw=更換零件
+|WorkGiverDef.gerund=replacing broken components in
+|WorkGiverDef.gerund.zh-cn=替换损坏的零部件
+|WorkGiverDef.gerund.zh-tw=更換零件
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+}}

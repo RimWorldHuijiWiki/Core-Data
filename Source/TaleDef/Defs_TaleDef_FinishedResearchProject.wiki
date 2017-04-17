@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=TaleDef
+|defName=FinishedResearchProject
+|TaleDef.defName=FinishedResearchProject
+|TaleDef.label=research project finished
+|TaleDef.label.zh-cn=研究项目完成
+|TaleDef.label.zh-tw=research project finished
+|TaleDef.type=Volatile
+|TaleDef.taleClass=Tale_SinglePawnAndDef
+|TaleDef.rulePack=Exist
+|TaleDef.rulePack.rulesStrings="tale_noun->[pawn_nameShortDef] finishing research on [project_label]","image->[pawn_nameFull] working on [project_label] research project [circumstance_group]","image->[pawn_nameFull] studying the secrets of [project_label] [circumstance_group]","image->[pawn_nameFull] researching [project_label] [circumstance_group]","circumstance_phrase->with great intensity","circumstance_phrase->alone at [pawn_possessive] bench","circumstance_phrase->while holding papers in [pawn_possessive] hand","circumstance_phrase->with a look of gleeful fascination","desc_sentence->[pawn_nameShortDef] is sweating.","desc_sentence->The work appears to be exceptionally complex.","desc_sentence->[pawn_nameShortDef] is completely surrounded by an array of tools and apparatuses.","desc_sentence->[pawn_nameShortDef] is staring at [pawn_possessive] discovery with a sense of wonder.","tale_noun->[pawn_nameShortDef]完成了「[project_label]」的研究","image->[pawn_nameFull][circumstance_group]进行着「[project_label]」项目的研究","image->[pawn_nameFull][circumstance_group]探寻着「[project_label]」的奥秘","image->[pawn_nameFull][circumstance_group]研究着「[project_label]」","circumstance_phrase->极度紧张地","circumstance_phrase->独自站在[pawn_possessive]研究台前","circumstance_phrase->一边手中拿着[pawn_possessive]文件一边","circumstance_phrase->一脸痴迷地","desc_sentence->[pawn_nameShortDef]大汗淋漓。","desc_sentence->项目显得异常复杂。","desc_sentence->[pawn_nameShortDef]完全被一排排的工具和仪器环绕着。","desc_sentence->[pawn_nameShortDef]惊奇不已地盯着[pawn_possessive]发现。","tale_noun->[pawn_nameShortDef] finishing research on [project_label]","image->[pawn_nameFull] working on [project_label] research project [circumstance_group]","image->[pawn_nameFull] studying the secrets of [project_label] [circumstance_group]","image->[pawn_nameFull] researching [project_label] [circumstance_group]","circumstance_phrase->with great intensity","circumstance_phrase->alone at [pawn_possessive] bench","circumstance_phrase->while holding papers in [pawn_possessive] hand","circumstance_phrase->with a look of gleeful fascination","desc_sentence->[pawn_nameShortDef] is sweating.","desc_sentence->The work appears to be exceptionally complex.","desc_sentence->[pawn_nameShortDef] is completely surrounded by an array of tools and apparatuses.","desc_sentence->[pawn_nameShortDef] is staring at [pawn_possessive] discovery with a sense of wonder."
+|TaleDef.defSymbol=project
+|TaleDef.baseInterest=1.5
+}}

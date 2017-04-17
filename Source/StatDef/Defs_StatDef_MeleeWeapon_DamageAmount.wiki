@@ -1,0 +1,36 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=MeleeWeapon_DamageAmount
+|StatDef.defName=MeleeWeapon_DamageAmount
+|StatDef.label=melee damage
+|StatDef.label.zh-cn=近战伤害
+|StatDef.label.zh-tw=武器攻擊力
+|StatDef.description=Damage done per hit in melee combat.
+|StatDef.description.zh-cn=近战中每次攻击造成的伤害。
+|StatDef.description.zh-tw=此武器每次攻擊所能造成的傷害。
+|StatDef.category=Weapon
+|StatDef.workerClass=StatWorker_MeleeDamageAmountWeapon
+|StatDef.showIfUndefined=false
+|StatDef.displayPriorityInCategory=1000
+|StatDef.toStringStyle=Integer
+|StatDef.defaultBaseValue=1
+|StatDef.minValue=1
+|StatDef.parts=Exist
+|StatDef.parts.Count=2
+|StatDef.parts.0=Exist
+|StatDef.parts.0.Class=StatPart_Quality
+|StatDef.parts.0.factorAwful=0.4
+|StatDef.parts.0.factorShoddy=0.7
+|StatDef.parts.0.factorPoor=0.85
+|StatDef.parts.0.factorNormal=1
+|StatDef.parts.0.factorGood=1.1
+|StatDef.parts.0.factorSuperior=1.2
+|StatDef.parts.0.factorExcellent=1.35
+|StatDef.parts.0.factorMasterwork=1.45
+|StatDef.parts.0.factorLegendary=1.55
+|StatDef.parts.1=Exist
+|StatDef.parts.1.Class=StatPart_Health
+|StatDef.parts.1.curve=Exist
+|StatDef.parts.1.curve.points="(0,0.6)","(1,1)"
+}}

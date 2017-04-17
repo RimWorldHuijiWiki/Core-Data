@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=StorytellerDef
+|defName=Tutor
+|StorytellerDef.defName=Tutor
+|StorytellerDef.label=Tutor Hidden
+|StorytellerDef.label.zh-cn=教程-隐藏
+|StorytellerDef.label.zh-tw=教學課程
+|StorytellerDef.listOrder=1000
+|StorytellerDef.listVisible=false
+|StorytellerDef.tutorialMode=true
+|StorytellerDef.disableAdaptiveTraining=true
+|StorytellerDef.disableAlerts=true
+|StorytellerDef.disablePermadeath=true
+|StorytellerDef.forcedDifficulty=VeryEasy
+|StorytellerDef.comps=Exist
+|StorytellerDef.comps.Count=0
+|StorytellerDef.desiredPopulationMin=4
+|StorytellerDef.desiredPopulationMax=13
+|StorytellerDef.desiredPopulationCritical=50
+}}

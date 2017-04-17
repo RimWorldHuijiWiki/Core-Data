@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=BodyParts
+|ThingCategoryDef.defName=BodyParts
+|ThingCategoryDef.label=body parts
+|ThingCategoryDef.label.zh-cn=身体部件
+|ThingCategoryDef.label.zh-tw=身體部位
+|ThingCategoryDef.parent=Items
+}}

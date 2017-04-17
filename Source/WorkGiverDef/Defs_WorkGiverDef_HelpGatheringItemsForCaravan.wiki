@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=HelpGatheringItemsForCaravan
+|WorkGiverDef.defName=HelpGatheringItemsForCaravan
+|WorkGiverDef.label=load caravan
+|WorkGiverDef.label.zh-cn=装载远行队
+|WorkGiverDef.label.zh-tw=load caravan
+|WorkGiverDef.giverClass=WorkGiver_HelpGatheringItemsForCaravan
+|WorkGiverDef.workType=Hauling
+|WorkGiverDef.priorityInType=105
+|WorkGiverDef.verb=load
+|WorkGiverDef.verb.zh-cn=装货
+|WorkGiverDef.verb.zh-tw=load
+|WorkGiverDef.gerund=loading
+|WorkGiverDef.gerund.zh-cn=装货
+|WorkGiverDef.gerund.zh-tw=loading
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

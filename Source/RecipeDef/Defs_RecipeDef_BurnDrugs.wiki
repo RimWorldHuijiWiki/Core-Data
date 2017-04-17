@@ -1,0 +1,28 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=BurnDrugs
+|RecipeDef.defName=BurnDrugs
+|RecipeDef.label=burn drugs
+|RecipeDef.label.zh-cn=销毁成瘾品
+|RecipeDef.label.zh-tw=焚毀藥物
+|RecipeDef.description=Burn drugs to completely destroy them.
+|RecipeDef.description.zh-cn=彻底销毁成瘾品。
+|RecipeDef.description.zh-tw=用火焰徹底銷毀藥物。
+|RecipeDef.jobString=Burning drugs.
+|RecipeDef.jobString.zh-cn=正在销毁成瘾品。
+|RecipeDef.jobString.zh-tw=焚毀藥物。
+|RecipeDef.requiredGiverWorkType=Hauling
+|RecipeDef.workAmount=40
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Drugs"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Drugs"
+|RecipeDef.effectWorking=BurnDrug
+|RecipeDef.soundWorking=Recipe_Cremate
+|RecipeDef.conceptLearned=DrugBurning
+}}

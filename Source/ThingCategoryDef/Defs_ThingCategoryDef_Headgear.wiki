@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=Headgear
+|ThingCategoryDef.defName=Headgear
+|ThingCategoryDef.label=headgear
+|ThingCategoryDef.label.zh-cn=帽子
+|ThingCategoryDef.label.zh-tw=頭部裝備
+|ThingCategoryDef.parent=Apparel
+}}

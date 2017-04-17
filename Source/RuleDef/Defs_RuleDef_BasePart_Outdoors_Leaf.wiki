@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=RuleDef
+|defName=BasePart_Outdoors_Leaf
+|RuleDef.defName=BasePart_Outdoors_Leaf
+|RuleDef.symbol=basePart_outdoors_leaf
+|RuleDef.resolvers=Exist
+|RuleDef.resolvers.Count=4
+|RuleDef.resolvers.0=Exist
+|RuleDef.resolvers.0.Class=SymbolResolver_BasePart_Outdoors_Leaf_Empty
+|RuleDef.resolvers.0.selectionWeight=0.01
+|RuleDef.resolvers.1=Exist
+|RuleDef.resolvers.1.Class=SymbolResolver_BasePart_Outdoors_Leaf_Farm
+|RuleDef.resolvers.1.selectionWeight=0.65
+|RuleDef.resolvers.2=Exist
+|RuleDef.resolvers.2.Class=SymbolResolver_BasePart_Outdoors_Leaf_PowerPlant
+|RuleDef.resolvers.2.selectionWeight=0.3
+|RuleDef.resolvers.3=Exist
+|RuleDef.resolvers.3.Class=SymbolResolver_BasePart_Outdoors_Leaf_Building
+|RuleDef.resolvers.3.minRectSize=(4, 4)
+}}

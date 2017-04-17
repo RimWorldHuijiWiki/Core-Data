@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=TraderCaravanArrival
+|IncidentDef.defName=TraderCaravanArrival
+|IncidentDef.label=trader caravan arrival
+|IncidentDef.label.zh-cn=贸易商队
+|IncidentDef.label.zh-tw=旅團
+|IncidentDef.workerClass=IncidentWorker_TraderCaravanArrival
+|IncidentDef.targetType=BaseMap
+|IncidentDef.baseChance=4
+|IncidentDef.category=AllyArrival
+}}

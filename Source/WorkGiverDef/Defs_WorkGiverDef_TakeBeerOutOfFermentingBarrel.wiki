@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=TakeBeerOutOfFermentingBarrel
+|WorkGiverDef.defName=TakeBeerOutOfFermentingBarrel
+|WorkGiverDef.label=take beer out of fermenting barrels
+|WorkGiverDef.label.zh-cn=从发酵桶中取出啤酒
+|WorkGiverDef.label.zh-tw=取出酒桶內的啤酒
+|WorkGiverDef.giverClass=WorkGiver_TakeBeerOutOfFermentingBarrel
+|WorkGiverDef.workType=Hauling
+|WorkGiverDef.priorityInType=20
+|WorkGiverDef.verb=take beer
+|WorkGiverDef.verb.zh-cn=取出啤酒
+|WorkGiverDef.verb.zh-tw=取出
+|WorkGiverDef.gerund=taking beer from
+|WorkGiverDef.gerund.zh-cn=取出啤酒
+|WorkGiverDef.gerund.zh-tw=取出
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

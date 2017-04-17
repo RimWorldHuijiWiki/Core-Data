@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=BeatFire
+|JobDef.defName=BeatFire
+|JobDef.driverClass=JobDriver_BeatFire
+|JobDef.reportString=beating fire out.
+|JobDef.reportString.zh-cn=正在扑灭火焰。
+|JobDef.reportString.zh-tw=滅火。
+|JobDef.neverShowWeapon=true
+|JobDef.casualInterruptible=false
+}}

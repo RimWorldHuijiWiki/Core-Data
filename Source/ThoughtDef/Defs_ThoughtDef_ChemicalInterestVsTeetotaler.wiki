@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=ChemicalInterestVsTeetotaler
+|ThoughtDef.defName=ChemicalInterestVsTeetotaler
+|ThoughtDef.thoughtClass=Thought_ChemicalInterestVsTeetotaler
+|ThoughtDef.workerClass=ThoughtWorker_ChemicalInterestVsTeetotaler
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=chemical interest vs teetotaler
+|ThoughtDef.stages.0.label.zh-cn=成瘾品爱好VS成瘾品厌恶
+|ThoughtDef.stages.0.label.zh-tw=酒鬼VS滴酒不沾
+|ThoughtDef.validWhileDespawned=true
+}}

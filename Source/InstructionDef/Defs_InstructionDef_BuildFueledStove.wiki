@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=BuildFueledStove
+|InstructionDef.defName=BuildFueledStove
+|InstructionDef.instructionClass=Instruction_BuildInRoom
+|InstructionDef.text=Excellent!<br/><br/>Now you'll need to make a stove to cook food.<br/><br/>Build a FUELED STOVE inside the room.
+|InstructionDef.text.zh-cn=不错！<br/><br/>现在需要造一个炉灶来烹饪。<br/><br/>在之前的房间里造一个燃料炉灶。
+|InstructionDef.text.zh-tw=做得漂亮！<br/>現在你需要一個爐灶來烹煮料理。<br/><br/>在房間內建造一座爐灶。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-EquipWeapons
+|InstructionDef.actionTagsAllowed="MainTab-Architect-Open","SelectDesignator-FueledStove","Designate-FueledStove"
+|InstructionDef.rejectInputMessage=Please build the fueled stove inside the room you built earlier.
+|InstructionDef.rejectInputMessage.zh-cn=请在你之前建造的房间内造炉灶
+|InstructionDef.rejectInputMessage.zh-tw=請將爐灶建造在稍早建造的房間內。
+|InstructionDef.highlightTags="MainTab-Architect-Closed","DesignationCategoryButton-Production-Closed","Designator-Build-FueledStove"
+|InstructionDef.onMapInstruction=Build a fueled stove inside the room
+|InstructionDef.onMapInstruction.zh-cn=请在室内造炉灶
+|InstructionDef.onMapInstruction.zh-tw=將爐灶建造在房間內
+|InstructionDef.targetCount=1
+|InstructionDef.thingDef=FueledStove
+}}

@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=RefugeeChased
+|IncidentDef.defName=RefugeeChased
+|IncidentDef.label=chased refugee
+|IncidentDef.label.zh-cn=被追捕的逃生者
+|IncidentDef.label.zh-tw=庇護請求
+|IncidentDef.workerClass=IncidentWorker_RefugeeChased
+|IncidentDef.targetType=BaseMap
+|IncidentDef.baseChance=2.5
+|IncidentDef.populationEffect=Increase
+|IncidentDef.minRefireDays=8
+}}

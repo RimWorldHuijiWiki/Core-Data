@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Skygaze
+|JobDef.defName=Skygaze
+|JobDef.driverClass=JobDriver_Skygaze
+|JobDef.reportString=skygazing.
+|JobDef.reportString.zh-cn=凝视天空。
+|JobDef.reportString.zh-tw=凝望天空。
+|JobDef.joyDuration=4000
+|JobDef.joyGainRate=1
+|JobDef.joyKind=Meditative
+}}

@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=StuffCategoryDef
+|defName=Metallic
+|StuffCategoryDef.defName=Metallic
+|StuffCategoryDef.label=metallic
+|StuffCategoryDef.label.zh-cn=金属
+|StuffCategoryDef.label.zh-tw=金屬
+}}

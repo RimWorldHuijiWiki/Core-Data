@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=LeftTibia
+|BodyPartDef.defName=LeftTibia
+|BodyPartDef.label=left tibia
+|BodyPartDef.label.zh-cn=左胫骨
+|BodyPartDef.label.zh-tw=左脛骨
+|BodyPartDef.tags="MovingLimbSegment"
+|BodyPartDef.hitPoints=25
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+}}

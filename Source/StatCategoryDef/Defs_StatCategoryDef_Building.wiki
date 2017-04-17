@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=StatCategoryDef
+|defName=Building
+|StatCategoryDef.defName=Building
+|StatCategoryDef.label=Building
+|StatCategoryDef.label.zh-cn=建造
+|StatCategoryDef.label.zh-tw=建築
+|StatCategoryDef.displayOrder=50
+}}

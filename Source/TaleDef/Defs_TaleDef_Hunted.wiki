@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=TaleDef
+|defName=Hunted
+|TaleDef.defName=Hunted
+|TaleDef.label=animal hunted
+|TaleDef.label.zh-cn=狩猎
+|TaleDef.label.zh-tw=animal hunted
+|TaleDef.type=Volatile
+|TaleDef.taleClass=Tale_DoublePawn
+|TaleDef.ignoreChance=0.5
+|TaleDef.rulePack=Exist
+|TaleDef.rulePack.rulesStrings="tale_noun->[hunter_nameShortDef]'s successful hunt","image->[prey_nameFull] being hunted by [hunter_nameFull] [circumstance_group]","image->[hunter_nameFull] stalking [prey_nameFull] from afar [circumstance_group]","image->[hunter_nameFull] hunting [prey_nameFull] [circumstance_group]","circumstance_phrase->as [prey_nameShortDef] relaxes","circumstance_phrase->as [prey_nameShortDef] travels","circumstance_phrase->as [prey_nameShortDef] eats","desc_sentence->[prey_nameShortDef] seems totally oblivious.","desc_sentence->[hunter_nameShortDef] is gripping [hunter_possessive] weapon tightly.","desc_sentence->[prey_nameShortDef] is looking around as though [prey_pronoun] senses that something is wrong.","tale_noun->[hunter_nameShortDef]成功的狩猎","image->[prey_nameFull]正在被[hunter_nameFull]狩猎，[circumstance_group]","image->[hunter_nameFull]远远地追踪着[prey_nameFull]，[circumstance_group]","image->[hunter_nameFull]狩猎着[prey_nameFull]，[circumstance_group]","circumstance_phrase->而这正是[prey_nameShortDef]松懈之时","circumstance_phrase->而这正是[prey_nameShortDef]经过之时","circumstance_phrase->而这正是[prey_nameShortDef]进食之时","desc_sentence->[prey_nameShortDef]似乎毫无察觉。","desc_sentence->[hunter_nameShortDef]紧握着[hunter_possessive]武器。","desc_sentence->[prey_nameShortDef]四处观望，仿佛感觉哪里不对劲。","tale_noun->[hunter_nameShortDef]'s successful hunt","image->[prey_nameFull] being hunted by [hunter_nameFull] [circumstance_group]","image->[hunter_nameFull] stalking [prey_nameFull] from afar [circumstance_group]","image->[hunter_nameFull] hunting [prey_nameFull] [circumstance_group]","circumstance_phrase->as [prey_nameShortDef] relaxes","circumstance_phrase->as [prey_nameShortDef] travels","circumstance_phrase->as [prey_nameShortDef] eats","desc_sentence->[prey_nameShortDef] seems totally oblivious.","desc_sentence->[hunter_nameShortDef] is gripping [hunter_possessive] weapon tightly.","desc_sentence->[prey_nameShortDef] is looking around as though [prey_pronoun] senses that something is wrong."
+|TaleDef.firstPawnSymbol=hunter
+|TaleDef.secondPawnSymbol=prey
+|TaleDef.baseInterest=0.2
+}}

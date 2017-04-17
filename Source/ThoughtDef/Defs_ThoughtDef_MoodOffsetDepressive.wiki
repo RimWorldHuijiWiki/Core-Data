@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=MoodOffsetDepressive
+|ThoughtDef.defName=MoodOffsetDepressive
+|ThoughtDef.workerClass=ThoughtWorker_AlwaysActive
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=depressive
+|ThoughtDef.stages.0.label.zh-cn=抑郁症
+|ThoughtDef.stages.0.label.zh-tw=憂鬱
+|ThoughtDef.stages.0.description=Natural penalty from Depressive trait.
+|ThoughtDef.stages.0.description.zh-cn=抑郁症特性带来的心情惩罚。
+|ThoughtDef.stages.0.description.zh-tw=因為「憂鬱」特性而降低的心情。
+|ThoughtDef.stages.0.baseMoodEffect=-12
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.requiredTraits="NaturalMood"
+|ThoughtDef.requiredTraitsDegree=-2
+}}

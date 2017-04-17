@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=WorldObjectDef
+|defName=Ambush
+|WorldObjectDef.defName=Ambush
+|WorldObjectDef.label=ambush
+|WorldObjectDef.label.zh-cn=伏击
+|WorldObjectDef.label.zh-tw=埋伏
+|WorldObjectDef.description=An ongoing ambush battle.
+|WorldObjectDef.description.zh-cn=一场正在进行中的伏击战。
+|WorldObjectDef.description.zh-tw=從埋伏地點突襲目標。
+|WorldObjectDef.worldObjectClass=CaravansBattlefield
+|WorldObjectDef.expandingIcon=true
+|WorldObjectDef.expandingIconTexture=World/WorldObjects/Expanding/Ambush
+|WorldObjectDef.expandingIconPriority=80
+|WorldObjectDef.texture=World/WorldObjects/Ambush
+|WorldObjectDef.blockExitGridUntilBattleIsWon=true
+}}

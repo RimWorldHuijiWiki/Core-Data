@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=AnimalJaw
+|BodyPartDef.defName=AnimalJaw
+|BodyPartDef.label=jaw
+|BodyPartDef.label.zh-cn=颌
+|BodyPartDef.label.zh-tw=jaw
+|BodyPartDef.tags="ManipulationLimbCore"
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+}}

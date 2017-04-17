@@ -1,0 +1,26 @@
+{{#set:
+|dataType=Def
+|defType=RulePackDef
+|defName=NamerPersonTribal
+|RulePackDef.defName=NamerPersonTribal
+|RulePackDef.rulePack=Exist
+|RulePackDef.rulePack.rulesStrings="name->[tribalword] '[badassanimal]' [tribalword]","name->[color] [tribalword]","name->[tribalword] [tribalword]","name->[tribalword] [tribalword]","name->[tribalword] [animal]","name->[animal] [tribalword]","name->[color] [animal]","name->[tribalword] '[badassanimal]' [tribalword]","name->[color]色 [tribalword]","name->[tribalword] [tribalword]","name->[tribalword] [tribalword]","name->[tribalword] [animal]","name->[animal] [tribalword]","name->[color]色 [animal]","name->[tribalword] [tribalword]","name->[tribalword] [tribalword]","name->[tribalword] [tribalword]","name->[tribalword] [tribalword] [tribalword]","name->[tribalword] [animal]","name->[animal] [tribalword]","name->[tribalword] [tribalword] [animal]"
+|RulePackDef.rulePack.rulesRaw=Exist
+|RulePackDef.rulePack.rulesRaw.Count=4
+|RulePackDef.rulePack.rulesRaw.0=Exist
+|RulePackDef.rulePack.rulesRaw.0.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.0.keyword=tribalword
+|RulePackDef.rulePack.rulesRaw.0.path=Words/Foreign/Tribal
+|RulePackDef.rulePack.rulesRaw.1=Exist
+|RulePackDef.rulePack.rulesRaw.1.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.1.keyword=badassanimal
+|RulePackDef.rulePack.rulesRaw.1.path=Words/Nouns/Animals_Badass
+|RulePackDef.rulePack.rulesRaw.2=Exist
+|RulePackDef.rulePack.rulesRaw.2.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.2.keyword=animal
+|RulePackDef.rulePack.rulesRaw.2.path=Words/Nouns/Animals
+|RulePackDef.rulePack.rulesRaw.3=Exist
+|RulePackDef.rulePack.rulesRaw.3.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.3.keyword=color
+|RulePackDef.rulePack.rulesRaw.3.path=Words/Nouns/Colors
+}}

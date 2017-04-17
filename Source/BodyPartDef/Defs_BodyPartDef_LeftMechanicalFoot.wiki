@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=LeftMechanicalFoot
+|BodyPartDef.defName=LeftMechanicalFoot
+|BodyPartDef.label=left foot
+|BodyPartDef.label.zh-cn=左足
+|BodyPartDef.label.zh-tw=左腳
+|BodyPartDef.tags="MovingLimbSegment"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.frostbiteVulnerability=2
+|BodyPartDef.isAlive=false
+}}

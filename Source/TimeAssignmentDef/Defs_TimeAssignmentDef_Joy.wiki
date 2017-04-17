@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=TimeAssignmentDef
+|defName=Joy
+|TimeAssignmentDef.defName=Joy
+|TimeAssignmentDef.label=joy
+|TimeAssignmentDef.label.zh-cn=娱乐
+|TimeAssignmentDef.label.zh-tw=娛樂
+|TimeAssignmentDef.color=(115, 90, 130)
+}}

@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=Joywire
+|HediffDef.defName=Joywire
+|HediffDef.label=joywire
+|HediffDef.label.zh-cn=乐丝芯片
+|HediffDef.label.zh-tw=樂絲晶片
+|HediffDef.hediffClass=Hediff_Implant
+|HediffDef.stages=Exist
+|HediffDef.stages.Count=1
+|HediffDef.stages.0=Exist
+|HediffDef.stages.0.partEfficiencyOffset=-0.2
+|HediffDef.isBad=false
+|HediffDef.spawnThingOnRemoved=Joywire
+|HediffDef.defaultLabelColor=(0.65, 0.3, 0.9)
+}}

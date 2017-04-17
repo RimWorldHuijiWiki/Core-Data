@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=BuildHorseshoesPin
+|InstructionDef.defName=BuildHorseshoesPin
+|InstructionDef.instructionClass=Instruction_BuildNearRoom
+|InstructionDef.text=Your colonists need sources of joy or they'll get sad over time.<br/><br/>Build a HORSESHOES pin outside, near the room.
+|InstructionDef.text.zh-cn=你的殖民者需要找点乐子打发时间。<br/><br/>在屋外造一个「马蹄钉」。
+|InstructionDef.text.zh-tw=你的居民需要一些娛樂方式，否則他們會整天悶悶不樂。<br/><br/>在房間外建造一個馬蹄鐵棒。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-BuildAnimalSleepingSpot
+|InstructionDef.actionTagsAllowed="MainTab-Architect-Open","SelectDesignator-HorseshoesPin","SelectStuff-HorseshoesPin-WoodLog","SelectStuff-HorseshoesPin-Steel","Designate-HorseshoesPin"
+|InstructionDef.rejectInputMessage=Please place a horseshoes pin somewhere near the room.
+|InstructionDef.rejectInputMessage.zh-cn=请在房屋附近造一个马蹄钉
+|InstructionDef.rejectInputMessage.zh-tw=請在室外靠牆處建造馬蹄鐵棒。
+|InstructionDef.highlightTags="MainTab-Architect-Closed","DesignationCategoryButton-Joy-Closed","Designator-Build-HorseshoesPin","SelectStuff-HorseshoesPin-WoodLog","SelectStuff-HorseshoesPin-Steel"
+|InstructionDef.onMapInstruction=Build a horseshoes pin<br/>outside the room
+|InstructionDef.onMapInstruction.zh-cn=在屋外造一个马蹄钉
+|InstructionDef.onMapInstruction.zh-tw=將馬蹄鐵棒建造在房間外
+|InstructionDef.targetCount=1
+|InstructionDef.thingDef=HorseshoesPin
+}}

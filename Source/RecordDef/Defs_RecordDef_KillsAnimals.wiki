@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=KillsAnimals
+|RecordDef.defName=KillsAnimals
+|RecordDef.label=kills (animals)
+|RecordDef.label.zh-cn=击杀（动物）
+|RecordDef.label.zh-tw=擊殺數(動物)
+|RecordDef.description=The number of animals I have killed.
+|RecordDef.description.zh-cn=我所杀死的动物数量。
+|RecordDef.description.zh-tw=我殺死的動物數量。
+|RecordDef.type=Int
+}}

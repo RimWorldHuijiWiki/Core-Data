@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=MeleeDPS
+|StatDef.defName=MeleeDPS
+|StatDef.label=melee DPS
+|StatDef.label.zh-cn=近战DPS
+|StatDef.label.zh-tw=近戰DPS
+|StatDef.description=Average damage per second in melee combat. This stat ignores target defenses like dodging and armor.
+|StatDef.description.zh-cn=近战中每秒平均伤害。（未计算目标防御力，比如闪避和护甲。）
+|StatDef.description.zh-tw=肉搏戰鬥時平均每秒所能造成的傷害。
+|StatDef.category=PawnCombat
+|StatDef.workerClass=StatWorker_MeleeDPS
+|StatDef.displayPriorityInCategory=100
+|StatDef.toStringStyle=FloatOne
+|StatDef.defaultBaseValue=0
+|StatDef.minValue=0
+}}

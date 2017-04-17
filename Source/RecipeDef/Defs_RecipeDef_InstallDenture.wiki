@@ -1,0 +1,32 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=InstallDenture
+|RecipeDef.defName=InstallDenture
+|RecipeDef.label=install denture
+|RecipeDef.label.zh-cn=安装义齿
+|RecipeDef.label.zh-tw=安裝義齒
+|RecipeDef.description=Installs denture.
+|RecipeDef.description.zh-cn=安装义齿。
+|RecipeDef.description.zh-tw=安裝義齒。
+|RecipeDef.workerClass=Recipe_InstallArtificialBodyPart
+|RecipeDef.jobString=Installing denture.
+|RecipeDef.jobString.zh-cn=正在安装义齿。
+|RecipeDef.jobString.zh-tw=安裝義齒。
+|RecipeDef.workAmount=2000
+|RecipeDef.workSpeedStat=MedicalOperationSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Medicine"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Medicine"
+|RecipeDef.workSkill=Medicine
+|RecipeDef.workSkillLearnFactor=16
+|RecipeDef.effectWorking=Surgery
+|RecipeDef.soundWorking=Recipe_Surgery
+|RecipeDef.appliedOnFixedBodyParts="Jaw"
+|RecipeDef.addsHediff=Denture
+}}

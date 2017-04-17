@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=SelfTame
+|IncidentDef.defName=SelfTame
+|IncidentDef.label=self-tame
+|IncidentDef.label.zh-cn=野兽自行驯服
+|IncidentDef.label.zh-tw=自我馴服
+|IncidentDef.workerClass=IncidentWorker_SelfTame
+|IncidentDef.targetType=BaseMap
+|IncidentDef.baseChance=0.75
+}}

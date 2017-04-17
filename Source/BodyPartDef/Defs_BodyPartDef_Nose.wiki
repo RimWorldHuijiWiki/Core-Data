@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Nose
+|BodyPartDef.defName=Nose
+|BodyPartDef.label=nose
+|BodyPartDef.label.zh-cn=鼻
+|BodyPartDef.label.zh-tw=鼻子
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=5
+|BodyPartDef.beautyRelated=true
+}}

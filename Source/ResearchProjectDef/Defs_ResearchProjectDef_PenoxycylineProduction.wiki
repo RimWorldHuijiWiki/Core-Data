@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=PenoxycylineProduction
+|ResearchProjectDef.defName=PenoxycylineProduction
+|ResearchProjectDef.label=penoxycyline production
+|ResearchProjectDef.label.zh-cn=盘诺西林制作
+|ResearchProjectDef.label.zh-tw=盤諾沙林生產
+|ResearchProjectDef.description=Learn to produce penoxycline, a disease prevention drug.
+|ResearchProjectDef.description.zh-cn=学会制作盘诺西林，一种疾病防治药物。
+|ResearchProjectDef.description.zh-tw=研究如何製造盤諾沙林，一種能夠預防疾病的藥物。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=500
+|ResearchProjectDef.prerequisites="DrugProduction"
+|ResearchProjectDef.researchViewX=2
+|ResearchProjectDef.researchViewY=2.75
+}}

@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=DutyDef
+|defName=Steal
+|DutyDef.defName=Steal
+|DutyDef.thinkNode=Exist
+|DutyDef.thinkNode.Class=ThinkNode_Priority
+|DutyDef.thinkNode.subNodes=Exist
+|DutyDef.thinkNode.subNodes.Count=2
+|DutyDef.thinkNode.subNodes.0=Exist
+|DutyDef.thinkNode.subNodes.0.Class=JobGiver_Steal
+|DutyDef.thinkNode.subNodes.1=Exist
+|DutyDef.thinkNode.subNodes.1.Class=JobGiver_ExitMapBest
+|DutyDef.thinkNode.subNodes.1.defaultLocomotion=Jog
+|DutyDef.thinkNode.subNodes.1.jobMaxDuration=200
+|DutyDef.thinkNode.subNodes.1.forceCanDig=true
+}}

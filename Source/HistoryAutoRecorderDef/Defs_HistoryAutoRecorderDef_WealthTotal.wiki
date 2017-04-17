@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HistoryAutoRecorderDef
+|defName=WealthTotal
+|HistoryAutoRecorderDef.defName=WealthTotal
+|HistoryAutoRecorderDef.label=wealth (total)
+|HistoryAutoRecorderDef.label.zh-cn=资产（全部）
+|HistoryAutoRecorderDef.label.zh-tw=資產(全部)
+|HistoryAutoRecorderDef.workerClass=HistoryAutoRecorderWorker_WealthTotal
+|HistoryAutoRecorderDef.recordTicksFrequency=30000
+|HistoryAutoRecorderDef.graphColor=RGBA(1, 1, 0, 1)
+}}

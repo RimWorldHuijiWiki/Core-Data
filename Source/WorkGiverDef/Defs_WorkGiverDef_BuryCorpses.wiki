@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=BuryCorpses
+|WorkGiverDef.defName=BuryCorpses
+|WorkGiverDef.label=bury corpses
+|WorkGiverDef.label.zh-cn=埋葬尸体
+|WorkGiverDef.label.zh-tw=埋葬屍體
+|WorkGiverDef.giverClass=WorkGiver_BuryCorpses
+|WorkGiverDef.workType=Hauling
+|WorkGiverDef.priorityInType=90
+|WorkGiverDef.verb=bury
+|WorkGiverDef.verb.zh-cn=埋葬
+|WorkGiverDef.verb.zh-tw=埋葬
+|WorkGiverDef.gerund=burying
+|WorkGiverDef.gerund.zh-cn=埋葬
+|WorkGiverDef.gerund.zh-tw=埋葬
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

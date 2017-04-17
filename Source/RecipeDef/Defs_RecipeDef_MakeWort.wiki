@@ -1,0 +1,31 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=MakeWort
+|RecipeDef.defName=MakeWort
+|RecipeDef.label=make wort
+|RecipeDef.label.zh-cn=制作麦芽汁
+|RecipeDef.label.zh-tw=製作麥汁
+|RecipeDef.description=Make wort from hops.
+|RecipeDef.description.zh-cn=使用啤酒花制作麦芽汁。
+|RecipeDef.description.zh-tw=以啤酒花作為主要原料製作麥汁。
+|RecipeDef.jobString=Making wort.
+|RecipeDef.jobString.zh-cn=正在制作麦芽汁。
+|RecipeDef.jobString.zh-tw=製作麥汁。
+|RecipeDef.workAmount=1000
+|RecipeDef.workSpeedStat=BrewingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="RawHops"
+|RecipeDef.ingredients.0.count=25
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="RawHops"
+|RecipeDef.allowMixingIngredients=true
+|RecipeDef.products="Wort","5"
+|RecipeDef.targetCountAdjustment=1
+|RecipeDef.workSkill=Cooking
+|RecipeDef.effectWorking=Cook
+|RecipeDef.soundWorking=Recipe_Brewing
+}}

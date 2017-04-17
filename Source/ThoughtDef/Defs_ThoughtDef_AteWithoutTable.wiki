@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=AteWithoutTable
+|ThoughtDef.defName=AteWithoutTable
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=ate without table
+|ThoughtDef.stages.0.label.zh-cn=在地上吃饭
+|ThoughtDef.stages.0.label.zh-tw=在地上用餐
+|ThoughtDef.stages.0.description=I had to eat a meal off the ground. Can't we get a table around here?
+|ThoughtDef.stages.0.description.zh-cn=我不得不在地上吃饭。我们不能弄张桌子吗？
+|ThoughtDef.stages.0.description.zh-tw=我不得不在地上用餐。我們不能弄個桌子嗎？
+|ThoughtDef.stages.0.baseMoodEffect=-3
+|ThoughtDef.stackLimit=1
+|ThoughtDef.durationDays=0.5
+}}

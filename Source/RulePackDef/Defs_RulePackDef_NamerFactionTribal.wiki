@@ -1,0 +1,22 @@
+{{#set:
+|dataType=Def
+|defType=RulePackDef
+|defName=NamerFactionTribal
+|RulePackDef.defName=NamerFactionTribal
+|RulePackDef.rulePack=Exist
+|RulePackDef.rulePack.rulesStrings="name->[tribalworld] [politicalunion]","name->The [tribalworld] [politicalunion]","name->The [color] [terrainfeature] [politicalunion]","name->[politicalunion] of [tribalword]","name->The [color] [animal] [tribalword]","name->The [tribalword] of the [terrainfeature]","tribalword->[tribalwordfile]","tribalword->[syl][syl]","tribalword->[syl][syl][syl]","name->[tribalword][politicalunion]","name->[tribalword][politicalunion]","name->[color]色[terrainfeature][politicalunion]","name->[tribalword]之[politicalunion]","name->[color]色[animal][tribalword]","name->[terrainfeature]之[tribalword]","tribalword->[tribalwordfile]","tribalword->[syl][syl]","tribalword->[syl][syl][syl]","name->[tribalworld] [politicalunion]","name->The [tribalworld] [politicalunion]","name->The [color] [terrainfeature] [politicalunion]","name->[politicalunion] of [tribalword]","name->The [color] [animal] [tribalword]","name->The [tribalword] of the [terrainfeature]","tribalword->[tribalwordfile]","tribalword->[syl][syl]","tribalword->[syl][syl][syl]"
+|RulePackDef.rulePack.rulesRaw=Exist
+|RulePackDef.rulePack.rulesRaw.Count=3
+|RulePackDef.rulePack.rulesRaw.0=Exist
+|RulePackDef.rulePack.rulesRaw.0.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.0.keyword=tribalwordfile
+|RulePackDef.rulePack.rulesRaw.0.path=Words/Foreign/Tribal
+|RulePackDef.rulePack.rulesRaw.1=Exist
+|RulePackDef.rulePack.rulesRaw.1.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.1.keyword=syl
+|RulePackDef.rulePack.rulesRaw.1.path=WordParts/Syllables_Tribal
+|RulePackDef.rulePack.rulesRaw.2=Exist
+|RulePackDef.rulePack.rulesRaw.2.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.2.keyword=politicalunion
+|RulePackDef.rulePack.rulesRaw.2.path=Words/Nouns/PoliticalUnions_Outlander
+}}

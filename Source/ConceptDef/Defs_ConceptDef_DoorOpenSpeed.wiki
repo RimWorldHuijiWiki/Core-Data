@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=DoorOpenSpeed
+|ConceptDef.defName=DoorOpenSpeed
+|ConceptDef.label=Door opening speeds
+|ConceptDef.label.zh-cn=Door opening speeds
+|ConceptDef.label.zh-tw=Door opening speeds
+|ConceptDef.priority=50
+|ConceptDef.needsOpportunity=true
+|ConceptDef.helpText=Doors open at different speeds depending on what they're made of.<br/><br/>Warning: Stone doors open very slowly. Anyone passing through will be significantly slowed down.
+|ConceptDef.helpText.zh-cn=Doors open at different speeds depending on what they're made of.<br/><br/>Warning: Stone doors open very slowly. Anyone passing through will be significantly slowed down.
+|ConceptDef.helpText.zh-tw=Doors open at different speeds depending on what they're made of.<br/><br/>Warning: Stone doors open very slowly. Anyone passing through will be significantly slowed down.
+}}

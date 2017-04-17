@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=WorldObjectDef
+|defName=JourneyDestination
+|WorldObjectDef.defName=JourneyDestination
+|WorldObjectDef.label=journey destination
+|WorldObjectDef.label.zh-cn=旅途终点
+|WorldObjectDef.label.zh-tw=旅途終點
+|WorldObjectDef.description=The location of a hidden ship which can help you escape the planet.
+|WorldObjectDef.description.zh-cn=一处隐藏着能让你离开这个星球的飞船的地点。
+|WorldObjectDef.description.zh-tw=一艘能夠帶你逃離這座星球的星艦藏匿地點。
+|WorldObjectDef.expandingIcon=true
+|WorldObjectDef.expandingIconTexture=World/WorldObjects/Expanding/JourneyDestination
+|WorldObjectDef.expandingIconPriority=50
+|WorldObjectDef.texture=World/WorldObjects/JourneyDestination
+}}

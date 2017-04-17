@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JoyGiverDef
+|defName=Meditate
+|JoyGiverDef.defName=Meditate
+|JoyGiverDef.giverClass=JoyGiver_InPrivateRoom
+|JoyGiverDef.baseChance=2
+|JoyGiverDef.jobDef=Meditate
+|JoyGiverDef.pctPawnsEverDo=0.4
+|JoyGiverDef.joyKind=Meditative
+}}

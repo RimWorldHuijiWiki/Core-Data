@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=WandererJoin
+|IncidentDef.defName=WandererJoin
+|IncidentDef.label=wanderer join
+|IncidentDef.label.zh-cn=流浪者加入
+|IncidentDef.label.zh-tw=志願者
+|IncidentDef.workerClass=IncidentWorker_WandererJoin
+|IncidentDef.targetType=BaseMap
+|IncidentDef.baseChance=0.2
+|IncidentDef.populationEffect=Increase
+}}

@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=PeopleCaptured
+|RecordDef.defName=PeopleCaptured
+|RecordDef.label=people captured
+|RecordDef.label.zh-cn=俘虏人数
+|RecordDef.label.zh-tw=俘虜人數
+|RecordDef.description=The number of people I have captured.
+|RecordDef.description.zh-cn=我所俘虏的人数。
+|RecordDef.description.zh-tw=我俘虜的人數。
+|RecordDef.type=Int
+}}

@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=ToggleDebugInspector
+|KeyBindingDef.defName=ToggleDebugInspector
+|KeyBindingDef.label=toggle debug inspector
+|KeyBindingDef.label.zh-cn=开关Debug查看器
+|KeyBindingDef.label.zh-tw=開啟Debug偵測
+|KeyBindingDef.category=Development
+|KeyBindingDef.defaultKeyCodeA=Quote
+|KeyBindingDef.devModeOnly=true
+}}

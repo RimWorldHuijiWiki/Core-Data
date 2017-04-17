@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=DesignationCategoryDef
+|defName=Power
+|DesignationCategoryDef.defName=Power
+|DesignationCategoryDef.label=power
+|DesignationCategoryDef.label.zh-cn=电力
+|DesignationCategoryDef.label.zh-tw=電力
+|DesignationCategoryDef.description=Electricity production, transmission, and management.
+|DesignationCategoryDef.description.zh-cn=发电、输电和管理电网的设施。
+|DesignationCategoryDef.description.zh-tw=生產、傳輸和管理電力的設施。
+|DesignationCategoryDef.specialDesignatorClasses="Designator_Cancel","Designator_Deconstruct"
+|DesignationCategoryDef.order=400
+|DesignationCategoryDef.showPowerGrid=true
+}}

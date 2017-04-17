@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=PawnRelationDef
+|defName=Stepparent
+|PawnRelationDef.defName=Stepparent
+|PawnRelationDef.label=stepfather
+|PawnRelationDef.label.zh-cn=继父
+|PawnRelationDef.label.zh-tw=繼父
+|PawnRelationDef.workerClass=PawnRelationWorker_Stepparent
+|PawnRelationDef.labelFemale=stepmother
+|PawnRelationDef.labelFemale.zh-cn=继母
+|PawnRelationDef.labelFemale.zh-tw=繼母
+|PawnRelationDef.importance=150
+|PawnRelationDef.implied=true
+|PawnRelationDef.opinionOffset=5
+}}

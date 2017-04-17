@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ThinkTreeDef
+|defName=AnimalConstant
+|ThinkTreeDef.defName=AnimalConstant
+|ThinkTreeDef.thinkRoot=Exist
+|ThinkTreeDef.thinkRoot.Class=ThinkNode_Priority
+|ThinkTreeDef.thinkRoot.subNodes=Exist
+|ThinkTreeDef.thinkRoot.subNodes.Count=1
+|ThinkTreeDef.thinkRoot.subNodes.0=Exist
+|ThinkTreeDef.thinkRoot.subNodes.0.Class=ThinkNode_ConditionalCanDoConstantThinkTreeJobNow
+|ThinkTreeDef.thinkRoot.subNodes.0.subNodes=Exist
+|ThinkTreeDef.thinkRoot.subNodes.0.subNodes.Count=1
+|ThinkTreeDef.thinkRoot.subNodes.0.subNodes.0=Exist
+|ThinkTreeDef.thinkRoot.subNodes.0.subNodes.0.Class=ThinkNode_Subtree
+|ThinkTreeDef.thinkRoot.subNodes.0.subNodes.0.treeDef=LordDutyConstant
+}}

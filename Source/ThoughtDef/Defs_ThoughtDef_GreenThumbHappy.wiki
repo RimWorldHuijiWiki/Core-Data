@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=GreenThumbHappy
+|ThoughtDef.defName=GreenThumbHappy
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=sowed a plant
+|ThoughtDef.stages.0.label.zh-cn=播种植物
+|ThoughtDef.stages.0.label.zh-tw=種下一株植物
+|ThoughtDef.stages.0.description=What the world needs is more plants!
+|ThoughtDef.stages.0.description.zh-cn=这个世界最需要的就是更多植物！
+|ThoughtDef.stages.0.description.zh-tw=這個世界需要的就是多一些、更多一些植物！
+|ThoughtDef.stages.0.baseMoodEffect=1
+|ThoughtDef.stackLimit=20
+|ThoughtDef.stackedEffectMultiplier=1.0
+|ThoughtDef.durationDays=0.5
+|ThoughtDef.requiredTraits="GreenThumb"
+}}

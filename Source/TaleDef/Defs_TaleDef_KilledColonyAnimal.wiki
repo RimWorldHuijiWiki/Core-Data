@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=TaleDef
+|defName=KilledColonyAnimal
+|TaleDef.defName=KilledColonyAnimal
+|TaleDef.label=colony animal killed
+|TaleDef.label.zh-cn=殖民地动物被杀害
+|TaleDef.label.zh-tw=colony animal killed
+|TaleDef.type=Expirable
+|TaleDef.taleClass=Tale_DoublePawn
+|TaleDef.usableForArt=false
+|TaleDef.maxPerPawn=1
+|TaleDef.expireDays=25
+|TaleDef.firstPawnSymbol=killer
+|TaleDef.secondPawnSymbol=animal
+}}

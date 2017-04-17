@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=RemoveRoofs
+|WorkGiverDef.defName=RemoveRoofs
+|WorkGiverDef.label=remove roofs
+|WorkGiverDef.label.zh-cn=移除屋顶
+|WorkGiverDef.label.zh-tw=拆除屋頂
+|WorkGiverDef.giverClass=WorkGiver_RemoveRoof
+|WorkGiverDef.workType=Construction
+|WorkGiverDef.priorityInType=60
+|WorkGiverDef.verb=remove roof
+|WorkGiverDef.verb.zh-cn=移除屋顶
+|WorkGiverDef.verb.zh-tw=拆除屋頂
+|WorkGiverDef.gerund=removing roof
+|WorkGiverDef.gerund.zh-cn=移除屋顶
+|WorkGiverDef.gerund.zh-tw=屋頂拆除
+|WorkGiverDef.scanThings=false
+|WorkGiverDef.scanCells=true
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

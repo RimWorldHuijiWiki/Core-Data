@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=TimesOnFire
+|RecordDef.defName=TimesOnFire
+|RecordDef.label=times on fire
+|RecordDef.label.zh-cn=着火次数
+|RecordDef.label.zh-tw=著火次數
+|RecordDef.description=How many times I have been on fire.
+|RecordDef.description.zh-cn=我身上起火的次数。
+|RecordDef.description.zh-tw=我傷上著火的次數。
+|RecordDef.type=Int
+}}

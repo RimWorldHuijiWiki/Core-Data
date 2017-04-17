@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=Disease_FibrousMechanites
+|IncidentDef.defName=Disease_FibrousMechanites
+|IncidentDef.label=fibrous mechanites
+|IncidentDef.label.zh-cn=纤维纳米机械感染
+|IncidentDef.label.zh-tw=肌肉細胞機械化
+|IncidentDef.workerClass=IncidentWorker_Disease
+|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Disease
+|IncidentDef.diseaseIncident=FibrousMechanites
+|IncidentDef.diseaseVictimFractionRange=Exist
+|IncidentDef.diseaseVictimFractionRange.min=0.2
+|IncidentDef.diseaseVictimFractionRange.max=0.5
+}}

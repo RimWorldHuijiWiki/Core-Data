@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=AnimalInsanityMass
+|IncidentDef.defName=AnimalInsanityMass
+|IncidentDef.label=mass animal insanity
+|IncidentDef.label.zh-cn=大量动物发狂
+|IncidentDef.label.zh-tw=動物集體狂暴化
+|IncidentDef.workerClass=IncidentWorker_AnimalInsanityMass
+|IncidentDef.targetType=BaseMap
+|IncidentDef.baseChance=1.3
+|IncidentDef.category=ThreatBig
+|IncidentDef.minRefireDays=1
+|IncidentDef.pointsScaleable=true
+}}

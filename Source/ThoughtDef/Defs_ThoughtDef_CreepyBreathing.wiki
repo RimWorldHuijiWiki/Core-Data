@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=CreepyBreathing
+|ThoughtDef.defName=CreepyBreathing
+|ThoughtDef.thoughtClass=Thought_SituationalSocial
+|ThoughtDef.workerClass=ThoughtWorker_CreepyBreathing
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=creepy breathing
+|ThoughtDef.stages.0.label.zh-cn=恶心的呼吸声
+|ThoughtDef.stages.0.label.zh-tw=噁心的呼吸聲
+|ThoughtDef.stages.0.baseOpinionOffset=-25
+|ThoughtDef.validWhileDespawned=true
+}}

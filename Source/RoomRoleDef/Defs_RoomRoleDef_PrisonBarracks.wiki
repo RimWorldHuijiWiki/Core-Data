@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=RoomRoleDef
+|defName=PrisonBarracks
+|RoomRoleDef.defName=PrisonBarracks
+|RoomRoleDef.label=prison barracks
+|RoomRoleDef.label.zh-cn=监狱营房
+|RoomRoleDef.label.zh-tw=集中營
+|RoomRoleDef.workerClass=RoomRoleWorker_PrisonBarracks
+|RoomRoleDef.relatedStats="Beauty","Cleanliness","Wealth","Space","Impressiveness"
+}}

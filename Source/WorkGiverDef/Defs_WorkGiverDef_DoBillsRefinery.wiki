@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoBillsRefinery
+|WorkGiverDef.defName=DoBillsRefinery
+|WorkGiverDef.label=works at refinery
+|WorkGiverDef.label.zh-cn=操作精炼设备
+|WorkGiverDef.label.zh-tw=操作煉油器
+|WorkGiverDef.giverClass=WorkGiver_DoBill
+|WorkGiverDef.workType=Crafting
+|WorkGiverDef.priorityInType=97
+|WorkGiverDef.verb=refine chemicals
+|WorkGiverDef.verb.zh-cn=提炼
+|WorkGiverDef.verb.zh-tw=提煉
+|WorkGiverDef.gerund=refining chemicals at
+|WorkGiverDef.gerund.zh-cn=提炼于
+|WorkGiverDef.gerund.zh-tw=提煉燃料於
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.fixedBillGiverDefs="Refinery"
+}}

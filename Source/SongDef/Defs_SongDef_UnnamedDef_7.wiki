@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=SongDef
+|defName=UnnamedDef
+|SongDef.clipPath=Songs/Relax/Noodles_Starscape/Noodle_Starscape_b
+|SongDef.allowedTimeOfDay=Night
+}}

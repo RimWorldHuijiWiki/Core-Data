@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=MapConditionDef
+|defName=Eclipse
+|MapConditionDef.defName=Eclipse
+|MapConditionDef.label=eclipse
+|MapConditionDef.label.zh-cn=日蚀
+|MapConditionDef.label.zh-tw=日蝕
+|MapConditionDef.description=An eclipse is shadowing the surface. It will be dark, even during the daytime.
+|MapConditionDef.description.zh-cn=一个天体的影子投在了这个星球上，造成了一场日蚀。日蚀期间即使在白天也会很暗。
+|MapConditionDef.description.zh-tw=一場日蝕籠罩了這片地區。即使是白晝，這裡也會如同夜晚一樣黑暗。
+|MapConditionDef.conditionClass=MapCondition_Eclipse
+|MapConditionDef.endMessage=The eclipse is ending.
+|MapConditionDef.endMessage.zh-cn=日蚀结束了。
+|MapConditionDef.endMessage.zh-tw=這場日蝕已經結束。
+|MapConditionDef.canBePermanent=true
+}}

@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=Jealous
+|ThoughtDef.defName=Jealous
+|ThoughtDef.workerClass=ThoughtWorker_BedroomJealous
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=jealous of {0}'s bedroom
+|ThoughtDef.stages.0.label.zh-cn=妒忌{0}的卧室
+|ThoughtDef.stages.0.label.zh-tw=嫉妒
+|ThoughtDef.stages.0.description=I need to have the best one!
+|ThoughtDef.stages.0.description.zh-cn=我要有最好的卧室。
+|ThoughtDef.stages.0.description.zh-tw=有人擁有比我更好的房間。
+|ThoughtDef.stages.0.baseMoodEffect=-8
+|ThoughtDef.requiredTraits="Jealous"
+}}

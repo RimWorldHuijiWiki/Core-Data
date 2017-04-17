@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=Stonecutting
+|ResearchProjectDef.defName=Stonecutting
+|ResearchProjectDef.label=stonecutting
+|ResearchProjectDef.label.zh-cn=岩石切割
+|ResearchProjectDef.label.zh-tw=石材加工
+|ResearchProjectDef.description=Build stonecutting tables, which allow you to refine rock chunks into stone blocks that can be used for construction.
+|ResearchProjectDef.description.zh-cn=解锁建造切石桌，将岩石堆切成可用的石块。
+|ResearchProjectDef.description.zh-tw=解鎖建造石材加工桌，可以用來將沒用的石頭加工成有用的石材並可用於建築。
+|ResearchProjectDef.techLevel=Medieval
+|ResearchProjectDef.baseCost=300
+|ResearchProjectDef.tags="ClassicStart"
+|ResearchProjectDef.researchViewX=0
+|ResearchProjectDef.researchViewY=5
+}}

@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=ActiveDropPod
+|ThingDef.defName=ActiveDropPod
+|ThingDef.label=drop pod
+|ThingDef.label.zh-cn=空投舱
+|ThingDef.label.zh-tw=運輸艙
+|ThingDef.statBases="MaxHitPoints","500";"Flammability","0"
+|ThingDef.altitudeLayer=Building
+|ThingDef.thingClass=ActiveDropPod
+|ThingDef.category=Item
+|ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=true
+|ThingDef.scatterableOnMapGen=false
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Special/DropPod
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.drawSize=1.9
+|ThingDef.graphicData.shadowData=Exist
+|ThingDef.graphicData.shadowData.volume=(0.8, 0.6, 0.8)
+|ThingDef.selectable=true
+|ThingDef.blockWind=true
+}}

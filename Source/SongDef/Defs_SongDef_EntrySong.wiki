@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=SongDef
+|defName=EntrySong
+|SongDef.defName=EntrySong
+|SongDef.clipPath=Songs/Entry/Entry_Ambience_Full
+|SongDef.volume=0.9
+|SongDef.playOnMap=false
+}}

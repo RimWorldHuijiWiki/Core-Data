@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=GotoSafeTemperature
+|JobDef.defName=GotoSafeTemperature
+|JobDef.driverClass=JobDriver_Goto
+|JobDef.reportString=seeking safe temperature.
+|JobDef.reportString.zh-cn=正在寻找温度安全的地方。
+|JobDef.reportString.zh-tw=尋找溫度安全的地方。
+|JobDef.casualInterruptible=false
+}}

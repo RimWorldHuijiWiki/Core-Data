@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=PlayChess
+|JobDef.defName=PlayChess
+|JobDef.driverClass=JobDriver_SitFacingBuilding
+|JobDef.reportString=playing chess.
+|JobDef.reportString.zh-cn=下棋。
+|JobDef.reportString.zh-tw=下棋。
+|JobDef.joyDuration=4000
+|JobDef.joyMaxParticipants=2
+|JobDef.joyGainRate=1
+|JobDef.joySkill=Intellectual
+|JobDef.joyXpPerTick=0.002
+|JobDef.joyKind=GamingCerebral
+}}

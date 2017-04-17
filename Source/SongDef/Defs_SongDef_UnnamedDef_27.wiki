@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=SongDef
+|defName=UnnamedDef
+|SongDef.clipPath=Songs/Relax/Rough_Trail
+|SongDef.volume=1.00
+}}

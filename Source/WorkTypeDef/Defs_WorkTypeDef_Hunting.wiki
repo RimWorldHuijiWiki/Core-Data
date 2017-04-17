@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=WorkTypeDef
+|defName=Hunting
+|WorkTypeDef.defName=Hunting
+|WorkTypeDef.label=Hunt
+|WorkTypeDef.label.zh-cn=狩猎
+|WorkTypeDef.label.zh-tw=Hunt
+|WorkTypeDef.description=Kill animals which are designated to be hunted.
+|WorkTypeDef.description.zh-cn=猎人负责狩猎你指定的野生动物。
+|WorkTypeDef.description.zh-tw=獵人會狩獵你指定的動物。
+|WorkTypeDef.workTags="Violent"
+|WorkTypeDef.labelShort=Hunt
+|WorkTypeDef.labelShort.zh-cn=狩猎
+|WorkTypeDef.labelShort.zh-tw=獵人
+|WorkTypeDef.pawnLabel=Hunter
+|WorkTypeDef.pawnLabel.zh-cn=猎人
+|WorkTypeDef.pawnLabel.zh-tw=獵人
+|WorkTypeDef.gerundLabel=Hunting
+|WorkTypeDef.gerundLabel.zh-cn=狩猎
+|WorkTypeDef.gerundLabel.zh-tw=狩獵
+|WorkTypeDef.verb=Hunt
+|WorkTypeDef.verb.zh-cn=狩猎
+|WorkTypeDef.verb.zh-tw=獵捕
+|WorkTypeDef.naturalPriority=950
+|WorkTypeDef.relevantSkills="Shooting"
+}}

@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=YayoHigh
+|ThoughtDef.defName=YayoHigh
+|ThoughtDef.workerClass=ThoughtWorker_Hediff
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=high on yayo
+|ThoughtDef.stages.0.label.zh-cn=精神药物亢奋（呀呦粉）
+|ThoughtDef.stages.0.label.zh-tw=high on yayo
+|ThoughtDef.stages.0.description=Feeling pumped! Let's do this!
+|ThoughtDef.stages.0.description.zh-cn=感觉棒极了！让我们开始吧！
+|ThoughtDef.stages.0.description.zh-tw=Feeling pumped! Let's do this!
+|ThoughtDef.stages.0.baseMoodEffect=35
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.hediff=YayoHigh
+}}

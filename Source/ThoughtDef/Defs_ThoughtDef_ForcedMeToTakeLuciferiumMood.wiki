@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=ForcedMeToTakeLuciferiumMood
+|ThoughtDef.defName=ForcedMeToTakeLuciferiumMood
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=forced to take luciferium
+|ThoughtDef.stages.0.label.zh-cn=强迫我服用魔鬼素
+|ThoughtDef.stages.0.label.zh-tw=forced to take luciferium
+|ThoughtDef.stages.0.description=I'm a prosthophobe; I would never take luciferium by choice. But I was forced! I feel unclean.
+|ThoughtDef.stages.0.description.zh-cn=我恐惧仿生学。我绝对不会出于自己选择地服用魔鬼素。但我被强迫了！我觉得我不洁了。
+|ThoughtDef.stages.0.description.zh-tw=I'm a prosthophobe; I would never take luciferium by choice. But I was forced! I feel unclean.
+|ThoughtDef.stages.0.baseMoodEffect=-20
+|ThoughtDef.durationDays=6.0
+}}

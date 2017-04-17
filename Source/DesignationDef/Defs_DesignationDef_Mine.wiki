@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=DesignationDef
+|defName=Mine
+|DesignationDef.defName=Mine
+|DesignationDef.texturePath=Designations/Mine
+|DesignationDef.targetType=Cell
+|DesignationDef.removeIfBuildingDespawned=true
+}}

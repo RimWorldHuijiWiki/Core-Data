@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=FiresExtinguished
+|RecordDef.defName=FiresExtinguished
+|RecordDef.label=fires extinguished
+|RecordDef.label.zh-cn=火灾扑灭次数
+|RecordDef.label.zh-tw=撲滅火焰數
+|RecordDef.description=The number of fires I have extinguished.
+|RecordDef.description.zh-cn=我所扑灭的火灾数量。
+|RecordDef.description.zh-tw=我撲滅的火焰數。
+|RecordDef.type=Int
+}}

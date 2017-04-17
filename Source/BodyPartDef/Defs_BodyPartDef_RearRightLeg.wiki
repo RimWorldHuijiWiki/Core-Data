@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RearRightLeg
+|BodyPartDef.defName=RearRightLeg
+|BodyPartDef.label=rear right leg
+|BodyPartDef.label.zh-cn=右后肢
+|BodyPartDef.label.zh-tw=右後肢
+|BodyPartDef.tags="MovingLimbCore"
+|BodyPartDef.hitPoints=30
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+}}

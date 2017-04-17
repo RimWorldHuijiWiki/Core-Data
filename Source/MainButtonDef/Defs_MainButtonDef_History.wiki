@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=MainButtonDef
+|defName=History
+|MainButtonDef.defName=History
+|MainButtonDef.label=history
+|MainButtonDef.label.zh-cn=历史
+|MainButtonDef.label.zh-tw=history
+|MainButtonDef.description=Review records of the colony's history.
+|MainButtonDef.description.zh-cn=查看殖民地的历史记录。
+|MainButtonDef.description.zh-tw=Review records of the colony's history.
+|MainButtonDef.tabWindowClass=MainTabWindow_History
+|MainButtonDef.order=70
+|MainButtonDef.defaultHotKey=F6
+}}

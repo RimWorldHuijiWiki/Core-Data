@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=SkillDef
+|defName=Growing
+|SkillDef.defName=Growing
+|SkillDef.label=Growing
+|SkillDef.label.zh-cn=种植
+|SkillDef.label.zh-tw=種植
+|SkillDef.description=Sowing, caring for, and harvesting crops.
+|SkillDef.description.zh-cn=播种、照顾和收获庄稼。
+|SkillDef.description.zh-tw=播種、照護以及收穫作物。
+|SkillDef.skillLabel=Growing
+|SkillDef.skillLabel.zh-cn=种植
+|SkillDef.skillLabel.zh-tw=種植
+}}

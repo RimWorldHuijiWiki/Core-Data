@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=ForbiddingDoors
+|ConceptDef.defName=ForbiddingDoors
+|ConceptDef.label=Forbidding doors
+|ConceptDef.label.zh-cn=门禁
+|ConceptDef.label.zh-tw=門禁
+|ConceptDef.priority=15
+|ConceptDef.helpText=You can FORBID doors so colonists and tame animals won't go through them.<br/><br/>Note that this isn't a door lock. Doors are always locked, so enemies can't pass freely. Forbidding just directs your colonists not to use the door. Colonists who are going crazy might use the door anyway.
+|ConceptDef.helpText.zh-cn=你可以通过「禁用」门来阻止殖民者以及已驯服的动物穿过特定的门。<br/><br/>注意这样并不等同于给门上锁，只是禁止他们通过，而精神崩溃的殖民者仍有可能使用这扇门。
+|ConceptDef.helpText.zh-tw=你可以將門設為「禁止互動」，如此你的居民及寵物便不會通過那扇門。<br/><br/>注意：禁止互動不等於鎖門，敵人、訪客、野生動物仍然可以通過。對你的居民來說，他們只是得到了不得通過門的命令，而這命令對於不受控制(崩潰發瘋)狀態的居民也是無效的。
+|ConceptDef.highlightTags="ToggleForbidden-Door"
+}}

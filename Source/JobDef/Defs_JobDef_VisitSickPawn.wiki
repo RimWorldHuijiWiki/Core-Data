@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=VisitSickPawn
+|JobDef.defName=VisitSickPawn
+|JobDef.driverClass=JobDriver_VisitSickPawn
+|JobDef.reportString=cheering up patient TargetA.
+|JobDef.reportString.zh-cn=看望病人TargetA。
+|JobDef.reportString.zh-tw=探望病人。
+|JobDef.joyDuration=1500
+|JobDef.joyGainRate=1
+|JobDef.joyKind=Social
+}}

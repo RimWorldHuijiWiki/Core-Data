@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=MechanicalCentipedeBodySecondRing
+|BodyPartDef.defName=MechanicalCentipedeBodySecondRing
+|BodyPartDef.label=second body ring
+|BodyPartDef.label.zh-cn=第二身节
+|BodyPartDef.label.zh-tw=第二身節
+|BodyPartDef.tags="MovingLimbSegment","ManipulationLimbSegment"
+|BodyPartDef.hitPoints=85
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.isAlive=false
+}}

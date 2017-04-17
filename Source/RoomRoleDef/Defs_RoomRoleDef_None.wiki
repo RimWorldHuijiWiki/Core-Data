@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=RoomRoleDef
+|defName=None
+|RoomRoleDef.defName=None
+|RoomRoleDef.label=none
+|RoomRoleDef.label.zh-cn=未分类
+|RoomRoleDef.label.zh-tw=無
+|RoomRoleDef.workerClass=RoomRoleWorker_None
+}}

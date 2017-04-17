@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=RoomRoleDef
+|defName=Bedroom
+|RoomRoleDef.defName=Bedroom
+|RoomRoleDef.label=bedroom
+|RoomRoleDef.label.zh-cn=卧室
+|RoomRoleDef.label.zh-tw=寢室
+|RoomRoleDef.workerClass=RoomRoleWorker_Bedroom
+|RoomRoleDef.relatedStats="Beauty","Cleanliness","Wealth","Space","Impressiveness"
+}}

@@ -1,0 +1,31 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=TameAnimalChance
+|StatDef.defName=TameAnimalChance
+|StatDef.label=tame animal chance
+|StatDef.label.zh-cn=驯服动物成功率
+|StatDef.label.zh-tw=馴服動物機率
+|StatDef.description=Base chance this person will tame an animal.
+|StatDef.description.zh-cn=此人在驯服动物时的基本几率。
+|StatDef.description.zh-tw=成功馴服動物的基礎機率，
+|StatDef.category=PawnSocial
+|StatDef.toStringStyle=PercentTwo
+|StatDef.defaultBaseValue=1
+|StatDef.minValue=0.01
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
+|StatDef.skillNeedFactors.0.skill=Animals
+|StatDef.skillNeedFactors.0.baseFactor=0.02
+|StatDef.skillNeedFactors.0.bonusFactor=0.01
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Talking
+|StatDef.capacityFactors.0.weight=0.9
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Manipulation
+|StatDef.capacityFactors.1.weight=0.5
+}}

@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=Masochist
+|TraitDef.defName=Masochist
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=masochist
+|TraitDef.degreeDatas.0.label.zh-cn=受虐狂
+|TraitDef.degreeDatas.0.label.zh-tw=被虐狂
+|TraitDef.degreeDatas.0.description=For NAME, there's something exciting about getting hurt. HECAP doesn't know why, HE's just wired differently.
+|TraitDef.degreeDatas.0.description.zh-cn=对于NAME来说，疼痛会让自己十分兴奋。HECAP不知道为什么，HE就是和别人不一样。
+|TraitDef.degreeDatas.0.description.zh-tw=對於NAME來說，受傷是一件令人興奮的事。也不知道為什麼，HE就是與眾不同。
+|TraitDef.commonality=0.2
+}}

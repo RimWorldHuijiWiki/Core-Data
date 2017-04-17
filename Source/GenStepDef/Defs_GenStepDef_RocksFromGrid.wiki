@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=RocksFromGrid
+|GenStepDef.defName=RocksFromGrid
+|GenStepDef.linkWithMapGenerator=BasicMap
+|GenStepDef.order=200
+|GenStepDef.genStep=
+}}

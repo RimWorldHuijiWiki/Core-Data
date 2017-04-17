@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=CameraZoom
+|ConceptDef.defName=CameraZoom
+|ConceptDef.label=Camera zoom
+|ConceptDef.label.zh-cn=镜头缩放
+|ConceptDef.label.zh-tw=縮放畫面
+|ConceptDef.priority=94
+|ConceptDef.helpText=Zoom in and out with the MOUSEWHEEL or the {Key:MapZoomIn} and {Key:MapZoomOut} keys.
+|ConceptDef.helpText.zh-cn=通过「鼠标滚轮」或者{Key:MapZoomIn}和{Key:MapZoomOut}来缩放镜头。
+|ConceptDef.helpText.zh-tw=滾動滑鼠滾輪或按T鍵和G鍵以放大/縮小遊戲畫面。
+}}

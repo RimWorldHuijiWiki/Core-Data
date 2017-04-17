@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=NeedDef
+|defName=Beauty
+|NeedDef.defName=Beauty
+|NeedDef.label=beauty
+|NeedDef.label.zh-cn=美观度
+|NeedDef.label.zh-tw=美觀度
+|NeedDef.description=Beauty reflects how visually pleasing a person has found their surroundings recently.
+|NeedDef.description.zh-cn=美观度反映了人物最近感受的周围环境的视觉愉悦程度。你可以在右下角勾选「开关美观度显示」，来查看鼠标所在位置的平均美观度。
+|NeedDef.description.zh-tw=美觀度顯示這名角色周遭環境的美觀程度。
+|NeedDef.needClass=Need_Beauty
+|NeedDef.minIntelligence=Humanlike
+|NeedDef.colonistAndPrisonersOnly=true
+|NeedDef.baseLevel=0.4
+|NeedDef.listPriority=300
+|NeedDef.seekerRisePerHour=0.32
+|NeedDef.seekerFallPerHour=0.08
+|NeedDef.freezeWhileSleeping=true
+}}

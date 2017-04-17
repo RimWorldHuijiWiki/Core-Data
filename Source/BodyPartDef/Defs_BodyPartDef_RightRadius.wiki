@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RightRadius
+|BodyPartDef.defName=RightRadius
+|BodyPartDef.label=right radius
+|BodyPartDef.label.zh-cn=右桡骨
+|BodyPartDef.label.zh-tw=左橈骨
+|BodyPartDef.tags="ManipulationLimbSegment"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+}}

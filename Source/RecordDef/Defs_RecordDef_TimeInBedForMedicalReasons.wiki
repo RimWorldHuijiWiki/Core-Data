@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=TimeInBedForMedicalReasons
+|RecordDef.defName=TimeInBedForMedicalReasons
+|RecordDef.label=time in a bed for medical reasons
+|RecordDef.label.zh-cn=在床上医疗的时间
+|RecordDef.label.zh-tw=臥病在床
+|RecordDef.description=Total time spent in a bed for medical reasons: awaiting treatment, recovering from injuries or being operated on.
+|RecordDef.description.zh-cn=因医疗原因而在床上所度过的总时间：等待治疗、创伤恢复或者接受手术等。
+|RecordDef.description.zh-tw=因各種健康因素而臥床的時間：等待治療、養病或接受手術。
+|RecordDef.type=Time
+|RecordDef.workerClass=RecordWorker_TimeInBedForMedicalReasons
+}}

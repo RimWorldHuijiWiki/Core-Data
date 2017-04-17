@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=DamageDealt
+|RecordDef.defName=DamageDealt
+|RecordDef.label=damage dealt
+|RecordDef.label.zh-cn=伤害输出
+|RecordDef.label.zh-tw=傷害輸出量
+|RecordDef.description=The amount of damage I have dealt.
+|RecordDef.description.zh-cn=我所输出的伤害量。
+|RecordDef.description.zh-tw=我輸出的傷害量。
+|RecordDef.type=Int
+}}

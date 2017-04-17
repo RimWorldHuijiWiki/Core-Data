@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=Chitchat
+|ThoughtDef.defName=Chitchat
+|ThoughtDef.thoughtClass=Thought_MemorySocialCumulative
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=chitchat
+|ThoughtDef.stages.0.label.zh-cn=闲谈
+|ThoughtDef.stages.0.label.zh-tw=閒聊
+|ThoughtDef.stages.0.baseOpinionOffset=0.66
+|ThoughtDef.stackLimit=300
+|ThoughtDef.nullifyingTraits="Psychopath"
+|ThoughtDef.maxCumulatedOpinionOffset=10
+}}

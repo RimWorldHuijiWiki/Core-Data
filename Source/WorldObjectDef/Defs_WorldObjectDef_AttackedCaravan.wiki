@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=WorldObjectDef
+|defName=AttackedCaravan
+|WorldObjectDef.defName=AttackedCaravan
+|WorldObjectDef.label=attacked caravan
+|WorldObjectDef.label.zh-cn=远行队（遇袭）
+|WorldObjectDef.label.zh-tw=戰鬥中旅團
+|WorldObjectDef.description=A caravan under attack.
+|WorldObjectDef.description.zh-cn=一队正遭受袭击的远行队。
+|WorldObjectDef.description.zh-tw=正受到攻擊的旅團。
+|WorldObjectDef.worldObjectClass=CaravansBattlefield
+|WorldObjectDef.expandingIcon=true
+|WorldObjectDef.expandingIconTexture=World/WorldObjects/Expanding/Ambush
+|WorldObjectDef.expandingIconPriority=80
+|WorldObjectDef.texture=World/WorldObjects/Ambush
+}}

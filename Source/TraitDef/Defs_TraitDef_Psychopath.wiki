@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=Psychopath
+|TraitDef.defName=Psychopath
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=psychopath
+|TraitDef.degreeDatas.0.label.zh-cn=心理变态
+|TraitDef.degreeDatas.0.label.zh-tw=精神變態
+|TraitDef.degreeDatas.0.description=NAME has no empathy. The suffering of others doesn't bother HIM at all. HECAP doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects HIM. HECAP also feels no mood boost from socializing.
+|TraitDef.degreeDatas.0.description.zh-cn=NAME从来不同情任何人。别人的痛苦对HIM来说毫无意义。除非会影响到自身，HE从来不在意谁被宰了还是被埋了，又或者是被卖了。HECAP和别人聊天时也不会提升心情。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME從不同情任何人，别人的痛苦和HE沒有任何關係。HECAP不在意别人被屠宰了、被賣给奴隸商人了或是慘遭屠殺了。除非受牽連的人是HIM。HECAP也不會從聊天獲得任何心情加成。
+|TraitDef.commonality=0.2
+}}

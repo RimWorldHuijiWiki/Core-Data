@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=BionicLeg
+|HediffDef.defName=BionicLeg
+|HediffDef.label=bionic leg
+|HediffDef.label.zh-cn=仿生腿
+|HediffDef.label.zh-tw=仿生腿
+|HediffDef.hediffClass=Hediff_AddedPart
+|HediffDef.isBad=false
+|HediffDef.spawnThingOnRemoved=BionicLeg
+|HediffDef.defaultLabelColor=(0.5, 0.5, 0.9)
+|HediffDef.addedPartProps=Exist
+|HediffDef.addedPartProps.partEfficiency=1.4
+|HediffDef.addedPartProps.isBionic=true
+|HediffDef.addedPartProps.isSolid=true
+}}

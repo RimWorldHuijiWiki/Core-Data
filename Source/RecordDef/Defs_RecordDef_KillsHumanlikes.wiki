@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=KillsHumanlikes
+|RecordDef.defName=KillsHumanlikes
+|RecordDef.label=kills (humanlikes)
+|RecordDef.label.zh-cn=击杀（人类）
+|RecordDef.label.zh-tw=擊殺數(人類)
+|RecordDef.description=The number of humanlike characters I have killed.
+|RecordDef.description.zh-cn=我所杀死的人类数量。
+|RecordDef.description.zh-tw=我殺死的人類數量。
+|RecordDef.type=Int
+}}

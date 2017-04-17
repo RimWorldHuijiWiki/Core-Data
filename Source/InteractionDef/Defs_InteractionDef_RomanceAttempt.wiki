@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=InteractionDef
+|defName=RomanceAttempt
+|InteractionDef.defName=RomanceAttempt
+|InteractionDef.label=romance attempt
+|InteractionDef.label.zh-cn=求爱
+|InteractionDef.label.zh-tw=告白
+|InteractionDef.workerClass=InteractionWorker_RomanceAttempt
+|InteractionDef.symbol=Things/Mote/SpeechSymbols/Romance
+|InteractionDef.logRulesInitiator=Exist
+|InteractionDef.logRulesInitiator.rulesStrings="logentry->Attempted to woo [other_nameShortIndef] into a romance.","logentry->向[other_nameShortIndef]求爱","logentry->向[other_nameShortIndef]告白。"
+|InteractionDef.logRulesRecipient=Exist
+|InteractionDef.logRulesRecipient.rulesStrings="logentry->Was wooed by [other_nameShortIndef].","logentry->被[other_nameShortIndef]求爱。","logentry->被[other_nameShortIndef]告白。"
+}}

@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=TimeSpeedUltrafast
+|KeyBindingDef.defName=TimeSpeedUltrafast
+|KeyBindingDef.label=game speed: ultra fast (debug)
+|KeyBindingDef.label.zh-cn=游戏速度：极快（Debug）
+|KeyBindingDef.label.zh-tw=遊戲速度：極速(Debug)
+|KeyBindingDef.category=Game
+|KeyBindingDef.defaultKeyCodeA=Alpha4
+|KeyBindingDef.devModeOnly=true
+}}

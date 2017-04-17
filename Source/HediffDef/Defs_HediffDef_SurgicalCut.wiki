@@ -1,0 +1,36 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=SurgicalCut
+|HediffDef.defName=SurgicalCut
+|HediffDef.label=surgical cut
+|HediffDef.label.zh-cn=手术伤
+|HediffDef.label.zh-tw=手術傷
+|HediffDef.hediffClass=Hediff_Injury
+|HediffDef.comps=Exist
+|HediffDef.comps.Count=2
+|HediffDef.comps.0=Exist
+|HediffDef.comps.0.Class=HediffCompProperties_TendDuration
+|HediffDef.comps.0.labelTendedWell=bandaged
+|HediffDef.comps.0.labelTendedWell.zh-cn=已包扎
+|HediffDef.comps.0.labelTendedWell.zh-tw=已包紮
+|HediffDef.comps.0.labelTendedWellInner=sutured
+|HediffDef.comps.0.labelTendedWellInner.zh-cn=已缝合
+|HediffDef.comps.0.labelTendedWellInner.zh-tw=已縫合
+|HediffDef.comps.0.labelSolidTendedWell=set
+|HediffDef.comps.0.labelSolidTendedWell.zh-cn=已简单固定
+|HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
+|HediffDef.comps.1=Exist
+|HediffDef.comps.1.Class=HediffCompProperties_GetsOld
+|HediffDef.comps.1.oldLabel=cut scar
+|HediffDef.comps.1.oldLabel.zh-cn=手术疤痕
+|HediffDef.comps.1.oldLabel.zh-tw=手術疤痕
+|HediffDef.tendable=true
+|HediffDef.displayWound=true
+|HediffDef.injuryProps=Exist
+|HediffDef.injuryProps.painPerSeverity=0.0125
+|HediffDef.injuryProps.averagePainPerSeverityOld=0.00625
+|HediffDef.injuryProps.bleedRate=0.03
+|HediffDef.injuryProps.canMerge=false
+|HediffDef.injuryProps.useRemovedLabel=true
+}}

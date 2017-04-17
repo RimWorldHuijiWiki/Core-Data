@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=AteRawHumanlikeMeat
+|ThoughtDef.defName=AteRawHumanlikeMeat
+|ThoughtDef.thoughtClass=Thought_Tale
+|ThoughtDef.workerClass=ThoughtWorker_Tale
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=ate raw humanlike meat
+|ThoughtDef.stages.0.label.zh-cn=生吃过人肉
+|ThoughtDef.stages.0.label.zh-tw=吃了生的人肉
+|ThoughtDef.stages.0.baseOpinionOffset=-5
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.nullifyingTraits="Cannibal"
+|ThoughtDef.nullifyingOwnTales="ButcheredHumanlikeCorpse","AteRawHumanlikeMeat"
+|ThoughtDef.taleDef=AteRawHumanlikeMeat
+}}

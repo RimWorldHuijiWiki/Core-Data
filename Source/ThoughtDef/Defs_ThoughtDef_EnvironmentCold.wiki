@@ -1,0 +1,34 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=EnvironmentCold
+|ThoughtDef.defName=EnvironmentCold
+|ThoughtDef.workerClass=ThoughtWorker_Cold
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=3
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=cold
+|ThoughtDef.stages.0.label.zh-cn=有点冷
+|ThoughtDef.stages.0.label.zh-tw=感到涼意
+|ThoughtDef.stages.0.description=I'm uncomfortably cold.
+|ThoughtDef.stages.0.description.zh-cn=我感觉有点冷，不舒服。
+|ThoughtDef.stages.0.description.zh-tw=這溫度冷得我有點不舒服。
+|ThoughtDef.stages.0.baseMoodEffect=-5
+|ThoughtDef.stages.1=Exist
+|ThoughtDef.stages.1.label=very cold
+|ThoughtDef.stages.1.label.zh-cn=非常冷
+|ThoughtDef.stages.1.label.zh-tw=感到寒冷
+|ThoughtDef.stages.1.description=I'm so cold. Shivering. Can't get warm.
+|ThoughtDef.stages.1.description.zh-cn=我好冷啊，一直在发抖，身体暖和不起来。
+|ThoughtDef.stages.1.description.zh-tw=我冷得全身發抖，無法取暖。
+|ThoughtDef.stages.1.baseMoodEffect=-8
+|ThoughtDef.stages.2=Exist
+|ThoughtDef.stages.2.label=freezing
+|ThoughtDef.stages.2.label.zh-cn=要冻僵了
+|ThoughtDef.stages.2.label.zh-tw=感覺要凍僵了
+|ThoughtDef.stages.2.description=My teeth are chatting so hard I can barely speak. My toes are numb. I need to get warm.
+|ThoughtDef.stages.2.description.zh-cn=我上下牙齿一直控制不住地在打架，几乎无法说话，我脚指头已经全木了，我需要取暖。
+|ThoughtDef.stages.2.description.zh-tw=我的牙齒不停打顫，連話都說不清；我的腳趾已經沒有任何感覺了，我需要取暖！
+|ThoughtDef.stages.2.baseMoodEffect=-10
+|ThoughtDef.validWhileDespawned=true
+}}

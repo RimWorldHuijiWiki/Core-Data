@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=SongDef
+|defName=UnnamedDef
+|SongDef.clipPath=Songs/Relax/Ice_Shaman
+|SongDef.volume=0.97
+|SongDef.commonality=2.0
+|SongDef.allowedSeasons="Winter"
+}}

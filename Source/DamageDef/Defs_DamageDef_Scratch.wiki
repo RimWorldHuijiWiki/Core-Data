@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=DamageDef
+|defName=Scratch
+|DamageDef.defName=Scratch
+|DamageDef.label=scratch
+|DamageDef.label.zh-cn=抓伤
+|DamageDef.label.zh-tw=抓傷
+|DamageDef.workerClass=DamageWorker_AddInjury
+|DamageDef.externalViolence=true
+|DamageDef.deathMessage={0} has been torn to death.
+|DamageDef.deathMessage.zh-cn={0}被抓死了。
+|DamageDef.deathMessage.zh-tw={0}被撕裂至死。
+|DamageDef.impactSoundType=Slice
+|DamageDef.armorCategory=Sharp
+|DamageDef.harmAllLayersUntilOutside=true
+|DamageDef.hediff=Scratch
+|DamageDef.hediffSolid=Crack
+}}

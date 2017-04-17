@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=UnloadInventory
+|JobDef.defName=UnloadInventory
+|JobDef.driverClass=JobDriver_UnloadInventory
+|JobDef.reportString=unloading TargetA.
+|JobDef.reportString.zh-cn=装卸TargetA。
+|JobDef.reportString.zh-tw=卸除TargetA的貨物。
+}}

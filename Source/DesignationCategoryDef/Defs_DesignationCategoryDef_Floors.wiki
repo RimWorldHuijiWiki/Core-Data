@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=DesignationCategoryDef
+|defName=Floors
+|DesignationCategoryDef.defName=Floors
+|DesignationCategoryDef.label=floors
+|DesignationCategoryDef.label.zh-cn=地面
+|DesignationCategoryDef.label.zh-tw=地板
+|DesignationCategoryDef.description=Flooring.
+|DesignationCategoryDef.description.zh-cn=各种地面。
+|DesignationCategoryDef.description.zh-tw=各種地面加工。
+|DesignationCategoryDef.specialDesignatorClasses="Designator_Cancel","Designator_SmoothFloor","Designator_RemoveFloor"
+|DesignationCategoryDef.order=200
+}}

@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartGroupDef
+|defName=Arms
+|BodyPartGroupDef.defName=Arms
+|BodyPartGroupDef.label=arms
+|BodyPartGroupDef.label.zh-cn=手臂
+|BodyPartGroupDef.label.zh-tw=手臂
+|BodyPartGroupDef.listOrder=90
+}}

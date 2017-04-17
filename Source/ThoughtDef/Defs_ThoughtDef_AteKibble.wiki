@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=AteKibble
+|ThoughtDef.defName=AteKibble
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=ate kibble
+|ThoughtDef.stages.0.label.zh-cn=吃了饲料
+|ThoughtDef.stages.0.label.zh-tw=吃了飼料
+|ThoughtDef.stages.0.description=I had to eat animal kibble. It's like I don't get to be human any more.
+|ThoughtDef.stages.0.description.zh-cn=我不得不吃下动物饲料。感觉如同我没法再做人一般。
+|ThoughtDef.stages.0.description.zh-tw=我只有飼料能吃，好像我是頭畜牲一樣。
+|ThoughtDef.stages.0.baseMoodEffect=-12
+|ThoughtDef.stackLimit=3
+|ThoughtDef.durationDays=0.5
+|ThoughtDef.icon=Things/Mote/ThoughtSymbol/Food
+|ThoughtDef.showBubble=true
+}}

@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Sow
+|JobDef.defName=Sow
+|JobDef.driverClass=JobDriver_PlantSow
+|JobDef.reportString=sowing TargetA.
+|JobDef.reportString.zh-cn=正在种植TargetA。
+|JobDef.reportString.zh-tw=種植TargetA。
+}}

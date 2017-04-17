@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Deconstruct
+|JobDef.defName=Deconstruct
+|JobDef.driverClass=JobDriver_Deconstruct
+|JobDef.reportString=deconstructing TargetA.
+|JobDef.reportString.zh-cn=正在拆除TargetA。
+|JobDef.reportString.zh-tw=拆除TargetA。
+}}

@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=Repair
+|WorkGiverDef.defName=Repair
+|WorkGiverDef.label=repair damaged things
+|WorkGiverDef.label.zh-cn=修理受损的建筑
+|WorkGiverDef.label.zh-tw=修理損壞物品
+|WorkGiverDef.giverClass=WorkGiver_Repair
+|WorkGiverDef.workType=Construction
+|WorkGiverDef.priorityInType=80
+|WorkGiverDef.verb=repair
+|WorkGiverDef.verb.zh-cn=修理
+|WorkGiverDef.verb.zh-tw=修理
+|WorkGiverDef.gerund=repairing
+|WorkGiverDef.gerund.zh-cn=修理
+|WorkGiverDef.gerund.zh-tw=修理
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.canBeDoneByNonColonists=true
+}}

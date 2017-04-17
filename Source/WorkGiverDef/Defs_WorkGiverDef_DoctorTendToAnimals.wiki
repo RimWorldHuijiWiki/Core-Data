@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoctorTendToAnimals
+|WorkGiverDef.defName=DoctorTendToAnimals
+|WorkGiverDef.label=tend to animals
+|WorkGiverDef.label.zh-cn=治疗动物
+|WorkGiverDef.label.zh-tw=tend to animals
+|WorkGiverDef.giverClass=WorkGiver_TendOther
+|WorkGiverDef.workType=Doctor
+|WorkGiverDef.priorityInType=40
+|WorkGiverDef.verb=tend to
+|WorkGiverDef.verb.zh-cn=治疗
+|WorkGiverDef.verb.zh-tw=tend to
+|WorkGiverDef.gerund=tending to
+|WorkGiverDef.gerund.zh-cn=治疗
+|WorkGiverDef.gerund.zh-tw=tending to
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.tendToAnimalsOnly=true
+}}

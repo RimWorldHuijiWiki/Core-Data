@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=ScatterShrines
+|GenStepDef.defName=ScatterShrines
+|GenStepDef.linkWithMapGenerator=MainMap
+|GenStepDef.order=400
+|GenStepDef.genStep=Exist
+|GenStepDef.genStep.Class=GenStep_ScatterShrines
+|GenStepDef.genStep.countPer10kCellsRange=Exist
+|GenStepDef.genStep.countPer10kCellsRange.min=0.12
+|GenStepDef.genStep.countPer10kCellsRange.max=0.25
+|GenStepDef.genStep.allowOnWater=false
+}}

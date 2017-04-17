@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RightMechanicalArm
+|BodyPartDef.defName=RightMechanicalArm
+|BodyPartDef.label=right arm
+|BodyPartDef.label.zh-cn=右臂
+|BodyPartDef.label.zh-tw=右臂
+|BodyPartDef.tags="ManipulationLimbCore"
+|BodyPartDef.hitPoints=30
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.isAlive=false
+}}

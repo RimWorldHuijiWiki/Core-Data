@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=Joywire
+|ThoughtDef.defName=Joywire
+|ThoughtDef.workerClass=ThoughtWorker_Hediff
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=Joywire
+|ThoughtDef.stages.0.label.zh-cn=乐丝芯片
+|ThoughtDef.stages.0.label.zh-tw=樂絲晶片
+|ThoughtDef.stages.0.description=It feels amazing.
+|ThoughtDef.stages.0.description.zh-cn=无与伦比的感觉。
+|ThoughtDef.stages.0.description.zh-tw=我有一種奇妙的感覺。
+|ThoughtDef.stages.0.baseMoodEffect=30
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.hediff=Joywire
+}}

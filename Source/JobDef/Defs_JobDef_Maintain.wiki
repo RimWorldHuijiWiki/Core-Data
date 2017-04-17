@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Maintain
+|JobDef.defName=Maintain
+|JobDef.driverClass=JobDriver_Maintain
+|JobDef.reportString=maintaining TargetA.
+|JobDef.reportString.zh-cn=照顾TargetA。
+|JobDef.reportString.zh-tw=等候TargetA。
+|JobDef.casualInterruptible=false
+}}

@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=KnowPrisonerSold
+|ThoughtDef.defName=KnowPrisonerSold
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=a prisoner was sold
+|ThoughtDef.stages.0.label.zh-cn=囚犯被贩卖
+|ThoughtDef.stages.0.label.zh-tw=得知有俘虜被賣掉了
+|ThoughtDef.stages.0.description=This colony sold a prisoner into slavery. That's a worrying thought.
+|ThoughtDef.stages.0.description.zh-cn=这个殖民地会把囚犯卖给奴隶贩子，这真令我担忧。
+|ThoughtDef.stages.0.description.zh-tw=他們把俘虜賣给奴隸商人了，這真令我擔憂。
+|ThoughtDef.stages.0.baseMoodEffect=-3
+|ThoughtDef.stackLimit=5
+|ThoughtDef.durationDays=3
+|ThoughtDef.nullifyingTraits="Psychopath"
+}}

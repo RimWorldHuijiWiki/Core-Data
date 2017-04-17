@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=MakeComponent
+|RecipeDef.defName=MakeComponent
+|RecipeDef.label=make component
+|RecipeDef.label.zh-cn=制造零部件
+|RecipeDef.label.zh-tw=製造電子零件
+|RecipeDef.description=Make a component.
+|RecipeDef.description.zh-cn=制造部件零部件。
+|RecipeDef.description.zh-tw=製造電子零件。
+|RecipeDef.jobString=Making component.
+|RecipeDef.jobString.zh-cn=正在制造部件零部件。
+|RecipeDef.jobString.zh-tw=製造電子零件。
+|RecipeDef.workAmount=9000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Steel"
+|RecipeDef.ingredients.0.count=25
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Steel"
+|RecipeDef.products="Component","1"
+|RecipeDef.unfinishedThingDef=UnfinishedComponent
+|RecipeDef.skillRequirements=Exist
+|RecipeDef.skillRequirements.Count=1
+|RecipeDef.skillRequirements.0=Exist
+|RecipeDef.skillRequirements.0.skill=Crafting
+|RecipeDef.skillRequirements.0.minLevel=10
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Cook
+|RecipeDef.soundWorking=Recipe_Machining
+}}

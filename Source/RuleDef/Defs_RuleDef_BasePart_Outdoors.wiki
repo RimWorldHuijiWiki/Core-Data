@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=RuleDef
+|defName=BasePart_Outdoors
+|RuleDef.defName=BasePart_Outdoors
+|RuleDef.symbol=basePart_outdoors
+|RuleDef.resolvers=Exist
+|RuleDef.resolvers.Count=1
+|RuleDef.resolvers.0=Exist
+|RuleDef.resolvers.0.Class=SymbolResolver_BasePart_Outdoors
+}}

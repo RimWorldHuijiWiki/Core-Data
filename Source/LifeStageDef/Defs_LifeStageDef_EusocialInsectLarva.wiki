@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=LifeStageDef
+|defName=EusocialInsectLarva
+|LifeStageDef.defName=EusocialInsectLarva
+|LifeStageDef.label=larva
+|LifeStageDef.label.zh-cn=幼虫
+|LifeStageDef.label.zh-tw=幼蟲
+|LifeStageDef.voxPitch=1.6
+|LifeStageDef.voxVolume=0.4
+|LifeStageDef.statFactors="MoveSpeed","0.5"
+|LifeStageDef.bodySizeFactor=0.2
+|LifeStageDef.healthScaleFactor=0.25
+|LifeStageDef.hungerRateFactor=0.4
+|LifeStageDef.marketValueFactor=0.4
+}}

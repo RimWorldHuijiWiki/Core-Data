@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=TurtleShell
+|BodyPartDef.defName=TurtleShell
+|BodyPartDef.label=shell
+|BodyPartDef.label.zh-cn=壳
+|BodyPartDef.label.zh-tw=龜殼
+|BodyPartDef.hitPoints=50
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.bleedingRateMultiplier=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.isAlive=false
+}}

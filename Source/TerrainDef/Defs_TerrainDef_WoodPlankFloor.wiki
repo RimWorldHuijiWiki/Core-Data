@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=WoodPlankFloor
+|TerrainDef.defName=WoodPlankFloor
+|TerrainDef.label=wood floor
+|TerrainDef.label.zh-cn=木地板
+|TerrainDef.label.zh-tw=木地板
+|TerrainDef.description=Wood plank flooring. For that warm, homey feeling.
+|TerrainDef.description.zh-cn=木板做的地面，给人一种温馨的感觉。
+|TerrainDef.description.zh-tw=木板做的地面，给人一種溫馨的感覺。
+|TerrainDef.statBases="WorkToBuild","85"
+|TerrainDef.fertility=0
+|TerrainDef.costList="WoodLog","3"
+|TerrainDef.terrainAffordanceNeeded=Light
+|TerrainDef.constructEffect=ConstructWood
+|TerrainDef.designationCategory=Floors
+|TerrainDef.designationHotKey=Misc7
+|TerrainDef.texturePath=Terrain/Surfaces/WoodFloor
+|TerrainDef.renderPrecedence=250
+|TerrainDef.affordances="Light","Heavy","SmoothHard"
+|TerrainDef.layerable=true
+|TerrainDef.acceptTerrainSourceFilth=True
+}}

@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=TransferableSorterDef
+|defName=Category
+|TransferableSorterDef.defName=Category
+|TransferableSorterDef.label=category
+|TransferableSorterDef.label.zh-cn=类型
+|TransferableSorterDef.label.zh-tw=category
+|TransferableSorterDef.comparerClass=TransferableComparer_Category
+}}

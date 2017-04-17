@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=MapConditionDef
+|defName=Planetkiller
+|MapConditionDef.defName=Planetkiller
+|MapConditionDef.label=planetkiller
+|MapConditionDef.label.zh-cn=行星毁灭
+|MapConditionDef.label.zh-tw=行星殺手
+|MapConditionDef.description=An interstellar planetkiller weapon is approaching this planet. When it hits, it will destroy all life.
+|MapConditionDef.description.zh-cn=一个星际歼星武器正在接近这颗星球。当其命中时，所有生命将会被毁灭。
+|MapConditionDef.description.zh-tw=一個被稱作行星殺手的行星毀滅兵器正朝著這顆星球襲來，一但它擊中星球，整個星球將會灰飛煙滅。
+|MapConditionDef.conditionClass=MapCondition_Planetkiller
+}}

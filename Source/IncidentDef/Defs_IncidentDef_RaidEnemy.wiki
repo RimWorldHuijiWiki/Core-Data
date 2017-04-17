@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=RaidEnemy
+|IncidentDef.defName=RaidEnemy
+|IncidentDef.label=enemy raid
+|IncidentDef.label.zh-cn=袭击
+|IncidentDef.label.zh-tw=敵襲
+|IncidentDef.workerClass=IncidentWorker_RaidEnemy
+|IncidentDef.targetType=BaseMap
+|IncidentDef.baseChance=7.4
+|IncidentDef.category=ThreatBig
+|IncidentDef.pointsScaleable=true
+}}

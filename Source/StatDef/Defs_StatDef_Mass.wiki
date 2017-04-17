@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=Mass
+|StatDef.defName=Mass
+|StatDef.label=mass
+|StatDef.label.zh-cn=物理质量
+|StatDef.label.zh-tw=重量
+|StatDef.description=The physical mass of an object.
+|StatDef.description.zh-cn=一个物体的物理质量。
+|StatDef.description.zh-tw=此物品的重量。
+|StatDef.category=Basics
+|StatDef.toStringStyle=FloatTwo
+|StatDef.formatString={0} kg
+|StatDef.formatString.zh-cn={0} 千克
+|StatDef.formatString.zh-tw={0}公斤
+|StatDef.defaultBaseValue=1
+|StatDef.minValue=0
+|StatDef.parts=Exist
+|StatDef.parts.Count=3
+|StatDef.parts.0=Exist
+|StatDef.parts.0.Class=StatPart_BodySize
+|StatDef.parts.1=Exist
+|StatDef.parts.1.Class=StatPart_NaturalNotMissingBodyPartsCoverage
+|StatDef.parts.2=Exist
+|StatDef.parts.2.Class=StatPart_GearAndInventoryMass
+}}

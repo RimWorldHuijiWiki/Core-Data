@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=MapCameraZoom
+|InstructionDef.defName=MapCameraZoom
+|InstructionDef.instructionClass=Instruction_LearnConcept
+|InstructionDef.text=Great!<br/><br/>You can also zoom in and out with the mouse wheel, or the {Key:MapZoomIn} and {Key:MapZoomOut} keys.<br/><br/>Try it now!
+|InstructionDef.text.zh-cn=赞！<br/><br/>通过鼠标滚轮滚动或者使用{Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight}按键来缩放视野！<br/><br/>试试看吧！
+|InstructionDef.text.zh-tw=做得好！<br/><br/>你還可以用滑鼠滾輪縮放畫面，或是使用{Key:MapZoomIn}和{Key:MapZoomOut}達到同樣的效果。<br/><br/>現在就嘗試看看！
+|InstructionDef.eventTagInitiate=InstructionDeactivated-MapCameraDolly
+|InstructionDef.concept=CameraZoom
+}}

@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=PatientGoToBed
+|WorkGiverDef.defName=PatientGoToBed
+|WorkGiverDef.label=recuperate in bed
+|WorkGiverDef.label.zh-cn=卧床养病
+|WorkGiverDef.label.zh-tw=接受治療
+|WorkGiverDef.giverClass=WorkGiver_PatientGoToBedRecuperate
+|WorkGiverDef.workType=PatientBedRest
+|WorkGiverDef.verb=get bed rest in
+|WorkGiverDef.verb.zh-cn=卧床休息于
+|WorkGiverDef.verb.zh-tw=接受治療
+|WorkGiverDef.gerund=getting bed rest in
+|WorkGiverDef.gerund.zh-cn=卧床休息于
+|WorkGiverDef.gerund.zh-tw=接受治療於
+|WorkGiverDef.tagToGive=RestingForMedicalReasons
+}}

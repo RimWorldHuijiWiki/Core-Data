@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=UseArtifact
+|JobDef.defName=UseArtifact
+|JobDef.driverClass=JobDriver_UseItem
+|JobDef.reportString=activating artifact.
+|JobDef.reportString.zh-cn=激活神器。
+|JobDef.reportString.zh-tw=啟動神器。
+}}

@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartGroupDef
+|defName=RightHand
+|BodyPartGroupDef.defName=RightHand
+|BodyPartGroupDef.label=right fist
+|BodyPartGroupDef.label.zh-cn=右手
+|BodyPartGroupDef.label.zh-tw=右掌
+|BodyPartGroupDef.listOrder=78
+}}

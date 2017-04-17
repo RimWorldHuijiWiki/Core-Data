@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=ProsthophobeUnhappy
+|ThoughtDef.defName=ProsthophobeUnhappy
+|ThoughtDef.workerClass=ThoughtWorker_HasBionicBodyPart
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=prosthophobe has bionic bodypart
+|ThoughtDef.stages.0.label.zh-cn=拥有仿生部件（仿生学恐惧）
+|ThoughtDef.stages.0.label.zh-tw=擁有仿生義肢或器官
+|ThoughtDef.stages.0.description=They turned me into a technological abomination... If only they had given me a choice...
+|ThoughtDef.stages.0.description.zh-cn=他们把我变成了一个科技怪物……也不问问我的意见……
+|ThoughtDef.stages.0.description.zh-tw=他們將我變成一個可憎的科技產物...如我他們當初有給我選擇的話...
+|ThoughtDef.stages.0.baseMoodEffect=-10
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.requiredTraits="Prosthophobe"
+}}

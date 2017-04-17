@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=DamageDef
+|defName=Deterioration
+|DamageDef.defName=Deterioration
+|DamageDef.label=deterioration
+|DamageDef.label.zh-cn=老化
+|DamageDef.label.zh-tw=衰敗
+|DamageDef.hasForcefulImpact=false
+|DamageDef.makesBlood=false
+|DamageDef.canInterruptJobs=false
+}}

@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=TimeAssignmentDef
+|defName=Anything
+|TimeAssignmentDef.defName=Anything
+|TimeAssignmentDef.label=anything
+|TimeAssignmentDef.label.zh-cn=任意
+|TimeAssignmentDef.label.zh-tw=不限
+|TimeAssignmentDef.color=(114,114,114)
+}}

@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=MiddleLeftInsectLeg
+|BodyPartDef.defName=MiddleLeftInsectLeg
+|BodyPartDef.label=middle left leg
+|BodyPartDef.label.zh-cn=左中肢
+|BodyPartDef.label.zh-tw=左中肢
+|BodyPartDef.tags="MovingLimbCore"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.frostbiteVulnerability=0.1
+}}

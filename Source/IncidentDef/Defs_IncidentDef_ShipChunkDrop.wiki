@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=ShipChunkDrop
+|IncidentDef.defName=ShipChunkDrop
+|IncidentDef.label=ship chunk drop
+|IncidentDef.label.zh-cn=飞船残骸坠落
+|IncidentDef.label.zh-tw=星艦殘骸
+|IncidentDef.workerClass=IncidentWorker_ShipChunkDrop
+|IncidentDef.targetType=BaseMap
+|IncidentDef.baseChance=3
+|IncidentDef.category=ShipChunkDrop
+}}

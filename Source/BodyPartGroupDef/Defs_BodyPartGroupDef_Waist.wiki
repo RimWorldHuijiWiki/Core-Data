@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartGroupDef
+|defName=Waist
+|BodyPartGroupDef.defName=Waist
+|BodyPartGroupDef.label=waist
+|BodyPartGroupDef.label.zh-cn=waist
+|BodyPartGroupDef.label.zh-tw=waist
+|BodyPartGroupDef.listOrder=50
+}}

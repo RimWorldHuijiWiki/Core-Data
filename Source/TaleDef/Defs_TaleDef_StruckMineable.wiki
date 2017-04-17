@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=TaleDef
+|defName=StruckMineable
+|TaleDef.defName=StruckMineable
+|TaleDef.label=struck mineable
+|TaleDef.label.zh-cn=采矿
+|TaleDef.label.zh-tw=struck mineable
+|TaleDef.type=Volatile
+|TaleDef.taleClass=Tale_SinglePawnAndThing
+|TaleDef.rulePack=Exist
+|TaleDef.rulePack.rulesStrings="tale_noun->[pawn_nameShortDef] striking [thing_label]","image->[pawn_nameFull] striking [thing_label] [circumstance_group]","circumstance_phrase->while mining","circumstance_phrase->while digging","circumstance_phrase->while tunnelling","circumstance_phrase->with a look of surprise","circumstance_phrase->with a satisfied expression","desc_sentence->[pawn_nameShortDef] is wiping [pawn_possessive] brow.","desc_sentence->[pawn_nameShortDef] is jumping for joy.","desc_sentence->[pawn_nameShortDef] is high-fiving a friend.","desc_sentence->[pawn_nameShortDef] is screaming with happiness.","desc_sentence->[pawn_nameShortDef] is laughing uncontrollably.","desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work.","desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work.","tale_noun->[pawn_nameShortDef]开采到[thing_label]","image->[pawn_nameFull][circumstance_group]采出了[thing_label]","circumstance_phrase->在开采的时候","circumstance_phrase->在挖掘的时候","circumstance_phrase->在开凿的时候","circumstance_phrase->带着惊奇的神色","circumstance_phrase->带着满意的表情","desc_sentence->[pawn_nameShortDef]用衣袖擦拭着额头。","desc_sentence->[pawn_nameShortDef]高兴得蹦蹦跳跳着。","desc_sentence->[pawn_nameShortDef]和朋友击掌庆贺着。","desc_sentence->[pawn_nameShortDef]开心地大喊大叫着。","desc_sentence->[pawn_nameShortDef]抑制不住地大笑着。","desc_sentence->[pawn_nameShortDef]脸上都是汗水和尘土。","desc_sentence->[pawn_nameShortDef]脸上都是汗水和尘土。","tale_noun->[pawn_nameShortDef] striking [thing_label]","image->[pawn_nameFull] striking [thing_label] [circumstance_group]","circumstance_phrase->while mining","circumstance_phrase->while digging","circumstance_phrase->while tunnelling","circumstance_phrase->with a look of surprise","circumstance_phrase->with a satisfied expression","desc_sentence->[pawn_nameShortDef] is wiping [pawn_possessive] brow.","desc_sentence->[pawn_nameShortDef] is jumping for joy.","desc_sentence->[pawn_nameShortDef] is high-fiving a friend.","desc_sentence->[pawn_nameShortDef] is screaming with happiness.","desc_sentence->[pawn_nameShortDef] is laughing uncontrollably.","desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work.","desc_sentence->[pawn_nameShortDef] is sweaty and dirty from work."
+|TaleDef.baseInterest=1
+}}

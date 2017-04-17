@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=Items
+|ThingCategoryDef.defName=Items
+|ThingCategoryDef.label=items
+|ThingCategoryDef.label.zh-cn=物品
+|ThingCategoryDef.label.zh-tw=物件
+|ThingCategoryDef.parent=Root
+}}

@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=TransferableSorterDef
+|defName=Name
+|TransferableSorterDef.defName=Name
+|TransferableSorterDef.label=name
+|TransferableSorterDef.label.zh-cn=名称
+|TransferableSorterDef.label.zh-tw=name
+|TransferableSorterDef.comparerClass=TransferableComparer_Name
+}}

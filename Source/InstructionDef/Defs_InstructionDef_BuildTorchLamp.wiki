@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=BuildTorchLamp
+|InstructionDef.defName=BuildTorchLamp
+|InstructionDef.instructionClass=Instruction_BuildInRoom
+|InstructionDef.text=You'll also want some light inside, or your colonists will get grumpy in the dark.<br/><br/>Build a TORCH LAMP inside the room.
+|InstructionDef.text.zh-cn=你还需要在室内建设一些光源，殖民者在黑暗中会不快。<br/><br/>在房间里造一个「火把」。
+|InstructionDef.text.zh-tw=你的房間還需要一點照明，否則居民們在黑暗中會感到不悅。<br/><br/>在房間中建造火把。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-BuildBeds
+|InstructionDef.actionTagsAllowed="MainTab-Architect-Open","SelectDesignator-TorchLamp","Designate-TorchLamp"
+|InstructionDef.rejectInputMessage=Please build a torch lamp inside the room.
+|InstructionDef.rejectInputMessage.zh-cn=请在房间里造一个火把
+|InstructionDef.rejectInputMessage.zh-tw=請將火把放置在房間內。
+|InstructionDef.highlightTags="MainTab-Architect-Closed","DesignationCategoryButton-Furniture-Closed","Designator-Build-TorchLamp"
+|InstructionDef.onMapInstruction=Build a torch lamp inside the room
+|InstructionDef.onMapInstruction.zh-cn=请在房间里造一个火把
+|InstructionDef.onMapInstruction.zh-tw=將火把建造在房間內
+|InstructionDef.targetCount=1
+|InstructionDef.thingDef=TorchLamp
+}}

@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=NightOwlDuringTheNight
+|ThoughtDef.defName=NightOwlDuringTheNight
+|ThoughtDef.workerClass=ThoughtWorker_IsNightForNightOwl
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=night owl at night
+|ThoughtDef.stages.0.label.zh-cn=夜猫子（晚上）
+|ThoughtDef.stages.0.label.zh-tw=夜貓子
+|ThoughtDef.stages.0.description=I feel much better at night.
+|ThoughtDef.stages.0.description.zh-cn=晚上我感觉好多了。
+|ThoughtDef.stages.0.description.zh-tw=我覺得夜晚比白天好多了。
+|ThoughtDef.stages.0.baseMoodEffect=16
+|ThoughtDef.requiredTraits="NightOwl"
+}}

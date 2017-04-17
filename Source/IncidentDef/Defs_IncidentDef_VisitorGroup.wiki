@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=VisitorGroup
+|IncidentDef.defName=VisitorGroup
+|IncidentDef.label=visitor group
+|IncidentDef.label.zh-cn=访客
+|IncidentDef.label.zh-tw=參訪團
+|IncidentDef.workerClass=IncidentWorker_VisitorGroup
+|IncidentDef.targetType=BaseMap
+|IncidentDef.baseChance=4
+|IncidentDef.category=AllyArrival
+|IncidentDef.pointsScaleable=true
+}}

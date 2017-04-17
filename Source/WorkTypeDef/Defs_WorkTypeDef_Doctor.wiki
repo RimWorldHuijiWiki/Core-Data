@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=WorkTypeDef
+|defName=Doctor
+|WorkTypeDef.defName=Doctor
+|WorkTypeDef.label=Doctor
+|WorkTypeDef.label.zh-cn=医生
+|WorkTypeDef.label.zh-tw=Doctor
+|WorkTypeDef.description=Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners.
+|WorkTypeDef.description.zh-cn=医生负责治疗病人和伤员、给无法行动的人喂食、进行手术。医生会同时照顾殖民者和囚犯。
+|WorkTypeDef.description.zh-tw=醫生會將食物送给無法動彈的人。包括居民和俘虜。
+|WorkTypeDef.workTags="Caring"
+|WorkTypeDef.labelShort=Doctor
+|WorkTypeDef.labelShort.zh-cn=医生
+|WorkTypeDef.labelShort.zh-tw=醫生
+|WorkTypeDef.pawnLabel=Doctor
+|WorkTypeDef.pawnLabel.zh-cn=医生
+|WorkTypeDef.pawnLabel.zh-tw=醫生
+|WorkTypeDef.gerundLabel=Doctoring
+|WorkTypeDef.gerundLabel.zh-cn=照顾
+|WorkTypeDef.gerundLabel.zh-tw=治療
+|WorkTypeDef.verb=Care for
+|WorkTypeDef.verb.zh-cn=照顾
+|WorkTypeDef.verb.zh-tw=照顧
+|WorkTypeDef.naturalPriority=1300
+|WorkTypeDef.relevantSkills="Medicine"
+}}

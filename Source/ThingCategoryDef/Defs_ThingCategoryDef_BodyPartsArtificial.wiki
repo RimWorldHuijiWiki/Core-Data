@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=BodyPartsArtificial
+|ThingCategoryDef.defName=BodyPartsArtificial
+|ThingCategoryDef.label=artificial
+|ThingCategoryDef.label.zh-cn=人造
+|ThingCategoryDef.label.zh-tw=人造
+|ThingCategoryDef.parent=BodyParts
+}}

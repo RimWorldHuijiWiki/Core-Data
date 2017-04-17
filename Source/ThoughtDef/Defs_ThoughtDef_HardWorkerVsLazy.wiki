@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=HardWorkerVsLazy
+|ThoughtDef.defName=HardWorkerVsLazy
+|ThoughtDef.thoughtClass=Thought_HardWorkerVsLazy
+|ThoughtDef.workerClass=ThoughtWorker_HardWorkerVsLazy
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=hard worker vs lazy
+|ThoughtDef.stages.0.label.zh-cn=工作勤奋VS工作懒惰
+|ThoughtDef.stages.0.label.zh-tw=勤奮VS偷懶
+|ThoughtDef.validWhileDespawned=true
+}}

@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=TakePrisonerToBed
+|WorkGiverDef.defName=TakePrisonerToBed
+|WorkGiverDef.label=take prisoners to bed
+|WorkGiverDef.label.zh-cn=把囚犯带到床上
+|WorkGiverDef.label.zh-tw=押送俘虜
+|WorkGiverDef.giverClass=WorkGiver_Warden_TakeToBed
+|WorkGiverDef.workType=Warden
+|WorkGiverDef.priorityInType=90
+|WorkGiverDef.verb=take to bed
+|WorkGiverDef.verb.zh-cn=带到床上
+|WorkGiverDef.verb.zh-tw=押送俘虜
+|WorkGiverDef.gerund=taking to bed
+|WorkGiverDef.gerund.zh-cn=带到床上
+|WorkGiverDef.gerund.zh-tw=押送俘虜
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

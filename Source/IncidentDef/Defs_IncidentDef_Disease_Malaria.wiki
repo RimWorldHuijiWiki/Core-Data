@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=Disease_Malaria
+|IncidentDef.defName=Disease_Malaria
+|IncidentDef.label=malaria
+|IncidentDef.label.zh-cn=疟疾
+|IncidentDef.label.zh-tw=瘧疾
+|IncidentDef.workerClass=IncidentWorker_Disease
+|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Disease
+|IncidentDef.diseaseIncident=Malaria
+|IncidentDef.diseaseVictimFractionRange=Exist
+|IncidentDef.diseaseVictimFractionRange.min=0.2
+|IncidentDef.diseaseVictimFractionRange.max=0.5
+}}

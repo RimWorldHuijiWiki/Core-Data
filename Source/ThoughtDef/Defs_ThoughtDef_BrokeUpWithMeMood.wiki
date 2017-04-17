@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=BrokeUpWithMeMood
+|ThoughtDef.defName=BrokeUpWithMeMood
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=broken up with by {0}
+|ThoughtDef.stages.0.label.zh-cn=和{0}分手
+|ThoughtDef.stages.0.label.zh-tw={0}和我分手了
+|ThoughtDef.stages.0.description=I was just dumped like a load of garbage.
+|ThoughtDef.stages.0.description.zh-cn=我就像一包垃圾一样被甩了。
+|ThoughtDef.stages.0.description.zh-tw=我被他如同垃圾般拋棄。
+|ThoughtDef.stages.0.baseMoodEffect=-15
+|ThoughtDef.stackLimit=5
+|ThoughtDef.durationDays=25.0
+}}

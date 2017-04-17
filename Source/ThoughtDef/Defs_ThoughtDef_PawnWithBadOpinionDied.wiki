@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=PawnWithBadOpinionDied
+|ThoughtDef.defName=PawnWithBadOpinionDied
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=my rival {0} died
+|ThoughtDef.stages.0.label.zh-cn=仇人{0}死亡
+|ThoughtDef.stages.0.label.zh-tw=我的死對頭死了
+|ThoughtDef.stages.0.description=Serves them right. Things are looking up.
+|ThoughtDef.stages.0.description.zh-cn=老天有眼，死了活该。
+|ThoughtDef.stages.0.description.zh-tw=老天有眼，活該死好。
+|ThoughtDef.stages.0.baseMoodEffect=10
+|ThoughtDef.stackLimit=5
+|ThoughtDef.stackedEffectMultiplier=0.25
+|ThoughtDef.durationDays=10
+}}

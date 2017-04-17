@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=DrugAddiction
+|ConceptDef.defName=DrugAddiction
+|ConceptDef.label=Drug addiction
+|ConceptDef.label.zh-cn=沉迷成瘾品
+|ConceptDef.label.zh-tw=藥物成癮
+|ConceptDef.priority=50
+|ConceptDef.needsOpportunity=true
+|ConceptDef.helpText=You can inspect your colonists' desire to take a drug in their Needs tab.<br/><br/>As long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.<br/><br/>However, after long enough in withdrawal, their addiction will end and the drug need will disappear.
+|ConceptDef.helpText.zh-cn=你可以在「需求」面板看到殖民者对成瘾品的渴望程度。<br/><br/>一旦其需求等级降到0，便会进入「戒断」状态，产生诸多负面情绪。<br/><br/>但只要坚持戒断足够长的时间，他们最终会不再成瘾，戒断反应也会消失。
+|ConceptDef.helpText.zh-tw=你可以在角色的需求面板查看他的藥癮需求。<br/><br/>當藥癮需求降至0時，角色會開始出現各種戒斷症狀。<br/><br/>在撐過戒斷症狀發作的期間後，藥癮需求會隨之消失。
+|ConceptDef.highlightTags="ITab-Needs-Closed"
+}}

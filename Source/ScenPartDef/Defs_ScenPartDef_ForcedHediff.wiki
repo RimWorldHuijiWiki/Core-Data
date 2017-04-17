@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=ForcedHediff
+|ScenPartDef.defName=ForcedHediff
+|ScenPartDef.label=forced health condition
+|ScenPartDef.label.zh-cn=强制健康状态
+|ScenPartDef.label.zh-tw=預設健康狀態
+|ScenPartDef.category=PlayerPawnModifier
+|ScenPartDef.scenPartClass=ScenPart_ForcedHediff
+|ScenPartDef.summaryPriority=459
+|ScenPartDef.selectionWeight=1.0
+}}

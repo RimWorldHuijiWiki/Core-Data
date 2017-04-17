@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=BodiesStripped
+|RecordDef.defName=BodiesStripped
+|RecordDef.label=bodies stripped
+|RecordDef.label.zh-cn=剥光数
+|RecordDef.label.zh-tw=掠奪次數
+|RecordDef.description=The number of bodies I have stripped.
+|RecordDef.description.zh-cn=我剥光的尸体和伤员的数量。
+|RecordDef.description.zh-tw=我進行掠奪的次數。
+|RecordDef.type=Int
+}}

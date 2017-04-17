@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=MapConditionDef
+|defName=ColdSnap
+|MapConditionDef.defName=ColdSnap
+|MapConditionDef.label=cold snap
+|MapConditionDef.label.zh-cn=寒流
+|MapConditionDef.label.zh-tw=寒流
+|MapConditionDef.description=An unusual cold snap is freezing the region.
+|MapConditionDef.description.zh-cn=一股罕见的寒流正在冻结这片区域。
+|MapConditionDef.description.zh-tw=一波不尋常的寒流正在凍結這個區域。
+|MapConditionDef.conditionClass=MapCondition_ColdSnap
+|MapConditionDef.exclusiveConditions="HeatWave"
+|MapConditionDef.endMessage=The cold snap is over.
+|MapConditionDef.endMessage.zh-cn=寒流结束了。
+|MapConditionDef.endMessage.zh-tw=這場寒流已經結束。
+}}

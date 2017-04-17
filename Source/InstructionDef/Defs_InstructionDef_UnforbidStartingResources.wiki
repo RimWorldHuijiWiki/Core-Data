@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=UnforbidStartingResources
+|InstructionDef.defName=UnforbidStartingResources
+|InstructionDef.instructionClass=Instruction_UnforbidStartingResources
+|InstructionDef.text=Now, to allow your colonists to bring your items to the stockpile, you must unforbid the items.<br/><br/>1. Clicking your starting items to select them.<br/>2. Click the TOGGLE FORBIDDEN command to unforbid them.<br/><br/>(Pro tip: Double-click an item to select all on screen of the same type.)
+|InstructionDef.text.zh-cn=殖民者不能对被标记为「禁用」的物品进行操作。<br/><br/>禁用的物品上会有一个红色的小X，选择禁用物品后，在下方的控制栏内可以解禁。<br/><br/>鼠标双击物品可快速同时选中附近同类物品。
+|InstructionDef.text.zh-tw=現在，要讓你的殖民者將東西搬運到儲存區，你必須取消物品的禁止互動狀態。<br/><br/>1. 選取你的開局物資。<br/>2. 點擊「切換禁止互動」取消禁止互動狀態。<br/><br/>(小技巧：快速連點兩下可以選取畫面中所有同類型的物件。) 
+|InstructionDef.eventTagInitiate=InstructionDeactivated-EndStockpileDesignating
+|InstructionDef.actionTagsAllowed="ToggleForbidden"
+|InstructionDef.rejectInputMessage=Please unforbid your starting items.
+|InstructionDef.rejectInputMessage.zh-cn=请解除物品的禁用状态
+|InstructionDef.rejectInputMessage.zh-tw=請解鎖你的開局物資。
+|InstructionDef.highlightTags="ToggleForbidden"
+|InstructionDef.onMapInstruction=Unforbid this
+|InstructionDef.onMapInstruction.zh-cn=解禁这个
+|InstructionDef.onMapInstruction.zh-tw=解鎖此物件
+}}

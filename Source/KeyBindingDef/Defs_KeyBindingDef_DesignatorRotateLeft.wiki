@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=DesignatorRotateLeft
+|KeyBindingDef.defName=DesignatorRotateLeft
+|KeyBindingDef.label=rotate left
+|KeyBindingDef.label.zh-cn=向左旋转
+|KeyBindingDef.label.zh-tw=向左旋轉物件
+|KeyBindingDef.category=Architect
+|KeyBindingDef.defaultKeyCodeA=Q
+}}

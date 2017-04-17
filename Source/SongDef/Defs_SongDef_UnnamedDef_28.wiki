@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=SongDef
+|defName=UnnamedDef
+|SongDef.clipPath=Songs/Relax/Moon_Harvest
+|SongDef.volume=1.04
+}}

@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=ResourcesRaw
+|ThingCategoryDef.defName=ResourcesRaw
+|ThingCategoryDef.label=raw resources
+|ThingCategoryDef.label.zh-cn=原材料
+|ThingCategoryDef.label.zh-tw=原料
+|ThingCategoryDef.parent=Root
+|ThingCategoryDef.iconPath=UI/Icons/ThingCategories/ResourcesRaw
+|ThingCategoryDef.resourceReadoutRoot=true
+}}

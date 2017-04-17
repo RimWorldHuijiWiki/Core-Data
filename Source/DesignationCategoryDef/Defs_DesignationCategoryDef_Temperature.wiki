@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=DesignationCategoryDef
+|defName=Temperature
+|DesignationCategoryDef.defName=Temperature
+|DesignationCategoryDef.label=temperature
+|DesignationCategoryDef.label.zh-cn=温度
+|DesignationCategoryDef.label.zh-tw=溫度
+|DesignationCategoryDef.description=Things for controlling temperature.
+|DesignationCategoryDef.description.zh-cn=用于控制温度的各种设备。
+|DesignationCategoryDef.description.zh-tw=用來調節溫度的設備。
+|DesignationCategoryDef.specialDesignatorClasses="Designator_Cancel","Designator_Deconstruct"
+|DesignationCategoryDef.order=25
+}}

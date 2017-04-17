@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=DesignationCategoryDef
+|defName=Ship
+|DesignationCategoryDef.defName=Ship
+|DesignationCategoryDef.label=ship
+|DesignationCategoryDef.label.zh-cn=飞船
+|DesignationCategoryDef.label.zh-tw=星艦
+|DesignationCategoryDef.description=Components of your escape ship.
+|DesignationCategoryDef.description.zh-cn=你逃离星球所必需的飞船零部件。
+|DesignationCategoryDef.description.zh-tw=逃離星艦的各個部件。
+|DesignationCategoryDef.specialDesignatorClasses="Designator_Cancel","Designator_Deconstruct"
+|DesignationCategoryDef.order=50
+}}

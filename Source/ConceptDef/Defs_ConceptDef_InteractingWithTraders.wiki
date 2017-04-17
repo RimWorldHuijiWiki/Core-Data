@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=InteractingWithTraders
+|ConceptDef.defName=InteractingWithTraders
+|ConceptDef.label=Interacting with traders
+|ConceptDef.label.zh-cn=与商人互动
+|ConceptDef.label.zh-tw=旅團交易
+|ConceptDef.priority=50
+|ConceptDef.needsOpportunity=True
+|ConceptDef.helpText=You can talk to people with ? over their heads.<br/><br/>Select a colonist and right-click on the character with ? attached to his head.
+|ConceptDef.helpText.zh-cn=你可以和头上有「？」的人物说话。<br/><br/>选择一位殖民者，然后再对头上有「？」的角色点击鼠标右键。
+|ConceptDef.helpText.zh-tw=你可以與頭上帶有「？」標誌的角色交易。<br/><br/>選擇一名居民，然後右鍵點擊帶有？標誌的對象。
+}}

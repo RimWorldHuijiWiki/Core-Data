@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=MapConditionDef
+|defName=HeatWave
+|MapConditionDef.defName=HeatWave
+|MapConditionDef.label=heat wave
+|MapConditionDef.label.zh-cn=热浪
+|MapConditionDef.label.zh-tw=熱浪
+|MapConditionDef.description=An extreme wave of heat is baking the area.
+|MapConditionDef.description.zh-cn=一股温度极高的热浪正在烘烤这片区域。
+|MapConditionDef.description.zh-tw=一波極端酷熱的熱浪正在烤熟這片地區。
+|MapConditionDef.conditionClass=MapCondition_HeatWave
+|MapConditionDef.exclusiveConditions="ColdSnap","VolcanicWinter"
+|MapConditionDef.endMessage=The heat wave is over.
+|MapConditionDef.endMessage.zh-cn=热浪结束了。
+|MapConditionDef.endMessage.zh-tw=這場熱浪已經結束。
+}}

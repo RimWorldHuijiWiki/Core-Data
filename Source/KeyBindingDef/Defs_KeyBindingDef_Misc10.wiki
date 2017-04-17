@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=Misc10
+|KeyBindingDef.defName=Misc10
+|KeyBindingDef.label=Misc 10
+|KeyBindingDef.label.zh-cn=其它 10
+|KeyBindingDef.label.zh-tw=其它 10
+|KeyBindingDef.category=SelectionMisc
+|KeyBindingDef.defaultKeyCodeA=L
+}}

@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=Disease_Plague
+|IncidentDef.defName=Disease_Plague
+|IncidentDef.label=plague
+|IncidentDef.label.zh-cn=瘟疫
+|IncidentDef.label.zh-tw=瘟疫
+|IncidentDef.workerClass=IncidentWorker_Disease
+|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Disease
+|IncidentDef.diseaseIncident=Plague
+|IncidentDef.diseaseVictimFractionRange=Exist
+|IncidentDef.diseaseVictimFractionRange.min=0.2
+|IncidentDef.diseaseVictimFractionRange.max=0.5
+}}

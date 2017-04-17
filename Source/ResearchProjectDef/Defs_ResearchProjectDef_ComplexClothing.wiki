@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=ComplexClothing
+|ResearchProjectDef.defName=ComplexClothing
+|ResearchProjectDef.label=complex clothing
+|ResearchProjectDef.label.zh-cn=高档衣物
+|ResearchProjectDef.label.zh-tw=高級衣物
+|ResearchProjectDef.description=Sew complicated garments like pants, dusters, and cowboy hats.
+|ResearchProjectDef.description.zh-cn=看起来更高档的衣物，比如裤子、防尘大衣、牛仔帽等。
+|ResearchProjectDef.description.zh-tw=解鎖部落生產複雜的衣物，如褲子、大衣以及牛仔帽。
+|ResearchProjectDef.techLevel=Medieval
+|ResearchProjectDef.baseCost=500
+|ResearchProjectDef.tags="ClassicStart"
+|ResearchProjectDef.researchViewX=0
+|ResearchProjectDef.researchViewY=4
+}}

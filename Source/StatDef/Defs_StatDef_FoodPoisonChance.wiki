@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=FoodPoisonChance
+|StatDef.defName=FoodPoisonChance
+|StatDef.label=food poison chance
+|StatDef.label.zh-cn=食物有毒几率
+|StatDef.label.zh-tw=烹調失敗率
+|StatDef.description=The probability that this character will inadvertently poison a meal they cook.
+|StatDef.description.zh-cn=此人在烹饪食物时不经意间让饭菜有毒的几率。
+|StatDef.description.zh-tw=這名角色調理出有毒食物的機率。
+|StatDef.category=PawnWork
+|StatDef.toStringStyle=PercentTwo
+|StatDef.defaultBaseValue=1
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
+|StatDef.skillNeedFactors.0.skill=Cooking
+|StatDef.skillNeedFactors.0.factorsPerLevel="0.200","0.100","0.060","0.040","0.025","0.018","0.010","0.005","0.003","0.002","0.001","0.0008","0.0007","0.0006","0.0005","0.0004","0.0003","0.0002","0.0001","0.0001","0.0001"
+}}

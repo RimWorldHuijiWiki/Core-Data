@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=Shear
+|WorkGiverDef.defName=Shear
+|WorkGiverDef.label=shear animals
+|WorkGiverDef.label.zh-cn=给动物剪毛
+|WorkGiverDef.label.zh-tw=剃毛
+|WorkGiverDef.giverClass=WorkGiver_Shear
+|WorkGiverDef.workType=Handling
+|WorkGiverDef.priorityInType=85
+|WorkGiverDef.verb=shear
+|WorkGiverDef.verb.zh-cn=剪毛
+|WorkGiverDef.verb.zh-tw=剃毛
+|WorkGiverDef.gerund=shearing
+|WorkGiverDef.gerund.zh-cn=剪毛
+|WorkGiverDef.gerund.zh-tw=剃毛
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

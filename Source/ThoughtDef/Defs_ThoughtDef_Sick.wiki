@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=Sick
+|ThoughtDef.defName=Sick
+|ThoughtDef.workerClass=ThoughtWorker_Sick
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=sick
+|ThoughtDef.stages.0.label.zh-cn=得病
+|ThoughtDef.stages.0.label.zh-tw=生病
+|ThoughtDef.stages.0.description=I don't feel very well, I'm sick.
+|ThoughtDef.stages.0.description.zh-cn=我生病了，感觉不太舒服。
+|ThoughtDef.stages.0.description.zh-tw=我感覺不太舒服，我生病了...
+|ThoughtDef.stages.0.baseMoodEffect=-5
+|ThoughtDef.validWhileDespawned=true
+}}

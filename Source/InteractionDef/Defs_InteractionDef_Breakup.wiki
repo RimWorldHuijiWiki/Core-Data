@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=InteractionDef
+|defName=Breakup
+|InteractionDef.defName=Breakup
+|InteractionDef.label=breakup
+|InteractionDef.label.zh-cn=感情破裂
+|InteractionDef.label.zh-tw=分手
+|InteractionDef.workerClass=InteractionWorker_Breakup
+|InteractionDef.symbol=Things/Mote/SpeechSymbols/Breakup
+|InteractionDef.logRulesInitiator=Exist
+|InteractionDef.logRulesInitiator.rulesStrings="logentry->Broke up with [other_nameShortIndef].","logentry->向[other_nameShortIndef]提出分手。","logentry->甩了[other_nameShortIndef]。"
+|InteractionDef.logRulesRecipient=Exist
+|InteractionDef.logRulesRecipient.rulesStrings="logentry->Was broken up with by [other_nameShortIndef].","logentry->被[other_nameShortIndef]抛弃了。","logentry->被[other_nameShortIndef]甩了。"
+}}

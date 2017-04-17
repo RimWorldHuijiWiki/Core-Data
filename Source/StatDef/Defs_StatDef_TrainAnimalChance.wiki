@@ -1,0 +1,28 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=TrainAnimalChance
+|StatDef.defName=TrainAnimalChance
+|StatDef.label=train animal chance
+|StatDef.label.zh-cn=训练动物成功率
+|StatDef.label.zh-tw=動物訓練成功機率
+|StatDef.description=Base chance this person will make progress training an animal on a given attempt. The actual chance for a given attempt will also depend on the animal's wildness, whether it is bonded with the trainer, and so on.
+|StatDef.description.zh-cn=此人在每次尝试训练动物时，取得进步的基本几率。实际几率还取决于动物的野性，不管是否与训练者有牵绊或者其他关系。
+|StatDef.description.zh-tw=進行動物訓練的基礎成功機率，實際成功機率是基於動物本身。
+|StatDef.category=PawnSocial
+|StatDef.toStringStyle=PercentTwo
+|StatDef.defaultBaseValue=1.0
+|StatDef.minValue=0.01
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
+|StatDef.skillNeedFactors.0.skill=Animals
+|StatDef.skillNeedFactors.0.baseFactor=0.04
+|StatDef.skillNeedFactors.0.bonusFactor=0.04
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=1
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Talking
+|StatDef.capacityFactors.0.weight=0.7
+}}

@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=SiteCoreDef
+|defName=Nothing
+|SiteCoreDef.defName=Nothing
+|SiteCoreDef.label=site
+|SiteCoreDef.label.zh-cn=site
+|SiteCoreDef.label.zh-tw=site
+|SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
+|SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Nothing
+|SiteCoreDef.workerClass=SiteCoreWorker_Nothing
+}}

@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=BondedAnimalMaster
+|ThoughtDef.defName=BondedAnimalMaster
+|ThoughtDef.workerClass=ThoughtWorker_BondedAnimalMaster
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label={0}'s master
+|ThoughtDef.stages.0.label.zh-cn={0}的主人
+|ThoughtDef.stages.0.label.zh-tw=動物夥伴
+|ThoughtDef.stages.0.description=Being together with my bonded animal makes me feel better.
+|ThoughtDef.stages.0.description.zh-cn=跟我的牵绊动物在一起让我感觉很好。
+|ThoughtDef.stages.0.description.zh-tw=和我的動物夥伴在一起讓我感覺好一些。
+|ThoughtDef.stages.0.baseMoodEffect=5
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.nullifyingTraits="Psychopath"
+}}

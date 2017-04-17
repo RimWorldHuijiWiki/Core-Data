@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=MentalBreakDef
+|defName=WanderPsychotic
+|MentalBreakDef.defName=WanderPsychotic
+|MentalBreakDef.mentalState=WanderPsychotic
+|MentalBreakDef.baseCommonality=1
+|MentalBreakDef.intensity=Major
+}}

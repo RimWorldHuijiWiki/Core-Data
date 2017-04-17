@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Goto
+|JobDef.defName=Goto
+|JobDef.driverClass=JobDriver_Goto
+|JobDef.reportString=moving.
+|JobDef.reportString.zh-cn=走动中。
+|JobDef.reportString.zh-tw=移動中。
+}}

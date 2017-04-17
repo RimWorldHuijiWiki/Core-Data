@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=PrepareCaravan_GatherPawns
+|JobDef.defName=PrepareCaravan_GatherPawns
+|JobDef.driverClass=JobDriver_PrepareCaravan_GatherPawns
+|JobDef.reportString=preparing to leave.
+|JobDef.reportString.zh-cn=准备离开。
+|JobDef.reportString.zh-tw=準備出發。
+}}

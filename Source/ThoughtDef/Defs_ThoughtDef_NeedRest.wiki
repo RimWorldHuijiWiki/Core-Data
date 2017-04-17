@@ -1,0 +1,33 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=NeedRest
+|ThoughtDef.defName=NeedRest
+|ThoughtDef.workerClass=ThoughtWorker_NeedRest
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=3
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=tired
+|ThoughtDef.stages.0.label.zh-cn=疲劳
+|ThoughtDef.stages.0.label.zh-tw=疲勞
+|ThoughtDef.stages.0.description=I haven't slept in a while.
+|ThoughtDef.stages.0.description.zh-cn=我有一段时间没睡觉了。
+|ThoughtDef.stages.0.description.zh-tw=我有一段時間沒睡覺了。
+|ThoughtDef.stages.0.baseMoodEffect=-8
+|ThoughtDef.stages.1=Exist
+|ThoughtDef.stages.1.label=very tired
+|ThoughtDef.stages.1.label.zh-cn=非常疲劳
+|ThoughtDef.stages.1.label.zh-tw=非常疲勞
+|ThoughtDef.stages.1.description=I'm so tired. I just want to lay down and rest for a few minutes...
+|ThoughtDef.stages.1.description.zh-cn=我好累阿。我真想躺下休息几分钟……
+|ThoughtDef.stages.1.description.zh-tw=我好累阿。我真想躺下休息幾分鐘...
+|ThoughtDef.stages.1.baseMoodEffect=-12
+|ThoughtDef.stages.2=Exist
+|ThoughtDef.stages.2.label=exhausted
+|ThoughtDef.stages.2.label.zh-cn=精疲力竭
+|ThoughtDef.stages.2.label.zh-tw=精疲力竭
+|ThoughtDef.stages.2.description=I'm so exhausted I can barely stand. My eyelids have lead weights on them. Let me sleep...
+|ThoughtDef.stages.2.description.zh-cn=我累的不行了，快站不住了，我的眼皮一直在打架……我要睡觉……
+|ThoughtDef.stages.2.description.zh-tw=我實在是疲憊不堪，我都快站不起来了。我覺得眼皮像是鉛做的一樣。讓我睡一會兒...
+|ThoughtDef.stages.2.baseMoodEffect=-25
+}}

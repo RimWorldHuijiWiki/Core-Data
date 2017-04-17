@@ -1,0 +1,30 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=SmeltWeapon
+|RecipeDef.defName=SmeltWeapon
+|RecipeDef.label=smelt weapon
+|RecipeDef.label.zh-cn=熔炼武器
+|RecipeDef.label.zh-tw=從武器中提煉金屬
+|RecipeDef.description=Use heat and strong electromagnets to break down weapons into useful resources.
+|RecipeDef.description.zh-cn=用强热和电磁铁将武器分解成有用的金属。
+|RecipeDef.description.zh-tw=利用高溫和電磁鐵將有用的金屬從武器中提煉出来。
+|RecipeDef.jobString=Smelting weapon.
+|RecipeDef.jobString.zh-cn=正在熔炼武器。
+|RecipeDef.jobString.zh-tw=從武器中提煉金屬。
+|RecipeDef.workAmount=1600
+|RecipeDef.workSpeedStat=SmeltingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Weapons"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Weapons"
+|RecipeDef.fixedIngredientFilter.specialFiltersToDisallow="AllowNonSmeltableWeapons"
+|RecipeDef.forceHiddenSpecialFilters="AllowSmeltable"
+|RecipeDef.specialProducts="Smelted"
+|RecipeDef.effectWorking=Smelt
+|RecipeDef.soundWorking=Recipe_Smelt
+}}

@@ -1,0 +1,22 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=Cirrhosis
+|HediffDef.defName=Cirrhosis
+|HediffDef.label=Cirrhosis
+|HediffDef.label.zh-cn=肝硬化
+|HediffDef.label.zh-tw=肝硬化
+|HediffDef.hediffClass=HediffWithComps
+|HediffDef.initialSeverity=0.001
+|HediffDef.stages=Exist
+|HediffDef.stages.Count=1
+|HediffDef.stages.0=Exist
+|HediffDef.stages.0.painOffset=0.15
+|HediffDef.stages.0.capMods=Exist
+|HediffDef.stages.0.capMods.Count=1
+|HediffDef.stages.0.capMods.0=Exist
+|HediffDef.stages.0.capMods.0.capacity=Moving
+|HediffDef.stages.0.capMods.0.offset=-0.10
+|HediffDef.stages.0.partEfficiencyOffset=-0.60
+|HediffDef.defaultLabelColor=(0.8, 0.8, 0.35)
+}}

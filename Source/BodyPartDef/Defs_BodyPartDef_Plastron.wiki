@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Plastron
+|BodyPartDef.defName=Plastron
+|BodyPartDef.label=plastron
+|BodyPartDef.label.zh-cn=腹甲
+|BodyPartDef.label.zh-tw=腹甲
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0.03
+|BodyPartDef.bleedingRateMultiplier=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.isAlive=false
+}}

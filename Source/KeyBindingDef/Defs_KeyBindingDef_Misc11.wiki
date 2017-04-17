@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=Misc11
+|KeyBindingDef.defName=Misc11
+|KeyBindingDef.label=Misc 11
+|KeyBindingDef.label.zh-cn=其它 11
+|KeyBindingDef.label.zh-tw=其它 11
+|KeyBindingDef.category=SelectionMisc
+|KeyBindingDef.defaultKeyCodeA=O
+}}

@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=FrontRightInsectLeg
+|BodyPartDef.defName=FrontRightInsectLeg
+|BodyPartDef.label=front right leg
+|BodyPartDef.label.zh-cn=右前肢
+|BodyPartDef.label.zh-tw=右前肢
+|BodyPartDef.tags="MovingLimbCore","ManipulationLimbCore"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.frostbiteVulnerability=0.1
+}}

@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=MentalStateDef
+|defName=BingingFood
+|MentalStateDef.defName=BingingFood
+|MentalStateDef.label=binging on food
+|MentalStateDef.label.zh-cn=暴饮暴食
+|MentalStateDef.label.zh-tw=暴飲暴食
+|MentalStateDef.stateClass=MentalState_Binging
+|MentalStateDef.workerClass=MentalStateWorker_BingingFood
+|MentalStateDef.category=Indulgent
+|MentalStateDef.prisonersCanDo=false
+|MentalStateDef.colonistsOnly=true
+|MentalStateDef.allowBeatfire=true
+|MentalStateDef.recoveryMtbDays=0.3
+|MentalStateDef.minTicksBeforeRecovery=20000
+|MentalStateDef.maxTicksBeforeRecovery=40000
+|MentalStateDef.recoverFromSleep=true
+|MentalStateDef.recoverFromDowned=true
+|MentalStateDef.moodRecoveryThought=Catharsis
+|MentalStateDef.beginLetter={0} is pigging out on food.
+|MentalStateDef.beginLetter.zh-cn={0}正在暴饮暴食。
+|MentalStateDef.beginLetter.zh-tw={0}正打算殲滅所有的糧食庫存。
+|MentalStateDef.beginLetterLabel=food binge
+|MentalStateDef.beginLetterLabel.zh-cn=暴饮暴食
+|MentalStateDef.beginLetterLabel.zh-tw=暴飲暴食
+|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.nameColor=(0.5, 0.9, 0.5)
+|MentalStateDef.recoveryMessage={0} is no longer pigging out on food.
+|MentalStateDef.recoveryMessage.zh-cn={0}不再暴饮暴食了。
+|MentalStateDef.recoveryMessage.zh-tw={0}不再暴飲暴食。
+|MentalStateDef.baseInspectLine=Mental state: Pigging out
+|MentalStateDef.baseInspectLine.zh-cn=失控：暴饮暴食
+|MentalStateDef.baseInspectLine.zh-tw=心理狀態：暴飲暴食
+}}

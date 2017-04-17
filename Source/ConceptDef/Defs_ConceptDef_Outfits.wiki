@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=Outfits
+|ConceptDef.defName=Outfits
+|ConceptDef.label=Outfits
+|ConceptDef.label.zh-cn=着装管理
+|ConceptDef.label.zh-tw=裝備管理
+|ConceptDef.priority=2
+|ConceptDef.helpText=Colonists will automatically try to wear the newest, highest-quality apparel they can.<br/><br/>You don't need to manually assign each piece of apparel to colonists (though you can, if you wish).<br/><br/>To assign colonists restrictions on how to dress, open the ASSIGN tab, use the "Manage outfits" dialog box to design a new outfit, and then assign the outfit to colonists.
+|ConceptDef.helpText.zh-cn=殖民者总是会尝试穿更新更好的衣服。<br/><br/>你无需手动指派殖民者的每一项穿着设定（如果你想的话当然也是完全可以的）。<br/><br/>通过打开「方案」标签页就可以为你的殖民者设计/安排着装方案了，
+|ConceptDef.helpText.zh-tw=居民會自動找尋品質最高、最新(耐久度)的衣服穿著<br/><br/>你無須自訂居民的每一項穿著設定(當然，若你想要這麼做當然也是可以的)。<br/><br/>欲指定居民穿著什麼服裝，點擊畫面底部的「分配」，然後點選「編輯」
+|ConceptDef.highlightTags="MainTab-Assign-Closed","ManageOutfits"
+}}

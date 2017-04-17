@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=BiomeDef
+|defName=Ocean
+|BiomeDef.defName=Ocean
+|BiomeDef.label=ocean
+|BiomeDef.label.zh-cn=海洋
+|BiomeDef.label.zh-tw=海洋
+|BiomeDef.description=Open ocean. Great for fish - not so great for you.
+|BiomeDef.description.zh-cn=这里是一片汪洋，鱼儿会很喜欢这里的，你可就不一定了。
+|BiomeDef.description.zh-tw=廣闊的的大海，對於魚來說是相當理想的地方，對於您來說就不是了。
+|BiomeDef.workerClass=BiomeWorker_Ocean
+|BiomeDef.canBuildBase=false
+|BiomeDef.impassable=true
+|BiomeDef.hasVirtualPlants=false
+|BiomeDef.hideTerrain=true
+|BiomeDef.texture=World/Biomes/Ocean
+}}

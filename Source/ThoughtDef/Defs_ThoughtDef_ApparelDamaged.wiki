@@ -1,0 +1,26 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=ApparelDamaged
+|ThoughtDef.defName=ApparelDamaged
+|ThoughtDef.workerClass=ThoughtWorker_ApparelDamaged
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=2
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=wearing worn-out apparel
+|ThoughtDef.stages.0.label.zh-cn=穿着磨损的衣服
+|ThoughtDef.stages.0.label.zh-tw=穿著破損的服裝
+|ThoughtDef.stages.0.description=My outfit is looking pretty bad. Can't I get something decent to wear?
+|ThoughtDef.stages.0.description.zh-cn=我的衣服看起来有点破，我就不能有件体面的衣服吗？
+|ThoughtDef.stages.0.description.zh-tw=我的衣服破爛不堪，難道我不能穿件體面點的衣服嗎？
+|ThoughtDef.stages.0.baseMoodEffect=-3
+|ThoughtDef.stages.1=Exist
+|ThoughtDef.stages.1.label=wearing tattered apparel
+|ThoughtDef.stages.1.label.zh-cn=穿着破烂的衣服
+|ThoughtDef.stages.1.label.zh-tw=穿著殘破的服裝
+|ThoughtDef.stages.1.description=I'm wearing a tattered piece of trash. Can't I get something decent to wear?
+|ThoughtDef.stages.1.description.zh-cn=我的衣服就是几条破布，我就不能有件体面的衣服吗？
+|ThoughtDef.stages.1.description.zh-tw=我正穿著的只能算是衣服的碎片，難道我不能穿件體面點的衣服嗎？
+|ThoughtDef.stages.1.baseMoodEffect=-5
+|ThoughtDef.validWhileDespawned=true
+}}

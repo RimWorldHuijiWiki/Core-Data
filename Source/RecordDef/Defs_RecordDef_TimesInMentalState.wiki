@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=TimesInMentalState
+|RecordDef.defName=TimesInMentalState
+|RecordDef.label=times in mental state
+|RecordDef.label.zh-cn=精神崩溃次数
+|RecordDef.label.zh-tw=精神崩潰次數
+|RecordDef.description=How many times I have suffered a mental break.
+|RecordDef.description.zh-cn=我精神崩溃的次数。
+|RecordDef.description.zh-tw=我精神崩潰狀態的次數。
+|RecordDef.type=Int
+}}

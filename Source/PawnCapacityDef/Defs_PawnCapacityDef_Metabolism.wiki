@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=PawnCapacityDef
+|defName=Metabolism
+|PawnCapacityDef.defName=Metabolism
+|PawnCapacityDef.label=metabolism
+|PawnCapacityDef.label.zh-cn=新陈代谢
+|PawnCapacityDef.label.zh-tw=代謝
+|PawnCapacityDef.listOrder=110
+|PawnCapacityDef.workerClass=PawnCapacityWorker_Metabolism
+|PawnCapacityDef.showOnMechanoids=false
+|PawnCapacityDef.lethalFlesh=true
+}}

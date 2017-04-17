@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Skull
+|BodyPartDef.defName=Skull
+|BodyPartDef.label=skull
+|BodyPartDef.label.zh-cn=颅骨
+|BodyPartDef.label.zh-tw=頭骨
+|BodyPartDef.hitPoints=30
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.dontSuggestAmputation=true
+}}

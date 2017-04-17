@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=DamageDef
+|defName=Extinguish
+|DamageDef.defName=Extinguish
+|DamageDef.label=extinguish
+|DamageDef.label.zh-cn=熄灭
+|DamageDef.label.zh-tw=著火
+|DamageDef.workerClass=DamageWorker_Extinguish
+|DamageDef.makesBlood=false
+|DamageDef.canInterruptJobs=false
+|DamageDef.explosionDamage=999999
+|DamageDef.explosionCellMote=Mote_BlastExtinguisher
+|DamageDef.explosionColorEdge=(1, 1, 1, 0.05)
+|DamageDef.soundExplosion=Explosion_Stun
+}}

@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=DifficultyDef
+|defName=Hard
+|DifficultyDef.defName=Hard
+|DifficultyDef.label=Intense
+|DifficultyDef.label.zh-cn=挑战模式
+|DifficultyDef.label.zh-tw=困難
+|DifficultyDef.description=A significant challenge.<br/><br/>Succeeding at this level requires a solid and well-rounded understanding of survival strategies, and some luck.
+|DifficultyDef.description.zh-cn=极具挑战的游戏模式。<br/><br/>此难度等级需要足够的战略、战术和运气来生存。这种RimWorld模式意味着是你被游戏玩，而不是你玩游戏。
+|DifficultyDef.description.zh-tw=相當有挑戰性的難度，你需要全面的戰術、策略以及運氣才有辦法生存下來。
+|DifficultyDef.difficulty=4
+|DifficultyDef.threatScale=1.0
+|DifficultyDef.colonistMoodOffset=-3
+|DifficultyDef.tradePriceFactorLoss=0.15
+|DifficultyDef.cropYieldFactor=1
+|DifficultyDef.diseaseIntervalFactor=1
+|DifficultyDef.enemyReproductionRateFactor=1
+}}

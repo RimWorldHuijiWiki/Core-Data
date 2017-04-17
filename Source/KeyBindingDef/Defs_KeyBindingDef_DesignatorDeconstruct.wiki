@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=DesignatorDeconstruct
+|KeyBindingDef.defName=DesignatorDeconstruct
+|KeyBindingDef.label=deconstruct
+|KeyBindingDef.label.zh-cn=拆除
+|KeyBindingDef.label.zh-tw=物件結構
+|KeyBindingDef.category=Architect
+|KeyBindingDef.defaultKeyCodeA=X
+}}

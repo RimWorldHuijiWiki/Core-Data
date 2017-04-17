@@ -1,0 +1,36 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=ShootingAccuracy
+|StatDef.defName=ShootingAccuracy
+|StatDef.label=shooting accuracy
+|StatDef.label.zh-cn=射击精确度
+|StatDef.label.zh-tw=射擊精度
+|StatDef.description=Base chance to not miss per square of shot distance.
+|StatDef.description.zh-cn=每增加一格距离不打偏的基本几率。
+|StatDef.description.zh-tw=對目標遠程射擊的基礎命中率。
+|StatDef.category=PawnCombat
+|StatDef.showOnAnimals=false
+|StatDef.displayPriorityInCategory=50
+|StatDef.toStringStyle=PercentTwo
+|StatDef.defaultBaseValue=1
+|StatDef.minValue=0.01
+|StatDef.maxValue=0.998
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
+|StatDef.skillNeedFactors.0.skill=Shooting
+|StatDef.skillNeedFactors.0.reportInverse=true
+|StatDef.skillNeedFactors.0.factorsPerLevel="0.50","0.70","0.80","0.90","0.93","0.95","0.96","0.965","0.97","0.975","0.98","0.985","0.9875","0.99","0.991","0.992","0.993","0.994","0.995","0.996","0.997"
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Sight
+|StatDef.capacityFactors.0.weight=0.95
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Manipulation
+|StatDef.capacityFactors.1.weight=1
+|StatDef.postProcessCurve=Exist
+|StatDef.postProcessCurve.points="(0,0)","(0.2,0.7)","(0.5, 0.86)","(0.8, 0.93)","(0.96,0.96)","(1.0,0.98)","(1.1,0.985)","(1.3,0.99)","(1.8,0.995)","(10,1)"
+}}

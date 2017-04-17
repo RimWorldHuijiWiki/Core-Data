@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=Milk
+|WorkGiverDef.defName=Milk
+|WorkGiverDef.label=milk animals
+|WorkGiverDef.label.zh-cn=给动物挤奶
+|WorkGiverDef.label.zh-tw=擠奶
+|WorkGiverDef.giverClass=WorkGiver_Milk
+|WorkGiverDef.workType=Handling
+|WorkGiverDef.priorityInType=90
+|WorkGiverDef.verb=milk
+|WorkGiverDef.verb.zh-cn=挤奶
+|WorkGiverDef.verb.zh-tw=擠奶
+|WorkGiverDef.gerund=milking
+|WorkGiverDef.gerund.zh-cn=挤奶
+|WorkGiverDef.gerund.zh-tw=擠奶
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

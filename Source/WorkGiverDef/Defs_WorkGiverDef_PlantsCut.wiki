@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=PlantsCut
+|WorkGiverDef.defName=PlantsCut
+|WorkGiverDef.label=cut plants
+|WorkGiverDef.label.zh-cn=割除植物
+|WorkGiverDef.label.zh-tw=剪裁
+|WorkGiverDef.giverClass=WorkGiver_PlantsCut
+|WorkGiverDef.workType=PlantCutting
+|WorkGiverDef.verb=cut
+|WorkGiverDef.verb.zh-cn=割除
+|WorkGiverDef.verb.zh-tw=剪裁
+|WorkGiverDef.gerund=cutting
+|WorkGiverDef.gerund.zh-cn=割除
+|WorkGiverDef.gerund.zh-tw=剪裁
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

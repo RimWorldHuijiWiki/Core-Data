@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=StatCategoryDef
+|defName=EquippedStatOffsets
+|StatCategoryDef.defName=EquippedStatOffsets
+|StatCategoryDef.label=Offsets when equipped
+|StatCategoryDef.label.zh-cn=装备时属性偏移量
+|StatCategoryDef.label.zh-tw=裝備效果
+|StatCategoryDef.displayOrder=70
+}}

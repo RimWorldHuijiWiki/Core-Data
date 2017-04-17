@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=StuffCategoryDef
+|defName=Leathery
+|StuffCategoryDef.defName=Leathery
+|StuffCategoryDef.label=leathery
+|StuffCategoryDef.label.zh-cn=皮革
+|StuffCategoryDef.label.zh-tw=皮質
+}}

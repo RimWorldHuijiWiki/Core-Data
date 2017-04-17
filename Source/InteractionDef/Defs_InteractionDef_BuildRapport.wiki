@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=InteractionDef
+|defName=BuildRapport
+|InteractionDef.defName=BuildRapport
+|InteractionDef.label=try to get to know
+|InteractionDef.label.zh-cn=尝试交流
+|InteractionDef.label.zh-tw=友好交談
+|InteractionDef.initiatorXpGainSkill=Social
+|InteractionDef.initiatorXpGainAmount=30
+|InteractionDef.recipientThought=RapportBuilt
+|InteractionDef.symbol=Things/Mote/SpeechSymbols/BuildRapport
+|InteractionDef.logRulesInitiator=Exist
+|InteractionDef.logRulesInitiator.rulesStrings="logentry->Tried to build rapport with [other_nameShortIndef].","logentry->尝试与[other_nameShortIndef]建立融洽关系。","logentry->向[other_nameShortIndef]交談並展現善意。"
+|InteractionDef.logRulesRecipient=Exist
+|InteractionDef.logRulesRecipient.rulesStrings="logentry->Listened to [other_nameShortIndef] build rapport with me.","logentry->允许[other_nameShortIndef]和自己建立融洽关系。","logentry->與[other_nameShortIndef]友好交談。"
+}}

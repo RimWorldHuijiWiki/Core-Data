@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=CommandTogglePower
+|KeyBindingDef.defName=CommandTogglePower
+|KeyBindingDef.label=toggle power
+|KeyBindingDef.label.zh-cn=开关电力
+|KeyBindingDef.label.zh-tw=開啟/關閉電源
+|KeyBindingDef.category=SelectionSpecial
+|KeyBindingDef.defaultKeyCodeA=V
+}}

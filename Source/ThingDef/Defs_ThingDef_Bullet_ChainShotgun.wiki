@@ -1,0 +1,23 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Bullet_ChainShotgun
+|ThingDef.defName=Bullet_ChainShotgun
+|ThingDef.label=shotgun blast
+|ThingDef.label.zh-cn=shotgun blast
+|ThingDef.label.zh-tw=shotgun blast
+|ThingDef.altitudeLayer=Projectile
+|ThingDef.thingClass=Bullet
+|ThingDef.category=Projectile
+|ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=False
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Projectile/Bullet_Shotgun
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.shaderType=Transparent
+|ThingDef.neverMultiSelect=True
+|ThingDef.projectile=Exist
+|ThingDef.projectile.speed=55
+|ThingDef.projectile.damageDef=Bullet
+|ThingDef.projectile.damageAmountBase=20
+}}

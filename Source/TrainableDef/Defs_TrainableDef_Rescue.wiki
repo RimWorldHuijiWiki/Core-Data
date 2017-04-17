@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=TrainableDef
+|defName=Rescue
+|TrainableDef.defName=Rescue
+|TrainableDef.label=rescue
+|TrainableDef.label.zh-cn=援救
+|TrainableDef.label.zh-tw=救援
+|TrainableDef.description=The animal will rescue wounded allies and drag them to safety.
+|TrainableDef.description.zh-cn=动物会援救受伤的盟友，并将他们拖到安全地带。
+|TrainableDef.description.zh-tw=動物會救援倒地的友軍，並將他們搬到安全處。
+|TrainableDef.difficulty=200
+|TrainableDef.minBodySize=0.65
+|TrainableDef.prerequisites="Obedience"
+|TrainableDef.tags="Combat","Help"
+|TrainableDef.defaultTrainable=true
+|TrainableDef.requiredTrainableIntelligence=Advanced
+|TrainableDef.steps=2
+|TrainableDef.listPriority=600
+|TrainableDef.icon=UI/Icons/Trainables/Rescue
+}}

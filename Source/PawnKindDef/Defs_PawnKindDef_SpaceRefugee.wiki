@@ -1,0 +1,30 @@
+{{#set:
+|dataType=Def
+|defType=PawnKindDef
+|defName=SpaceRefugee
+|PawnKindDef.defName=SpaceRefugee
+|PawnKindDef.label=space refugee
+|PawnKindDef.label.zh-cn=星际难民
+|PawnKindDef.label.zh-tw=星際難民
+|PawnKindDef.race=Human
+|PawnKindDef.defaultFactionType=Spacer
+|PawnKindDef.backstoryCategory=Civil
+|PawnKindDef.labelPlural=space refugees
+|PawnKindDef.labelPlural.zh-cn=星际难民
+|PawnKindDef.labelPlural.zh-tw=space refugees
+|PawnKindDef.backstoryCryptosleepCommonality=1
+|PawnKindDef.forceNormalGearQuality=true
+|PawnKindDef.gearHealthRange=Exist
+|PawnKindDef.gearHealthRange.min=0.4
+|PawnKindDef.gearHealthRange.max=1.4
+|PawnKindDef.isFighter=false
+|PawnKindDef.combatPower=25
+|PawnKindDef.baseRecruitDifficulty=0.30
+|PawnKindDef.apparelMoney=Exist
+|PawnKindDef.apparelMoney.min=0
+|PawnKindDef.apparelMoney.max=3000
+|PawnKindDef.apparelTags="Spacer"
+|PawnKindDef.apparelAllowHeadwearChance=0.5
+|PawnKindDef.apparelIgnoreSeasons=true
+|PawnKindDef.chemicalAddictionChance=0.08
+}}

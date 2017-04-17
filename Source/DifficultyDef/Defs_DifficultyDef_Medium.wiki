@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=DifficultyDef
+|defName=Medium
+|DifficultyDef.defName=Medium
+|DifficultyDef.label=Rough
+|DifficultyDef.label.zh-cn=困难模式
+|DifficultyDef.label.zh-tw=普通
+|DifficultyDef.description=It's a rough planet.<br/><br/>Threats can be quite dangerous. Not recommended until you've got some experience with the game.
+|DifficultyDef.description.zh-cn=这是一个狂暴的星球。<br/><br/>威胁事件会非常危险，并且殖民者心情和作物产量没有额外的加成。
+|DifficultyDef.description.zh-tw=在這個星球上生存可不是什麼輕鬆的事，襲擊可能非常致命。建議在獲得足夠遊戲經驗前不要輕易嘗試。
+|DifficultyDef.difficulty=3
+|DifficultyDef.threatScale=0.65
+|DifficultyDef.colonistMoodOffset=0
+|DifficultyDef.tradePriceFactorLoss=0.10
+|DifficultyDef.cropYieldFactor=1
+|DifficultyDef.diseaseIntervalFactor=1
+|DifficultyDef.enemyReproductionRateFactor=1
+}}

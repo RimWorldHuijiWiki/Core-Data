@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=JoyGiverDef
+|defName=SocialRelax
+|JoyGiverDef.defName=SocialRelax
+|JoyGiverDef.giverClass=JoyGiver_SocialRelax
+|JoyGiverDef.baseChance=4
+|JoyGiverDef.joyKind=Social
+}}

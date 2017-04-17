@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=TaleDef
+|defName=DidSurgery
+|TaleDef.defName=DidSurgery
+|TaleDef.label=surgery performed
+|TaleDef.label.zh-cn=手术
+|TaleDef.label.zh-tw=surgery performed
+|TaleDef.type=Volatile
+|TaleDef.taleClass=Tale_DoublePawn
+|TaleDef.rulePack=Exist
+|TaleDef.rulePack.rulesStrings="tale_noun->[patient_nameShortDef]'s surgery","image->[surgeon_nameFull] putting [patient_nameFull] to sleep with anesthetic [circumstance_group]","image->[surgeon_nameFull] elbow-deep in [patient_nameFull] during surgery [circumstance_group]","image->[surgeon_nameFull] slicing into [patient_nameFull] during surgery [circumstance_group]","circumstance_phrase->as [patient_pronoun] trembles with fear","circumstance_phrase->as blood pools at [surgeon_nameShortDef]'s feet","circumstance_phrase->while surrounded by scary-looking surgical tools","circumstance_phrase->with improvised but effective tools","desc_sentence->[surgeon_nameShortDef] is sweating profusely.","desc_sentence->[surgeon_nameShortDef] looks incredibly focused on the task.","desc_sentence->[surgeon_nameShortDef] has blood smeared on [surgeon_possessive] face.","desc_sentence->[patient_nameShortDef] is shaking and writhing.","tale_noun->[patient_nameShortDef]的手术","image->[surgeon_nameFull]正在麻醉[patient_nameFull]，[circumstance_group]","image->在手术过程中，[surgeon_nameFull]将手臂伸入[patient_nameFull]体内直至手肘，[circumstance_group]","image->在手术过程中，[surgeon_nameFull]剖开[patient_nameFull]，[circumstance_group]","circumstance_phrase->而[patient_pronoun]因害怕而颤抖","circumstance_phrase->而血液流淌在[surgeon_nameShortDef]脚下","circumstance_phrase->周围环绕着看着渗人的手术工具","circumstance_phrase->使用的是自制但有效的工具","desc_sentence->[surgeon_nameShortDef]满头大汗。","desc_sentence->[surgeon_nameShortDef]看上去非常专注。","desc_sentence->[surgeon_nameShortDef]被血溅到脸上。","desc_sentence->[patient_nameShortDef]抽搐着扭动着。","tale_noun->[patient_nameShortDef]'s surgery","image->[surgeon_nameFull] putting [patient_nameFull] to sleep with anesthetic [circumstance_group]","image->[surgeon_nameFull] elbow-deep in [patient_nameFull] during surgery [circumstance_group]","image->[surgeon_nameFull] slicing into [patient_nameFull] during surgery [circumstance_group]","circumstance_phrase->as [patient_pronoun] trembles with fear","circumstance_phrase->as blood pools at [surgeon_nameShortDef]'s feet","circumstance_phrase->while surrounded by scary-looking surgical tools","circumstance_phrase->with improvised but effective tools","desc_sentence->[surgeon_nameShortDef] is sweating profusely.","desc_sentence->[surgeon_nameShortDef] looks incredibly focused on the task.","desc_sentence->[surgeon_nameShortDef] has blood smeared on [surgeon_possessive] face.","desc_sentence->[patient_nameShortDef] is shaking and writhing."
+|TaleDef.firstPawnSymbol=surgeon
+|TaleDef.secondPawnSymbol=patient
+|TaleDef.baseInterest=2.5
+}}

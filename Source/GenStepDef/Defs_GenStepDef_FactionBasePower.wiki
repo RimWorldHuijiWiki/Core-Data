@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=FactionBasePower
+|GenStepDef.defName=FactionBasePower
+|GenStepDef.linkWithMapGenerator=FactionBase
+|GenStepDef.order=401
+|GenStepDef.genStep=
+}}

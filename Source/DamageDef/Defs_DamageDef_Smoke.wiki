@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=DamageDef
+|defName=Smoke
+|DamageDef.defName=Smoke
+|DamageDef.label=smoke
+|DamageDef.label.zh-cn=烟
+|DamageDef.label.zh-tw=smoke
+|DamageDef.harmsHealth=false
+|DamageDef.makesBlood=false
+|DamageDef.canInterruptJobs=false
+|DamageDef.explosionDamage=0
+|DamageDef.explosionCellMote=Mote_BlastExtinguisher
+|DamageDef.explosionColorEdge=(1, 1, 1, 0.05)
+|DamageDef.soundExplosion=Explosion_Smoke
+}}

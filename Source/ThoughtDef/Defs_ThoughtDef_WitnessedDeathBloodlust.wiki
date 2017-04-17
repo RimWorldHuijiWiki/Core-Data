@@ -1,0 +1,22 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=WitnessedDeathBloodlust
+|ThoughtDef.defName=WitnessedDeathBloodlust
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=witnessed death with bloodlust
+|ThoughtDef.stages.0.label.zh-cn=目睹死亡
+|ThoughtDef.stages.0.label.zh-tw=看見有人死了
+|ThoughtDef.stages.0.description=I saw someone die! That was intense!
+|ThoughtDef.stages.0.description.zh-cn=我看见有人死了！真是爽！
+|ThoughtDef.stages.0.description.zh-tw=我看見有人死了！哇！這真是太刺激了！
+|ThoughtDef.stages.0.baseMoodEffect=8
+|ThoughtDef.stackLimit=5
+|ThoughtDef.stackedEffectMultiplier=0.4
+|ThoughtDef.durationDays=3
+|ThoughtDef.requiredTraits="Bloodlust"
+|ThoughtDef.icon=Things/Mote/ThoughtSymbol/Skull
+|ThoughtDef.showBubble=true
+}}

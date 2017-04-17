@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=MapConditionDef
+|defName=PsychicDrone
+|MapConditionDef.defName=PsychicDrone
+|MapConditionDef.label=psychic drone
+|MapConditionDef.label.zh-cn=心灵低语
+|MapConditionDef.label.zh-tw=干擾電波
+|MapConditionDef.description=A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity.
+|MapConditionDef.description.zh-cn=一个在遥远地区的强大AI正在发射能让人发疯的心灵波。
+|MapConditionDef.description.zh-tw=遙遠的宇宙外，一個邪惡的AI正朝這個星球投射一股強大的干擾電波，你的居民們快被腦袋裡的嗡嗡聲搞瘋了！
+|MapConditionDef.conditionClass=MapCondition_PsychicEmanation
+|MapConditionDef.exclusiveConditions="PsychicSoothe"
+|MapConditionDef.endMessage=The psychic drone is ending.
+|MapConditionDef.endMessage.zh-cn=心灵冲击波结束了。
+|MapConditionDef.endMessage.zh-tw=這場干擾電波已經結束。
+|MapConditionDef.canBePermanent=true
+|MapConditionDef.droneLevel=BadMedium
+}}

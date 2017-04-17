@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=DamageDef
+|defName=Blunt
+|DamageDef.defName=Blunt
+|DamageDef.label=blunt
+|DamageDef.label.zh-cn=钝伤
+|DamageDef.label.zh-tw=敲傷
+|DamageDef.workerClass=DamageWorker_AddInjury
+|DamageDef.externalViolence=true
+|DamageDef.deathMessage={0} has been beaten to death.
+|DamageDef.deathMessage.zh-cn={0}被钝器打死了。
+|DamageDef.deathMessage.zh-tw={0}被鈍器打死了。
+|DamageDef.impactSoundType=Blunt
+|DamageDef.armorCategory=Blunt
+|DamageDef.harmAllLayersUntilOutside=true
+|DamageDef.hasChanceToAdditionallyDamageInnerSolidParts=true
+|DamageDef.hediff=Crush
+|DamageDef.hediffSkin=Bruise
+|DamageDef.hediffSolid=Crack
+}}

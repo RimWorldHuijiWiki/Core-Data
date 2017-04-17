@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=DesignationDef
+|defName=Haul
+|DesignationDef.defName=Haul
+|DesignationDef.texturePath=Designations/Haul
+|DesignationDef.targetType=Thing
+}}

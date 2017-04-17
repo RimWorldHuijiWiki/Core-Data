@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=EnterCryptosleepCasket
+|JobDef.defName=EnterCryptosleepCasket
+|JobDef.driverClass=JobDriver_EnterCryptosleepCasket
+|JobDef.reportString=entering cryptosleep casket.
+|JobDef.reportString.zh-cn=进入低温休眠舱。
+|JobDef.reportString.zh-tw=進入冷凍休眠艙。
+}}

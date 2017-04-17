@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=ArtifactsActivated
+|RecordDef.defName=ArtifactsActivated
+|RecordDef.label=artifacts activated
+|RecordDef.label.zh-cn=激活神器数
+|RecordDef.label.zh-tw=神器啟動數
+|RecordDef.description=The number of artifacts I have activated.
+|RecordDef.description.zh-cn=我激活的神器数量。
+|RecordDef.description.zh-tw=我啟動的神器數量。
+|RecordDef.type=Int
+}}

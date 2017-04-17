@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=InteractionDef
+|defName=Slight
+|InteractionDef.defName=Slight
+|InteractionDef.label=slight
+|InteractionDef.label.zh-cn=怠慢
+|InteractionDef.label.zh-tw=冷落
+|InteractionDef.workerClass=InteractionWorker_Slight
+|InteractionDef.socialFightBaseChance=0.005
+|InteractionDef.recipientThought=Slighted
+|InteractionDef.symbol=Things/Mote/SpeechSymbols/Slight
+|InteractionDef.logRulesInitiator=Exist
+|InteractionDef.logRulesInitiator.rulesStrings="logentry->Slighted [other_nameShortIndef].","logentry->怠慢[other_nameShortIndef]。","logentry->刻意冷落[other_nameShortIndef]。"
+|InteractionDef.logRulesRecipient=Exist
+|InteractionDef.logRulesRecipient.rulesStrings="logentry->Was slighted by [other_nameShortIndef].","logentry->被[other_nameShortIndef]怠慢。","logentry->被[other_nameShortIndef]冷落。"
+}}

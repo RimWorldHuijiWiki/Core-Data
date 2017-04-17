@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=DesignationDef
+|defName=Strip
+|DesignationDef.defName=Strip
+|DesignationDef.texturePath=Designations/Strip
+|DesignationDef.targetType=Thing
+}}

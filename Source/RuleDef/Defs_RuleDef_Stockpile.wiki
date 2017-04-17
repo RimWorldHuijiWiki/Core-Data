@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=RuleDef
+|defName=Stockpile
+|RuleDef.defName=Stockpile
+|RuleDef.symbol=stockpile
+|RuleDef.resolvers=Exist
+|RuleDef.resolvers.Count=1
+|RuleDef.resolvers.0=Exist
+|RuleDef.resolvers.0.Class=SymbolResolver_Stockpile
+}}

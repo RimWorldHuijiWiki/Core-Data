@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=FindPlayerStartSpot
+|GenStepDef.defName=FindPlayerStartSpot
+|GenStepDef.linkWithMapGenerator=BasicMap
+|GenStepDef.order=600
+|GenStepDef.genStep=
+}}

@@ -1,0 +1,32 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=MakeStoneBlocksSlate
+|RecipeDef.defName=MakeStoneBlocksSlate
+|RecipeDef.label=make slate blocks
+|RecipeDef.label.zh-cn=制作板岩块
+|RecipeDef.label.zh-tw=製造板岩石材
+|RecipeDef.description=Cuts slate chunks into usable blocks.
+|RecipeDef.description.zh-cn=将板岩堆切割成可用的方块。
+|RecipeDef.description.zh-tw=將石塊製成板岩石材。
+|RecipeDef.jobString=Cutting stone blocks from chunk.
+|RecipeDef.jobString.zh-cn=正在切割石材。
+|RecipeDef.jobString.zh-tw=生產板岩石材。
+|RecipeDef.workAmount=1600
+|RecipeDef.workSpeedStat=StonecuttingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="ChunkSlate"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="ChunkSlate"
+|RecipeDef.products="BlocksSlate","20"
+|RecipeDef.targetCountAdjustment=20
+|RecipeDef.workSkill=Construction
+|RecipeDef.workSkillLearnFactor=0.3
+|RecipeDef.effectWorking=CutStone
+|RecipeDef.soundWorking=Recipe_MakeStoneBlocks
+|RecipeDef.recipeUsers="TableStonecutter"
+}}

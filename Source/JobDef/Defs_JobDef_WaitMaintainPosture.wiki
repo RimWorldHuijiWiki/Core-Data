@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=WaitMaintainPosture
+|JobDef.defName=WaitMaintainPosture
+|JobDef.driverClass=JobDriver_WaitMaintainPosture
+|JobDef.reportString=standing.
+|JobDef.reportString.zh-cn=站立中。
+|JobDef.reportString.zh-tw=standing.
+}}

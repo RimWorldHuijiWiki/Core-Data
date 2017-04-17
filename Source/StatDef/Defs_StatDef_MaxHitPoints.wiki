@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=MaxHitPoints
+|StatDef.defName=MaxHitPoints
+|StatDef.label=max hit points
+|StatDef.label.zh-cn=耐久度上限
+|StatDef.label.zh-tw=最大耐久
+|StatDef.description=The maximum hit points of an object. This represents how much damage it can take before being destroyed.
+|StatDef.description.zh-cn=一个物品的最大生命值。意味着在被摧毁之前可以承受多少伤害。
+|StatDef.description.zh-tw=此物件的最大耐久值。
+|StatDef.category=BasicsNonPawn
+|StatDef.showNonAbstract=false
+|StatDef.toStringStyle=Integer
+|StatDef.defaultBaseValue=100
+|StatDef.minValue=1
+|StatDef.roundValue=true
+|StatDef.roundToFiveOver=200
+}}

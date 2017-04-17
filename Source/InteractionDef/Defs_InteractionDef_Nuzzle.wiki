@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=InteractionDef
+|defName=Nuzzle
+|InteractionDef.defName=Nuzzle
+|InteractionDef.label=nuzzle
+|InteractionDef.label.zh-cn=抚摸
+|InteractionDef.label.zh-tw=撒嬌
+|InteractionDef.workerClass=InteractionWorker_Nuzzle
+|InteractionDef.interactionMote=Mote_Thought
+|InteractionDef.symbol=Things/Mote/SpeechSymbols/Nuzzle
+|InteractionDef.logRulesInitiator=Exist
+|InteractionDef.logRulesInitiator.rulesStrings="logentry->Nuzzled [other_nameShortIndef].","logentry->抚摸[other_nameShortIndef]。","logentry->向[other_nameShortIndef]撒嬌。"
+|InteractionDef.logRulesRecipient=Exist
+|InteractionDef.logRulesRecipient.rulesStrings="logentry->Was nuzzled by [other_nameShortIndef].","logentry->享受[other_nameShortIndef]的抚摸。","logentry->被[other_nameShortIndef]撒嬌。"
+}}

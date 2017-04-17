@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=ShipReactor
+|ResearchProjectDef.defName=ShipReactor
+|ResearchProjectDef.label=ship antimatter reactor
+|ResearchProjectDef.label.zh-cn=反物质飞船反应炉
+|ResearchProjectDef.label.zh-tw=反物質星艦反應堆
+|ResearchProjectDef.description=Allows you to use an antimatter containment core to build a reactor to power a ship.
+|ResearchProjectDef.description.zh-cn=解锁使用反物质约束核心建造运转的反应炉，用于给飞船提供电力。
+|ResearchProjectDef.description.zh-tw=解鎖你使用反物質牽制核心來建造一個可以驅動整艘星艦的反應堆。
+|ResearchProjectDef.techLevel=Spacer
+|ResearchProjectDef.baseCost=4000
+|ResearchProjectDef.prerequisites="ShipBasics"
+|ResearchProjectDef.requiredResearchBuilding=HiTechResearchBench
+|ResearchProjectDef.requiredResearchFacilities="MultiAnalyzer"
+|ResearchProjectDef.researchViewX=12
+|ResearchProjectDef.researchViewY=1
+}}

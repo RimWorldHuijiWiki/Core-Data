@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=DamageDef
+|defName=Rotting
+|DamageDef.defName=Rotting
+|DamageDef.label=rotting
+|DamageDef.label.zh-cn=腐烂
+|DamageDef.label.zh-tw=腐敗
+|DamageDef.hasForcefulImpact=false
+|DamageDef.makesBlood=false
+|DamageDef.canInterruptJobs=false
+}}

@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=Nudist
+|TraitDef.defName=Nudist
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=nudist
+|TraitDef.degreeDatas.0.label.zh-cn=裸体主义者
+|TraitDef.degreeDatas.0.label.zh-tw=裸體主義者
+|TraitDef.degreeDatas.0.description=NAME enjoys the feeling of freedom that comes from being nude. HECAP can handle clothing, but will be happier without it.
+|TraitDef.degreeDatas.0.description.zh-cn=NAME喜欢由裸体带来的自由感。HECAP可以忍受穿衣服的感觉，但是HECAP没有衣服会更开心一些。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME領悟了天體奔放的自由，HECAP能接受穿上衣服，但若沒有衣服，HECAP會感到更快樂。
+|TraitDef.commonality=0.2
+}}

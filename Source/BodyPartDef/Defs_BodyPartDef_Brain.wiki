@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Brain
+|BodyPartDef.defName=Brain
+|BodyPartDef.label=brain
+|BodyPartDef.label.zh-cn=大脑
+|BodyPartDef.label.zh-tw=腦部
+|BodyPartDef.tags="ConsciousnessSource"
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=1
+|BodyPartDef.skinCovered=false
+|BodyPartDef.dontSuggestAmputation=true
+}}

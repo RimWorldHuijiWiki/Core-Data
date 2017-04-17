@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=AnimalProductRaw
+|ThingCategoryDef.defName=AnimalProductRaw
+|ThingCategoryDef.label=animal products
+|ThingCategoryDef.label.zh-cn=禽畜产品
+|ThingCategoryDef.label.zh-tw=畜產品
+|ThingCategoryDef.parent=FoodRaw
+|ThingCategoryDef.iconPath=UI/Icons/ThingCategories/AnimalProductRaw
+}}

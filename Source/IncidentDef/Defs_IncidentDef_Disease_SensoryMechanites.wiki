@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=Disease_SensoryMechanites
+|IncidentDef.defName=Disease_SensoryMechanites
+|IncidentDef.label=sensory mechanites
+|IncidentDef.label.zh-cn=感官纳米机械感染
+|IncidentDef.label.zh-tw=感官細胞機械化
+|IncidentDef.workerClass=IncidentWorker_Disease
+|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Disease
+|IncidentDef.diseaseIncident=SensoryMechanites
+|IncidentDef.diseaseVictimFractionRange=Exist
+|IncidentDef.diseaseVictimFractionRange.min=0.2
+|IncidentDef.diseaseVictimFractionRange.max=0.5
+}}

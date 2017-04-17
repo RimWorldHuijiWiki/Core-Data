@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=ToggleScreenshotMode
+|KeyBindingDef.defName=ToggleScreenshotMode
+|KeyBindingDef.label=toggle screenshot mode
+|KeyBindingDef.label.zh-cn=开关截图模式
+|KeyBindingDef.label.zh-tw=切換螢幕截圖模式
+|KeyBindingDef.category=Game
+|KeyBindingDef.defaultKeyCodeA=F11
+}}

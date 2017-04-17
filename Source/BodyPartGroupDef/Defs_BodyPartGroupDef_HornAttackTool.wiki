@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartGroupDef
+|defName=HornAttackTool
+|BodyPartGroupDef.defName=HornAttackTool
+|BodyPartGroupDef.label=horn
+|BodyPartGroupDef.label.zh-cn=尖角
+|BodyPartGroupDef.label.zh-tw=角
+}}
