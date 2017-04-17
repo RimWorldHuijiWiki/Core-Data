@@ -1,4 +1,4 @@
-{{#set:
+﻿{{#set:
 |dataType=Def
 |defType=BodyPartDef
 |defName=RightFemur
