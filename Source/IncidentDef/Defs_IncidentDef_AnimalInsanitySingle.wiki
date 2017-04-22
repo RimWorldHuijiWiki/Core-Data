@@ -7,8 +7,8 @@
 |IncidentDef.label.zh-cn=动物发狂
 |IncidentDef.label.zh-tw=狂暴動物
 |IncidentDef.workerClass=IncidentWorker_AnimalInsanitySingle
-|IncidentDef.targetType=BaseMap
-|IncidentDef.baseChance=5
 |IncidentDef.category=ThreatSmall
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=5
 |IncidentDef.minRefireDays=2
 }}

@@ -47,4 +47,5 @@
 |ThingDef.plant.visualSizeRange=Exist
 |ThingDef.plant.visualSizeRange.min=0.3
 |ThingDef.plant.visualSizeRange.max=1.05
+|ThingDef.plant.immatureGraphicPath=Things/Plant/StrawberryImmature
 }}

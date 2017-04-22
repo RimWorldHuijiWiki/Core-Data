@@ -10,6 +10,7 @@
 |WorldObjectDef.description.zh-cn=一队正遭受袭击的远行队。
 |WorldObjectDef.description.zh-tw=正受到攻擊的旅團。
 |WorldObjectDef.worldObjectClass=CaravansBattlefield
+|WorldObjectDef.isTempIncidentMapOwner=true
 |WorldObjectDef.expandingIcon=true
 |WorldObjectDef.expandingIconTexture=World/WorldObjects/Expanding/Ambush
 |WorldObjectDef.expandingIconPriority=80

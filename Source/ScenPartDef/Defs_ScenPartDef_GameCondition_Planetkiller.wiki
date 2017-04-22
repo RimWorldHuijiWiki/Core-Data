@@ -1,0 +1,18 @@
+﻿{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=GameCondition_Planetkiller
+|ScenPartDef.defName=GameCondition_Planetkiller
+|ScenPartDef.label=planetkiller weapon incoming
+|ScenPartDef.label.zh-cn=planetkiller weapon incoming
+|ScenPartDef.label.zh-tw=planetkiller weapon incoming
+|ScenPartDef.category=GameCondition
+|ScenPartDef.scenPartClass=ScenPart_GameCondition
+|ScenPartDef.summaryPriority=400
+|ScenPartDef.selectionWeight=0.8
+|ScenPartDef.maxUses=1
+|ScenPartDef.gameCondition=Planetkiller
+|ScenPartDef.durationRandomRange=Exist
+|ScenPartDef.durationRandomRange.min=90
+|ScenPartDef.durationRandomRange.max=500
+}}

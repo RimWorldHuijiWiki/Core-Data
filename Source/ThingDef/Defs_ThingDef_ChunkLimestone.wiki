@@ -20,6 +20,7 @@
 |ThingDef.graphicData.texPath=Things/Item/Chunk/ChunkStone
 |ThingDef.graphicData.graphicClass=Graphic_Random
 |ThingDef.graphicData.color=(158,153,135)
+|ThingDef.graphicData.flipExtraRotation=80
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.designateHaulable=true

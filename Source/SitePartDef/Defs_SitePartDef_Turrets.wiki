@@ -9,5 +9,8 @@
 |SitePartDef.siteTexture=World/WorldObjects/Sites/Outpost
 |SitePartDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Turrets
 |SitePartDef.applyFactionColorToSiteTexture=true
-|SitePartDef.workerClass=SitePartWorker_Turrets
+|SitePartDef.showFactionInInspectString=true
+|SitePartDef.knownDanger=true
+|SitePartDef.requiresFaction=true
+|SitePartDef.minFactionTechLevel=Industrial
 }}

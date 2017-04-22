@@ -4,6 +4,6 @@
 |defName=Roads
 |GenStepDef.defName=Roads
 |GenStepDef.linkWithMapGenerator=BasicMap
-|GenStepDef.order=400
+|GenStepDef.order=250
 |GenStepDef.genStep=
 }}

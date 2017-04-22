@@ -9,7 +9,7 @@
 |TerrainDef.description=Toe-hugging plush carpet in a cool blue color.
 |TerrainDef.description.zh-cn=带有蓝色并十分舒适的地毯。
 |TerrainDef.description.zh-tw=帶有藍色並十分舒適的地毯。
-|TerrainDef.statBases="Beauty","1";"WorkToBuild","135"
+|TerrainDef.statBases="Beauty","2";"Flammability","0.32";"WorkToBuild","135"
 |TerrainDef.fertility=0
 |TerrainDef.costList="Cloth","7"
 |TerrainDef.terrainAffordanceNeeded=Light
@@ -22,5 +22,6 @@
 |TerrainDef.affordances="Light","Heavy","SmoothHard"
 |TerrainDef.layerable=true
 |TerrainDef.color=(24,65,121)
+|TerrainDef.burnedDef=BurnedCarpet
 |TerrainDef.acceptTerrainSourceFilth=True
 }}

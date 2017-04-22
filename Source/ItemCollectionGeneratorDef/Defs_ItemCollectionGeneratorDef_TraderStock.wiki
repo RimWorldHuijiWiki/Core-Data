@@ -1,0 +1,10 @@
+﻿{{#set:
+|dataType=Def
+|defType=ItemCollectionGeneratorDef
+|defName=TraderStock
+|ItemCollectionGeneratorDef.defName=TraderStock
+|ItemCollectionGeneratorDef.label=trader stock
+|ItemCollectionGeneratorDef.label.zh-cn=trader stock
+|ItemCollectionGeneratorDef.label.zh-tw=trader stock
+|ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_TraderStock
+}}

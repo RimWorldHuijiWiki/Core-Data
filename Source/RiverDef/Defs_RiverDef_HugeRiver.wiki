@@ -1,0 +1,30 @@
+﻿{{#set:
+|dataType=Def
+|defType=RiverDef
+|defName=HugeRiver
+|RiverDef.defName=HugeRiver
+|RiverDef.label=huge river
+|RiverDef.label.zh-cn=huge river
+|RiverDef.label.zh-tw=huge river
+|RiverDef.spawnFlowThreshold=1000000
+|RiverDef.spawnChance=1
+|RiverDef.degradeThreshold=500000
+|RiverDef.degradeChild=LargeRiver
+|RiverDef.branches=Exist
+|RiverDef.branches.Count=3
+|RiverDef.branches.0=Exist
+|RiverDef.branches.0.minFlow=750000
+|RiverDef.branches.0.child=HugeRiver
+|RiverDef.branches.0.chance=0.6
+|RiverDef.branches.1=Exist
+|RiverDef.branches.1.minFlow=125000
+|RiverDef.branches.1.child=LargeRiver
+|RiverDef.branches.1.chance=0.3
+|RiverDef.branches.2=Exist
+|RiverDef.branches.2.minFlow=75000
+|RiverDef.branches.2.child=River
+|RiverDef.branches.2.chance=0.3
+|RiverDef.widthOnWorld=0.8
+|RiverDef.widthOnMap=10
+|RiverDef.debugOpacity=0.8
+}}

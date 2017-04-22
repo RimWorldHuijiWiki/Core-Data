@@ -7,7 +7,8 @@
 |IncidentDef.label.zh-cn=逃生舱坠毁
 |IncidentDef.label.zh-tw=逃生艙
 |IncidentDef.workerClass=IncidentWorker_RefugeePodCrash
-|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=1.0
 |IncidentDef.populationEffect=Increase
 }}

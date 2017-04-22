@@ -10,6 +10,7 @@
 |WorldObjectDef.description.zh-cn=一场正在进行中的伏击战。
 |WorldObjectDef.description.zh-tw=從埋伏地點突襲目標。
 |WorldObjectDef.worldObjectClass=CaravansBattlefield
+|WorldObjectDef.isTempIncidentMapOwner=true
 |WorldObjectDef.expandingIcon=true
 |WorldObjectDef.expandingIconTexture=World/WorldObjects/Expanding/Ambush
 |WorldObjectDef.expandingIconPriority=80

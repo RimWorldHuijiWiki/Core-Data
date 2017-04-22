@@ -1,0 +1,12 @@
+﻿{{#set:
+|dataType=Def
+|defType=WorldGenStepDef
+|defName=AncientRoads
+|WorldGenStepDef.defName=AncientRoads
+|WorldGenStepDef.order=400
+|WorldGenStepDef.worldGenStep=Exist
+|WorldGenStepDef.worldGenStep.Class=WorldGenStep_AncientRoads
+|WorldGenStepDef.worldGenStep.maximumSiteCurve=15
+|WorldGenStepDef.worldGenStep.minimumChain=4
+|WorldGenStepDef.worldGenStep.maximumSegmentCurviness=1.5
+}}

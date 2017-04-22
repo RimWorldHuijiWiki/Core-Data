@@ -1,0 +1,19 @@
+﻿{{#set:
+|dataType=Def
+|defType=GameConditionDef
+|defName=PsychicDrone
+|GameConditionDef.defName=PsychicDrone
+|GameConditionDef.label=psychic drone
+|GameConditionDef.label.zh-cn=psychic drone
+|GameConditionDef.label.zh-tw=psychic drone
+|GameConditionDef.description=A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity.
+|GameConditionDef.description.zh-cn=A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity.
+|GameConditionDef.description.zh-tw=A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity.
+|GameConditionDef.conditionClass=GameCondition_PsychicEmanation
+|GameConditionDef.exclusiveConditions="PsychicSoothe"
+|GameConditionDef.endMessage=The psychic drone is ending.
+|GameConditionDef.endMessage.zh-cn=The psychic drone is ending.
+|GameConditionDef.endMessage.zh-tw=The psychic drone is ending.
+|GameConditionDef.canBePermanent=true
+|GameConditionDef.droneLevel=BadMedium
+}}

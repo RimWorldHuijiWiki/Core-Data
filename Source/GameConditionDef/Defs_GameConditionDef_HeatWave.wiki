@@ -1,0 +1,17 @@
+﻿{{#set:
+|dataType=Def
+|defType=GameConditionDef
+|defName=HeatWave
+|GameConditionDef.defName=HeatWave
+|GameConditionDef.label=heat wave
+|GameConditionDef.label.zh-cn=heat wave
+|GameConditionDef.label.zh-tw=heat wave
+|GameConditionDef.description=An extreme wave of heat is baking the area.
+|GameConditionDef.description.zh-cn=An extreme wave of heat is baking the area.
+|GameConditionDef.description.zh-tw=An extreme wave of heat is baking the area.
+|GameConditionDef.conditionClass=GameCondition_HeatWave
+|GameConditionDef.exclusiveConditions="ColdSnap","VolcanicWinter"
+|GameConditionDef.endMessage=The heat wave is over.
+|GameConditionDef.endMessage.zh-cn=The heat wave is over.
+|GameConditionDef.endMessage.zh-tw=The heat wave is over.
+}}

@@ -4,6 +4,7 @@
 |defName=Site
 |WorldObjectDef.defName=Site
 |WorldObjectDef.worldObjectClass=Site
+|WorldObjectDef.comps="","",""
 |WorldObjectDef.expandingIcon=true
 |WorldObjectDef.expandingIconPriority=70
 }}

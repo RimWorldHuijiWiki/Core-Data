@@ -1,0 +1,8 @@
+﻿{{#set:
+|dataType=Def
+|defType=WorldGenStepDef
+|defName=Lakes
+|WorldGenStepDef.defName=Lakes
+|WorldGenStepDef.order=150
+|WorldGenStepDef.worldGenStep=
+}}

@@ -8,5 +8,4 @@
 |SiteCoreDef.label.zh-tw=lump of precious resources
 |SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/PreciousLump
-|SiteCoreDef.workerClass=SiteCoreWorker_PreciousLump
 }}

@@ -11,7 +11,7 @@
 |BiomeDef.description.zh-tw=一個乾旱的地區，但沒有乾旱到成為沙漠的地步。這裡有廣闊的平原，稀少的樹叢以及中等密度的動物。只有比較堅強的植物才會生長在這裡，
 |BiomeDef.workerClass=BiomeWorker_AridShrubland
 |BiomeDef.animalDensity=3.6
-|BiomeDef.plantDensity=0.5
+|BiomeDef.plantDensity=0.16
 |BiomeDef.diseaseMtbDays=60
 |BiomeDef.factionBaseSelectionWeight=0.95
 |BiomeDef.pathCost=Exist
@@ -32,7 +32,7 @@
 |BiomeDef.terrainsByFertility.2.min=0.90
 |BiomeDef.terrainsByFertility.2.max=999
 |BiomeDef.soundsAmbient="AmbientNightInsects_Standard"
-|BiomeDef.wildPlants="PlantAgave","0.3";"PlantSaguaroCactus","0.3";"PlantPincushionCactus","0.6";"PlantRaspberry","0.1";"PlantBush","0.7";"PlantGrass","6.9";"PlantDandelion","0.8";"PlantTreeOak","0.25";"PlantTreePoplar","0.35"
+|BiomeDef.wildPlants="PlantGrass","7.0";"PlantDandelion","0.8";"PlantBush","0.7";"PlantPincushionCactus","0.6";"PlantTreePoplar","0.35";"PlantAgave","0.3";"PlantSaguaroCactus","0.3";"PlantTreeOak","0.25";"PlantRaspberry","0.1"
 |BiomeDef.wildAnimals="Muffalo","0.5";"Gazelle","0.5";"Ibex","0.3";"Alpaca","0.2";"Elephant","0.5";"Squirrel","1";"Boomrat","1";"Iguana","0.2";"Rhinoceros","0.15";"WildBoar","0.4";"Boomalope","0.5";"Emu","0.3";"Ostrich","0.5";"Rat","1.0";"Megasloth","0.03";"Cougar","0.10";"WolfTimber","0.01";"FoxFennec","0.03"
 |BiomeDef.diseases=Exist
 |BiomeDef.diseases.Count=6

@@ -8,5 +8,4 @@
 |SiteCoreDef.label.zh-tw=site
 |SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Nothing
-|SiteCoreDef.workerClass=SiteCoreWorker_Nothing
 }}

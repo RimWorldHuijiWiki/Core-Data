@@ -1,0 +1,11 @@
+﻿{{#set:
+|dataType=Def
+|defType=ItemCollectionGeneratorDef
+|defName=Neurotrainers
+|ItemCollectionGeneratorDef.defName=Neurotrainers
+|ItemCollectionGeneratorDef.label=neurotrainers
+|ItemCollectionGeneratorDef.label.zh-cn=neurotrainers
+|ItemCollectionGeneratorDef.label.zh-tw=neurotrainers
+|ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_Standard
+|ItemCollectionGeneratorDef.allowedDefs="Neurotrainer"
+}}

@@ -7,6 +7,7 @@
 |IncidentDef.label.zh-cn=家养动物加入
 |IncidentDef.label.zh-tw=家畜歸附
 |IncidentDef.workerClass=IncidentWorker_FarmAnimalsWanderIn
-|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=0.2
 }}

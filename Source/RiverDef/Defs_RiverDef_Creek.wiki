@@ -1,0 +1,13 @@
+﻿{{#set:
+|dataType=Def
+|defType=RiverDef
+|defName=Creek
+|RiverDef.defName=Creek
+|RiverDef.label=creek
+|RiverDef.label.zh-cn=creek
+|RiverDef.label.zh-tw=creek
+|RiverDef.degradeThreshold=20000
+|RiverDef.widthOnWorld=0.2
+|RiverDef.widthOnMap=4
+|RiverDef.debugOpacity=0.05
+}}

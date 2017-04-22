@@ -4,6 +4,6 @@
 |defName=RockChunks
 |GenStepDef.defName=RockChunks
 |GenStepDef.linkWithMapGenerator=BasicMap
-|GenStepDef.order=220
+|GenStepDef.order=270
 |GenStepDef.genStep=
 }}

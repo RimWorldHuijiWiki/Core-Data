@@ -12,11 +12,11 @@
 |BiomeDef.workerClass=BiomeWorker_BorealForest
 |BiomeDef.implemented=true
 |BiomeDef.animalDensity=3.0
-|BiomeDef.plantDensity=0.5
+|BiomeDef.plantDensity=0.30
 |BiomeDef.diseaseMtbDays=50
 |BiomeDef.factionBaseSelectionWeight=0.9
 |BiomeDef.pathCost=Exist
-|BiomeDef.pathCost.points="(0, 44000)","(0.4, 1750)","(0.6, 1750)","(1, 44000)"
+|BiomeDef.pathCost.points="(0, 26000)","(0.23, 1750)","(0.43, 1750)","(0.83, 44000)","(1, 26000)"
 |BiomeDef.baseWeatherCommonalities="Clear","18";"Fog","1";"Rain","2";"DryThunderstorm","1";"RainyThunderstorm","1";"FoggyRain","1";"SnowGentle","4";"SnowHard","4"
 |BiomeDef.terrainsByFertility=Exist
 |BiomeDef.terrainsByFertility.Count=2
@@ -51,7 +51,7 @@
 |BiomeDef.terrainPatchMakers.0.thresholds.3.min=0.98
 |BiomeDef.terrainPatchMakers.0.thresholds.3.max=999
 |BiomeDef.terrainPatchMakers.0.perlinFrequency=0.015
-|BiomeDef.wildPlants="PlantRaspberry","1.8";"PlantWildHealroot","0.3";"PlantBush","3.0";"PlantGrass","8.0";"PlantMoss","4.0";"PlantTreePoplar","1.2";"PlantTreePine","5.0";"PlantTreeBirch","1.5"
+|BiomeDef.wildPlants="PlantGrass","10.0";"PlantMoss","4.0";"PlantBush","3.0";"PlantTreePine","5.0";"PlantRaspberry","1.8";"PlantTreeBirch","1.5";"PlantTreePoplar","1.2";"PlantWildHealroot","0.3"
 |BiomeDef.wildAnimals="Elk","0.5";"Ibex","0.4";"Caribou","0.5";"Muffalo","0.5";"Squirrel","1";"WildBoar","0.5";"Hare","1";"Husky","0.01";"Turkey","0.2";"Deer","0.03";"Rat","0.8";"Megasloth","0.03";"Raccoon","0.4";"Warg","0.02";"GrizzlyBear","0.03";"Cougar","0.02";"Lynx","0.02";"WolfTimber","0.14";"WolfArctic","0.03";"FoxArctic","0.04";"FoxRed","0.04"
 |BiomeDef.diseases=Exist
 |BiomeDef.diseases.Count=6

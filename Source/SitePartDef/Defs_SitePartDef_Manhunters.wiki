@@ -8,5 +8,5 @@
 |SitePartDef.label.zh-tw=manhunter pack
 |SitePartDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SitePartDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Manhunters
-|SitePartDef.workerClass=SitePartWorker_Manhunters
+|SitePartDef.knownDanger=true
 }}

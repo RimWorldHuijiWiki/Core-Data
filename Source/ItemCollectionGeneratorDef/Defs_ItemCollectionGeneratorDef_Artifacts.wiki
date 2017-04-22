@@ -1,0 +1,10 @@
+﻿{{#set:
+|dataType=Def
+|defType=ItemCollectionGeneratorDef
+|defName=Artifacts
+|ItemCollectionGeneratorDef.defName=Artifacts
+|ItemCollectionGeneratorDef.label=artifacts
+|ItemCollectionGeneratorDef.label.zh-cn=artifacts
+|ItemCollectionGeneratorDef.label.zh-tw=artifacts
+|ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_Artifacts
+}}

@@ -33,7 +33,7 @@
 |FactionDef.pawnsPlural=outlanders
 |FactionDef.pawnsPlural.zh-cn=外来者
 |FactionDef.pawnsPlural.zh-tw=異鄉人
-|FactionDef.leaderTitle=mayor
+|FactionDef.leaderTitle=prime councilor
 |FactionDef.leaderTitle.zh-cn=镇长
 |FactionDef.leaderTitle.zh-tw=市長
 |FactionDef.requiredCountAtGameStart=1

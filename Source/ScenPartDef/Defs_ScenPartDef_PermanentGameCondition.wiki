@@ -1,0 +1,13 @@
+﻿{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=PermanentGameCondition
+|ScenPartDef.defName=PermanentGameCondition
+|ScenPartDef.label=permanent game condition
+|ScenPartDef.label.zh-cn=permanent game condition
+|ScenPartDef.label.zh-tw=permanent game condition
+|ScenPartDef.category=GameCondition
+|ScenPartDef.scenPartClass=ScenPart_PermaGameCondition
+|ScenPartDef.summaryPriority=350
+|ScenPartDef.selectionWeight=1.0
+}}

@@ -11,7 +11,7 @@
 |BiomeDef.description.zh-tw=一個非常乾旱，非常炎熱的地區。這裡的生命非常稀少。
 |BiomeDef.workerClass=BiomeWorker_Desert
 |BiomeDef.animalDensity=0.8
-|BiomeDef.plantDensity=0.14
+|BiomeDef.plantDensity=0.05
 |BiomeDef.diseaseMtbDays=80
 |BiomeDef.factionBaseSelectionWeight=0.65
 |BiomeDef.pathCost=Exist
@@ -27,7 +27,7 @@
 |BiomeDef.terrainsByFertility.1.terrain=Soil
 |BiomeDef.terrainsByFertility.1.min=0.80
 |BiomeDef.terrainsByFertility.1.max=999
-|BiomeDef.wildPlants="PlantAgave","0.25";"PlantSaguaroCactus","1";"PlantPincushionCactus","1";"PlantBush","0.25";"PlantGrass","6";"PlantDandelion","0.5";"PlantTreePoplar","0.45"
+|BiomeDef.wildPlants="PlantGrass","6";"PlantSaguaroCactus","1";"PlantPincushionCactus","1";"PlantDandelion","0.5";"PlantTreePoplar","0.45";"PlantAgave","0.25";"PlantBush","0.25"
 |BiomeDef.wildAnimals="Gazelle","0.1";"Emu","0.02";"Megascarab","1";"Iguana","0.7";"Dromedary","0.5";"Boomalope","0.2";"Ostrich","0.2";"Rat","0.30";"Cougar","0.04";"FoxFennec","0.02"
 |BiomeDef.diseases=Exist
 |BiomeDef.diseases.Count=6

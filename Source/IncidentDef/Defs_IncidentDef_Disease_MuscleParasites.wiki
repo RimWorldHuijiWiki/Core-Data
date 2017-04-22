@@ -7,8 +7,8 @@
 |IncidentDef.label.zh-cn=肌肉寄生虫
 |IncidentDef.label.zh-tw=肌肉寄生蟲
 |IncidentDef.workerClass=IncidentWorker_Disease
-|IncidentDef.targetType=BaseMap
 |IncidentDef.category=Disease
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.diseaseIncident=MuscleParasites
 |IncidentDef.diseaseVictimFractionRange=Exist
 |IncidentDef.diseaseVictimFractionRange.min=0.2

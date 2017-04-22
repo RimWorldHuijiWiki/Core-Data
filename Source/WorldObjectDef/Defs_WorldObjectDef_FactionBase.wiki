@@ -10,6 +10,7 @@
 |WorldObjectDef.description.zh-cn=某个派系的一处基地。
 |WorldObjectDef.description.zh-tw=一座屬於某個勢力的據點。
 |WorldObjectDef.worldObjectClass=FactionBase
+|WorldObjectDef.comps=""
 |WorldObjectDef.expandingIcon=true
 |WorldObjectDef.expandingIconPriority=10
 }}

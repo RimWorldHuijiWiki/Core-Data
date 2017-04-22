@@ -7,8 +7,8 @@
 |IncidentDef.label.zh-cn=瘟疫
 |IncidentDef.label.zh-tw=瘟疫
 |IncidentDef.workerClass=IncidentWorker_Disease
-|IncidentDef.targetType=BaseMap
 |IncidentDef.category=Disease
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.diseaseIncident=Plague
 |IncidentDef.diseaseVictimFractionRange=Exist
 |IncidentDef.diseaseVictimFractionRange.min=0.2

@@ -9,7 +9,7 @@
 |TerrainDef.description=Professional-looking dark gray carpet.
 |TerrainDef.description.zh-cn=看起来很专业的深灰色地毯。
 |TerrainDef.description.zh-tw=看起來十分專業的深灰色地毯。
-|TerrainDef.statBases="Beauty","1";"WorkToBuild","135"
+|TerrainDef.statBases="Beauty","2";"Flammability","0.32";"WorkToBuild","135"
 |TerrainDef.fertility=0
 |TerrainDef.costList="Cloth","7"
 |TerrainDef.terrainAffordanceNeeded=Light
@@ -22,5 +22,6 @@
 |TerrainDef.affordances="Light","Heavy","SmoothHard"
 |TerrainDef.layerable=true
 |TerrainDef.color=(81,81,81)
+|TerrainDef.burnedDef=BurnedCarpet
 |TerrainDef.acceptTerrainSourceFilth=True
 }}

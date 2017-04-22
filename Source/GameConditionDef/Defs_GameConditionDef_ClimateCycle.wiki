@@ -1,0 +1,14 @@
+﻿{{#set:
+|dataType=Def
+|defType=GameConditionDef
+|defName=ClimateCycle
+|GameConditionDef.defName=ClimateCycle
+|GameConditionDef.label=climate cycle
+|GameConditionDef.label.zh-cn=climate cycle
+|GameConditionDef.label.zh-tw=climate cycle
+|GameConditionDef.description=A multi-year climate cycle due to an elliptical orbit.
+|GameConditionDef.description.zh-cn=A multi-year climate cycle due to an elliptical orbit.
+|GameConditionDef.description.zh-tw=A multi-year climate cycle due to an elliptical orbit.
+|GameConditionDef.conditionClass=GameCondition_ClimateCycle
+|GameConditionDef.canBePermanent=true
+}}

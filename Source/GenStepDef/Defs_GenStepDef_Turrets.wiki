@@ -9,10 +9,10 @@
 |GenStepDef.genStep.Class=GenStep_Turrets
 |GenStepDef.genStep.widthRange=Exist
 |GenStepDef.genStep.widthRange.min=3
-|GenStepDef.genStep.widthRange.max=5
+|GenStepDef.genStep.widthRange.max=4
 |GenStepDef.genStep.turretsCountRange=Exist
-|GenStepDef.genStep.turretsCountRange.min=1
-|GenStepDef.genStep.turretsCountRange.max=3
+|GenStepDef.genStep.turretsCountRange.min=4
+|GenStepDef.genStep.turretsCountRange.max=5
 |GenStepDef.genStep.mortarsCountRange=Exist
 |GenStepDef.genStep.mortarsCountRange.min=0
 |GenStepDef.genStep.mortarsCountRange.max=1

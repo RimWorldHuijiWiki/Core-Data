@@ -1,0 +1,10 @@
+﻿{{#set:
+|dataType=Def
+|defType=ItemCollectionGeneratorDef
+|defName=DebugCaravanInventory
+|ItemCollectionGeneratorDef.defName=DebugCaravanInventory
+|ItemCollectionGeneratorDef.label=debug caravan inventory
+|ItemCollectionGeneratorDef.label.zh-cn=debug caravan inventory
+|ItemCollectionGeneratorDef.label.zh-tw=debug caravan inventory
+|ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_DebugCaravanInventory
+}}

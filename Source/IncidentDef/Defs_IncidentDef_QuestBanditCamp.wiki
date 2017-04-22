@@ -1,0 +1,21 @@
+﻿{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=QuestBanditCamp
+|IncidentDef.defName=QuestBanditCamp
+|IncidentDef.label=bandit camp opportunity
+|IncidentDef.label.zh-cn=bandit camp opportunity
+|IncidentDef.label.zh-tw=bandit camp opportunity
+|IncidentDef.workerClass=IncidentWorker_QuestBanditCamp
+|IncidentDef.category=Misc
+|IncidentDef.targetType=World
+|IncidentDef.baseChance=1.3
+|IncidentDef.minRefireDays=5
+|IncidentDef.letterText={0}, {1} of {2}, has sent us a message.<br/><br/>Apparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.<br/><br/>If we succeed, their relations will improve, and they'll send us this reward:<br/><br/>{3}
+|IncidentDef.letterText.zh-cn={0}, {1} of {2}, has sent us a message.<br/><br/>Apparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.<br/><br/>If we succeed, their relations will improve, and they'll send us this reward:<br/><br/>{3}
+|IncidentDef.letterText.zh-tw={0}, {1} of {2}, has sent us a message.<br/><br/>Apparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.<br/><br/>If we succeed, their relations will improve, and they'll send us this reward:<br/><br/>{3}
+|IncidentDef.letterLabel=Bandit camp opportunity
+|IncidentDef.letterLabel.zh-cn=Bandit camp opportunity
+|IncidentDef.letterLabel.zh-tw=Bandit camp opportunity
+|IncidentDef.letterType=Good
+}}

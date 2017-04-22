@@ -10,6 +10,8 @@
 |BiomeDef.description.zh-cn=这个地区的地表被几千米厚的冰层覆盖着，这里没有土地，没有植物。这里的动物不是迁移到别的地方了就是在恶劣环境下灭绝了。积雪使得出行变得缓慢，但有冰盖可以提供平坦的路面。
 |BiomeDef.description.zh-tw=這個地區的地表被幾千公尺厚的冰層覆蓋著，這裡沒有土地或者岩石，當然也沒有植物。這裡的動物不是遷徙到别的地方了就是在惡劣環境下滅絕了。積雪會減緩行動，但冰蓋提供了平穩的通路。
 |BiomeDef.workerClass=BiomeWorker_IceSheet
+|BiomeDef.allowRoads=false
+|BiomeDef.allowRivers=false
 |BiomeDef.animalDensity=0.4
 |BiomeDef.plantDensity=0
 |BiomeDef.diseaseMtbDays=90

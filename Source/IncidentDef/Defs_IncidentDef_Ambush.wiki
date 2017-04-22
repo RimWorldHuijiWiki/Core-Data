@@ -7,8 +7,9 @@
 |IncidentDef.label.zh-cn=伏击
 |IncidentDef.label.zh-tw=埋伏
 |IncidentDef.workerClass=IncidentWorker_Ambush_EnemyFaction
-|IncidentDef.targetType=Caravan
 |IncidentDef.category=CaravanTarget
+|IncidentDef.targetType=Caravan, MapTempIncident
+|IncidentDef.minRefireDays=0.17
 |IncidentDef.pointsScaleable=true
 |IncidentDef.letterText=Your caravan has been ambushed by {0} from {1}!
 |IncidentDef.letterText.zh-cn=你的远行队被来自{1}的{0}的伏击了！

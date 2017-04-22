@@ -1,0 +1,21 @@
+﻿{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=AmbrosiaHigh
+|HediffDef.defName=AmbrosiaHigh
+|HediffDef.label=ambrosia warmth
+|HediffDef.label.zh-cn=ambrosia warmth
+|HediffDef.label.zh-tw=ambrosia warmth
+|HediffDef.hediffClass=HediffWithComps
+|HediffDef.comps=Exist
+|HediffDef.comps.Count=1
+|HediffDef.comps.0=Exist
+|HediffDef.comps.0.Class=HediffCompProperties_SeverityPerDay
+|HediffDef.comps.0.severityPerDay=-0.75
+|HediffDef.stages=Exist
+|HediffDef.stages.Count=1
+|HediffDef.stages.0=Exist
+|HediffDef.maxSeverity=1.0
+|HediffDef.scenarioCanAdd=true
+|HediffDef.defaultLabelColor=(1,0,0.5)
+}}

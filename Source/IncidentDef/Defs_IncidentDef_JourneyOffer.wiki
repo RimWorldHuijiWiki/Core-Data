@@ -7,6 +7,6 @@
 |IncidentDef.label.zh-cn=旅行邀請
 |IncidentDef.label.zh-tw=旅行成本
 |IncidentDef.workerClass=IncidentWorker_JourneyOffer
-|IncidentDef.targetType=BaseMap
 |IncidentDef.category=JourneyOffer
+|IncidentDef.targetType=World
 }}

@@ -1,0 +1,10 @@
+﻿{{#set:
+|dataType=Def
+|defType=ItemCollectionGeneratorDef
+|defName=Weapons
+|ItemCollectionGeneratorDef.defName=Weapons
+|ItemCollectionGeneratorDef.label=weapons
+|ItemCollectionGeneratorDef.label.zh-cn=weapons
+|ItemCollectionGeneratorDef.label.zh-tw=weapons
+|ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_Weapons
+}}

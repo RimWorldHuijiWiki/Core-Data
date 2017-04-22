@@ -11,7 +11,7 @@
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/WaterDeep
 |TerrainDef.edgeType=FadeRough
-|TerrainDef.renderPrecedence=395
+|TerrainDef.renderPrecedence=396
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false

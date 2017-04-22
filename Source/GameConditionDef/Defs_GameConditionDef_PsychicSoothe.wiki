@@ -1,0 +1,19 @@
+﻿{{#set:
+|dataType=Def
+|defType=GameConditionDef
+|defName=PsychicSoothe
+|GameConditionDef.defName=PsychicSoothe
+|GameConditionDef.label=psychic soothe
+|GameConditionDef.label.zh-cn=psychic soothe
+|GameConditionDef.label.zh-tw=psychic soothe
+|GameConditionDef.description=A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds.
+|GameConditionDef.description.zh-cn=A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds.
+|GameConditionDef.description.zh-tw=A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds.
+|GameConditionDef.conditionClass=GameCondition_PsychicEmanation
+|GameConditionDef.exclusiveConditions="PsychicDrone"
+|GameConditionDef.endMessage=The psychic soothe is ending.
+|GameConditionDef.endMessage.zh-cn=The psychic soothe is ending.
+|GameConditionDef.endMessage.zh-tw=The psychic soothe is ending.
+|GameConditionDef.canBePermanent=true
+|GameConditionDef.droneLevel=GoodMedium
+}}

@@ -7,9 +7,9 @@
 |IncidentDef.label.zh-cn=飞船部件坠毁（毒性）
 |IncidentDef.label.zh-tw=星艦碎片(汙染)
 |IncidentDef.workerClass=IncidentWorker_PoisonShipPartCrash
-|IncidentDef.targetType=BaseMap
-|IncidentDef.baseChance=2.0
 |IncidentDef.category=ThreatBig
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=2.0
 |IncidentDef.minRefireDays=15
 |IncidentDef.pointsScaleable=true
 |IncidentDef.minThreatPoints=450

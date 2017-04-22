@@ -1,0 +1,11 @@
+﻿{{#set:
+|dataType=Def
+|defType=ItemCollectionGeneratorDef
+|defName=AIPersonaCores
+|ItemCollectionGeneratorDef.defName=AIPersonaCores
+|ItemCollectionGeneratorDef.label=AI persona cores
+|ItemCollectionGeneratorDef.label.zh-cn=AI persona cores
+|ItemCollectionGeneratorDef.label.zh-tw=AI persona cores
+|ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_Standard
+|ItemCollectionGeneratorDef.allowedDefs="AIPersonaCore"
+}}

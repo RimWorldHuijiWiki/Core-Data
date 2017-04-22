@@ -34,9 +34,7 @@
 |ThingDef.plant.wildClusterSizeRange.min=2
 |ThingDef.plant.wildClusterSizeRange.max=5
 |ThingDef.plant.wildClusterRadius=4
-|ThingDef.plant.sowTags="Ground","Hydroponic"
 |ThingDef.plant.sowWork=260
-|ThingDef.plant.sowMinSkill=8
 |ThingDef.plant.harvestWork=400
 |ThingDef.plant.harvestYield=1
 |ThingDef.plant.harvestedThingDef=HerbalMedicine

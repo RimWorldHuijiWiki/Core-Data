@@ -7,7 +7,8 @@
 |IncidentDef.label.zh-cn=阿尔法海狸
 |IncidentDef.label.zh-tw=海貍
 |IncidentDef.workerClass=IncidentWorker_Alphabeavers
-|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=1.0
 |IncidentDef.minRefireDays=8
 |IncidentDef.allowedBiomes="BorealForest","TemperateForest","TropicalRainforest"

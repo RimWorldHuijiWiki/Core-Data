@@ -1,0 +1,25 @@
+﻿{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=FlagstoneLimestone
+|TerrainDef.defName=FlagstoneLimestone
+|TerrainDef.label=limestone flagstone
+|TerrainDef.label.zh-cn=limestone flagstone
+|TerrainDef.label.zh-tw=limestone flagstone
+|TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
+|TerrainDef.description.zh-cn=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
+|TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
+|TerrainDef.statBases="WorkToBuild","500";"Beauty","0"
+|TerrainDef.fertility=0
+|TerrainDef.costList="BlocksLimestone","4"
+|TerrainDef.terrainAffordanceNeeded=Light
+|TerrainDef.constructEffect=ConstructDirt
+|TerrainDef.designationCategory=Floors
+|TerrainDef.texturePath=Terrain/Surfaces/Flagstone
+|TerrainDef.renderPrecedence=220
+|TerrainDef.affordances="Light","Heavy","SmoothHard"
+|TerrainDef.layerable=true
+|TerrainDef.color=(158,153,135)
+|TerrainDef.tags="Road"
+|TerrainDef.acceptTerrainSourceFilth=True
+}}

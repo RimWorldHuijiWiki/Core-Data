@@ -7,10 +7,11 @@
 |IncidentDef.label.zh-cn=心灵低语
 |IncidentDef.label.zh-tw=干擾電波
 |IncidentDef.workerClass=IncidentWorker_PsychicDrone
-|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=1.0
 |IncidentDef.minRefireDays=15
-|IncidentDef.mapCondition=PsychicDrone
+|IncidentDef.gameCondition=PsychicDrone
 |IncidentDef.durationDays=Exist
 |IncidentDef.durationDays.min=0.75
 |IncidentDef.durationDays.max=1.75

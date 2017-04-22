@@ -6,9 +6,10 @@
 |IncidentDef.label=eclipse
 |IncidentDef.label.zh-cn=日蚀
 |IncidentDef.label.zh-tw=日蝕
-|IncidentDef.workerClass=IncidentWorker_MakeMapCondition
+|IncidentDef.workerClass=IncidentWorker_MakeGameCondition
+|IncidentDef.category=Misc
 |IncidentDef.targetType=World
-|IncidentDef.baseChance=3
+|IncidentDef.baseChance=1.5
 |IncidentDef.minRefireDays=15
 |IncidentDef.letterText=One of the moons of this planet has orbited in front of the sun. An eclipse has begun.
 |IncidentDef.letterText.zh-cn=这个星球的月亮挡在了太阳和星球之间。日蚀已经开始。
@@ -17,7 +18,7 @@
 |IncidentDef.letterLabel.zh-cn=日蚀
 |IncidentDef.letterLabel.zh-tw=日蝕
 |IncidentDef.letterType=BadNonUrgent
-|IncidentDef.mapCondition=Eclipse
+|IncidentDef.gameCondition=Eclipse
 |IncidentDef.durationDays=Exist
 |IncidentDef.durationDays.min=0.75
 |IncidentDef.durationDays.max=1.25

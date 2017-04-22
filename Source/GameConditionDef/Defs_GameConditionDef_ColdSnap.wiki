@@ -1,0 +1,17 @@
+﻿{{#set:
+|dataType=Def
+|defType=GameConditionDef
+|defName=ColdSnap
+|GameConditionDef.defName=ColdSnap
+|GameConditionDef.label=cold snap
+|GameConditionDef.label.zh-cn=cold snap
+|GameConditionDef.label.zh-tw=cold snap
+|GameConditionDef.description=An unusual cold snap is freezing the region.
+|GameConditionDef.description.zh-cn=An unusual cold snap is freezing the region.
+|GameConditionDef.description.zh-tw=An unusual cold snap is freezing the region.
+|GameConditionDef.conditionClass=GameCondition_ColdSnap
+|GameConditionDef.exclusiveConditions="HeatWave"
+|GameConditionDef.endMessage=The cold snap is over.
+|GameConditionDef.endMessage.zh-cn=The cold snap is over.
+|GameConditionDef.endMessage.zh-tw=The cold snap is over.
+}}

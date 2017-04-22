@@ -7,6 +7,7 @@
 |IncidentDef.label.zh-cn=资源舱坠毁
 |IncidentDef.label.zh-tw=貨艙墜落
 |IncidentDef.workerClass=IncidentWorker_ResourcePodCrash
-|IncidentDef.targetType=BaseMap
-|IncidentDef.baseChance=4
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=2.6
 }}

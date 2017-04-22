@@ -1,0 +1,8 @@
+﻿{{#set:
+|dataType=Def
+|defType=WorldGenStepDef
+|defName=Rivers
+|WorldGenStepDef.defName=Rivers
+|WorldGenStepDef.order=200
+|WorldGenStepDef.worldGenStep=
+}}

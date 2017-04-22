@@ -1,0 +1,20 @@
+﻿{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=WaterMovingDeep
+|TerrainDef.defName=WaterMovingDeep
+|TerrainDef.label=deep moving water
+|TerrainDef.label.zh-cn=deep moving water
+|TerrainDef.label.zh-tw=deep moving water
+|TerrainDef.passability=Impassable
+|TerrainDef.pathCost=300
+|TerrainDef.fertility=0
+|TerrainDef.texturePath=Terrain/Surfaces/WaterDeep
+|TerrainDef.edgeType=FadeRough
+|TerrainDef.renderPrecedence=395
+|TerrainDef.avoidWander=true
+|TerrainDef.changeable=false
+|TerrainDef.holdSnow=false
+|TerrainDef.tags="River"
+|TerrainDef.acceptFilth=false
+}}

@@ -1,0 +1,22 @@
+﻿{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=BurnedWoodPlankFloor
+|TerrainDef.defName=BurnedWoodPlankFloor
+|TerrainDef.label=burned wood floor
+|TerrainDef.label.zh-cn=burned wood floor
+|TerrainDef.label.zh-tw=burned wood floor
+|TerrainDef.description=Burned out wood plank flooring.
+|TerrainDef.description.zh-cn=Burned out wood plank flooring.
+|TerrainDef.description.zh-tw=Burned out wood plank flooring.
+|TerrainDef.statBases="Beauty","-30"
+|TerrainDef.pathCost=9
+|TerrainDef.fertility=0
+|TerrainDef.terrainAffordanceNeeded=Light
+|TerrainDef.texturePath=Terrain/Surfaces/BurnedWoodFloor
+|TerrainDef.edgeType=FadeRough
+|TerrainDef.renderPrecedence=251
+|TerrainDef.affordances="Light","SmoothHard"
+|TerrainDef.layerable=true
+|TerrainDef.acceptTerrainSourceFilth=True
+}}

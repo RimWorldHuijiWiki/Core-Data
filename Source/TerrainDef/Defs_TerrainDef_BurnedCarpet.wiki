@@ -1,0 +1,22 @@
+﻿{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=BurnedCarpet
+|TerrainDef.defName=BurnedCarpet
+|TerrainDef.label=burned carpet
+|TerrainDef.label.zh-cn=burned carpet
+|TerrainDef.label.zh-tw=burned carpet
+|TerrainDef.description=Burned out carpet.
+|TerrainDef.description.zh-cn=Burned out carpet.
+|TerrainDef.description.zh-tw=Burned out carpet.
+|TerrainDef.statBases="Beauty","-30"
+|TerrainDef.pathCost=9
+|TerrainDef.fertility=0
+|TerrainDef.terrainAffordanceNeeded=Light
+|TerrainDef.texturePath=Terrain/Surfaces/BurnedCarpet
+|TerrainDef.edgeType=FadeRough
+|TerrainDef.renderPrecedence=201
+|TerrainDef.affordances="Light","SmoothHard"
+|TerrainDef.layerable=true
+|TerrainDef.acceptTerrainSourceFilth=True
+}}

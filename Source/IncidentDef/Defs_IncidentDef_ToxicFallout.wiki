@@ -6,8 +6,9 @@
 |IncidentDef.label=toxic fallout
 |IncidentDef.label.zh-cn=有毒尘埃
 |IncidentDef.label.zh-tw=輻射塵
-|IncidentDef.workerClass=IncidentWorker_MakeMapCondition
-|IncidentDef.targetType=BaseMap
+|IncidentDef.workerClass=IncidentWorker_MakeGameCondition
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=0.15
 |IncidentDef.earliestDay=20
 |IncidentDef.minRefireDays=90
@@ -19,7 +20,7 @@
 |IncidentDef.letterLabel.zh-cn=有毒尘埃
 |IncidentDef.letterLabel.zh-tw=輻射塵
 |IncidentDef.letterType=BadNonUrgent
-|IncidentDef.mapCondition=ToxicFallout
+|IncidentDef.gameCondition=ToxicFallout
 |IncidentDef.durationDays=Exist
 |IncidentDef.durationDays.min=2.5
 |IncidentDef.durationDays.max=10.5

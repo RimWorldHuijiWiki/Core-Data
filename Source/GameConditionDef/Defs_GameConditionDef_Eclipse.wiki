@@ -1,0 +1,17 @@
+﻿{{#set:
+|dataType=Def
+|defType=GameConditionDef
+|defName=Eclipse
+|GameConditionDef.defName=Eclipse
+|GameConditionDef.label=eclipse
+|GameConditionDef.label.zh-cn=eclipse
+|GameConditionDef.label.zh-tw=eclipse
+|GameConditionDef.description=An eclipse is shadowing the surface. It will be dark, even during the daytime.
+|GameConditionDef.description.zh-cn=An eclipse is shadowing the surface. It will be dark, even during the daytime.
+|GameConditionDef.description.zh-tw=An eclipse is shadowing the surface. It will be dark, even during the daytime.
+|GameConditionDef.conditionClass=GameCondition_Eclipse
+|GameConditionDef.endMessage=The eclipse is ending.
+|GameConditionDef.endMessage.zh-cn=The eclipse is ending.
+|GameConditionDef.endMessage.zh-tw=The eclipse is ending.
+|GameConditionDef.canBePermanent=true
+}}

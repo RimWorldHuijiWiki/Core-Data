@@ -1,0 +1,25 @@
+﻿{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=FlagstoneMarble
+|TerrainDef.defName=FlagstoneMarble
+|TerrainDef.label=marble flagstone
+|TerrainDef.label.zh-cn=marble flagstone
+|TerrainDef.label.zh-tw=marble flagstone
+|TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
+|TerrainDef.description.zh-cn=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
+|TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
+|TerrainDef.statBases="WorkToBuild","500";"Beauty","0"
+|TerrainDef.fertility=0
+|TerrainDef.costList="BlocksMarble","4"
+|TerrainDef.terrainAffordanceNeeded=Light
+|TerrainDef.constructEffect=ConstructDirt
+|TerrainDef.designationCategory=Floors
+|TerrainDef.texturePath=Terrain/Surfaces/Flagstone
+|TerrainDef.renderPrecedence=220
+|TerrainDef.affordances="Light","Heavy","SmoothHard"
+|TerrainDef.layerable=true
+|TerrainDef.color=(132,135,132)
+|TerrainDef.tags="Road"
+|TerrainDef.acceptTerrainSourceFilth=True
+}}

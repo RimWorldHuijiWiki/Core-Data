@@ -7,7 +7,8 @@
 |IncidentDef.label.zh-cn=流浪者加入
 |IncidentDef.label.zh-tw=志願者
 |IncidentDef.workerClass=IncidentWorker_WandererJoin
-|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=0.2
 |IncidentDef.populationEffect=Increase
 }}

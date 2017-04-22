@@ -1,0 +1,19 @@
+﻿{{#set:
+|dataType=Def
+|defType=BiomeDef
+|defName=Lake
+|BiomeDef.defName=Lake
+|BiomeDef.label=lake
+|BiomeDef.label.zh-cn=lake
+|BiomeDef.label.zh-tw=lake
+|BiomeDef.description=A large lake. Beautiful to live next to. Not so beautiful to live in.
+|BiomeDef.description.zh-cn=A large lake. Beautiful to live next to. Not so beautiful to live in.
+|BiomeDef.description.zh-tw=A large lake. Beautiful to live next to. Not so beautiful to live in.
+|BiomeDef.workerClass=BiomeWorker_Ocean
+|BiomeDef.canBuildBase=false
+|BiomeDef.allowRoads=false
+|BiomeDef.allowRivers=false
+|BiomeDef.impassable=true
+|BiomeDef.hasVirtualPlants=false
+|BiomeDef.texture=World/Biomes/Ocean
+}}

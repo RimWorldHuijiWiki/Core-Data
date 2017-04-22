@@ -1,0 +1,18 @@
+﻿{{#set:
+|dataType=Def
+|defType=GameConditionDef
+|defName=Flashstorm
+|GameConditionDef.defName=Flashstorm
+|GameConditionDef.label=flashstorm
+|GameConditionDef.label.zh-cn=flashstorm
+|GameConditionDef.label.zh-tw=flashstorm
+|GameConditionDef.description=Extreme amounts of lightning are hitting a small region.
+|GameConditionDef.description.zh-cn=Extreme amounts of lightning are hitting a small region.
+|GameConditionDef.description.zh-tw=Extreme amounts of lightning are hitting a small region.
+|GameConditionDef.conditionClass=GameCondition_Flashstorm
+|GameConditionDef.endMessage=The flashstorm is over.
+|GameConditionDef.endMessage.zh-cn=The flashstorm is over.
+|GameConditionDef.endMessage.zh-tw=The flashstorm is over.
+|GameConditionDef.canBePermanent=true
+|GameConditionDef.preventRain=true
+}}

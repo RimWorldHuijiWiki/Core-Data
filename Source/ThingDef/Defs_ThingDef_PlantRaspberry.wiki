@@ -18,7 +18,7 @@
 |ThingDef.tickerType=Long
 |ThingDef.useHitPoints=True
 |ThingDef.graphicData=Exist
-|ThingDef.graphicData.texPath=Things/Plant/Raspberry
+|ThingDef.graphicData.texPath=Things/Plant/RaspberryPlant
 |ThingDef.graphicData.graphicClass=Graphic_Random
 |ThingDef.graphicData.shaderType=CutoutPlant
 |ThingDef.graphicData.shadowData=Exist
@@ -50,7 +50,8 @@
 |ThingDef.plant.fertilitySensitivity=0.5
 |ThingDef.plant.topWindExposure=0.3
 |ThingDef.plant.visualSizeRange=Exist
-|ThingDef.plant.visualSizeRange.min=0.6
-|ThingDef.plant.visualSizeRange.max=1.1
+|ThingDef.plant.visualSizeRange.min=0.7
+|ThingDef.plant.visualSizeRange.max=1.2
 |ThingDef.plant.leaflessGraphicPath=Things/Plant/Bush_Leafless
+|ThingDef.plant.immatureGraphicPath=Things/Plant/RaspberryImmature
 }}

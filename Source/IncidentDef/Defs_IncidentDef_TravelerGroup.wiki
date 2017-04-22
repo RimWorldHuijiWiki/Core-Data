@@ -7,8 +7,8 @@
 |IncidentDef.label.zh-cn=旅行者
 |IncidentDef.label.zh-tw=旅行團
 |IncidentDef.workerClass=IncidentWorker_TravelerGroup
-|IncidentDef.targetType=BaseMap
-|IncidentDef.baseChance=4
 |IncidentDef.category=AllyArrival
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=4
 |IncidentDef.pointsScaleable=true
 }}

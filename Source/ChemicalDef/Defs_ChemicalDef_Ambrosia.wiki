@@ -1,0 +1,12 @@
+﻿{{#set:
+|dataType=Def
+|defType=ChemicalDef
+|defName=Ambrosia
+|ChemicalDef.defName=Ambrosia
+|ChemicalDef.label=ambrosia
+|ChemicalDef.label.zh-cn=ambrosia
+|ChemicalDef.label.zh-tw=ambrosia
+|ChemicalDef.addictionHediff=AmbrosiaAddiction
+|ChemicalDef.toleranceHediff=AmbrosiaTolerance
+|ChemicalDef.onGeneratedAddictedToleranceChance=0.8
+}}

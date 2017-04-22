@@ -1,0 +1,22 @@
+﻿{{#set:
+|dataType=Def
+|defType=RiverDef
+|defName=LargeRiver
+|RiverDef.defName=LargeRiver
+|RiverDef.label=large river
+|RiverDef.label.zh-cn=large river
+|RiverDef.label.zh-tw=large river
+|RiverDef.spawnFlowThreshold=500000
+|RiverDef.spawnChance=0.75
+|RiverDef.degradeThreshold=250000
+|RiverDef.degradeChild=River
+|RiverDef.branches=Exist
+|RiverDef.branches.Count=1
+|RiverDef.branches.0=Exist
+|RiverDef.branches.0.minFlow=100000
+|RiverDef.branches.0.child=River
+|RiverDef.branches.0.chance=0.3
+|RiverDef.widthOnWorld=0.6
+|RiverDef.widthOnMap=8
+|RiverDef.debugOpacity=0.4
+}}

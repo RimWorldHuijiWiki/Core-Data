@@ -7,7 +7,8 @@
 |IncidentDef.label.zh-cn=敲击兽经过
 |IncidentDef.label.zh-tw=獨角獸
 |IncidentDef.workerClass=IncidentWorker_ThrumboPasses
-|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=0.7
 |IncidentDef.minRefireDays=13
 }}

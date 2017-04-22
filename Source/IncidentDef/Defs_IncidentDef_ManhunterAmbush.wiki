@@ -7,8 +7,9 @@
 |IncidentDef.label.zh-cn=猎杀人类伏击
 |IncidentDef.label.zh-tw=獸群埋伏
 |IncidentDef.workerClass=IncidentWorker_Ambush_ManhunterPack
-|IncidentDef.targetType=Caravan
 |IncidentDef.category=CaravanTarget
+|IncidentDef.targetType=Caravan, MapTempIncident
+|IncidentDef.minRefireDays=0.17
 |IncidentDef.pointsScaleable=true
 |IncidentDef.letterText=Your caravan has been ambushed by manhunting {0}!
 |IncidentDef.letterText.zh-cn=你的远行队被猎杀人类的{0}伏击了!

@@ -9,7 +9,7 @@
 |TerrainDef.description=Plush carpet in a lovely rose hue.
 |TerrainDef.description.zh-cn=带有可爱玫瑰颜色的红色毛绒地毯。
 |TerrainDef.description.zh-tw=帶有可愛玫瑰顏色的红毛绒地毯。
-|TerrainDef.statBases="Beauty","1";"WorkToBuild","135"
+|TerrainDef.statBases="Beauty","2";"Flammability","0.32";"WorkToBuild","135"
 |TerrainDef.fertility=0
 |TerrainDef.costList="Cloth","7"
 |TerrainDef.terrainAffordanceNeeded=Light
@@ -22,5 +22,6 @@
 |TerrainDef.affordances="Light","Heavy","SmoothHard"
 |TerrainDef.layerable=true
 |TerrainDef.color=(118,49,57)
+|TerrainDef.burnedDef=BurnedCarpet
 |TerrainDef.acceptTerrainSourceFilth=True
 }}

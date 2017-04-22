@@ -13,7 +13,19 @@
 |RoadDef.roadGenSteps=Exist
 |RoadDef.roadGenSteps.Count=1
 |RoadDef.roadGenSteps.0=Exist
+|RoadDef.roadGenSteps.0.Class=RoadDefGenStep_Place
 |RoadDef.roadGenSteps.0.chancePerPositionCurve=Exist
-|RoadDef.roadGenSteps.0.chancePerPositionCurve.points="(0, 0.9)","(0.8, 0.8)","(1.0, 0)"
+|RoadDef.roadGenSteps.0.chancePerPositionCurve.points="(0, 0.9)","(1.2, 0.8)","(1.4, 0)"
 |RoadDef.roadGenSteps.0.place=PackedDirt
+|RoadDef.worldRenderSteps=Exist
+|RoadDef.worldRenderSteps.Count=2
+|RoadDef.worldRenderSteps.0=Exist
+|RoadDef.worldRenderSteps.0.layer=Outline
+|RoadDef.worldRenderSteps.0.width=0.55
+|RoadDef.worldRenderSteps.1=Exist
+|RoadDef.worldRenderSteps.1.layer=Dirt
+|RoadDef.worldRenderSteps.1.width=0.4
+|RoadDef.worldTransitionGroup=Dirt
+|RoadDef.distortionFrequency=0.5
+|RoadDef.distortionIntensity=0.2
 }}

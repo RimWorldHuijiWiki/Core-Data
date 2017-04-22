@@ -1,0 +1,13 @@
+﻿{{#set:
+|dataType=Def
+|defType=GameConditionDef
+|defName=Planetkiller
+|GameConditionDef.defName=Planetkiller
+|GameConditionDef.label=planetkiller
+|GameConditionDef.label.zh-cn=planetkiller
+|GameConditionDef.label.zh-tw=planetkiller
+|GameConditionDef.description=An interstellar planetkiller weapon is approaching this planet. When it hits, it will destroy all life.
+|GameConditionDef.description.zh-cn=An interstellar planetkiller weapon is approaching this planet. When it hits, it will destroy all life.
+|GameConditionDef.description.zh-tw=An interstellar planetkiller weapon is approaching this planet. When it hits, it will destroy all life.
+|GameConditionDef.conditionClass=GameCondition_Planetkiller
+}}

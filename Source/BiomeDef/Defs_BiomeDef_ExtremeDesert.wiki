@@ -11,7 +11,7 @@
 |BiomeDef.description.zh-tw=一個極度炎熱、極度乾旱的地區，只有極少量生物。極端的高溫及稀疏的植被使生存顯得非常困難，即使對原生動物也是如此。
 |BiomeDef.workerClass=BiomeWorker_ExtremeDesert
 |BiomeDef.animalDensity=0.4
-|BiomeDef.plantDensity=0.006
+|BiomeDef.plantDensity=0.002
 |BiomeDef.diseaseMtbDays=90
 |BiomeDef.factionBaseSelectionWeight=0.42
 |BiomeDef.hasVirtualPlants=false
@@ -24,7 +24,7 @@
 |BiomeDef.terrainsByFertility.0.terrain=Sand
 |BiomeDef.terrainsByFertility.0.min=-999
 |BiomeDef.terrainsByFertility.0.max=999
-|BiomeDef.wildPlants="PlantAgave","0.25";"PlantSaguaroCactus","1";"PlantGrass","6"
+|BiomeDef.wildPlants="PlantGrass","6";"PlantSaguaroCactus","1";"PlantAgave","0.25"
 |BiomeDef.wildAnimals="Megascarab","1";"Iguana","0.3";"Rat","0.15";"Dromedary","0.15";"FoxFennec","0.04"
 |BiomeDef.diseases=Exist
 |BiomeDef.diseases.Count=6

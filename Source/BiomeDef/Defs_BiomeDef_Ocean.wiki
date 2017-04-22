@@ -11,8 +11,9 @@
 |BiomeDef.description.zh-tw=廣闊的的大海，對於魚來說是相當理想的地方，對於您來說就不是了。
 |BiomeDef.workerClass=BiomeWorker_Ocean
 |BiomeDef.canBuildBase=false
+|BiomeDef.allowRoads=false
+|BiomeDef.allowRivers=false
 |BiomeDef.impassable=true
 |BiomeDef.hasVirtualPlants=false
-|BiomeDef.hideTerrain=true
 |BiomeDef.texture=World/Biomes/Ocean
 }}

@@ -7,8 +7,8 @@
 |IncidentDef.label.zh-cn=流感
 |IncidentDef.label.zh-tw=流感
 |IncidentDef.workerClass=IncidentWorker_Disease
-|IncidentDef.targetType=BaseMap
 |IncidentDef.category=Disease
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.diseaseIncident=Flu
 |IncidentDef.diseaseVictimFractionRange=Exist
 |IncidentDef.diseaseVictimFractionRange.min=0.2

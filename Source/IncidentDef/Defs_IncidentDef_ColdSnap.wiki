@@ -7,7 +7,8 @@
 |IncidentDef.label.zh-cn=寒流
 |IncidentDef.label.zh-tw=寒流
 |IncidentDef.workerClass=IncidentWorker_ColdSnap
-|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=3
 |IncidentDef.minRefireDays=15
 |IncidentDef.letterText=An unusual cold snap has set in. Watch out for hypothermia and dying crops.
@@ -17,7 +18,7 @@
 |IncidentDef.letterLabel.zh-cn=寒流
 |IncidentDef.letterLabel.zh-tw=寒流
 |IncidentDef.letterType=BadNonUrgent
-|IncidentDef.mapCondition=ColdSnap
+|IncidentDef.gameCondition=ColdSnap
 |IncidentDef.durationDays=Exist
 |IncidentDef.durationDays.min=1.5
 |IncidentDef.durationDays.max=3.5

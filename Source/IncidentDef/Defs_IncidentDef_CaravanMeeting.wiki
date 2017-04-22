@@ -7,7 +7,8 @@
 |IncidentDef.label.zh-cn=远行队相遇
 |IncidentDef.label.zh-tw=旅團接觸
 |IncidentDef.workerClass=IncidentWorker_CaravanMeeting
-|IncidentDef.targetType=Caravan
 |IncidentDef.category=CaravanTarget
+|IncidentDef.targetType=Caravan, MapTempIncident
+|IncidentDef.minRefireDays=0.17
 |IncidentDef.mtbDaysByBiome="TemperateForest","10";"BorealForest","10";"AridShrubland","10";"TropicalRainforest","10";"Desert","15";"Tundra","15";"ExtremeDesert","25";"IceSheet","35";"SeaIce","80"
 }}

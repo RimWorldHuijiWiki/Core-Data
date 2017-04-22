@@ -7,7 +7,8 @@
 |IncidentDef.label.zh-cn=索取赎金
 |IncidentDef.label.zh-tw=勒索贖金
 |IncidentDef.workerClass=IncidentWorker_RansomDemand
-|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=2
 |IncidentDef.populationEffect=Increase
 }}

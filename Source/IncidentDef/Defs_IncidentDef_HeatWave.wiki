@@ -7,7 +7,8 @@
 |IncidentDef.label.zh-cn=热浪
 |IncidentDef.label.zh-tw=熱浪
 |IncidentDef.workerClass=IncidentWorker_HeatWave
-|IncidentDef.targetType=BaseMap
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=3
 |IncidentDef.minRefireDays=15
 |IncidentDef.letterText=An unusual heat wave has begun. Watch out for heat stroke.
@@ -17,7 +18,7 @@
 |IncidentDef.letterLabel.zh-cn=热浪
 |IncidentDef.letterLabel.zh-tw=熱浪
 |IncidentDef.letterType=BadNonUrgent
-|IncidentDef.mapCondition=HeatWave
+|IncidentDef.gameCondition=HeatWave
 |IncidentDef.durationDays=Exist
 |IncidentDef.durationDays.min=1.5
 |IncidentDef.durationDays.max=3.5

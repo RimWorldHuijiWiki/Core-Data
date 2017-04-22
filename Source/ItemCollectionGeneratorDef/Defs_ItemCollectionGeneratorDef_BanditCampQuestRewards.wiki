@@ -1,0 +1,10 @@
+﻿{{#set:
+|dataType=Def
+|defType=ItemCollectionGeneratorDef
+|defName=BanditCampQuestRewards
+|ItemCollectionGeneratorDef.defName=BanditCampQuestRewards
+|ItemCollectionGeneratorDef.label=bandit camp quest rewards
+|ItemCollectionGeneratorDef.label.zh-cn=bandit camp quest rewards
+|ItemCollectionGeneratorDef.label.zh-tw=bandit camp quest rewards
+|ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_Rewards
+}}

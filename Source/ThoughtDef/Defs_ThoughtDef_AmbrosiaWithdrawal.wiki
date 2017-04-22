@@ -1,0 +1,21 @@
+﻿{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=AmbrosiaWithdrawal
+|ThoughtDef.defName=AmbrosiaWithdrawal
+|ThoughtDef.workerClass=ThoughtWorker_Hediff
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=2
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.visible=false
+|ThoughtDef.stages.1=Exist
+|ThoughtDef.stages.1.label=ambrosia withdrawal
+|ThoughtDef.stages.1.label.zh-cn=ambrosia withdrawal
+|ThoughtDef.stages.1.label.zh-tw=ambrosia withdrawal
+|ThoughtDef.stages.1.description=I just feel heavy and cold all the time. I never thought I'd want a piece of fruit so much.
+|ThoughtDef.stages.1.description.zh-cn=I just feel heavy and cold all the time. I never thought I'd want a piece of fruit so much.
+|ThoughtDef.stages.1.description.zh-tw=I just feel heavy and cold all the time. I never thought I'd want a piece of fruit so much.
+|ThoughtDef.stages.1.baseMoodEffect=-10
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.hediff=AmbrosiaAddiction
+}}

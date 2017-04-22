@@ -7,9 +7,9 @@
 |IncidentDef.label.zh-cn=猎杀人类
 |IncidentDef.label.zh-tw=獸群襲擊
 |IncidentDef.workerClass=IncidentWorker_ManhunterPack
-|IncidentDef.targetType=BaseMap
-|IncidentDef.baseChance=2.0
 |IncidentDef.category=ThreatBig
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=2.0
 |IncidentDef.minRefireDays=8
 |IncidentDef.pointsScaleable=true
 }}

@@ -1,0 +1,17 @@
+﻿{{#set:
+|dataType=Def
+|defType=GameConditionDef
+|defName=ToxicFallout
+|GameConditionDef.defName=ToxicFallout
+|GameConditionDef.label=toxic fallout
+|GameConditionDef.label.zh-cn=toxic fallout
+|GameConditionDef.label.zh-tw=toxic fallout
+|GameConditionDef.description=A plume of toxic dust from some distant source is slowly settling over this entire region of the planet. Anyone not under a roof will be slowly poisoned.
+|GameConditionDef.description.zh-cn=A plume of toxic dust from some distant source is slowly settling over this entire region of the planet. Anyone not under a roof will be slowly poisoned.
+|GameConditionDef.description.zh-tw=A plume of toxic dust from some distant source is slowly settling over this entire region of the planet. Anyone not under a roof will be slowly poisoned.
+|GameConditionDef.conditionClass=GameCondition_ToxicFallout
+|GameConditionDef.endMessage=The worst of the toxic fallout has settled.
+|GameConditionDef.endMessage.zh-cn=The worst of the toxic fallout has settled.
+|GameConditionDef.endMessage.zh-tw=The worst of the toxic fallout has settled.
+|GameConditionDef.canBePermanent=true
+}}

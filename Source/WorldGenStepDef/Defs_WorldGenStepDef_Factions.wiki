@@ -1,0 +1,8 @@
+﻿{{#set:
+|dataType=Def
+|defType=WorldGenStepDef
+|defName=Factions
+|WorldGenStepDef.defName=Factions
+|WorldGenStepDef.order=500
+|WorldGenStepDef.worldGenStep=
+}}
