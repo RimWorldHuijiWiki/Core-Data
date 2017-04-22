@@ -13,10 +13,6 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
 |SoundDef.subSounds.0.grains.0.clipPath=Weapon/BowA
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=56.09319
-|SoundDef.subSounds.0.volumeRange.max=53.58423
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=1.153763
-|SoundDef.subSounds.0.pitchRange.max=1.265591
+|SoundDef.subSounds.0.volumeRange=56.09319 ~ 53.58423
+|SoundDef.subSounds.0.pitchRange=1.153763 ~ 1.265591
 }}

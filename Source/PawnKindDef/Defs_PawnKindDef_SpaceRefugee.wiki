@@ -14,15 +14,11 @@
 |PawnKindDef.labelPlural.zh-tw=space refugees
 |PawnKindDef.backstoryCryptosleepCommonality=1
 |PawnKindDef.forceNormalGearQuality=true
-|PawnKindDef.gearHealthRange=Exist
-|PawnKindDef.gearHealthRange.min=0.4
-|PawnKindDef.gearHealthRange.max=1.4
+|PawnKindDef.gearHealthRange=0.4 ~ 1.4
 |PawnKindDef.isFighter=false
 |PawnKindDef.combatPower=25
 |PawnKindDef.baseRecruitDifficulty=0.30
-|PawnKindDef.apparelMoney=Exist
-|PawnKindDef.apparelMoney.min=0
-|PawnKindDef.apparelMoney.max=3000
+|PawnKindDef.apparelMoney=0 ~ 3000
 |PawnKindDef.apparelTags="Spacer"
 |PawnKindDef.apparelAllowHeadwearChance=0.5
 |PawnKindDef.apparelIgnoreSeasons=true

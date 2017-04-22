@@ -12,9 +12,7 @@
 |HediffDef.comps.0=Exist
 |HediffDef.comps.0.Class=HediffCompProperties_Immunizable
 |HediffDef.comps.0.severityPerDayNotImmune=0.0007
-|HediffDef.comps.0.severityPerDayNotImmuneRandomFactor=Exist
-|HediffDef.comps.0.severityPerDayNotImmuneRandomFactor.min=0.5
-|HediffDef.comps.0.severityPerDayNotImmuneRandomFactor.max=3
+|HediffDef.comps.0.severityPerDayNotImmuneRandomFactor=0.5 ~ 3
 |HediffDef.initialSeverity=0.001
 |HediffDef.lethalSeverity=1
 |HediffDef.stages=Exist

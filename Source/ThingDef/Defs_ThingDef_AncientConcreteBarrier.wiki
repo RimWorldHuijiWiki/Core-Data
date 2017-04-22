@@ -22,9 +22,7 @@
 |ThingDef.leaveResourcesWhenKilled=true
 |ThingDef.filthLeaving=BuildingRubble
 |ThingDef.canOverlapZones=false
-|ThingDef.startingHpRange=Exist
-|ThingDef.startingHpRange.min=0.5
-|ThingDef.startingHpRange.max=1.3
+|ThingDef.startingHpRange=0.5 ~ 1.3
 |ThingDef.graphicData=Exist
 |ThingDef.graphicData.texPath=Things/Building/Ruins/AncientConcreteBarrier
 |ThingDef.graphicData.graphicClass=Graphic_Random

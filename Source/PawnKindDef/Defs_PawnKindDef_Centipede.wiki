@@ -22,8 +22,6 @@
 |PawnKindDef.lifeStages.0.bodyGraphicData.shadowData.volume=(0.6, 0.8, 0.6)
 |PawnKindDef.combatPower=290
 |PawnKindDef.aiAvoidCover=true
-|PawnKindDef.weaponMoney=Exist
-|PawnKindDef.weaponMoney.min=8000
-|PawnKindDef.weaponMoney.max=8000
+|PawnKindDef.weaponMoney=8000 ~ 8000
 |PawnKindDef.weaponTags="MechanoidGunHeavy"
 }}

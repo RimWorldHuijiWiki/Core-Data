@@ -14,9 +14,7 @@
 |HediffDef.comps.0.sendLetterWhenDiscovered=true
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Disappears
-|HediffDef.comps.1.disappearsAfterTicks=Exist
-|HediffDef.comps.1.disappearsAfterTicks.min=900000
-|HediffDef.comps.1.disappearsAfterTicks.max=1800000
+|HediffDef.comps.1.disappearsAfterTicks=900000 ~ 1800000
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_TendDuration
 |HediffDef.comps.2.tendDuration=120000

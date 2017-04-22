@@ -28,9 +28,7 @@
 |ThingDef.comps.1.explosiveDamageType=Bomb
 |ThingDef.comps.1.explosiveExpandPerStackcount=0.4
 |ThingDef.comps.1.startWickHitPointsPercent=0.333
-|ThingDef.comps.1.wickTicks=Exist
-|ThingDef.comps.1.wickTicks.min=10
-|ThingDef.comps.1.wickTicks.max=30
+|ThingDef.comps.1.wickTicks=10 ~ 30
 |ThingDef.graphicData=Exist
 |ThingDef.graphicData.texPath=Things/Item/Resource/Shell
 |ThingDef.graphicData.graphicClass=Graphic_Single

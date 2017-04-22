@@ -10,9 +10,7 @@
 |WeatherDef.description.zh-cn=大雪会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度。
 |WeatherDef.description.zh-tw=雪輝降低遠程武器的命中率，撲滅火焰並使移動速度變慢。
 |WeatherDef.favorability=Neutral
-|WeatherDef.temperatureRange=Exist
-|WeatherDef.temperatureRange.min=-999
-|WeatherDef.temperatureRange.max=-0.5
+|WeatherDef.temperatureRange=-999 ~ -0.5
 |WeatherDef.commonalityRainfallFactor=Exist
 |WeatherDef.commonalityRainfallFactor.points="(0, 0)","(300,0.5)","(1300, 1)"
 |WeatherDef.rainRate=1

@@ -9,13 +9,9 @@
 |WeatherDef.description=Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out.
 |WeatherDef.description.zh-cn=旱天雷很危险，因为闪电会引发火灾，同时又没有扑灭火焰的雨水。
 |WeatherDef.description.zh-tw=雷暴非常危險，它會導致火災且雷暴天氣不會下雨，因此火焰不會被自然撲滅。
-|WeatherDef.durationRange=Exist
-|WeatherDef.durationRange.min=15000
-|WeatherDef.durationRange.max=40000
+|WeatherDef.durationRange=15000 ~ 40000
 |WeatherDef.favorability=VeryBad
-|WeatherDef.temperatureRange=Exist
-|WeatherDef.temperatureRange.min=0
-|WeatherDef.temperatureRange.max=999
+|WeatherDef.temperatureRange=0 ~ 999
 |WeatherDef.windSpeedFactor=1.5
 |WeatherDef.ambientSounds="AmbientWind_Storm"
 |WeatherDef.eventMakers=Exist

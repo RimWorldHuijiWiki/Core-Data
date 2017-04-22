@@ -28,14 +28,7 @@
 |HediffDef.stages.1.capMods.1=Exist
 |HediffDef.stages.1.capMods.1.capacity=Moving
 |HediffDef.stages.1.capMods.1.offset=-0.15
-|HediffDef.stages.1.mentalStateGivers=Exist
-|HediffDef.stages.1.mentalStateGivers.Count=2
-|HediffDef.stages.1.mentalStateGivers.0=Exist
-|HediffDef.stages.1.mentalStateGivers.0.mentalState=BingingFood
-|HediffDef.stages.1.mentalStateGivers.0.mtbDays=30
-|HediffDef.stages.1.mentalStateGivers.1=Exist
-|HediffDef.stages.1.mentalStateGivers.1.mentalState=BingingDrugMajor
-|HediffDef.stages.1.mentalStateGivers.1.mtbDays=50
+|HediffDef.stages.1.mentalStateGivers="BingingFood","30";"BingingDrugMajor","50"
 |HediffDef.causesNeed=Chemical_Smokeleaf
 |HediffDef.maxSeverity=1.0
 |HediffDef.scenarioCanAdd=true

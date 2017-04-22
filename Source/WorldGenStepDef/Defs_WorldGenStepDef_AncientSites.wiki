@@ -6,7 +6,5 @@
 |WorldGenStepDef.order=300
 |WorldGenStepDef.worldGenStep=Exist
 |WorldGenStepDef.worldGenStep.Class=WorldGenStep_AncientSites
-|WorldGenStepDef.worldGenStep.ancientSitesPer100kTiles=Exist
-|WorldGenStepDef.worldGenStep.ancientSitesPer100kTiles.min=10
-|WorldGenStepDef.worldGenStep.ancientSitesPer100kTiles.max=20
+|WorldGenStepDef.worldGenStep.ancientSitesPer100kTiles=10 ~ 20
 }}

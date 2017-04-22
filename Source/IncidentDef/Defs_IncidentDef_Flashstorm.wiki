@@ -19,7 +19,5 @@
 |IncidentDef.letterLabel.zh-cn=闪电风暴
 |IncidentDef.letterLabel.zh-tw=雷暴
 |IncidentDef.letterType=BadNonUrgent
-|IncidentDef.durationDays=Exist
-|IncidentDef.durationDays.min=0.075
-|IncidentDef.durationDays.max=0.1
+|IncidentDef.durationDays=0.075 ~ 0.1
 }}

@@ -18,13 +18,7 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
 |SoundDef.subSounds.0.grains.0.clipPath=Interact/Work/Smelt/ElectricSmelter/Loop/ElectricSmelterLoop_1a
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=11.68263
-|SoundDef.subSounds.0.volumeRange.max=11.68263
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=1
-|SoundDef.subSounds.0.pitchRange.max=1.013529
-|SoundDef.subSounds.0.distRange=Exist
-|SoundDef.subSounds.0.distRange.min=10
-|SoundDef.subSounds.0.distRange.max=38
+|SoundDef.subSounds.0.volumeRange=11.68263 ~ 11.68263
+|SoundDef.subSounds.0.pitchRange=1 ~ 1.013529
+|SoundDef.subSounds.0.distRange=10 ~ 38
 }}

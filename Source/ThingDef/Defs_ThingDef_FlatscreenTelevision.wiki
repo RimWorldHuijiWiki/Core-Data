@@ -52,8 +52,6 @@
 |ThingDef.building.spawnedConceptLearnOpportunity=TVForSickPeople
 |ThingDef.building.boughtConceptLearnOpportunity=TVForSickPeople
 |ThingDef.building.isJoySource=true
-|ThingDef.building.watchBuildingStandDistanceRange=Exist
-|ThingDef.building.watchBuildingStandDistanceRange.min=2
-|ThingDef.building.watchBuildingStandDistanceRange.max=6
+|ThingDef.building.watchBuildingStandDistanceRange=2 ~ 6
 |ThingDef.building.watchBuildingStandRectWidth=6
 }}

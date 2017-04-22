@@ -21,7 +21,5 @@
 |IncidentDef.letterLabel.zh-tw=輻射塵
 |IncidentDef.letterType=BadNonUrgent
 |IncidentDef.gameCondition=ToxicFallout
-|IncidentDef.durationDays=Exist
-|IncidentDef.durationDays.min=2.5
-|IncidentDef.durationDays.max=10.5
+|IncidentDef.durationDays=2.5 ~ 10.5
 }}

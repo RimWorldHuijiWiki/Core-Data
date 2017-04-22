@@ -10,14 +10,10 @@
 |EffecterDef.children.0.soundDef=Interact_Research
 |EffecterDef.children.1=Exist
 |EffecterDef.children.1.subEffecterClass=SubEffecter_SprayerContinuous
-|EffecterDef.children.1.burstCount=Exist
-|EffecterDef.children.1.burstCount.min=2
-|EffecterDef.children.1.burstCount.max=4
+|EffecterDef.children.1.burstCount=2 ~ 4
 |EffecterDef.children.1.ticksBetweenMotes=500
 |EffecterDef.children.1.positionLerpFactor=1
 |EffecterDef.children.1.positionRadius=0.5
 |EffecterDef.children.1.moteDef=Mote_AirPuff
-|EffecterDef.children.1.scale=Exist
-|EffecterDef.children.1.scale.min=1
-|EffecterDef.children.1.scale.max=1
+|EffecterDef.children.1.scale=1 ~ 1
 }}

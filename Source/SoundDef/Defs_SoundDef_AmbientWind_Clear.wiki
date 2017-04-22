@@ -17,12 +17,8 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
 |SoundDef.subSounds.0.grains.0.clipPath=Ambience/Wind/Amb_Wind_Clear1_Loop
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=2.5
-|SoundDef.subSounds.0.volumeRange.max=2.5
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=0.8973684
-|SoundDef.subSounds.0.pitchRange.max=1.148246
+|SoundDef.subSounds.0.volumeRange=2.5 ~ 2.5
+|SoundDef.subSounds.0.pitchRange=0.8973684 ~ 1.148246
 |SoundDef.subSounds.0.paramMappings=Exist
 |SoundDef.subSounds.0.paramMappings.Count=3
 |SoundDef.subSounds.0.paramMappings.0=Exist
@@ -77,12 +73,8 @@
 |SoundDef.subSounds.0.paramMappings.2.curve.points.1.loc=Exist
 |SoundDef.subSounds.0.paramMappings.2.curve.points.1.loc.x=1
 |SoundDef.subSounds.0.paramMappings.2.curve.points.1.loc.y=1
-|SoundDef.subSounds.0.sustainLoopDurationRange=Exist
-|SoundDef.subSounds.0.sustainLoopDurationRange.min=30
-|SoundDef.subSounds.0.sustainLoopDurationRange.max=50
-|SoundDef.subSounds.0.sustainIntervalRange=Exist
-|SoundDef.subSounds.0.sustainIntervalRange.min=-10
-|SoundDef.subSounds.0.sustainIntervalRange.max=-10
+|SoundDef.subSounds.0.sustainLoopDurationRange=30 ~ 50
+|SoundDef.subSounds.0.sustainIntervalRange=-10 ~ -10
 |SoundDef.subSounds.0.sustainAttack=10
 |SoundDef.subSounds.0.sustainRelease=10
 }}

@@ -31,9 +31,7 @@
 |ThingDef.comps.1.explosiveExpandPerStackcount=0.037
 |ThingDef.comps.1.startWickOnDamageTaken=Flame
 |ThingDef.comps.1.startWickHitPointsPercent=0.333
-|ThingDef.comps.1.wickTicks=Exist
-|ThingDef.comps.1.wickTicks.min=70
-|ThingDef.comps.1.wickTicks.max=150
+|ThingDef.comps.1.wickTicks=70 ~ 150
 |ThingDef.deepCommonality=2
 |ThingDef.deepCountPerCell=300
 |ThingDef.graphicData=Exist

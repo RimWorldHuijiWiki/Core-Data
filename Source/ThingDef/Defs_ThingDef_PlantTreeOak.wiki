@@ -34,9 +34,7 @@
 |ThingDef.ingestible.nutrition=1.5
 |ThingDef.ingestible.preferability=RawBad
 |ThingDef.plant=Exist
-|ThingDef.plant.wildClusterSizeRange=Exist
-|ThingDef.plant.wildClusterSizeRange.min=8
-|ThingDef.plant.wildClusterSizeRange.max=30
+|ThingDef.plant.wildClusterSizeRange=8 ~ 30
 |ThingDef.plant.wildClusterRadius=8
 |ThingDef.plant.sowTags="Ground"
 |ThingDef.plant.sowWork=1500
@@ -54,8 +52,6 @@
 |ThingDef.plant.fertilitySensitivity=0.5
 |ThingDef.plant.reproduceRadius=30
 |ThingDef.plant.topWindExposure=0.25
-|ThingDef.plant.visualSizeRange=Exist
-|ThingDef.plant.visualSizeRange.min=1.3
-|ThingDef.plant.visualSizeRange.max=2.0
+|ThingDef.plant.visualSizeRange=1.3 ~ 2.0
 |ThingDef.plant.leaflessGraphicPath=Things/Plant/TreeOak_Leafless
 }}

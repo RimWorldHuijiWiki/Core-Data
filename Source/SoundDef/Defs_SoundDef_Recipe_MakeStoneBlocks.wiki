@@ -18,15 +18,9 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
 |SoundDef.subSounds.0.grains.0.clipFolderPath=Interact/Work/Construct/Stone/Hammer_Stone
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=1.079137
-|SoundDef.subSounds.0.volumeRange.max=10.56115
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=0.9719425
-|SoundDef.subSounds.0.pitchRange.max=1.022941
-|SoundDef.subSounds.0.distRange=Exist
-|SoundDef.subSounds.0.distRange.min=25
-|SoundDef.subSounds.0.distRange.max=50
+|SoundDef.subSounds.0.volumeRange=1.079137 ~ 10.56115
+|SoundDef.subSounds.0.pitchRange=0.9719425 ~ 1.022941
+|SoundDef.subSounds.0.distRange=25 ~ 50
 |SoundDef.subSounds.0.sustainLoop=False
 |SoundDef.subSounds.1=Exist
 |SoundDef.subSounds.1.muteWhenPaused=True
@@ -35,15 +29,9 @@
 |SoundDef.subSounds.1.grains.0=Exist
 |SoundDef.subSounds.1.grains.0.Class=AudioGrain_Folder
 |SoundDef.subSounds.1.grains.0.clipFolderPath=Interact/Work/Construct/Stone/Stone_Chunk_Light
-|SoundDef.subSounds.1.volumeRange=Exist
-|SoundDef.subSounds.1.volumeRange.min=3.578174
-|SoundDef.subSounds.1.volumeRange.max=12
-|SoundDef.subSounds.1.pitchRange=Exist
-|SoundDef.subSounds.1.pitchRange.min=1
-|SoundDef.subSounds.1.pitchRange.max=1.185696
-|SoundDef.subSounds.1.distRange=Exist
-|SoundDef.subSounds.1.distRange.min=25
-|SoundDef.subSounds.1.distRange.max=50
+|SoundDef.subSounds.1.volumeRange=3.578174 ~ 12
+|SoundDef.subSounds.1.pitchRange=1 ~ 1.185696
+|SoundDef.subSounds.1.distRange=25 ~ 50
 |SoundDef.subSounds.1.repeatMode=NeverTwice
 |SoundDef.subSounds.1.sustainLoop=False
 }}

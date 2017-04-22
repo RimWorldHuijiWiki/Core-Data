@@ -11,9 +11,7 @@
 |HediffDef.comps.Count=1
 |HediffDef.comps.0=Exist
 |HediffDef.comps.0.Class=HediffCompProperties_Disappears
-|HediffDef.comps.0.disappearsAfterTicks=Exist
-|HediffDef.comps.0.disappearsAfterTicks.min=8000
-|HediffDef.comps.0.disappearsAfterTicks.max=12000
+|HediffDef.comps.0.disappearsAfterTicks=8000 ~ 12000
 |HediffDef.initialSeverity=0.001
 |HediffDef.stages=Exist
 |HediffDef.stages.Count=1

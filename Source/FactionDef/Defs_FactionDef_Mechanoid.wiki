@@ -23,20 +23,14 @@
 |FactionDef.autoFlee=false
 |FactionDef.canUseAvoidGrid=false
 |FactionDef.earliestRaidDays=45
-|FactionDef.allowedArrivalTemperatureRange=Exist
-|FactionDef.allowedArrivalTemperatureRange.min=-100
-|FactionDef.allowedArrivalTemperatureRange.max=200
+|FactionDef.allowedArrivalTemperatureRange=-100 ~ 200
 |FactionDef.pawnsPlural=mechanoids
 |FactionDef.pawnsPlural.zh-cn=机械体
 |FactionDef.pawnsPlural.zh-tw=機器人
 |FactionDef.requiredCountAtGameStart=1
 |FactionDef.techLevel=Ultra
-|FactionDef.startingGoodwill=Exist
-|FactionDef.startingGoodwill.min=-100
-|FactionDef.startingGoodwill.max=-100
+|FactionDef.startingGoodwill=-100 ~ -100
 |FactionDef.mustStartOneEnemy=true
-|FactionDef.naturalColonyGoodwill=Exist
-|FactionDef.naturalColonyGoodwill.min=-100
-|FactionDef.naturalColonyGoodwill.max=-100
+|FactionDef.naturalColonyGoodwill=-100 ~ -100
 |FactionDef.homeIconPath=World/WorldObjects/DefaultFactionBase
 }}

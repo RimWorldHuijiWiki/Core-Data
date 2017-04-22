@@ -10,7 +10,5 @@
 |IncidentDef.category=Disease
 |IncidentDef.targetType=MapPlayerHome
 |IncidentDef.diseaseIncident=SensoryMechanites
-|IncidentDef.diseaseVictimFractionRange=Exist
-|IncidentDef.diseaseVictimFractionRange.min=0.2
-|IncidentDef.diseaseVictimFractionRange.max=0.5
+|IncidentDef.diseaseVictimFractionRange=0.2 ~ 0.5
 }}

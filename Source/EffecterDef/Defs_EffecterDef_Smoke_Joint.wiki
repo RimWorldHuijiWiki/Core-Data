@@ -9,14 +9,8 @@
 |EffecterDef.children.0.subEffecterClass=SubEffecter_SprayerContinuous
 |EffecterDef.children.0.ticksBetweenMotes=30
 |EffecterDef.children.0.moteDef=Mote_SmokeJoint
-|EffecterDef.children.0.angle=Exist
-|EffecterDef.children.0.angle.min=30
-|EffecterDef.children.0.angle.max=70
+|EffecterDef.children.0.angle=30 ~ 70
 |EffecterDef.children.0.absoluteAngle=true
-|EffecterDef.children.0.speed=Exist
-|EffecterDef.children.0.speed.min=0.18
-|EffecterDef.children.0.speed.max=0.3
-|EffecterDef.children.0.scale=Exist
-|EffecterDef.children.0.scale.min=0.35
-|EffecterDef.children.0.scale.max=0.45
+|EffecterDef.children.0.speed=0.18 ~ 0.3
+|EffecterDef.children.0.scale=0.35 ~ 0.45
 }}

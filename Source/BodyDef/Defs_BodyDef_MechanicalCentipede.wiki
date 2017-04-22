@@ -50,11 +50,7 @@
 |BodyDef.corePart.parts.1.parts.0.parts.0.parts.Count=1
 |BodyDef.corePart.parts.1.parts.0.parts.0.parts.0=Exist
 |BodyDef.corePart.parts.1.parts.0.parts.0.parts.0.def=MechanicalCentipedeBodyFifthRing
-|BodyDef.corePart.parts.1.parts.0.parts.0.parts.0.parts=Exist
-|BodyDef.corePart.parts.1.parts.0.parts.0.parts.0.parts.Count=1
-|BodyDef.corePart.parts.1.parts.0.parts.0.parts.0.parts.0=Exist
-|BodyDef.corePart.parts.1.parts.0.parts.0.parts.0.parts.0.def=MechanicalCentipedeBodySixthRing
-|BodyDef.corePart.parts.1.parts.0.parts.0.parts.0.parts.0.coverage=0.5
+|BodyDef.corePart.parts.1.parts.0.parts.0.parts.0.parts="MechanicalCentipedeBodySixthRing","0.5"
 |BodyDef.corePart.parts.1.parts.0.parts.0.parts.0.coverage=0.66
 |BodyDef.corePart.parts.1.parts.0.parts.0.coverage=0.75
 |BodyDef.corePart.parts.1.parts.0.coverage=0.8

@@ -27,9 +27,7 @@
 |FactionDef.raidCommonality=100
 |FactionDef.canSiege=true
 |FactionDef.canStageAttacks=true
-|FactionDef.allowedArrivalTemperatureRange=Exist
-|FactionDef.allowedArrivalTemperatureRange.min=-40
-|FactionDef.allowedArrivalTemperatureRange.max=45
+|FactionDef.allowedArrivalTemperatureRange=-40 ~ 45
 |FactionDef.pawnsPlural=outlanders
 |FactionDef.pawnsPlural.zh-cn=外来者
 |FactionDef.pawnsPlural.zh-tw=異鄉人
@@ -45,12 +43,8 @@
 |FactionDef.caravanTraderKinds="Caravan_Outlander_BulkGoods","Caravan_Outlander_CombatSupplier","Caravan_Outlander_Exotic","Caravan_Outlander_PirateMerchant"
 |FactionDef.visitorTraderKinds="Visitor_Outlander_Standard"
 |FactionDef.baseTraderKinds="Base_Outlander_Standard"
-|FactionDef.startingGoodwill=Exist
-|FactionDef.startingGoodwill.min=10
-|FactionDef.startingGoodwill.max=40
-|FactionDef.naturalColonyGoodwill=Exist
-|FactionDef.naturalColonyGoodwill.min=-60
-|FactionDef.naturalColonyGoodwill.max=0
+|FactionDef.startingGoodwill=10 ~ 40
+|FactionDef.naturalColonyGoodwill=-60 ~ 0
 |FactionDef.homeIconPath=World/WorldObjects/DefaultFactionBase
 |FactionDef.expandingIconTexture=World/WorldObjects/Expanding/Town
 |FactionDef.colorSpectrum="(0.64, 0.42, 0.36)","(0.47, 0.5, 0.91)"

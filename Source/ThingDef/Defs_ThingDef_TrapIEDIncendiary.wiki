@@ -28,9 +28,7 @@
 |ThingDef.comps.0.explosiveRadius=2.9
 |ThingDef.comps.0.explosiveDamageType=Flame
 |ThingDef.comps.0.startWickHitPointsPercent=0.2
-|ThingDef.comps.0.wickTicks=Exist
-|ThingDef.comps.0.wickTicks.min=10
-|ThingDef.comps.0.wickTicks.max=50
+|ThingDef.comps.0.wickTicks=10 ~ 50
 |ThingDef.leaveResourcesWhenKilled=true
 |ThingDef.filthLeaving=BuildingRubble
 |ThingDef.graphicData=Exist

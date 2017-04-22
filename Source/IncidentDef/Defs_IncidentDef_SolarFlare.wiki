@@ -19,7 +19,5 @@
 |IncidentDef.letterLabel.zh-tw=太陽閃焰
 |IncidentDef.letterType=BadNonUrgent
 |IncidentDef.gameCondition=SolarFlare
-|IncidentDef.durationDays=Exist
-|IncidentDef.durationDays.min=0.15
-|IncidentDef.durationDays.max=0.5
+|IncidentDef.durationDays=0.15 ~ 0.5
 }}

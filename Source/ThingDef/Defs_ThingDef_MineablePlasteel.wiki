@@ -46,7 +46,5 @@
 |ThingDef.building.mineableThing=Plasteel
 |ThingDef.building.mineableYield=35
 |ThingDef.building.mineableScatterCommonality=0.05
-|ThingDef.building.mineableScatterLumpSizeRange=Exist
-|ThingDef.building.mineableScatterLumpSizeRange.min=10
-|ThingDef.building.mineableScatterLumpSizeRange.max=20
+|ThingDef.building.mineableScatterLumpSizeRange=10 ~ 20
 }}

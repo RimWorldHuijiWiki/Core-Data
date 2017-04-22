@@ -14,10 +14,6 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
 |SoundDef.subSounds.0.grains.0.clipPath=Misc/Hiss/MetalHit
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=37
-|SoundDef.subSounds.0.volumeRange.max=37
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=0.8940217
-|SoundDef.subSounds.0.pitchRange.max=1.190761
+|SoundDef.subSounds.0.volumeRange=37 ~ 37
+|SoundDef.subSounds.0.pitchRange=0.8940217 ~ 1.190761
 }}

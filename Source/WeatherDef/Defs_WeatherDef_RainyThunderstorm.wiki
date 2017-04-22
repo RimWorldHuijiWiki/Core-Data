@@ -9,13 +9,9 @@
 |WeatherDef.description=The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy.
 |WeatherDef.description.zh-cn=闪电会引发火灾，但是雨水会把火扑灭。同时大雨会降低移动速度和远程武器的命中率。
 |WeatherDef.description.zh-tw=閃電會導致火災，但是雨會把火撲滅。雨會降低移動速度和遠程武器的命中率。
-|WeatherDef.durationRange=Exist
-|WeatherDef.durationRange.min=15000
-|WeatherDef.durationRange.max=40000
+|WeatherDef.durationRange=15000 ~ 40000
 |WeatherDef.favorability=Bad
-|WeatherDef.temperatureRange=Exist
-|WeatherDef.temperatureRange.min=0
-|WeatherDef.temperatureRange.max=999
+|WeatherDef.temperatureRange=0 ~ 999
 |WeatherDef.commonalityRainfallFactor=Exist
 |WeatherDef.commonalityRainfallFactor.points="(0, 0)","(1300, 1)","(4000, 2.0)"
 |WeatherDef.rainRate=1

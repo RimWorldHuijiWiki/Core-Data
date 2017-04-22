@@ -10,9 +10,7 @@
 |WeatherDef.description.zh-cn=雨会降低远程武器的命中率，扑灭火焰，同时还会降低移动速度。
 |WeatherDef.description.zh-tw=雨天降低遠程武器的命中率，澆熄火焰並使移動速度變慢。
 |WeatherDef.favorability=Neutral
-|WeatherDef.temperatureRange=Exist
-|WeatherDef.temperatureRange.min=0
-|WeatherDef.temperatureRange.max=100
+|WeatherDef.temperatureRange=0 ~ 100
 |WeatherDef.commonalityRainfallFactor=Exist
 |WeatherDef.commonalityRainfallFactor.points="(0, 0)","(1300, 1)","(4000, 3.0)"
 |WeatherDef.rainRate=1

@@ -38,11 +38,7 @@
 |ThingDef.verbs.0=Exist
 |ThingDef.verbs.0.verbClass=Verb_MeleeAttack
 |ThingDef.verbs.0.surpriseAttack=Exist
-|ThingDef.verbs.0.surpriseAttack.extraMeleeDamages=Exist
-|ThingDef.verbs.0.surpriseAttack.extraMeleeDamages.Count=1
-|ThingDef.verbs.0.surpriseAttack.extraMeleeDamages.0=Exist
-|ThingDef.verbs.0.surpriseAttack.extraMeleeDamages.0.def=Stun
-|ThingDef.verbs.0.surpriseAttack.extraMeleeDamages.0.amount=20
+|ThingDef.verbs.0.surpriseAttack.extraMeleeDamages="Stun","20"
 |ThingDef.verbs.0.defaultCooldownTime=1.65
 |ThingDef.verbs.0.linkedBodyPartsGroup=Feet
 |ThingDef.verbs.0.meleeDamageDef=Scratch
@@ -50,11 +46,7 @@
 |ThingDef.verbs.1=Exist
 |ThingDef.verbs.1.verbClass=Verb_MeleeAttack
 |ThingDef.verbs.1.surpriseAttack=Exist
-|ThingDef.verbs.1.surpriseAttack.extraMeleeDamages=Exist
-|ThingDef.verbs.1.surpriseAttack.extraMeleeDamages.Count=1
-|ThingDef.verbs.1.surpriseAttack.extraMeleeDamages.0=Exist
-|ThingDef.verbs.1.surpriseAttack.extraMeleeDamages.0.def=Stun
-|ThingDef.verbs.1.surpriseAttack.extraMeleeDamages.0.amount=20
+|ThingDef.verbs.1.surpriseAttack.extraMeleeDamages="Stun","20"
 |ThingDef.verbs.1.defaultCooldownTime=1.85
 |ThingDef.verbs.1.linkedBodyPartsGroup=Beak
 |ThingDef.verbs.1.meleeDamageDef=Bite

@@ -10,9 +10,7 @@
 |WeatherDef.description.zh-cn=大雾和大雨会降低远程武器的命中率和移动速度。
 |WeatherDef.description.zh-tw=降低遠程武器的命中率並使移動速度變慢。
 |WeatherDef.favorability=Neutral
-|WeatherDef.temperatureRange=Exist
-|WeatherDef.temperatureRange.min=0
-|WeatherDef.temperatureRange.max=999
+|WeatherDef.temperatureRange=0 ~ 999
 |WeatherDef.commonalityRainfallFactor=Exist
 |WeatherDef.commonalityRainfallFactor.points="(0, 0)","(1300, 1)"
 |WeatherDef.rainRate=1

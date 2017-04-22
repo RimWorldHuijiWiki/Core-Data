@@ -24,10 +24,6 @@
 |FactionDef.hairTags="Urban"
 |FactionDef.apparelStuffFilter=Exist
 |FactionDef.apparelStuffFilter.thingDefs="Synthread","Hyperweave"
-|FactionDef.startingGoodwill=Exist
-|FactionDef.startingGoodwill.min=-100
-|FactionDef.startingGoodwill.max=-100
-|FactionDef.naturalColonyGoodwill=Exist
-|FactionDef.naturalColonyGoodwill.min=-100
-|FactionDef.naturalColonyGoodwill.max=-100
+|FactionDef.startingGoodwill=-100 ~ -100
+|FactionDef.naturalColonyGoodwill=-100 ~ -100
 }}

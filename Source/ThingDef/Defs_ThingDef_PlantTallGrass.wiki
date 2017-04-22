@@ -40,7 +40,5 @@
 |ThingDef.plant.reproduceMtbDays=3
 |ThingDef.plant.topWindExposure=0.4
 |ThingDef.plant.maxMeshCount=9
-|ThingDef.plant.visualSizeRange=Exist
-|ThingDef.plant.visualSizeRange.min=0.7
-|ThingDef.plant.visualSizeRange.max=0.85
+|ThingDef.plant.visualSizeRange=0.7 ~ 0.85
 }}

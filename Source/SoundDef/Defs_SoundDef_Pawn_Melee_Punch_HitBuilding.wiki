@@ -14,10 +14,6 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
 |SoundDef.subSounds.0.grains.0.clipFolderPath=Impact/PunchHitBuilding
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=19.56522
-|SoundDef.subSounds.0.volumeRange.max=31.52174
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=0.8516304
-|SoundDef.subSounds.0.pitchRange.max=1.190761
+|SoundDef.subSounds.0.volumeRange=19.56522 ~ 31.52174
+|SoundDef.subSounds.0.pitchRange=0.8516304 ~ 1.190761
 }}

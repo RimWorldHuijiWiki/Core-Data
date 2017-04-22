@@ -12,13 +12,7 @@
 |EffecterDef.children.1.subEffecterClass=SubEffecter_SprayerChance
 |EffecterDef.children.1.chancePerTick=0.035
 |EffecterDef.children.1.moteDef=Mote_DustPuff
-|EffecterDef.children.1.speed=Exist
-|EffecterDef.children.1.speed.min=0.6
-|EffecterDef.children.1.speed.max=1.8
-|EffecterDef.children.1.rotationRate=Exist
-|EffecterDef.children.1.rotationRate.min=-60
-|EffecterDef.children.1.rotationRate.max=60
-|EffecterDef.children.1.scale=Exist
-|EffecterDef.children.1.scale.min=0.9
-|EffecterDef.children.1.scale.max=1.2
+|EffecterDef.children.1.speed=0.6 ~ 1.8
+|EffecterDef.children.1.rotationRate=-60 ~ 60
+|EffecterDef.children.1.scale=0.9 ~ 1.2
 }}

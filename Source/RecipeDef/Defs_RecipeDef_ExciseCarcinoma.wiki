@@ -24,11 +24,7 @@
 |RecipeDef.fixedIngredientFilter=Exist
 |RecipeDef.fixedIngredientFilter.categories="Medicine"
 |RecipeDef.fixedIngredientFilter.exceptedThingDefs="HerbalMedicine"
-|RecipeDef.skillRequirements=Exist
-|RecipeDef.skillRequirements.Count=1
-|RecipeDef.skillRequirements.0=Exist
-|RecipeDef.skillRequirements.0.skill=Medicine
-|RecipeDef.skillRequirements.0.minLevel=10
+|RecipeDef.skillRequirements="Medicine","10"
 |RecipeDef.workSkill=Medicine
 |RecipeDef.workSkillLearnFactor=16
 |RecipeDef.effectWorking=Surgery

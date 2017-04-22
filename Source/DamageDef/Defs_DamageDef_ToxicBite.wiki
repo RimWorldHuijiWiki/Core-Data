@@ -16,9 +16,5 @@
 |DamageDef.harmAllLayersUntilOutside=true
 |DamageDef.hediff=Bite
 |DamageDef.hediffSolid=Crack
-|DamageDef.additionalHediffs=Exist
-|DamageDef.additionalHediffs.Count=1
-|DamageDef.additionalHediffs.0=Exist
-|DamageDef.additionalHediffs.0.hediff=ToxicBuildup
-|DamageDef.additionalHediffs.0.severityPerDamageDealt=0.001
+|DamageDef.additionalHediffs="ToxicBuildup","0.001"
 }}

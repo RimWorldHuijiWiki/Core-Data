@@ -18,9 +18,7 @@
 |ThingDef.category=Plant
 |ThingDef.tickerType=Long
 |ThingDef.useHitPoints=True
-|ThingDef.startingHpRange=Exist
-|ThingDef.startingHpRange.min=0.5
-|ThingDef.startingHpRange.max=1
+|ThingDef.startingHpRange=0.5 ~ 1
 |ThingDef.graphicData=Exist
 |ThingDef.graphicData.texPath=Things/Plant/BurnedTree
 |ThingDef.graphicData.graphicClass=Graphic_Random
@@ -46,7 +44,5 @@
 |ThingDef.plant.fertilityMin=0
 |ThingDef.plant.fertilitySensitivity=0
 |ThingDef.plant.topWindExposure=0.05
-|ThingDef.plant.visualSizeRange=Exist
-|ThingDef.plant.visualSizeRange.min=1.2
-|ThingDef.plant.visualSizeRange.max=1.9
+|ThingDef.plant.visualSizeRange=1.2 ~ 1.9
 }}

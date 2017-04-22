@@ -17,11 +17,7 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
 |SoundDef.subSounds.0.grains.0.clipPath=UI/Designate/CreateZone_Drag2
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=3.617487
-|SoundDef.subSounds.0.volumeRange.max=3.617487
+|SoundDef.subSounds.0.volumeRange=3.617487 ~ 3.617487
 |SoundDef.subSounds.0.sustainLoop=False
-|SoundDef.subSounds.0.sustainLoopDurationRange=Exist
-|SoundDef.subSounds.0.sustainLoopDurationRange.min=0
-|SoundDef.subSounds.0.sustainLoopDurationRange.max=0
+|SoundDef.subSounds.0.sustainLoopDurationRange=0 ~ 0
 }}

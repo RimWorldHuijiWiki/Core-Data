@@ -13,8 +13,6 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
 |SoundDef.subSounds.0.grains.0.clipPath=Interact/Work/Cremate/Crematorium/Crematorium_Stop_1a
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=6
-|SoundDef.subSounds.0.volumeRange.max=6
+|SoundDef.subSounds.0.volumeRange=6 ~ 6
 |SoundDef.subSounds.0.sustainLoop=False
 }}

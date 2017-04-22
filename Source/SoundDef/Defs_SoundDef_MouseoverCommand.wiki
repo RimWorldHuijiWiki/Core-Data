@@ -14,10 +14,6 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
 |SoundDef.subSounds.0.grains.0.clipFolderPath=UI/Mouseovers/OptionMouseoverThump
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=5
-|SoundDef.subSounds.0.volumeRange.max=5
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=1
-|SoundDef.subSounds.0.pitchRange.max=1.091764
+|SoundDef.subSounds.0.volumeRange=5 ~ 5
+|SoundDef.subSounds.0.pitchRange=1 ~ 1.091764
 }}

@@ -12,9 +12,7 @@
 |HediffDef.comps.0=Exist
 |HediffDef.comps.0.Class=HediffCompProperties_Effecter
 |HediffDef.comps.0.stateEffecter=Drunk
-|HediffDef.comps.0.severityIndices=Exist
-|HediffDef.comps.0.severityIndices.min=3
-|HediffDef.comps.0.severityIndices.max=5
+|HediffDef.comps.0.severityIndices=3 ~ 5
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_SeverityPerDay
 |HediffDef.comps.1.severityPerDay=-1.0

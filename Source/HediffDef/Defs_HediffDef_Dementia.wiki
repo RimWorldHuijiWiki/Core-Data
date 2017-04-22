@@ -19,11 +19,7 @@
 |HediffDef.stages.0.capMods.1=Exist
 |HediffDef.stages.0.capMods.1.capacity=Hearing
 |HediffDef.stages.0.capMods.1.offset=-0.25
-|HediffDef.stages.0.mentalStateGivers=Exist
-|HediffDef.stages.0.mentalStateGivers.Count=1
-|HediffDef.stages.0.mentalStateGivers.0=Exist
-|HediffDef.stages.0.mentalStateGivers.0.mentalState=WanderConfused
-|HediffDef.stages.0.mentalStateGivers.0.mtbDays=5
+|HediffDef.stages.0.mentalStateGivers="WanderConfused","5"
 |HediffDef.stages.0.partEfficiencyOffset=-0.15
 |HediffDef.defaultLabelColor=(0.8, 0.8, 0.35)
 }}

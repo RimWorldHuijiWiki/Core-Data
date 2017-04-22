@@ -21,7 +21,5 @@
 |IncidentDef.letterLabel.zh-tw=火山冬天
 |IncidentDef.letterType=BadNonUrgent
 |IncidentDef.gameCondition=VolcanicWinter
-|IncidentDef.durationDays=Exist
-|IncidentDef.durationDays.min=7.5
-|IncidentDef.durationDays.max=40
+|IncidentDef.durationDays=7.5 ~ 40
 }}

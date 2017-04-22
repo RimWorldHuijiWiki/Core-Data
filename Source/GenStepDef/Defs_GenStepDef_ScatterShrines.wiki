@@ -7,8 +7,6 @@
 |GenStepDef.order=400
 |GenStepDef.genStep=Exist
 |GenStepDef.genStep.Class=GenStep_ScatterShrines
-|GenStepDef.genStep.countPer10kCellsRange=Exist
-|GenStepDef.genStep.countPer10kCellsRange.min=0.12
-|GenStepDef.genStep.countPer10kCellsRange.max=0.25
+|GenStepDef.genStep.countPer10kCellsRange=0.12 ~ 0.25
 |GenStepDef.genStep.allowOnWater=false
 }}

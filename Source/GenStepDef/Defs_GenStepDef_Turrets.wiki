@@ -7,16 +7,8 @@
 |GenStepDef.order=470
 |GenStepDef.genStep=Exist
 |GenStepDef.genStep.Class=GenStep_Turrets
-|GenStepDef.genStep.widthRange=Exist
-|GenStepDef.genStep.widthRange.min=3
-|GenStepDef.genStep.widthRange.max=4
-|GenStepDef.genStep.turretsCountRange=Exist
-|GenStepDef.genStep.turretsCountRange.min=4
-|GenStepDef.genStep.turretsCountRange.max=5
-|GenStepDef.genStep.mortarsCountRange=Exist
-|GenStepDef.genStep.mortarsCountRange.min=0
-|GenStepDef.genStep.mortarsCountRange.max=1
-|GenStepDef.genStep.guardsCountRange=Exist
-|GenStepDef.genStep.guardsCountRange.min=1
-|GenStepDef.genStep.guardsCountRange.max=1
+|GenStepDef.genStep.widthRange=3 ~ 4
+|GenStepDef.genStep.turretsCountRange=4 ~ 5
+|GenStepDef.genStep.mortarsCountRange=0 ~ 1
+|GenStepDef.genStep.guardsCountRange=1 ~ 1
 }}

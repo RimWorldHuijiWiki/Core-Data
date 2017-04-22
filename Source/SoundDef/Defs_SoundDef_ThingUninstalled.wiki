@@ -14,10 +14,6 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
 |SoundDef.subSounds.0.grains.0.clipPath=Interact/BuildingComplete
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=10
-|SoundDef.subSounds.0.volumeRange.max=10
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=1.1
-|SoundDef.subSounds.0.pitchRange.max=1.3
+|SoundDef.subSounds.0.volumeRange=10 ~ 10
+|SoundDef.subSounds.0.pitchRange=1.1 ~ 1.3
 }}

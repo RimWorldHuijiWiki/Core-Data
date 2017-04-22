@@ -26,9 +26,7 @@
 |FactionDef.pawnGroupMakers.2.options="TribalWarrior","60";"TribalArcher","100";"TribalChief","70"
 |FactionDef.raidCommonality=100
 |FactionDef.canStageAttacks=true
-|FactionDef.allowedArrivalTemperatureRange=Exist
-|FactionDef.allowedArrivalTemperatureRange.min=-40
-|FactionDef.allowedArrivalTemperatureRange.max=45
+|FactionDef.allowedArrivalTemperatureRange=-40 ~ 45
 |FactionDef.pawnsPlural=tribespeople
 |FactionDef.pawnsPlural.zh-cn=部众
 |FactionDef.pawnsPlural.zh-tw=土著
@@ -45,13 +43,9 @@
 |FactionDef.caravanTraderKinds="Caravan_Neolithic_BulkGoods","Caravan_Neolithic_WarMerchant","Caravan_Neolithic_Slaver","Caravan_Neolithic_ShamanMerchant"
 |FactionDef.visitorTraderKinds="Visitor_Neolithic_Standard"
 |FactionDef.baseTraderKinds="Base_Neolithic_Standard"
-|FactionDef.startingGoodwill=Exist
-|FactionDef.startingGoodwill.min=10
-|FactionDef.startingGoodwill.max=30
+|FactionDef.startingGoodwill=10 ~ 30
 |FactionDef.mustStartOneEnemy=true
-|FactionDef.naturalColonyGoodwill=Exist
-|FactionDef.naturalColonyGoodwill.min=-100
-|FactionDef.naturalColonyGoodwill.max=10
+|FactionDef.naturalColonyGoodwill=-100 ~ 10
 |FactionDef.homeIconPath=World/WorldObjects/TribalFactionBase
 |FactionDef.expandingIconTexture=World/WorldObjects/Expanding/Village
 |FactionDef.colorSpectrum="(0.4, 0.92, 0.35)","(0.89, 0.89, 0.7)","(1, 1, 0.1)"

@@ -10,9 +10,7 @@
 |RulePackDef.rulePack.rulesRaw.0=Exist
 |RulePackDef.rulePack.rulesRaw.0.Class=Rule_Number
 |RulePackDef.rulePack.rulesRaw.0.keyword=digit
-|RulePackDef.rulePack.rulesRaw.0.range=Exist
-|RulePackDef.rulePack.rulesRaw.0.range.min=0
-|RulePackDef.rulePack.rulesRaw.0.range.max=9
+|RulePackDef.rulePack.rulesRaw.0.range=0 ~ 9
 |RulePackDef.rulePack.rulesRaw.0.selectionWeight=10
 |RulePackDef.rulePack.rulesRaw.1=Exist
 |RulePackDef.rulePack.rulesRaw.1.Class=Rule_File

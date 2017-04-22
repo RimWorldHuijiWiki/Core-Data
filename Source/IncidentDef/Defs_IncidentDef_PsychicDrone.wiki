@@ -12,7 +12,5 @@
 |IncidentDef.baseChance=1.0
 |IncidentDef.minRefireDays=15
 |IncidentDef.gameCondition=PsychicDrone
-|IncidentDef.durationDays=Exist
-|IncidentDef.durationDays.min=0.75
-|IncidentDef.durationDays.max=1.75
+|IncidentDef.durationDays=0.75 ~ 1.75
 }}

@@ -122,7 +122,5 @@
 |PawnKindDef.labelFemalePlural.zh-tw=female ibex
 |PawnKindDef.wildSpawn_spawnWild=true
 |PawnKindDef.wildSpawn_EcoSystemWeight=0.7
-|PawnKindDef.wildSpawn_GroupSizeRange=Exist
-|PawnKindDef.wildSpawn_GroupSizeRange.min=1
-|PawnKindDef.wildSpawn_GroupSizeRange.max=3
+|PawnKindDef.wildSpawn_GroupSizeRange=1 ~ 3
 }}

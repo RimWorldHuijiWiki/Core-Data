@@ -13,13 +13,7 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
 |SoundDef.subSounds.0.grains.0.clipFolderPath=Pawn/Animal/BigInsect/BigInsect_Injured
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=21
-|SoundDef.subSounds.0.volumeRange.max=21
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=1.2
-|SoundDef.subSounds.0.pitchRange.max=1.3
-|SoundDef.subSounds.0.distRange=Exist
-|SoundDef.subSounds.0.distRange.min=0
-|SoundDef.subSounds.0.distRange.max=70
+|SoundDef.subSounds.0.volumeRange=21 ~ 21
+|SoundDef.subSounds.0.pitchRange=1.2 ~ 1.3
+|SoundDef.subSounds.0.distRange=0 ~ 70
 }}

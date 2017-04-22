@@ -24,9 +24,7 @@
 |DutyDef.thinkNode.subNodes.0.subNodes.1.subNodes.Count=1
 |DutyDef.thinkNode.subNodes.0.subNodes.1.subNodes.0=Exist
 |DutyDef.thinkNode.subNodes.0.subNodes.1.subNodes.0.Class=JobGiver_StandAndBeSociallyActive
-|DutyDef.thinkNode.subNodes.0.subNodes.1.subNodes.0.ticksRange=Exist
-|DutyDef.thinkNode.subNodes.0.subNodes.1.subNodes.0.ticksRange.min=350
-|DutyDef.thinkNode.subNodes.0.subNodes.1.subNodes.0.ticksRange.max=750
+|DutyDef.thinkNode.subNodes.0.subNodes.1.subNodes.0.ticksRange=350 ~ 750
 |DutyDef.thinkNode.subNodes.0.subNodes.1.chance=0.35
 |DutyDef.thinkNode.subNodes.0.subNodes.2=Exist
 |DutyDef.thinkNode.subNodes.0.subNodes.2.Class=ThinkNode_ConditionalRandom
@@ -37,14 +35,10 @@
 |DutyDef.thinkNode.subNodes.0.subNodes.2.chance=0.1
 |DutyDef.thinkNode.subNodes.0.subNodes.3=Exist
 |DutyDef.thinkNode.subNodes.0.subNodes.3.Class=JobGiver_WanderInPartyArea
-|DutyDef.thinkNode.subNodes.0.subNodes.3.ticksBetweenWandersRange=Exist
-|DutyDef.thinkNode.subNodes.0.subNodes.3.ticksBetweenWandersRange.min=50
-|DutyDef.thinkNode.subNodes.0.subNodes.3.ticksBetweenWandersRange.max=250
+|DutyDef.thinkNode.subNodes.0.subNodes.3.ticksBetweenWandersRange=50 ~ 250
 |DutyDef.thinkNode.subNodes.1=Exist
 |DutyDef.thinkNode.subNodes.1.Class=JobGiver_WanderInPartyArea
-|DutyDef.thinkNode.subNodes.1.ticksBetweenWandersRange=Exist
-|DutyDef.thinkNode.subNodes.1.ticksBetweenWandersRange.min=50
-|DutyDef.thinkNode.subNodes.1.ticksBetweenWandersRange.max=250
+|DutyDef.thinkNode.subNodes.1.ticksBetweenWandersRange=50 ~ 250
 |DutyDef.thinkNode.subNodes.1.locomotionUrgency=Jog
 |DutyDef.hook=MediumPriority
 }}

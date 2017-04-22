@@ -24,9 +24,7 @@
 |ThingDef.comps.0.Class=CompProperties_Forbiddable
 |ThingDef.comps.1=Exist
 |ThingDef.comps.1.Class=CompProperties_Drug
-|ThingDef.comps.1.overdoseSeverityOffset=Exist
-|ThingDef.comps.1.overdoseSeverityOffset.min=0.08
-|ThingDef.comps.1.overdoseSeverityOffset.max=0.14
+|ThingDef.comps.1.overdoseSeverityOffset=0.08 ~ 0.14
 |ThingDef.comps.1.listOrder=1000
 |ThingDef.recipeMaker=Exist
 |ThingDef.recipeMaker.workSpeedStat=DrugProductionSpeed

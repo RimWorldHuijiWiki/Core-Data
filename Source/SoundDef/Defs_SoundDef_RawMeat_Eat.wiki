@@ -18,14 +18,8 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
 |SoundDef.subSounds.0.grains.0.clipFolderPath=Pawn/Human/Eating/Raw_Meat
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=10
-|SoundDef.subSounds.0.volumeRange.max=10
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=0.8852941
-|SoundDef.subSounds.0.pitchRange.max=1.022941
-|SoundDef.subSounds.0.distRange=Exist
-|SoundDef.subSounds.0.distRange.min=10
-|SoundDef.subSounds.0.distRange.max=50
+|SoundDef.subSounds.0.volumeRange=10 ~ 10
+|SoundDef.subSounds.0.pitchRange=0.8852941 ~ 1.022941
+|SoundDef.subSounds.0.distRange=10 ~ 50
 |SoundDef.subSounds.0.sustainLoop=False
 }}

@@ -11,7 +11,5 @@
 |IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=1.0
 |IncidentDef.minRefireDays=15
-|IncidentDef.durationDays=Exist
-|IncidentDef.durationDays.min=1.5
-|IncidentDef.durationDays.max=3.0
+|IncidentDef.durationDays=1.5 ~ 3.0
 }}

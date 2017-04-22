@@ -16,15 +16,9 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
 |SoundDef.subSounds.0.grains.0.clipPath=Misc/Steam_Geyser/SteamGeyser_Venting
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=5
-|SoundDef.subSounds.0.volumeRange.max=6
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=0.9088235
-|SoundDef.subSounds.0.pitchRange.max=1
-|SoundDef.subSounds.0.distRange=Exist
-|SoundDef.subSounds.0.distRange.min=10
-|SoundDef.subSounds.0.distRange.max=34
+|SoundDef.subSounds.0.volumeRange=5 ~ 6
+|SoundDef.subSounds.0.pitchRange=0.9088235 ~ 1
+|SoundDef.subSounds.0.distRange=10 ~ 34
 |SoundDef.subSounds.0.sustainAttack=2
 |SoundDef.subSounds.0.sustainSkipFirstAttack=False
 }}

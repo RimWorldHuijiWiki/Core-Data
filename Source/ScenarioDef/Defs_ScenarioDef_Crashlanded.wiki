@@ -41,9 +41,7 @@
 |ScenarioDef.scenario.parts.2.context=PlayerStarter
 |ScenarioDef.scenario.parts.2.hideOffMap=true
 |ScenarioDef.scenario.parts.2.hediff=CryptosleepSickness
-|ScenarioDef.scenario.parts.2.severityRange=Exist
-|ScenarioDef.scenario.parts.2.severityRange.min=1
-|ScenarioDef.scenario.parts.2.severityRange.max=1
+|ScenarioDef.scenario.parts.2.severityRange=1 ~ 1
 |ScenarioDef.scenario.parts.3=Exist
 |ScenarioDef.scenario.parts.3.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.3.def=StartingThing_Defined

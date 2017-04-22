@@ -40,14 +40,7 @@
 |HediffDef.stages.1.capMods.4=Exist
 |HediffDef.stages.1.capMods.4.capacity=Manipulation
 |HediffDef.stages.1.capMods.4.offset=-0.10
-|HediffDef.stages.1.mentalStateGivers=Exist
-|HediffDef.stages.1.mentalStateGivers.Count=2
-|HediffDef.stages.1.mentalStateGivers.0=Exist
-|HediffDef.stages.1.mentalStateGivers.0.mentalState=BingingDrugExtreme
-|HediffDef.stages.1.mentalStateGivers.0.mtbDays=40
-|HediffDef.stages.1.mentalStateGivers.1=Exist
-|HediffDef.stages.1.mentalStateGivers.1.mentalState=WanderPsychotic
-|HediffDef.stages.1.mentalStateGivers.1.mtbDays=7
+|HediffDef.stages.1.mentalStateGivers="BingingDrugExtreme","40";"WanderPsychotic","7"
 |HediffDef.causesNeed=Chemical_GoJuice
 |HediffDef.maxSeverity=1.0
 |HediffDef.scenarioCanAdd=true

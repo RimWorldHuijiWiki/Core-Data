@@ -7,8 +7,6 @@
 |GenStepDef.order=300
 |GenStepDef.genStep=Exist
 |GenStepDef.genStep.Class=GenStep_ScatterRuinsSimple
-|GenStepDef.genStep.countPer10kCellsRange=Exist
-|GenStepDef.genStep.countPer10kCellsRange.min=2
-|GenStepDef.genStep.countPer10kCellsRange.max=4
+|GenStepDef.genStep.countPer10kCellsRange=2 ~ 4
 |GenStepDef.genStep.allowOnWater=false
 }}

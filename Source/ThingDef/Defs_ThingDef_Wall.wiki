@@ -24,11 +24,7 @@
 |ThingDef.category=Building
 |ThingDef.tickerType=Never
 |ThingDef.rotatable=false
-|ThingDef.damageMultipliers=Exist
-|ThingDef.damageMultipliers.Count=1
-|ThingDef.damageMultipliers.0=Exist
-|ThingDef.damageMultipliers.0.damageDef=Bomb
-|ThingDef.damageMultipliers.0.multiplier=2
+|ThingDef.damageMultipliers="Bomb","2"
 |ThingDef.leaveResourcesWhenKilled=false
 |ThingDef.filthLeaving=BuildingRubble
 |ThingDef.canOverlapZones=false

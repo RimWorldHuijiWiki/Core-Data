@@ -40,16 +40,6 @@
 |RoadDef.roadGenSteps.4.periodicSpacing=12
 |RoadDef.roadGenSteps.4.place=AncientLamppost
 |RoadDef.roadGenSteps.4.proximitySpacing=4
-|RoadDef.worldRenderSteps=Exist
-|RoadDef.worldRenderSteps.Count=3
-|RoadDef.worldRenderSteps.0=Exist
-|RoadDef.worldRenderSteps.0.layer=Outline
-|RoadDef.worldRenderSteps.0.width=0.65
-|RoadDef.worldRenderSteps.1=Exist
-|RoadDef.worldRenderSteps.1.layer=Gravel
-|RoadDef.worldRenderSteps.1.width=0.5
-|RoadDef.worldRenderSteps.2=Exist
-|RoadDef.worldRenderSteps.2.layer=Asphalt
-|RoadDef.worldRenderSteps.2.width=0.25
+|RoadDef.worldRenderSteps="Outline","0.65";"Gravel","0.5";"Asphalt","0.25"
 |RoadDef.worldTransitionGroup=Asphalt
 }}

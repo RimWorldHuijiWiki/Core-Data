@@ -17,9 +17,7 @@
 |PawnKindDef.isFighter=false
 |PawnKindDef.combatPower=30
 |PawnKindDef.baseRecruitDifficulty=0.60
-|PawnKindDef.apparelMoney=Exist
-|PawnKindDef.apparelMoney.min=200
-|PawnKindDef.apparelMoney.max=400
+|PawnKindDef.apparelMoney=200 ~ 400
 |PawnKindDef.apparelTags="Tribal"
 |PawnKindDef.apparelIgnoreSeasons=true
 |PawnKindDef.chemicalAddictionChance=0.05

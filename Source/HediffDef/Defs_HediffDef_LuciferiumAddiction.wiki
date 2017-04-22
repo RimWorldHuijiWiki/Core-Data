@@ -23,11 +23,7 @@
 |HediffDef.stages.1.capMods.0=Exist
 |HediffDef.stages.1.capMods.0.capacity=Consciousness
 |HediffDef.stages.1.capMods.0.setMax=0.8
-|HediffDef.stages.1.mentalStateGivers=Exist
-|HediffDef.stages.1.mentalStateGivers.Count=1
-|HediffDef.stages.1.mentalStateGivers.0=Exist
-|HediffDef.stages.1.mentalStateGivers.0.mentalState=Berserk
-|HediffDef.stages.1.mentalStateGivers.0.mtbDays=0.4
+|HediffDef.stages.1.mentalStateGivers="Berserk","0.4"
 |HediffDef.causesNeed=Chemical_Luciferium
 |HediffDef.maxSeverity=1.0
 |HediffDef.scenarioCanAdd=true

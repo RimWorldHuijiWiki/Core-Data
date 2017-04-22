@@ -22,9 +22,7 @@
 |ThingDef.comps.1=Exist
 |ThingDef.comps.1.Class=CompProperties_EggLayer
 |ThingDef.comps.1.eggLayIntervalDays=20
-|ThingDef.comps.1.eggCountRange=Exist
-|ThingDef.comps.1.eggCountRange.min=3
-|ThingDef.comps.1.eggCountRange.max=7
+|ThingDef.comps.1.eggCountRange=3 ~ 7
 |ThingDef.comps.1.eggFertilizedDef=EggTortoiseFertilized
 |ThingDef.comps.1.eggFertilizationCountMax=1
 |ThingDef.comps.1.eggProgressUnfertilizedMax=0.5

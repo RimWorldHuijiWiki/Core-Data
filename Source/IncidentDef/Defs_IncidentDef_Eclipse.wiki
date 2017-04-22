@@ -19,7 +19,5 @@
 |IncidentDef.letterLabel.zh-tw=日蝕
 |IncidentDef.letterType=BadNonUrgent
 |IncidentDef.gameCondition=Eclipse
-|IncidentDef.durationDays=Exist
-|IncidentDef.durationDays.min=0.75
-|IncidentDef.durationDays.max=1.25
+|IncidentDef.durationDays=0.75 ~ 1.25
 }}

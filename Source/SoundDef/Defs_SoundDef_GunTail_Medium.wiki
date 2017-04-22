@@ -16,10 +16,6 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
 |SoundDef.subSounds.0.grains.0.clipFolderPath=Weapon/Tails/Medium
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=24.11765
-|SoundDef.subSounds.0.volumeRange.max=30
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=0.8852941
-|SoundDef.subSounds.0.pitchRange.max=1.114706
+|SoundDef.subSounds.0.volumeRange=24.11765 ~ 30
+|SoundDef.subSounds.0.pitchRange=0.8852941 ~ 1.114706
 }}

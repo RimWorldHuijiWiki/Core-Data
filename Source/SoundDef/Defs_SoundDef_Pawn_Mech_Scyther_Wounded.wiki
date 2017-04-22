@@ -14,12 +14,8 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
 |SoundDef.subSounds.0.grains.0.clipFolderPath=Pawn/Mechanoid/Scyther/Pain
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=20
-|SoundDef.subSounds.0.volumeRange.max=20
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=0.9541177
-|SoundDef.subSounds.0.pitchRange.max=1.068824
+|SoundDef.subSounds.0.volumeRange=20 ~ 20
+|SoundDef.subSounds.0.pitchRange=0.9541177 ~ 1.068824
 |SoundDef.subSounds.0.repeatMode=NeverTwice
 |SoundDef.subSounds.0.sustainLoop=False
 }}

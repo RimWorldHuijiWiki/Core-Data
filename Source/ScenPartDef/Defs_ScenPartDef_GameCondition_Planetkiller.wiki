@@ -12,7 +12,5 @@
 |ScenPartDef.selectionWeight=0.8
 |ScenPartDef.maxUses=1
 |ScenPartDef.gameCondition=Planetkiller
-|ScenPartDef.durationRandomRange=Exist
-|ScenPartDef.durationRandomRange.min=90
-|ScenPartDef.durationRandomRange.max=500
+|ScenPartDef.durationRandomRange=90 ~ 500
 }}

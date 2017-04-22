@@ -17,12 +17,8 @@
 |HediffDef.comps.1.Class=HediffCompProperties_GrowthMode
 |HediffDef.comps.1.severityPerDayGrowing=0.003
 |HediffDef.comps.1.severityPerDayRemission=-0.002
-|HediffDef.comps.1.severityPerDayGrowingRandomFactor=Exist
-|HediffDef.comps.1.severityPerDayGrowingRandomFactor.min=0.45
-|HediffDef.comps.1.severityPerDayGrowingRandomFactor.max=1.65
-|HediffDef.comps.1.severityPerDayRemissionRandomFactor=Exist
-|HediffDef.comps.1.severityPerDayRemissionRandomFactor.min=0.7
-|HediffDef.comps.1.severityPerDayRemissionRandomFactor.max=1.5
+|HediffDef.comps.1.severityPerDayGrowingRandomFactor=0.45 ~ 1.65
+|HediffDef.comps.1.severityPerDayRemissionRandomFactor=0.7 ~ 1.5
 |HediffDef.initialSeverity=0.3
 |HediffDef.stages=Exist
 |HediffDef.stages.Count=6

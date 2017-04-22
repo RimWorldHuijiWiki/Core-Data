@@ -28,9 +28,7 @@
 |FactionDef.raidCommonality=100
 |FactionDef.canSiege=true
 |FactionDef.canStageAttacks=true
-|FactionDef.allowedArrivalTemperatureRange=Exist
-|FactionDef.allowedArrivalTemperatureRange.min=-40
-|FactionDef.allowedArrivalTemperatureRange.max=45
+|FactionDef.allowedArrivalTemperatureRange=-40 ~ 45
 |FactionDef.pawnsPlural=pirates
 |FactionDef.pawnsPlural.zh-cn=海盗
 |FactionDef.pawnsPlural.zh-tw=宇宙海賊
@@ -44,13 +42,9 @@
 |FactionDef.techLevel=Spacer
 |FactionDef.backstoryCategory=Raider
 |FactionDef.hairTags="Punk"
-|FactionDef.startingGoodwill=Exist
-|FactionDef.startingGoodwill.min=-100
-|FactionDef.startingGoodwill.max=-90
+|FactionDef.startingGoodwill=-100 ~ -90
 |FactionDef.mustStartOneEnemy=true
-|FactionDef.naturalColonyGoodwill=Exist
-|FactionDef.naturalColonyGoodwill.min=-100
-|FactionDef.naturalColonyGoodwill.max=-80
+|FactionDef.naturalColonyGoodwill=-100 ~ -80
 |FactionDef.appreciative=false
 |FactionDef.homeIconPath=World/WorldObjects/DefaultFactionBase
 |FactionDef.expandingIconTexture=World/WorldObjects/Expanding/PirateOutpost

@@ -19,7 +19,5 @@
 |IncidentDef.letterLabel.zh-tw=熱浪
 |IncidentDef.letterType=BadNonUrgent
 |IncidentDef.gameCondition=HeatWave
-|IncidentDef.durationDays=Exist
-|IncidentDef.durationDays.min=1.5
-|IncidentDef.durationDays.max=3.5
+|IncidentDef.durationDays=1.5 ~ 3.5
 }}

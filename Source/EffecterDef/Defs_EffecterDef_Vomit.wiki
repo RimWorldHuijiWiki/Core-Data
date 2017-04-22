@@ -11,7 +11,5 @@
 |EffecterDef.children.0.positionLerpFactor=0.35
 |EffecterDef.children.0.positionRadius=0.2
 |EffecterDef.children.0.moteDef=Mote_VomitBit
-|EffecterDef.children.0.scale=Exist
-|EffecterDef.children.0.scale.min=0.5
-|EffecterDef.children.0.scale.max=0.7
+|EffecterDef.children.0.scale=0.5 ~ 0.7
 }}

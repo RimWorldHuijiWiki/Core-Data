@@ -24,14 +24,7 @@
 |ThingDef.comps.0.Class=CompProperties_Forbiddable
 |ThingDef.recipeMaker=Exist
 |ThingDef.recipeMaker.workSpeedStat=DrugProductionSpeed
-|ThingDef.recipeMaker.skillRequirements=Exist
-|ThingDef.recipeMaker.skillRequirements.Count=2
-|ThingDef.recipeMaker.skillRequirements.0=Exist
-|ThingDef.recipeMaker.skillRequirements.0.skill=Medicine
-|ThingDef.recipeMaker.skillRequirements.0.minLevel=6
-|ThingDef.recipeMaker.skillRequirements.1=Exist
-|ThingDef.recipeMaker.skillRequirements.1.skill=Crafting
-|ThingDef.recipeMaker.skillRequirements.1.minLevel=3
+|ThingDef.recipeMaker.skillRequirements="Medicine","6";"Crafting","3"
 |ThingDef.recipeMaker.workSkill=Intellectual
 |ThingDef.recipeMaker.recipeUsers="DrugLab"
 |ThingDef.recipeMaker.researchPrerequisite=MedicineProduction

@@ -17,12 +17,8 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
 |SoundDef.subSounds.0.grains.0.clipPath=Ambience/JungleInsects_Day_1a
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=8
-|SoundDef.subSounds.0.volumeRange.max=8
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=0.9165775
-|SoundDef.subSounds.0.pitchRange.max=1.114706
+|SoundDef.subSounds.0.volumeRange=8 ~ 8
+|SoundDef.subSounds.0.pitchRange=0.9165775 ~ 1.114706
 |SoundDef.subSounds.0.paramMappings=Exist
 |SoundDef.subSounds.0.paramMappings.Count=4
 |SoundDef.subSounds.0.paramMappings.0=Exist
@@ -97,12 +93,8 @@
 |SoundDef.subSounds.0.paramMappings.3.curve.points.1.loc=Exist
 |SoundDef.subSounds.0.paramMappings.3.curve.points.1.loc.x=5
 |SoundDef.subSounds.0.paramMappings.3.curve.points.1.loc.y=1
-|SoundDef.subSounds.0.sustainLoopDurationRange=Exist
-|SoundDef.subSounds.0.sustainLoopDurationRange.min=40
-|SoundDef.subSounds.0.sustainLoopDurationRange.max=80
-|SoundDef.subSounds.0.sustainIntervalRange=Exist
-|SoundDef.subSounds.0.sustainIntervalRange.min=-20
-|SoundDef.subSounds.0.sustainIntervalRange.max=-20
+|SoundDef.subSounds.0.sustainLoopDurationRange=40 ~ 80
+|SoundDef.subSounds.0.sustainIntervalRange=-20 ~ -20
 |SoundDef.subSounds.0.sustainAttack=20
 |SoundDef.subSounds.0.sustainRelease=20
 }}

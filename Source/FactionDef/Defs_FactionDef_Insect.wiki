@@ -17,20 +17,14 @@
 |FactionDef.raidCommonality=0
 |FactionDef.autoFlee=false
 |FactionDef.canUseAvoidGrid=false
-|FactionDef.allowedArrivalTemperatureRange=Exist
-|FactionDef.allowedArrivalTemperatureRange.min=0
-|FactionDef.allowedArrivalTemperatureRange.max=45
+|FactionDef.allowedArrivalTemperatureRange=0 ~ 45
 |FactionDef.pawnsPlural=insects
 |FactionDef.pawnsPlural.zh-cn=昆虫
 |FactionDef.pawnsPlural.zh-tw=蟲族
 |FactionDef.requiredCountAtGameStart=1
 |FactionDef.techLevel=Animal
-|FactionDef.startingGoodwill=Exist
-|FactionDef.startingGoodwill.min=-100
-|FactionDef.startingGoodwill.max=-100
+|FactionDef.startingGoodwill=-100 ~ -100
 |FactionDef.mustStartOneEnemy=true
-|FactionDef.naturalColonyGoodwill=Exist
-|FactionDef.naturalColonyGoodwill.min=-100
-|FactionDef.naturalColonyGoodwill.max=-100
+|FactionDef.naturalColonyGoodwill=-100 ~ -100
 |FactionDef.homeIconPath=World/WorldObjects/DefaultFactionBase
 }}

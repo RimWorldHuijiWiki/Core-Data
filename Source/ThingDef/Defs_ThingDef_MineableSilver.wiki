@@ -46,7 +46,5 @@
 |ThingDef.building.mineableThing=Silver
 |ThingDef.building.mineableYield=35
 |ThingDef.building.mineableScatterCommonality=0.10
-|ThingDef.building.mineableScatterLumpSizeRange=Exist
-|ThingDef.building.mineableScatterLumpSizeRange.min=4
-|ThingDef.building.mineableScatterLumpSizeRange.max=12
+|ThingDef.building.mineableScatterLumpSizeRange=4 ~ 12
 }}

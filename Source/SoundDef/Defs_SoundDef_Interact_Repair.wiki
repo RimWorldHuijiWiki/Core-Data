@@ -18,18 +18,10 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
 |SoundDef.subSounds.0.grains.0.clipPath=Interact/Work/Repair/WeldLoop
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=17.17392
-|SoundDef.subSounds.0.volumeRange.max=17.17392
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=0.8304347
-|SoundDef.subSounds.0.pitchRange.max=1.169566
-|SoundDef.subSounds.0.sustainLoopDurationRange=Exist
-|SoundDef.subSounds.0.sustainLoopDurationRange.min=2.391304
-|SoundDef.subSounds.0.sustainLoopDurationRange.max=0.9782609
-|SoundDef.subSounds.0.sustainIntervalRange=Exist
-|SoundDef.subSounds.0.sustainIntervalRange.min=-0.3294118
-|SoundDef.subSounds.0.sustainIntervalRange.max=-0.3294118
+|SoundDef.subSounds.0.volumeRange=17.17392 ~ 17.17392
+|SoundDef.subSounds.0.pitchRange=0.8304347 ~ 1.169566
+|SoundDef.subSounds.0.sustainLoopDurationRange=2.391304 ~ 0.9782609
+|SoundDef.subSounds.0.sustainIntervalRange=-0.3294118 ~ -0.3294118
 |SoundDef.subSounds.0.sustainAttack=0.05882355
 |SoundDef.subSounds.0.sustainRelease=0.4823529
 }}

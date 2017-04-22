@@ -18,14 +18,7 @@
 |RoadDef.roadGenSteps.0.chancePerPositionCurve.points="(0, 1)","(1.8, 1)","(1.8, 0)"
 |RoadDef.roadGenSteps.0.antialiasingMultiplier=0
 |RoadDef.roadGenSteps.0.place=FlagstoneSandstone
-|RoadDef.worldRenderSteps=Exist
-|RoadDef.worldRenderSteps.Count=2
-|RoadDef.worldRenderSteps.0=Exist
-|RoadDef.worldRenderSteps.0.layer=Outline
-|RoadDef.worldRenderSteps.0.width=0.55
-|RoadDef.worldRenderSteps.1=Exist
-|RoadDef.worldRenderSteps.1.layer=Stone
-|RoadDef.worldRenderSteps.1.width=0.4
+|RoadDef.worldRenderSteps="Outline","0.55";"Stone","0.4"
 |RoadDef.worldTransitionGroup=Stone
 |RoadDef.distortionFrequency=0.2
 |RoadDef.distortionIntensity=0.10

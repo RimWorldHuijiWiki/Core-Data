@@ -11,7 +11,5 @@
 |EffecterDef.children.0.positionLerpFactor=0.6
 |EffecterDef.children.0.positionRadius=0.6
 |EffecterDef.children.0.moteDef=Mote_FoodBitMeat
-|EffecterDef.children.0.scale=Exist
-|EffecterDef.children.0.scale.min=0.3
-|EffecterDef.children.0.scale.max=0.7
+|EffecterDef.children.0.scale=0.3 ~ 0.7
 }}

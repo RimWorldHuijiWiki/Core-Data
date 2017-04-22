@@ -52,9 +52,7 @@
 |ThingDef.race.lifeStageAges.0.soundCall=Pawn_Mech_Centipede_Call
 |ThingDef.race.lifeStageAges.0.soundWounded=Pawn_Mech_Centipede_Wounded
 |ThingDef.race.lifeStageAges.0.soundDeath=Pawn_Mech_Centipede_Death
-|ThingDef.race.soundCallIntervalRange=Exist
-|ThingDef.race.soundCallIntervalRange.min=1000
-|ThingDef.race.soundCallIntervalRange.max=2000
+|ThingDef.race.soundCallIntervalRange=1000 ~ 2000
 |ThingDef.race.soundMeleeHitPawn=Pawn_Melee_MechanoidBash_HitPawn
 |ThingDef.race.soundMeleeHitBuilding=Pawn_Melee_MechanoidBash_HitBuilding
 |ThingDef.race.soundMeleeMiss=Pawn_Melee_MechanoidBash_Miss

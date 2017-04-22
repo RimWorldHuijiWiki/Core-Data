@@ -31,9 +31,7 @@
 |ThingDef.ingestible.preferability=RawBad
 |ThingDef.plant=Exist
 |ThingDef.plant.wildCommonalityMaxFraction=3.0
-|ThingDef.plant.wildClusterSizeRange=Exist
-|ThingDef.plant.wildClusterSizeRange.min=2
-|ThingDef.plant.wildClusterSizeRange.max=5
+|ThingDef.plant.wildClusterSizeRange=2 ~ 5
 |ThingDef.plant.wildClusterRadius=4
 |ThingDef.plant.sowWork=260
 |ThingDef.plant.harvestWork=190
@@ -45,7 +43,5 @@
 |ThingDef.plant.reproduceRadius=42
 |ThingDef.plant.topWindExposure=0.0
 |ThingDef.plant.maxMeshCount=4
-|ThingDef.plant.visualSizeRange=Exist
-|ThingDef.plant.visualSizeRange.min=0.40
-|ThingDef.plant.visualSizeRange.max=0.65
+|ThingDef.plant.visualSizeRange=0.40 ~ 0.65
 }}

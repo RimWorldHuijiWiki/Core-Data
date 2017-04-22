@@ -46,7 +46,5 @@
 |ThingDef.building.mineableThing=Steel
 |ThingDef.building.mineableYield=35
 |ThingDef.building.mineableScatterCommonality=1
-|ThingDef.building.mineableScatterLumpSizeRange=Exist
-|ThingDef.building.mineableScatterLumpSizeRange.min=20
-|ThingDef.building.mineableScatterLumpSizeRange.max=40
+|ThingDef.building.mineableScatterLumpSizeRange=20 ~ 40
 }}

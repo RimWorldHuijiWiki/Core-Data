@@ -120,7 +120,5 @@
 |PawnKindDef.labelFemalePlural.zh-tw=female elk
 |PawnKindDef.wildSpawn_spawnWild=true
 |PawnKindDef.wildSpawn_EcoSystemWeight=0.9
-|PawnKindDef.wildSpawn_GroupSizeRange=Exist
-|PawnKindDef.wildSpawn_GroupSizeRange.min=3
-|PawnKindDef.wildSpawn_GroupSizeRange.max=9
+|PawnKindDef.wildSpawn_GroupSizeRange=3 ~ 9
 }}

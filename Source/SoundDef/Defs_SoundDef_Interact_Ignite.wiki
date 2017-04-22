@@ -14,10 +14,6 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
 |SoundDef.subSounds.0.grains.0.clipFolderPath=Impact/Ignite
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=40
-|SoundDef.subSounds.0.volumeRange.max=47.05882
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=0.9311765
-|SoundDef.subSounds.0.pitchRange.max=1.183529
+|SoundDef.subSounds.0.volumeRange=40 ~ 47.05882
+|SoundDef.subSounds.0.pitchRange=0.9311765 ~ 1.183529
 }}

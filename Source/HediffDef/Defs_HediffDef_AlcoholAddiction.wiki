@@ -32,11 +32,7 @@
 |HediffDef.stages.1.capMods.2=Exist
 |HediffDef.stages.1.capMods.2.capacity=Manipulation
 |HediffDef.stages.1.capMods.2.offset=-0.50
-|HediffDef.stages.1.mentalStateGivers=Exist
-|HediffDef.stages.1.mentalStateGivers.Count=1
-|HediffDef.stages.1.mentalStateGivers.0=Exist
-|HediffDef.stages.1.mentalStateGivers.0.mentalState=BingingDrugMajor
-|HediffDef.stages.1.mentalStateGivers.0.mtbDays=40
+|HediffDef.stages.1.mentalStateGivers="BingingDrugMajor","40"
 |HediffDef.causesNeed=Chemical_Alcohol
 |HediffDef.maxSeverity=1.0
 |HediffDef.scenarioCanAdd=true

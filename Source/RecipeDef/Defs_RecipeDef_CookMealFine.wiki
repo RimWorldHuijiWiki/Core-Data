@@ -33,11 +33,7 @@
 |RecipeDef.allowMixingIngredients=true
 |RecipeDef.ingredientValueGetterClass=IngredientValueGetter_Nutrition
 |RecipeDef.products="MealFine","1"
-|RecipeDef.skillRequirements=Exist
-|RecipeDef.skillRequirements.Count=1
-|RecipeDef.skillRequirements.0=Exist
-|RecipeDef.skillRequirements.0.skill=Cooking
-|RecipeDef.skillRequirements.0.minLevel=6
+|RecipeDef.skillRequirements="Cooking","6"
 |RecipeDef.workSkill=Cooking
 |RecipeDef.effectWorking=Cook
 |RecipeDef.soundWorking=Recipe_CookMeal

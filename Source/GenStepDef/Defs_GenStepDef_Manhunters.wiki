@@ -7,7 +7,5 @@
 |GenStepDef.order=1600
 |GenStepDef.genStep=Exist
 |GenStepDef.genStep.Class=GenStep_ManhunterPack
-|GenStepDef.genStep.pointsRange=Exist
-|GenStepDef.genStep.pointsRange.min=300
-|GenStepDef.genStep.pointsRange.max=500
+|GenStepDef.genStep.pointsRange=300 ~ 500
 }}

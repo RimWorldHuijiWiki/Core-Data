@@ -10,7 +10,5 @@
 |GenStepDef.genStep.count=1
 |GenStepDef.genStep.nearMapCenter=true
 |GenStepDef.genStep.itemCollectionGeneratorDefs="RawResources","Apparel","Weapons"
-|GenStepDef.genStep.totalValueRange=Exist
-|GenStepDef.genStep.totalValueRange.min=2500
-|GenStepDef.genStep.totalValueRange.max=3200
+|GenStepDef.genStep.totalValueRange=2500 ~ 3200
 }}

@@ -13,14 +13,8 @@
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
 |SoundDef.subSounds.0.grains.0.clipFolderPath=Pawn/Animal/Elephant/Call
-|SoundDef.subSounds.0.volumeRange=Exist
-|SoundDef.subSounds.0.volumeRange.min=15.42672
-|SoundDef.subSounds.0.volumeRange.max=14.7734
-|SoundDef.subSounds.0.pitchRange=Exist
-|SoundDef.subSounds.0.pitchRange.min=0.9770588
-|SoundDef.subSounds.0.pitchRange.max=1.137647
-|SoundDef.subSounds.0.distRange=Exist
-|SoundDef.subSounds.0.distRange.min=0
-|SoundDef.subSounds.0.distRange.max=50.40025
+|SoundDef.subSounds.0.volumeRange=15.42672 ~ 14.7734
+|SoundDef.subSounds.0.pitchRange=0.9770588 ~ 1.137647
+|SoundDef.subSounds.0.distRange=0 ~ 50.40025
 |SoundDef.subSounds.0.sustainLoop=False
 }}

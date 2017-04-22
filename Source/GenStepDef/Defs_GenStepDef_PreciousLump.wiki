@@ -9,7 +9,5 @@
 |GenStepDef.genStep.Class=GenStep_PreciousLump
 |GenStepDef.genStep.nearMapCenter=true
 |GenStepDef.genStep.mineables="MineableGold","MineableJade"
-|GenStepDef.genStep.totalValueRange=Exist
-|GenStepDef.genStep.totalValueRange.min=3500
-|GenStepDef.genStep.totalValueRange.max=5000
+|GenStepDef.genStep.totalValueRange=3500 ~ 5000
 }}

@@ -12,16 +12,8 @@
 |EffecterDef.children.1.subEffecterClass=SubEffecter_SprayerChance
 |EffecterDef.children.1.ticksBetweenMotes=60
 |EffecterDef.children.1.moteDef=Mote_DustSlow
-|EffecterDef.children.1.angle=Exist
-|EffecterDef.children.1.angle.min=30
-|EffecterDef.children.1.angle.max=60
-|EffecterDef.children.1.speed=Exist
-|EffecterDef.children.1.speed.min=0.4
-|EffecterDef.children.1.speed.max=0.9
-|EffecterDef.children.1.rotationRate=Exist
-|EffecterDef.children.1.rotationRate.min=-5
-|EffecterDef.children.1.rotationRate.max=5
-|EffecterDef.children.1.scale=Exist
-|EffecterDef.children.1.scale.min=1.6
-|EffecterDef.children.1.scale.max=2.0
+|EffecterDef.children.1.angle=30 ~ 60
+|EffecterDef.children.1.speed=0.4 ~ 0.9
+|EffecterDef.children.1.rotationRate=-5 ~ 5
+|EffecterDef.children.1.scale=1.6 ~ 2.0
 }}

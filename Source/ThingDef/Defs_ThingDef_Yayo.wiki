@@ -29,9 +29,7 @@
 |ThingDef.comps.1.minToleranceToAddict=0.04
 |ThingDef.comps.1.existingAddictionSeverityOffset=0.20
 |ThingDef.comps.1.needLevelOffset=1
-|ThingDef.comps.1.overdoseSeverityOffset=Exist
-|ThingDef.comps.1.overdoseSeverityOffset.min=0.18
-|ThingDef.comps.1.overdoseSeverityOffset.max=0.35
+|ThingDef.comps.1.overdoseSeverityOffset=0.18 ~ 0.35
 |ThingDef.comps.1.largeOverdoseChance=0.01
 |ThingDef.comps.1.isCombatEnhancingDrug=true
 |ThingDef.comps.1.listOrder=100

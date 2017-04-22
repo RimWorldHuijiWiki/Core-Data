@@ -24,11 +24,7 @@
 |RecipeDef.fixedIngredientFilter.thingDefs="Steel"
 |RecipeDef.products="Component","1"
 |RecipeDef.unfinishedThingDef=UnfinishedComponent
-|RecipeDef.skillRequirements=Exist
-|RecipeDef.skillRequirements.Count=1
-|RecipeDef.skillRequirements.0=Exist
-|RecipeDef.skillRequirements.0.skill=Crafting
-|RecipeDef.skillRequirements.0.minLevel=10
+|RecipeDef.skillRequirements="Crafting","10"
 |RecipeDef.workSkill=Crafting
 |RecipeDef.effectWorking=Cook
 |RecipeDef.soundWorking=Recipe_Machining

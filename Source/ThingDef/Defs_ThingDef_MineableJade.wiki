@@ -46,7 +46,5 @@
 |ThingDef.building.mineableThing=Jade
 |ThingDef.building.mineableYield=35
 |ThingDef.building.mineableScatterCommonality=0.065
-|ThingDef.building.mineableScatterLumpSizeRange=Exist
-|ThingDef.building.mineableScatterLumpSizeRange.min=1
-|ThingDef.building.mineableScatterLumpSizeRange.max=6
+|ThingDef.building.mineableScatterLumpSizeRange=1 ~ 6
 }}

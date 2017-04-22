@@ -20,8 +20,6 @@
 |ThingDef.gas=Exist
 |ThingDef.gas.blockTurretTracking=true
 |ThingDef.gas.accuracyPenalty=0.7
-|ThingDef.gas.expireSeconds=Exist
-|ThingDef.gas.expireSeconds.min=29
-|ThingDef.gas.expireSeconds.max=31
+|ThingDef.gas.expireSeconds=29 ~ 31
 |ThingDef.gas.rotationSpeed=10
 }}

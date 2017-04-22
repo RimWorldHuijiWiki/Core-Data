@@ -39,9 +39,7 @@
 |ScenarioDef.scenario.parts.2.chance=0.5
 |ScenarioDef.scenario.parts.2.context=PlayerStarter
 |ScenarioDef.scenario.parts.2.hediff=Malnutrition
-|ScenarioDef.scenario.parts.2.severityRange=Exist
-|ScenarioDef.scenario.parts.2.severityRange.min=0.2
-|ScenarioDef.scenario.parts.2.severityRange.max=0.4
+|ScenarioDef.scenario.parts.2.severityRange=0.2 ~ 0.4
 |ScenarioDef.scenario.parts.3=Exist
 |ScenarioDef.scenario.parts.3.Class=ScenPart_SetNeedLevel
 |ScenarioDef.scenario.parts.3.def=SetNeedLevel
@@ -49,9 +47,7 @@
 |ScenarioDef.scenario.parts.3.chance=1.0
 |ScenarioDef.scenario.parts.3.context=PlayerStarter
 |ScenarioDef.scenario.parts.3.need=Food
-|ScenarioDef.scenario.parts.3.levelRange=Exist
-|ScenarioDef.scenario.parts.3.levelRange.min=0
-|ScenarioDef.scenario.parts.3.levelRange.max=0.1
+|ScenarioDef.scenario.parts.3.levelRange=0 ~ 0.1
 |ScenarioDef.scenario.parts.4=Exist
 |ScenarioDef.scenario.parts.4.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.4.def=StartingThing_Defined

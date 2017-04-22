@@ -44,7 +44,5 @@
 |ThingDef.building.mineableThing=Component
 |ThingDef.building.mineableYield=2
 |ThingDef.building.mineableScatterCommonality=1.00
-|ThingDef.building.mineableScatterLumpSizeRange=Exist
-|ThingDef.building.mineableScatterLumpSizeRange.min=3
-|ThingDef.building.mineableScatterLumpSizeRange.max=6
+|ThingDef.building.mineableScatterLumpSizeRange=3 ~ 6
 }}

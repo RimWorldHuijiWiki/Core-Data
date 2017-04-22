@@ -43,8 +43,6 @@
 |ThingDef.soundImpactDefault=BulletImpactMetal
 |ThingDef.building=Exist
 |ThingDef.building.isJoySource=true
-|ThingDef.building.watchBuildingStandDistanceRange=Exist
-|ThingDef.building.watchBuildingStandDistanceRange.min=5
-|ThingDef.building.watchBuildingStandDistanceRange.max=5
+|ThingDef.building.watchBuildingStandDistanceRange=5 ~ 5
 |ThingDef.building.watchBuildingStandRectWidth=3
 }}
