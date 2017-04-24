@@ -4,5 +4,5 @@
 |defName=NamerFactionSpacer
 |RulePackDef.defName=NamerFactionSpacer
 |RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="name->Spacer","name->太空人","name->Spacer"
+|RulePackDef.rulePack.rulesStrings="name->Spacer","name->太空人","name->星際旅行者"
 }}

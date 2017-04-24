@@ -4,7 +4,7 @@
 |defName=GameCondition_Planetkiller
 |ScenPartDef.defName=GameCondition_Planetkiller
 |ScenPartDef.label=planetkiller weapon incoming
-|ScenPartDef.label.zh-cn=planetkiller weapon incoming
+|ScenPartDef.label.zh-cn=歼星武器正在到达
 |ScenPartDef.label.zh-tw=planetkiller weapon incoming
 |ScenPartDef.category=GameCondition
 |ScenPartDef.scenPartClass=ScenPart_GameCondition

@@ -4,11 +4,11 @@
 |defName=EnergyShieldEnergyMax
 |StatDef.defName=EnergyShieldEnergyMax
 |StatDef.label=Shield max energy
-|StatDef.label.zh-cn=Shield max energy
-|StatDef.label.zh-tw=Shield max energy
+|StatDef.label.zh-cn=护盾能量上限
+|StatDef.label.zh-tw=護盾腰帶能量最大值
 |StatDef.description=The maximum energy a shield belt can have at one time. More energy can absorb more damage.
-|StatDef.description.zh-cn=The maximum energy a shield belt can have at one time. More energy can absorb more damage.
-|StatDef.description.zh-tw=The maximum energy a shield belt can have at one time. More energy can absorb more damage.
+|StatDef.description.zh-cn=护盾腰带所能拥有的能量最大值。更多的能量可以吸收更多的伤害。
+|StatDef.description.zh-tw=護盾腰帶能維持的最大能量值，越多的能量能夠抵禦更多的傷害。
 |StatDef.category=Apparel
 |StatDef.showIfUndefined=false
 |StatDef.toStringStyle=PercentZero

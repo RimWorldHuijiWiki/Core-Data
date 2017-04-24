@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=Construction
 |WorkTypeDef.label=Construct
 |WorkTypeDef.label.zh-cn=建造
-|WorkTypeDef.label.zh-tw=Construct
+|WorkTypeDef.label.zh-tw=建造
 |WorkTypeDef.description=Build things that you've designated, and fix damaged or broken-down buildings.
 |WorkTypeDef.description.zh-cn=建造者会建造你指定的建筑，并修理损坏的建筑、家具、工作台等。
 |WorkTypeDef.description.zh-tw=建造者會建造你指定的建築。

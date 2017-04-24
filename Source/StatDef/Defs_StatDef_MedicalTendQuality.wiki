@@ -5,10 +5,10 @@
 |StatDef.defName=MedicalTendQuality
 |StatDef.label=medical tend quality
 |StatDef.label.zh-cn=医疗治疗质量
-|StatDef.label.zh-tw=medical tend quality
+|StatDef.label.zh-tw=醫療品質
 |StatDef.description=Quality of tending given to patients when acting as a doctor.
 |StatDef.description.zh-cn=作为一名医生时给予病人治疗的质量。
-|StatDef.description.zh-tw=Quality of tending given to patients when acting as a doctor.
+|StatDef.description.zh-tw=身為醫生能夠給予病人創傷的治療品質。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
 |StatDef.defaultBaseValue=1

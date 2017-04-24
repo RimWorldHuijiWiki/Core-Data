@@ -8,10 +8,10 @@
 |ThoughtDef.stages.Count=1
 |ThoughtDef.stages.0=Exist
 |ThoughtDef.stages.0.label=ambrosia warmth
-|ThoughtDef.stages.0.label.zh-cn=ambrosia warmth
+|ThoughtDef.stages.0.label.zh-cn=仙馐果暖身
 |ThoughtDef.stages.0.label.zh-tw=ambrosia warmth
 |ThoughtDef.stages.0.description=That ambrosia makes me feel a little bit more relaxed, but with more energy too.
-|ThoughtDef.stages.0.description.zh-cn=That ambrosia makes me feel a little bit more relaxed, but with more energy too.
+|ThoughtDef.stages.0.description.zh-cn=仙馐果让我感到一点点放松，但也更有精力了。
 |ThoughtDef.stages.0.description.zh-tw=That ambrosia makes me feel a little bit more relaxed, but with more energy too.
 |ThoughtDef.stages.0.baseMoodEffect=5
 |ThoughtDef.validWhileDespawned=true

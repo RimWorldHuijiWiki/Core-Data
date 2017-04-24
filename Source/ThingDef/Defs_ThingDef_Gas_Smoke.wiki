@@ -5,7 +5,7 @@
 |ThingDef.defName=Gas_Smoke
 |ThingDef.label=smoke
 |ThingDef.label.zh-cn=烟雾
-|ThingDef.label.zh-tw=smoke
+|ThingDef.label.zh-tw=煙霧
 |ThingDef.altitudeLayer=Gas
 |ThingDef.thingClass=Gas
 |ThingDef.category=Gas

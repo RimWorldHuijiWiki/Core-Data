@@ -5,10 +5,10 @@
 |StatDef.defName=AnimalGatherSpeed
 |StatDef.label=animal gather speed
 |StatDef.label.zh-cn=动物收集速度
-|StatDef.label.zh-tw=animal gather speed
+|StatDef.label.zh-tw=動物採集速度
 |StatDef.description=The speed at which this person milks, shears, and otherwise gathers resources from animals.
 |StatDef.description.zh-cn=此人挤奶、剪毛，以及其他从动物身上收集资源的速度。
-|StatDef.description.zh-tw=The speed at which this person milks, shears, and otherwise gathers resources from animals.
+|StatDef.description.zh-tw=這名角色進行諸如擠奶、剃毛等等收穫畜產的速度加成。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
 |StatDef.defaultBaseValue=1

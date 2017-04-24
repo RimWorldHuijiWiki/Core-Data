@@ -5,7 +5,7 @@
 |ThingDef.defName=FilthCorpseBile
 |ThingDef.label=corpse bile
 |ThingDef.label.zh-cn=尸液
-|ThingDef.label.zh-tw=corpse bile
+|ThingDef.label.zh-tw=屍水
 |ThingDef.statBases="Beauty","-50";"Cleanliness","-20"
 |ThingDef.altitudeLayer=Filth
 |ThingDef.thingClass=Filth

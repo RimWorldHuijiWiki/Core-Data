@@ -4,7 +4,7 @@
 |defName=River
 |RiverDef.defName=River
 |RiverDef.label=river
-|RiverDef.label.zh-cn=river
+|RiverDef.label.zh-cn=河
 |RiverDef.label.zh-tw=river
 |RiverDef.spawnFlowThreshold=100000
 |RiverDef.spawnChance=0.5

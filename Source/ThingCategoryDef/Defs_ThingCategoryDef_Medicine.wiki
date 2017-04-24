@@ -4,7 +4,7 @@
 |defName=Medicine
 |ThingCategoryDef.defName=Medicine
 |ThingCategoryDef.label=medicine
-|ThingCategoryDef.label.zh-cn=医药
+|ThingCategoryDef.label.zh-cn=医疗药品
 |ThingCategoryDef.label.zh-tw=藥品
 |ThingCategoryDef.parent=Manufactured
 |ThingCategoryDef.iconPath=UI/Icons/ThingCategories/Medicine

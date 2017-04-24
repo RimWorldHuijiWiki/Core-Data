@@ -5,7 +5,7 @@
 |IncidentDef.defName=CaravanMeeting
 |IncidentDef.label=caravan meeting
 |IncidentDef.label.zh-cn=远行队相遇
-|IncidentDef.label.zh-tw=旅團接觸
+|IncidentDef.label.zh-tw=旅隊接觸
 |IncidentDef.workerClass=IncidentWorker_CaravanMeeting
 |IncidentDef.category=CaravanTarget
 |IncidentDef.targetType=Caravan, MapTempIncident

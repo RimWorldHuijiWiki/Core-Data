@@ -4,11 +4,11 @@
 |defName=PlantWildHealroot
 |ThingDef.defName=PlantWildHealroot
 |ThingDef.label=wild healroot
-|ThingDef.label.zh-cn=野生草药
-|ThingDef.label.zh-tw=wild healroot
+|ThingDef.label.zh-cn=野生药草
+|ThingDef.label.zh-tw=野生藥草
 |ThingDef.description=A slow-growing plant which yields herbal medicine when harvested.<br/><br/>This wild breed of healroot is difficult to cultivate. It is prized by tribespeople in colder climates.
-|ThingDef.description.zh-cn=一种生长缓慢的植物，可以收获草药。<br/><br/>这种野生品种的草药提升了气候适应性，但很难培育。在更寒冷的地区为部落民族所重视。
-|ThingDef.description.zh-tw=A slow-growing plant which yields herbal medicine when harvested.<br/><br/>This wild breed of healroot is difficult to cultivate. It is prized by tribespeople in colder climates.
+|ThingDef.description.zh-cn=一种生长缓慢的植物，可以收获草药。<br/><br/>这种野生品种的药草非常难以培育。在更寒冷的地区为部落民族所重视。
+|ThingDef.description.zh-tw=一種生長緩慢的植物，採即可獲得藥草。<br/><br/>這種野生品種的藥草難以培育，寒冷地區的部落人民將之視為珍寶。
 |ThingDef.statBases="MaxHitPoints","85";"Flammability","0.8"
 |ThingDef.pathCost=10
 |ThingDef.pathCostIgnoreRepeat=false

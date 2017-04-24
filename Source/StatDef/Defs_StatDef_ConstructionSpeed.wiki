@@ -8,7 +8,7 @@
 |StatDef.label.zh-tw=生產速度
 |StatDef.description=Speed at which this person constructs and repairs buildings.
 |StatDef.description.zh-cn=此人在建造与修理建筑物时的速度。
-|StatDef.description.zh-tw=這名角色進行生產工作時的效率加成。
+|StatDef.description.zh-tw=這名角色進行生產工作時的速度加成。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
 |StatDef.defaultBaseValue=1

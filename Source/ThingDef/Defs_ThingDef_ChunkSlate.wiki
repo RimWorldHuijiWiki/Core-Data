@@ -4,7 +4,7 @@
 |defName=ChunkSlate
 |ThingDef.defName=ChunkSlate
 |ThingDef.label=slate chunk
-|ThingDef.label.zh-cn=板岩堆
+|ThingDef.label.zh-cn=板岩块
 |ThingDef.label.zh-tw=板岩塊
 |ThingDef.statBases="Mass","18";"MaxHitPoints","300";"Flammability","0";"Beauty","-8";"Cleanliness","-2"
 |ThingDef.passability=PassThroughOnly

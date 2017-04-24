@@ -8,7 +8,7 @@
 |StatDef.label.zh-tw=種植速度
 |StatDef.description=Speed at which this person sows and harvests plants.
 |StatDef.description.zh-cn=此人在种植与收获植物时的速度。
-|StatDef.description.zh-tw=這名角色進行種植工作時的效率加成。
+|StatDef.description.zh-tw=這名角色進行種植工作時的速度加成。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
 |StatDef.defaultBaseValue=1

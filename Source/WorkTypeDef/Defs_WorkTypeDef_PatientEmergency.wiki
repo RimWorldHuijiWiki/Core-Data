@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=PatientEmergency
 |WorkTypeDef.label=Patient
 |WorkTypeDef.label.zh-cn=就医
-|WorkTypeDef.label.zh-tw=Patient
+|WorkTypeDef.label.zh-tw=療傷
 |WorkTypeDef.description=Go to a medical bed for treatment if you have an immediately life-threatening health condition.
 |WorkTypeDef.description.zh-cn=当有威胁生命的健康问题时，躺到医疗床上接收治疗。
 |WorkTypeDef.description.zh-tw=需要立即醫療照護的居民將會移動到病床或醫療床上接受治療。

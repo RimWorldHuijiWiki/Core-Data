@@ -4,8 +4,8 @@
 |defName=DirtRoad
 |RoadDef.defName=DirtRoad
 |RoadDef.label=dirt road
-|RoadDef.label.zh-cn=dirt road
-|RoadDef.label.zh-tw=dirt road
+|RoadDef.label.zh-cn=土路
+|RoadDef.label.zh-tw=道路
 |RoadDef.priority=20
 |RoadDef.movementCostMultiplier=0.5
 |RoadDef.tilesPerSegment=15

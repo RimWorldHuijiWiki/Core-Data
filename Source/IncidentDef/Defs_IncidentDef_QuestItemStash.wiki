@@ -4,7 +4,7 @@
 |defName=QuestItemStash
 |IncidentDef.defName=QuestItemStash
 |IncidentDef.label=item stash opportunity
-|IncidentDef.label.zh-cn=item stash opportunity
+|IncidentDef.label.zh-cn=物品藏匿点机会
 |IncidentDef.label.zh-tw=item stash opportunity
 |IncidentDef.workerClass=IncidentWorker_QuestItemStash
 |IncidentDef.category=Misc
@@ -12,10 +12,10 @@
 |IncidentDef.baseChance=1.3
 |IncidentDef.minRefireDays=5
 |IncidentDef.letterText={0}, {1} of {2}, has sent us a message.<br/><br/>They've learned that a collection of valuable items have been left for the taking not far from us. The collection consists of:<br/><br/>{3}<br/><br/>Unfortunately, it won’t last - others will take the items in {4} days if we don't.<br/><br/>Valuables tend to attract danger, so beware.<br/><br/>{5}
-|IncidentDef.letterText.zh-cn={0}, {1} of {2}, has sent us a message.<br/><br/>They've learned that a collection of valuable items have been left for the taking not far from us. The collection consists of:<br/><br/>{3}<br/><br/>Unfortunately, it won’t last - others will take the items in {4} days if we don't.<br/><br/>Valuables tend to attract danger, so beware.<br/><br/>{5}
+|IncidentDef.letterText.zh-cn={2}的{1}，{0}，给我们发送了一条消息。<br/><br/>他们了解到一批贵重物品在离我们不远处被留了下来等待接收。这批物品包含：<br/><br/>{3}遗憾的是，时间并不充裕——如果我们不接收这批物品，其他人会在{4}天后来接收。<br/><br/>机会往往伴随着风险，务必当心。<br/><br/>{5}
 |IncidentDef.letterText.zh-tw={0}, {1} of {2}, has sent us a message.<br/><br/>They've learned that a collection of valuable items have been left for the taking not far from us. The collection consists of:<br/><br/>{3}<br/><br/>Unfortunately, it won’t last - others will take the items in {4} days if we don't.<br/><br/>Valuables tend to attract danger, so beware.<br/><br/>{5}
 |IncidentDef.letterLabel=Item stash opportunity
-|IncidentDef.letterLabel.zh-cn=Item stash opportunity
+|IncidentDef.letterLabel.zh-cn=物品藏匿点机会
 |IncidentDef.letterLabel.zh-tw=Item stash opportunity
 |IncidentDef.letterType=Good
 }}

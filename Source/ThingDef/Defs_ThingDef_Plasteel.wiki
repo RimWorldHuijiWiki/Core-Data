@@ -35,7 +35,7 @@
 |ThingDef.stuffProps=Exist
 |ThingDef.stuffProps.stuffAdjective=plasteel
 |ThingDef.stuffProps.stuffAdjective.zh-cn=玻璃钢
-|ThingDef.stuffProps.stuffAdjective.zh-tw=plasteel
+|ThingDef.stuffProps.stuffAdjective.zh-tw=塑鋼
 |ThingDef.stuffProps.commonality=0.20
 |ThingDef.stuffProps.categories="Metallic"
 |ThingDef.stuffProps.smeltable=true

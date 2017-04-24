@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=Mining
 |WorkTypeDef.label=Mine
 |WorkTypeDef.label.zh-cn=采矿
-|WorkTypeDef.label.zh-tw=Mine
+|WorkTypeDef.label.zh-tw=採礦
 |WorkTypeDef.description=Digging and drilling.
 |WorkTypeDef.description.zh-cn=挖掘与钻取。
 |WorkTypeDef.description.zh-tw=礦工會開挖你指定的方塊。如果你指定的方塊是礦石方塊便能收穫到有用的金屬礦石。

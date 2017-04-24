@@ -32,7 +32,7 @@
 |FactionDef.pawnsPlural.zh-cn=外来者
 |FactionDef.pawnsPlural.zh-tw=異鄉人
 |FactionDef.leaderTitle=prime councilor
-|FactionDef.leaderTitle.zh-cn=镇长
+|FactionDef.leaderTitle.zh-cn=首席议员
 |FactionDef.leaderTitle.zh-tw=市長
 |FactionDef.requiredCountAtGameStart=1
 |FactionDef.canMakeRandomly=true

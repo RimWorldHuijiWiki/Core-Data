@@ -4,5 +4,5 @@
 |defName=Sentence_RecruitAttemptAccepted
 |RulePackDef.defName=Sentence_RecruitAttemptAccepted
 |RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="sent->[recipient_nameShortDef] has accepted and joined [initiator_nameShortDef]'s community.","sent->[recipient_nameShortDef]接受并加入了[initiator_nameShortDef]的群体。","sent->[recipient_nameShortDef] has accepted and joined [initiator_nameShortDef]'s community."
+|RulePackDef.rulePack.rulesStrings="sent->[recipient_nameShortDef] has accepted and joined [initiator_nameShortDef]'s community.","sent->[recipient_nameShortDef]接受并加入了[initiator_nameShortDef]的群体。","sent->[recipient_nameShortDef]接受了提議並加入了[initiator_nameShortDef]的陣營。"
 }}

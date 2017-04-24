@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=Art
 |WorkTypeDef.label=Art
 |WorkTypeDef.label.zh-cn=艺术
-|WorkTypeDef.label.zh-tw=Art
+|WorkTypeDef.label.zh-tw=藝術
 |WorkTypeDef.description=Create beautiful works of art from raw materials.
 |WorkTypeDef.description.zh-cn=艺术家负责用原材料创作出优秀的艺术品。
 |WorkTypeDef.description.zh-tw=藝術家會創作優秀的藝術作品。

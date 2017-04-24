@@ -4,7 +4,7 @@
 |defName=CaravanRequestRewards
 |ItemCollectionGeneratorDef.defName=CaravanRequestRewards
 |ItemCollectionGeneratorDef.label=caravan request rewards
-|ItemCollectionGeneratorDef.label.zh-cn=caravan request rewards
+|ItemCollectionGeneratorDef.label.zh-cn=远行队请求报酬
 |ItemCollectionGeneratorDef.label.zh-tw=caravan request rewards
 |ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_Rewards
 }}

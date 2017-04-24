@@ -4,10 +4,10 @@
 |defName=Chemical_Ambrosia
 |NeedDef.defName=Chemical_Ambrosia
 |NeedDef.label=ambrosia
-|NeedDef.label.zh-cn=ambrosia
+|NeedDef.label.zh-cn=仙馐果
 |NeedDef.label.zh-tw=ambrosia
 |NeedDef.description=Because of an ambrosia addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.
-|NeedDef.description.zh-cn=Because of an ambrosia addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.
+|NeedDef.description.zh-cn=由于仙馐果成瘾，此人需要持续服用成瘾品以避免产生戒断反应。
 |NeedDef.description.zh-tw=Because of an ambrosia addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.
 |NeedDef.needClass=Need_Chemical
 |NeedDef.onlyIfCausedByHediff=true

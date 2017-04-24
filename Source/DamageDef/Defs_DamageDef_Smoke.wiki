@@ -5,7 +5,7 @@
 |DamageDef.defName=Smoke
 |DamageDef.label=smoke
 |DamageDef.label.zh-cn=烟
-|DamageDef.label.zh-tw=smoke
+|DamageDef.label.zh-tw=煙霧
 |DamageDef.harmsHealth=false
 |DamageDef.makesBlood=false
 |DamageDef.canInterruptJobs=false

@@ -5,7 +5,7 @@
 |HediffDef.defName=ChemicalDamageSevere
 |HediffDef.label=chemical damage
 |HediffDef.label.zh-cn=化学性损伤
-|HediffDef.label.zh-tw=chemical damage
+|HediffDef.label.zh-tw=化學傷害
 |HediffDef.hediffClass=HediffWithComps
 |HediffDef.initialSeverity=0.001
 |HediffDef.stages=Exist

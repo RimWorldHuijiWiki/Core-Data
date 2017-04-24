@@ -4,8 +4,8 @@
 |defName=PackedDirt
 |TerrainDef.defName=PackedDirt
 |TerrainDef.label=packed dirt
-|TerrainDef.label.zh-cn=packed dirt
-|TerrainDef.label.zh-tw=packed dirt
+|TerrainDef.label.zh-cn=压紧的泥土
+|TerrainDef.label.zh-tw=泥塊
 |TerrainDef.statBases="Beauty","-1";"Cleanliness","-1"
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0.0

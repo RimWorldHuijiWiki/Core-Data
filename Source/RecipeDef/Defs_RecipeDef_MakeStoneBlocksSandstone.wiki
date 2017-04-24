@@ -4,10 +4,10 @@
 |defName=MakeStoneBlocksSandstone
 |RecipeDef.defName=MakeStoneBlocksSandstone
 |RecipeDef.label=make sandstone blocks
-|RecipeDef.label.zh-cn=制作砂岩块
+|RecipeDef.label.zh-cn=制作砂岩砖
 |RecipeDef.label.zh-tw=製造砂岩石材
 |RecipeDef.description=Cuts sandstone chunks into usable blocks.
-|RecipeDef.description.zh-cn=将砂岩堆切割成可用的方块。
+|RecipeDef.description.zh-cn=将砂岩块切割成可用的砖块。
 |RecipeDef.description.zh-tw=將石塊製成砂岩石材。
 |RecipeDef.jobString=Cutting stone blocks from chunk.
 |RecipeDef.jobString.zh-cn=正在切割石材。

@@ -5,15 +5,15 @@
 |WorkGiverDef.defName=HelpGatheringItemsForCaravan
 |WorkGiverDef.label=load caravan
 |WorkGiverDef.label.zh-cn=装载远行队
-|WorkGiverDef.label.zh-tw=load caravan
+|WorkGiverDef.label.zh-tw=為旅隊裝卸貨物
 |WorkGiverDef.giverClass=WorkGiver_HelpGatheringItemsForCaravan
 |WorkGiverDef.workType=Hauling
 |WorkGiverDef.priorityInType=105
 |WorkGiverDef.verb=load
 |WorkGiverDef.verb.zh-cn=装货
-|WorkGiverDef.verb.zh-tw=load
+|WorkGiverDef.verb.zh-tw=裝卸
 |WorkGiverDef.gerund=loading
 |WorkGiverDef.gerund.zh-cn=装货
-|WorkGiverDef.gerund.zh-tw=loading
+|WorkGiverDef.gerund.zh-tw=裝卸
 |WorkGiverDef.requiredCapacities="Manipulation"
 }}

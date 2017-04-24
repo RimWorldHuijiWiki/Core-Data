@@ -4,7 +4,7 @@
 |defName=Drugs
 |ThingCategoryDef.defName=Drugs
 |ThingCategoryDef.label=drugs
-|ThingCategoryDef.label.zh-cn=成瘾品
+|ThingCategoryDef.label.zh-cn=药物与成瘾品
 |ThingCategoryDef.label.zh-tw=藥物
 |ThingCategoryDef.parent=Manufactured
 |ThingCategoryDef.iconPath=UI/Icons/ThingCategories/Drugs

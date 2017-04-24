@@ -4,7 +4,7 @@
 |defName=AncientPodContents
 |ItemCollectionGeneratorDef.defName=AncientPodContents
 |ItemCollectionGeneratorDef.label=ancient pod contents
-|ItemCollectionGeneratorDef.label.zh-cn=ancient pod contents
+|ItemCollectionGeneratorDef.label.zh-cn=古代舱室内容物
 |ItemCollectionGeneratorDef.label.zh-tw=ancient pod contents
 |ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_AncientPodContents
 }}

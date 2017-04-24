@@ -4,7 +4,7 @@
 |defName=StoneChunks
 |ThingCategoryDef.defName=StoneChunks
 |ThingCategoryDef.label=stone chunks
-|ThingCategoryDef.label.zh-cn=石堆
+|ThingCategoryDef.label.zh-cn=石块
 |ThingCategoryDef.label.zh-tw=石塊
 |ThingCategoryDef.parent=Chunks
 |ThingCategoryDef.iconPath=UI/Icons/ThingCategories/StoneChunks

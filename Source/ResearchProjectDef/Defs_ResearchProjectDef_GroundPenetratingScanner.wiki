@@ -7,7 +7,7 @@
 |ResearchProjectDef.label.zh-cn=地质扫描仪
 |ResearchProjectDef.label.zh-tw=礦脈聲納
 |ResearchProjectDef.description=Allows you to build ground-penetrating scanners that can detect drillable resources deep under the surface.
-|ResearchProjectDef.description.zh-cn=允许你建造地质扫描仪，来勘探可用深钻井开采的地底资源。
+|ResearchProjectDef.description.zh-cn=允许你建造「地质扫描仪」，来勘探可用深钻井开采的地底资源。
 |ResearchProjectDef.description.zh-tw=解鎖建造礦脈聲納，可探測位在地底的可採掘礦物資源。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=7000

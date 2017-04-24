@@ -4,7 +4,7 @@
 |defName=Artifacts
 |ItemCollectionGeneratorDef.defName=Artifacts
 |ItemCollectionGeneratorDef.label=artifacts
-|ItemCollectionGeneratorDef.label.zh-cn=artifacts
+|ItemCollectionGeneratorDef.label.zh-cn=神器
 |ItemCollectionGeneratorDef.label.zh-tw=artifacts
 |ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_Artifacts
 }}

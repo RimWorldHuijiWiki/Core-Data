@@ -4,7 +4,7 @@
 |defName=ChunkGranite
 |ThingDef.defName=ChunkGranite
 |ThingDef.label=granite chunk
-|ThingDef.label.zh-cn=花岗岩堆
+|ThingDef.label.zh-cn=花岗岩块
 |ThingDef.label.zh-tw=花崗岩塊
 |ThingDef.statBases="Mass","25";"MaxHitPoints","300";"Flammability","0";"Beauty","-8";"Cleanliness","-2"
 |ThingDef.passability=PassThroughOnly

@@ -4,7 +4,7 @@
 |defName=RandomGeneralGoods
 |ItemCollectionGeneratorDef.defName=RandomGeneralGoods
 |ItemCollectionGeneratorDef.label=general goods
-|ItemCollectionGeneratorDef.label.zh-cn=general goods
+|ItemCollectionGeneratorDef.label.zh-cn=普通货物
 |ItemCollectionGeneratorDef.label.zh-tw=general goods
 |ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_RandomGeneralGoods
 }}

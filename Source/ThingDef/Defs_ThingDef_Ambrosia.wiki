@@ -4,10 +4,10 @@
 |defName=Ambrosia
 |ThingDef.defName=Ambrosia
 |ThingDef.label=ambrosia
-|ThingDef.label.zh-cn=ambrosia
+|ThingDef.label.zh-cn=仙馐果
 |ThingDef.label.zh-tw=ambrosia
 |ThingDef.description=A soft fruit. Ambrosia has a wonderful smell and taste, and produces a soft chemical high, which increases mood. However, it is slightly addictive if eaten too often.
-|ThingDef.description.zh-cn=A soft fruit. Ambrosia has a wonderful smell and taste, and produces a soft chemical high, which increases mood. However, it is slightly addictive if eaten too often.
+|ThingDef.description.zh-cn=软软的果子。仙馐果有奇妙的香味的味道，并产生软性化学亢奋，提升心情。当然，如果吃的多了也会导致轻微的成瘾性。
 |ThingDef.description.zh-tw=A soft fruit. Ambrosia has a wonderful smell and taste, and produces a soft chemical high, which increases mood. However, it is slightly addictive if eaten too often.
 |ThingDef.statBases="MarketValue","15";"Mass","0.1";"MaxHitPoints","50";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-4"
 |ThingDef.pathCost=15

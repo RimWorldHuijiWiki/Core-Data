@@ -4,8 +4,8 @@
 |defName=BrokenAsphalt
 |TerrainDef.defName=BrokenAsphalt
 |TerrainDef.label=broken asphalt
-|TerrainDef.label.zh-cn=broken asphalt
-|TerrainDef.label.zh-tw=broken asphalt
+|TerrainDef.label.zh-cn=破碎的沥青
+|TerrainDef.label.zh-tw=瀝青碎塊
 |TerrainDef.statBases="Beauty","-1";"Cleanliness","-1"
 |TerrainDef.pathCost=0
 |TerrainDef.fertility=0.0

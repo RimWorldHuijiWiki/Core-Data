@@ -4,7 +4,7 @@
 |defName=TraderStock
 |ItemCollectionGeneratorDef.defName=TraderStock
 |ItemCollectionGeneratorDef.label=trader stock
-|ItemCollectionGeneratorDef.label.zh-cn=trader stock
+|ItemCollectionGeneratorDef.label.zh-cn=商人货物
 |ItemCollectionGeneratorDef.label.zh-tw=trader stock
 |ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_TraderStock
 }}

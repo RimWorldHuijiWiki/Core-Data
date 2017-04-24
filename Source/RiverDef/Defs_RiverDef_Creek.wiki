@@ -4,7 +4,7 @@
 |defName=Creek
 |RiverDef.defName=Creek
 |RiverDef.label=creek
-|RiverDef.label.zh-cn=creek
+|RiverDef.label.zh-cn=小河
 |RiverDef.label.zh-tw=creek
 |RiverDef.degradeThreshold=20000
 |RiverDef.widthOnWorld=0.2

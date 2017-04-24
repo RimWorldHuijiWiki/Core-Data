@@ -4,8 +4,8 @@
 |defName=Bullet_ChainShotgun
 |ThingDef.defName=Bullet_ChainShotgun
 |ThingDef.label=shotgun blast
-|ThingDef.label.zh-cn=shotgun blast
-|ThingDef.label.zh-tw=shotgun blast
+|ThingDef.label.zh-cn=霰弹簇
+|ThingDef.label.zh-tw=子彈(自動霰彈槍)
 |ThingDef.altitudeLayer=Projectile
 |ThingDef.thingClass=Bullet
 |ThingDef.category=Projectile

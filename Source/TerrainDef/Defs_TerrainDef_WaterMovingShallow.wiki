@@ -4,7 +4,7 @@
 |defName=WaterMovingShallow
 |TerrainDef.defName=WaterMovingShallow
 |TerrainDef.label=shallow moving water
-|TerrainDef.label.zh-cn=shallow moving water
+|TerrainDef.label.zh-cn=流动的浅水
 |TerrainDef.label.zh-tw=shallow moving water
 |TerrainDef.pathCost=12
 |TerrainDef.fertility=0

@@ -5,6 +5,6 @@
 |BodyPartGroupDef.defName=Neck
 |BodyPartGroupDef.label=neck
 |BodyPartGroupDef.label.zh-cn=颈部
-|BodyPartGroupDef.label.zh-tw=neck
+|BodyPartGroupDef.label.zh-tw=頸部
 |BodyPartGroupDef.listOrder=180
 }}

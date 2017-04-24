@@ -4,10 +4,10 @@
 |defName=FlagstoneGranite
 |TerrainDef.defName=FlagstoneGranite
 |TerrainDef.label=granite flagstone
-|TerrainDef.label.zh-cn=granite flagstone
+|TerrainDef.label.zh-cn=花岗岩石板
 |TerrainDef.label.zh-tw=granite flagstone
 |TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
-|TerrainDef.description.zh-cn=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
+|TerrainDef.description.zh-cn=粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。
 |TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
 |TerrainDef.statBases="WorkToBuild","500";"Beauty","0"
 |TerrainDef.fertility=0

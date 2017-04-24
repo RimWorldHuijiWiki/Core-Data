@@ -4,10 +4,10 @@
 |defName=BlocksMarble
 |ThingDef.defName=BlocksMarble
 |ThingDef.label=marble blocks
-|ThingDef.label.zh-cn=大理石块
+|ThingDef.label.zh-cn=大理石砖
 |ThingDef.label.zh-tw=大理石磚
 |ThingDef.description=Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt.
-|ThingDef.description.zh-cn=块状的大理石。大理石是一种较软、美丽的岩石，因易于雕塑而出名。
+|ThingDef.description.zh-cn=坚固的大理石砖块。大理石是一种较软、美丽的岩石，因易于雕塑而出名。
 |ThingDef.description.zh-tw=經過加工切割的大理石方塊。大理石是一種柔軟、美麗的石頭，以易於雕刻聞名。
 |ThingDef.statBases="MarketValue","1.9";"Mass","1.25";"SharpDamageMultiplier","0.6";"BluntDamageMultiplier","1.0";"Beauty","-12"
 |ThingDef.pathCost=15

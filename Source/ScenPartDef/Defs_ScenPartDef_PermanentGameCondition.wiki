@@ -4,7 +4,7 @@
 |defName=PermanentGameCondition
 |ScenPartDef.defName=PermanentGameCondition
 |ScenPartDef.label=permanent game condition
-|ScenPartDef.label.zh-cn=permanent game condition
+|ScenPartDef.label.zh-cn=永久游戏状态
 |ScenPartDef.label.zh-tw=permanent game condition
 |ScenPartDef.category=GameCondition
 |ScenPartDef.scenPartClass=ScenPart_PermaGameCondition

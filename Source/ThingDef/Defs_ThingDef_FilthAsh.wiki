@@ -4,7 +4,7 @@
 |defName=FilthAsh
 |ThingDef.defName=FilthAsh
 |ThingDef.label=ash
-|ThingDef.label.zh-cn=ash
+|ThingDef.label.zh-cn=灰烬
 |ThingDef.label.zh-tw=ash
 |ThingDef.statBases="Beauty","-20";"Cleanliness","-15"
 |ThingDef.altitudeLayer=Filth

@@ -4,7 +4,7 @@
 |defName=NamerWorld
 |RulePackDef.defName=NamerWorld
 |RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="name->[celestialname]","name->[celestialprefix] [celestialname]","name->[celestialname] [romannumeral]","name->[celestialname] [celestialname]","name->[celestialname] [celestialsuffix]","name->[celestialname]","name->[celestialprefix][celestialname]","name->[celestialname][romannumeral]","name->[celestialname][celestialname]","name->[celestialname][celestialsuffix]","name->[celestialname]","name->[celestialprefix] [celestialname]","name->[celestialname] [romannumeral]","name->[celestialname] [celestialname]","name->[celestialname] [celestialsuffix]"
+|RulePackDef.rulePack.rulesStrings="name->[celestialname]","name->[celestialprefix] [celestialname]","name->[celestialname] [romannumeral]","name->[celestialname] [celestialname]","name->[celestialname] [celestialsuffix]","name->[celestialname]","name->[celestialprefix][celestialname]","name->[celestialname][romannumeral]","name->[celestialname][celestialname]","name->[celestialname][celestialsuffix]","name->[celestialname]","name->[celestialprefix][celestialname]","name->[celestialname][romannumeral]","name->[celestialname][celestialname]","name->[celestialname][celestialsuffix]"
 |RulePackDef.rulePack.rulesRaw=Exist
 |RulePackDef.rulePack.rulesRaw.Count=3
 |RulePackDef.rulePack.rulesRaw.0=Exist

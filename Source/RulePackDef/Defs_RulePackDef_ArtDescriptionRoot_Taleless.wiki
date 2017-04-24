@@ -4,5 +4,5 @@
 |defName=ArtDescriptionRoot_Taleless
 |RulePackDef.defName=ArtDescriptionRoot_Taleless
 |RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="art_description_root->[physical_description_root]","desc_sentence_group->[style_group]","art_description_root->[physical_description_root]","desc_sentence_group->[style_group]","art_description_root->[physical_description_root]","desc_sentence_group->[style_group]"
+|RulePackDef.rulePack.rulesStrings="art_description_root->[physical_description_root]","desc_sentence_group->[style_group]","art_description_root->[physical_description_root]","desc_sentence_group->[style_group]","art_description_root->[physical_description_root]。","desc_sentence_group->[style_group]。"
 }}

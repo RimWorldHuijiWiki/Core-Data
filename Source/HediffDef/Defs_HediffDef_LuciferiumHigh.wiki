@@ -4,7 +4,7 @@
 |defName=LuciferiumHigh
 |HediffDef.defName=LuciferiumHigh
 |HediffDef.label=luciferium
-|HediffDef.label.zh-cn=魔鬼素
+|HediffDef.label.zh-cn=路西法合剂
 |HediffDef.label.zh-tw=情緒亢奮(路西法強化劑)
 |HediffDef.hediffClass=HediffWithComps
 |HediffDef.comps=Exist

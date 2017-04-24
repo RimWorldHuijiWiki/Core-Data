@@ -5,7 +5,7 @@
 |KeyBindingDef.defName=ModifierIncrement10x
 |KeyBindingDef.label=increment 10x
 |KeyBindingDef.label.zh-cn=增加 10x
-|KeyBindingDef.label.zh-tw=increment 10x
+|KeyBindingDef.label.zh-tw=增加10x
 |KeyBindingDef.category=SelectionSpecial
 |KeyBindingDef.defaultKeyCodeA=LeftControl
 |KeyBindingDef.defaultKeyCodeB=RightControl

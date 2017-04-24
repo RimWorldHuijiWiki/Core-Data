@@ -4,7 +4,7 @@
 |defName=WaterMovingDeep
 |TerrainDef.defName=WaterMovingDeep
 |TerrainDef.label=deep moving water
-|TerrainDef.label.zh-cn=deep moving water
+|TerrainDef.label.zh-cn=流动的深水
 |TerrainDef.label.zh-tw=deep moving water
 |TerrainDef.passability=Impassable
 |TerrainDef.pathCost=300

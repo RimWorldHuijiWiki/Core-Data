@@ -4,7 +4,7 @@
 |defName=PlantHealroot
 |ThingDef.defName=PlantHealroot
 |ThingDef.label=healroot
-|ThingDef.label.zh-cn=草药
+|ThingDef.label.zh-cn=药草
 |ThingDef.label.zh-tw=藥草
 |ThingDef.description=A slow-growing plant which yields herbal medicine when harvested.<br/><br/>Healroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues.
 |ThingDef.description.zh-cn=一种生长缓慢的植物，可以收获草药。<br/><br/>已经被殖民者们选择育种了几个世纪。因其五大医疗功效，被部落人誉为「医者之手」。

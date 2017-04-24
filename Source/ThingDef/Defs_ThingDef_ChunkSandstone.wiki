@@ -4,7 +4,7 @@
 |defName=ChunkSandstone
 |ThingDef.defName=ChunkSandstone
 |ThingDef.label=sandstone chunk
-|ThingDef.label.zh-cn=砂岩堆
+|ThingDef.label.zh-cn=砂岩块
 |ThingDef.label.zh-tw=砂岩塊
 |ThingDef.statBases="Mass","20";"MaxHitPoints","300";"Flammability","0";"Beauty","-8";"Cleanliness","-2"
 |ThingDef.passability=PassThroughOnly

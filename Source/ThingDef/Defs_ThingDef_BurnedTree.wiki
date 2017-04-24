@@ -4,10 +4,10 @@
 |defName=BurnedTree
 |ThingDef.defName=BurnedTree
 |ThingDef.label=burned tree
-|ThingDef.label.zh-cn=burned tree
+|ThingDef.label.zh-cn=被烧毁的树木
 |ThingDef.label.zh-tw=burned tree
 |ThingDef.description=A burned tree. Yields no usable wood.
-|ThingDef.description.zh-cn=A burned tree. Yields no usable wood.
+|ThingDef.description.zh-cn=一颗被烧毁的树木。无法收获木材。
 |ThingDef.description.zh-tw=A burned tree. Yields no usable wood.
 |ThingDef.statBases="MaxHitPoints","100";"Flammability","0";"DeteriorationRate","4";"Beauty","-20"
 |ThingDef.passability=PassThroughOnly

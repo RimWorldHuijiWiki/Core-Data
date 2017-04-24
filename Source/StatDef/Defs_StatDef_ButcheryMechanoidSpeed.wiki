@@ -5,7 +5,7 @@
 |StatDef.defName=ButcheryMechanoidSpeed
 |StatDef.label=mechanoid disassembly speed
 |StatDef.label.zh-cn=机械体拆解速度
-|StatDef.label.zh-tw=拆解速度
+|StatDef.label.zh-tw=機械拆解速度
 |StatDef.description=Speed at which this person can disassemble a mechanoid.
 |StatDef.description.zh-cn=此人在拆解机械体尸体时的速度。
 |StatDef.description.zh-tw=這名角色進行拆解工作時的工作速度。

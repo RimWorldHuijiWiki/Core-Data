@@ -8,7 +8,7 @@
 |StatDef.label.zh-tw=打磨速度
 |StatDef.description=A multiplier on the speed at which this person smooths floors.
 |StatDef.description.zh-cn=此人在打磨粗糙石面时的速度乘数。
-|StatDef.description.zh-tw=這名角色進行地面打磨工作時的效率加成。
+|StatDef.description.zh-tw=這名角色進行地面打磨工作時的速度加成。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
 |StatDef.defaultBaseValue=1

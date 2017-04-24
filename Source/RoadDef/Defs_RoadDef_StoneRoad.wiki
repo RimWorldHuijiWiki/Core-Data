@@ -4,8 +4,8 @@
 |defName=StoneRoad
 |RoadDef.defName=StoneRoad
 |RoadDef.label=stone road
-|RoadDef.label.zh-cn=stone road
-|RoadDef.label.zh-tw=stone road
+|RoadDef.label.zh-cn=石路
+|RoadDef.label.zh-tw=石板路
 |RoadDef.priority=30
 |RoadDef.movementCostMultiplier=0.5
 |RoadDef.tilesPerSegment=25

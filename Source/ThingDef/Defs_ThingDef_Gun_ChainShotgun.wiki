@@ -4,11 +4,11 @@
 |defName=Gun_ChainShotgun
 |ThingDef.defName=Gun_ChainShotgun
 |ThingDef.label=chain shotgun
-|ThingDef.label.zh-cn=chain shotgun
-|ThingDef.label.zh-tw=chain shotgun
+|ThingDef.label.zh-cn=链式霰弹枪
+|ThingDef.label.zh-tw=霰彈槍
 |ThingDef.description=A magazine-fed fully automatic shotgun. Short range and very low accuracy, but extraordinarily dangerous.
-|ThingDef.description.zh-cn=A magazine-fed fully automatic shotgun. Short range and very low accuracy, but extraordinarily dangerous.
-|ThingDef.description.zh-tw=A magazine-fed fully automatic shotgun. Short range and very low accuracy, but extraordinarily dangerous.
+|ThingDef.description.zh-cn=弹匣供弹全自动霰弹枪。射程短并且精度非常低，但极具威胁性。
+|ThingDef.description.zh-tw=配置彈匣的全自動霰彈槍，射程短精度低但極度致命。
 |ThingDef.statBases="WorkToMake","45000";"Mass","4.5";"AccuracyTouch","0.40";"AccuracyShort","0.43";"AccuracyMedium","0.38";"AccuracyLong","0.32";"RangedWeapon_Cooldown","1.26";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-6";"SellPriceFactor","0.20"
 |ThingDef.pathCost=10
 |ThingDef.costList="Steel","70";"Component","5"

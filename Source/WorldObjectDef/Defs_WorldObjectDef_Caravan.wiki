@@ -5,7 +5,7 @@
 |WorldObjectDef.defName=Caravan
 |WorldObjectDef.label=caravan
 |WorldObjectDef.label.zh-cn=远行队
-|WorldObjectDef.label.zh-tw=旅團
+|WorldObjectDef.label.zh-tw=旅隊
 |WorldObjectDef.description=A group of traveling people.
 |WorldObjectDef.description.zh-cn=一队旅行者。
 |WorldObjectDef.description.zh-tw=一群旅行中的人。

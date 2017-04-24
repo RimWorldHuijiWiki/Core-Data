@@ -5,10 +5,10 @@
 |WorldObjectDef.defName=RoutePlannerWaypoint
 |WorldObjectDef.label=waypoint
 |WorldObjectDef.label.zh-cn=路径点
-|WorldObjectDef.label.zh-tw=waypoint
+|WorldObjectDef.label.zh-tw=中途點
 |WorldObjectDef.description=A temporary waypoint.
 |WorldObjectDef.description.zh-cn=一个临时的路径点。
-|WorldObjectDef.description.zh-tw=A temporary waypoint.
+|WorldObjectDef.description.zh-tw=前往最終目的地前的中途點。
 |WorldObjectDef.worldObjectClass=RoutePlannerWaypoint
 |WorldObjectDef.saved=false
 |WorldObjectDef.allowCaravanIncidentsWhichGenerateMap=true

@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=Hauling
 |WorkTypeDef.label=Haul
 |WorkTypeDef.label.zh-cn=搬运
-|WorkTypeDef.label.zh-tw=Haul
+|WorkTypeDef.label.zh-tw=搬運
 |WorkTypeDef.description=Carry things to where they need to be.
 |WorkTypeDef.description.zh-cn=搬运工负责把物品运送到目的地。
 |WorkTypeDef.description.zh-tw=搬運員會將東西送到它們該去的地方。

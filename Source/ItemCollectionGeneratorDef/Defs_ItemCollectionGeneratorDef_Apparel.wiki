@@ -4,7 +4,7 @@
 |defName=Apparel
 |ItemCollectionGeneratorDef.defName=Apparel
 |ItemCollectionGeneratorDef.label=apparel
-|ItemCollectionGeneratorDef.label.zh-cn=apparel
+|ItemCollectionGeneratorDef.label.zh-cn=衣物
 |ItemCollectionGeneratorDef.label.zh-tw=apparel
 |ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_Apparel
 }}

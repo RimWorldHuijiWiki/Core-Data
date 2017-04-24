@@ -4,7 +4,7 @@
 |defName=LuciferiumAddiction
 |HediffDef.defName=LuciferiumAddiction
 |HediffDef.label=luciferium need
-|HediffDef.label.zh-cn=魔鬼素成瘾
+|HediffDef.label.zh-cn=路西法合剂
 |HediffDef.label.zh-tw=路西法強化劑成癮
 |HediffDef.hediffClass=Hediff_Addiction
 |HediffDef.initialSeverity=0.5

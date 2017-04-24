@@ -8,7 +8,7 @@
 |WorldObjectDef.label.zh-tw=埋伏
 |WorldObjectDef.description=An ongoing ambush battle.
 |WorldObjectDef.description.zh-cn=一场正在进行中的伏击战。
-|WorldObjectDef.description.zh-tw=從埋伏地點突襲目標。
+|WorldObjectDef.description.zh-tw=正在進行中的埋伏戰鬥。
 |WorldObjectDef.worldObjectClass=CaravansBattlefield
 |WorldObjectDef.isTempIncidentMapOwner=true
 |WorldObjectDef.expandingIcon=true

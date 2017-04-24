@@ -5,10 +5,10 @@
 |StatDef.defName=PlantHarvestYield
 |StatDef.label=plant harvest yield
 |StatDef.label.zh-cn=植物收获产出
-|StatDef.label.zh-tw=plant harvest yield
+|StatDef.label.zh-tw=作物收穫倍率
 |StatDef.description=The yield someone gets when harvesting plants. Low yields give a chance that this person will accidentally destroy the harvest.
 |StatDef.description.zh-cn=收获植物时获取的产出。低产出会导致此人有一定几率意外地毁坏收获物。
-|StatDef.description.zh-tw=The yield someone gets when harvesting plants. Low yields give a chance that this person will accidentally destroy the harvest.
+|StatDef.description.zh-tw=這名角色收穫作物時的產量加成。效率越低的角色越有可能會收穫失敗而破壞作物。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
 |StatDef.defaultBaseValue=1

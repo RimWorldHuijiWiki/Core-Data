@@ -4,10 +4,10 @@
 |defName=WoolCamel
 |ThingDef.defName=WoolCamel
 |ThingDef.label=camelhair
-|ThingDef.label.zh-cn=camelhair
+|ThingDef.label.zh-cn=骆驼毛
 |ThingDef.label.zh-tw=camelhair
 |ThingDef.description=Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.
-|ThingDef.description.zh-cn=Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.
+|ThingDef.description.zh-cn=骆驼毛服装通常被沙漠旅行者穿戴以抵御炎热。由于它的恒温特性，它提供了良好的隔温性。
 |ThingDef.description.zh-tw=Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.
 |ThingDef.statBases="MaxHitPoints","90";"MarketValue","2.7";"Mass","0.028";"Flammability","1.0";"DeteriorationRate","3.4";"Beauty","-4"
 |ThingDef.pathCost=15
@@ -32,7 +32,7 @@
 |ThingDef.thingCategories="Textiles"
 |ThingDef.stuffProps=Exist
 |ThingDef.stuffProps.stuffAdjective=camelhair
-|ThingDef.stuffProps.stuffAdjective.zh-cn=camelhair
+|ThingDef.stuffProps.stuffAdjective.zh-cn=骆驼毛
 |ThingDef.stuffProps.stuffAdjective.zh-tw=camelhair
 |ThingDef.stuffProps.commonality=0.12
 |ThingDef.stuffProps.categories="Fabric"

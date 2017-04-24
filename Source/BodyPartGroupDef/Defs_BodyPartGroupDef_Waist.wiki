@@ -4,7 +4,7 @@
 |defName=Waist
 |BodyPartGroupDef.defName=Waist
 |BodyPartGroupDef.label=waist
-|BodyPartGroupDef.label.zh-cn=waist
-|BodyPartGroupDef.label.zh-tw=waist
+|BodyPartGroupDef.label.zh-cn=腰部
+|BodyPartGroupDef.label.zh-tw=腰部
 |BodyPartGroupDef.listOrder=50
 }}

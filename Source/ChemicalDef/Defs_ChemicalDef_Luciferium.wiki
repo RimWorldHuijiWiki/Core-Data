@@ -4,7 +4,7 @@
 |defName=Luciferium
 |ChemicalDef.defName=Luciferium
 |ChemicalDef.label=luciferium
-|ChemicalDef.label.zh-cn=魔鬼素
+|ChemicalDef.label.zh-cn=路西法合剂
 |ChemicalDef.label.zh-tw=luciferium
 |ChemicalDef.addictionHediff=LuciferiumAddiction
 |ChemicalDef.canBinge=false

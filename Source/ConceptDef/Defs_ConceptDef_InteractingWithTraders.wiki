@@ -5,7 +5,7 @@
 |ConceptDef.defName=InteractingWithTraders
 |ConceptDef.label=Interacting with traders
 |ConceptDef.label.zh-cn=与商人互动
-|ConceptDef.label.zh-tw=旅團交易
+|ConceptDef.label.zh-tw=旅隊交易
 |ConceptDef.priority=50
 |ConceptDef.needsOpportunity=True
 |ConceptDef.helpText=You can talk to people with ? over their heads.<br/><br/>Select a colonist and right-click on the character with ? attached to his head.

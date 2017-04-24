@@ -4,7 +4,7 @@
 |defName=ChunkMarble
 |ThingDef.defName=ChunkMarble
 |ThingDef.label=marble chunk
-|ThingDef.label.zh-cn=大理石堆
+|ThingDef.label.zh-cn=大理石块
 |ThingDef.label.zh-tw=大理石塊
 |ThingDef.statBases="Mass","25";"MaxHitPoints","300";"Flammability","0";"Beauty","-8";"Cleanliness","-2"
 |ThingDef.passability=PassThroughOnly

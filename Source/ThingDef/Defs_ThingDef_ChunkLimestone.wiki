@@ -4,7 +4,7 @@
 |defName=ChunkLimestone
 |ThingDef.defName=ChunkLimestone
 |ThingDef.label=limestone chunk
-|ThingDef.label.zh-cn=石灰岩堆
+|ThingDef.label.zh-cn=石灰岩块
 |ThingDef.label.zh-tw=石灰岩塊
 |ThingDef.statBases="Mass","22";"MaxHitPoints","300";"Flammability","0";"Beauty","-8";"Cleanliness","-2"
 |ThingDef.passability=PassThroughOnly

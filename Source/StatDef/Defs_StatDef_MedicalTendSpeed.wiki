@@ -5,10 +5,10 @@
 |StatDef.defName=MedicalTendSpeed
 |StatDef.label=medical tend speed
 |StatDef.label.zh-cn=医疗治疗速度
-|StatDef.label.zh-tw=medical tend speed
+|StatDef.label.zh-tw=醫療速度
 |StatDef.description=Speed at which the character tends to wounds and illnesses as a doctor.
 |StatDef.description.zh-cn=角色作为一名医生治疗伤患和病人的速度。
-|StatDef.description.zh-tw=Speed at which the character tends to wounds and illnesses as a doctor.
+|StatDef.description.zh-tw=身為醫生處理傷勢、治療疾病時的速度加成。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
 |StatDef.defaultBaseValue=1

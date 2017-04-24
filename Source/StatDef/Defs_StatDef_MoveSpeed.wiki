@@ -7,7 +7,7 @@
 |StatDef.label.zh-cn=移动速度
 |StatDef.label.zh-tw=移動速度
 |StatDef.description=Speed of movement through the world in cells per second.
-|StatDef.description.zh-cn=每秒可通过的格数。斜向移动和水平垂直移动用时相同。
+|StatDef.description.zh-cn=每秒可通过的单元格数。斜向移动和水平垂直移动用时相同。
 |StatDef.description.zh-tw=角色移動時每秒鐘能夠穿越的地圖格數。
 |StatDef.category=BasicsPawn
 |StatDef.displayPriorityInCategory=90

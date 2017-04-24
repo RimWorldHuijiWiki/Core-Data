@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=PatientBedRest
 |WorkTypeDef.label=Bed rest
 |WorkTypeDef.label.zh-cn=休养
-|WorkTypeDef.label.zh-tw=Bed rest
+|WorkTypeDef.label.zh-tw=療養
 |WorkTypeDef.description=Rest in bed to recuperate from not-immediately-life-threatening medical problems.
 |WorkTypeDef.description.zh-cn=非致命的疾病可以通过卧床休养得到恢复。
 |WorkTypeDef.description.zh-tw=在不需要迫切的醫療照顧的狀況下在床上療養。

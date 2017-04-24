@@ -8,7 +8,7 @@
 |BiomeDef.label.zh-tw=熱帶雨林
 |BiomeDef.description=A thick, moist jungle. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant disease are why some explorers call this the "green hell".
 |BiomeDef.description.zh-cn=茂密潮湿的丛林。尽管如此美丽多姿，却实际上是个非常危险的生态系统。繁茂到闭塞的植被，富有攻击性的动物，以及阴魂不散的疾病，这就是为什么有些探险者将之称为「绿色地狱」。
-|BiomeDef.description.zh-tw=一個樹木茂密又潮濕的地區。在這裡建造或生存會因為繁茂的植物和凶猛的動物而變得極為困難。疾病在這裡是揮之不去的威脅。
+|BiomeDef.description.zh-tw=一個樹木茂密又潮濕的地區，雖然視覺上非常美麗，但這裡是非常危險的生態系。極度茂密生長的植物、侵略性的生物和不斷侵襲的疾病是熱帶雨林被探險家們稱為「綠色地獄」的原因。
 |BiomeDef.workerClass=BiomeWorker_TropicalRainforest
 |BiomeDef.animalDensity=7.2
 |BiomeDef.plantDensity=0.85

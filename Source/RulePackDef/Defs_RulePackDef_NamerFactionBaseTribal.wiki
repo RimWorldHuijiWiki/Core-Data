@@ -4,7 +4,7 @@
 |defName=NamerFactionBaseTribal
 |RulePackDef.defName=NamerFactionBaseTribal
 |RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="name->[tribalword]","name->[tribalword]","name->[color] [tribalword]","name->[color] [terrainfeature]","name->[tribalword] [terrainfeature]","tribalword->[tribalwordfile]","tribalword->[syl][syl]","tribalword->[syl][syl][syl]","name->[tribalword]","name->[tribalword]","name->[color]色[tribalword]","name->[color]色[terrainfeature]","name->[tribalword][terrainfeature]","tribalword->[tribalwordfile]","tribalword->[syl][syl]","tribalword->[syl][syl][syl]","name->[tribalword]","name->[tribalword]","name->[color] [tribalword]","name->[color] [terrainfeature]","name->[tribalword] [terrainfeature]","tribalword->[tribalwordfile]","tribalword->[syl][syl]","tribalword->[syl][syl][syl]"
+|RulePackDef.rulePack.rulesStrings="name->[tribalword]","name->[tribalword]","name->[color] [tribalword]","name->[color] [terrainfeature]","name->[tribalword] [terrainfeature]","tribalword->[tribalwordfile]","tribalword->[syl][syl]","tribalword->[syl][syl][syl]","name->[tribalword]","name->[tribalword]","name->[color]色[tribalword]","name->[color]色[terrainfeature]","name->[tribalword][terrainfeature]","tribalword->[tribalwordfile]","tribalword->[syl][syl]","tribalword->[syl][syl][syl]","name->[tribalwordfile][tribalword]","name->[tribalwordfile][tribalwordfile][tribalword]","name->[tribalwordfile][tribalwordfile][tribalwordfile][tribalword]","name->[animal][tribalword]","name->[color]色[animal][tribalword]","tribalword->洞","tribalword->村","tribalword->部落"
 |RulePackDef.rulePack.rulesRaw=Exist
 |RulePackDef.rulePack.rulesRaw.Count=3
 |RulePackDef.rulePack.rulesRaw.0=Exist

@@ -4,7 +4,7 @@
 |defName=PsychicEmanatorShipPartCrash
 |IncidentDef.defName=PsychicEmanatorShipPartCrash
 |IncidentDef.label=ship part crash (psychic)
-|IncidentDef.label.zh-cn=飞船部件坠毁（灵能）
+|IncidentDef.label.zh-cn=飞船部件坠毁（心灵）
 |IncidentDef.label.zh-tw=星艦碎片(心靈)
 |IncidentDef.workerClass=IncidentWorker_PsychicEmanatorShipPartCrash
 |IncidentDef.category=ThreatBig

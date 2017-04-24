@@ -4,10 +4,10 @@
 |defName=BlocksSlate
 |ThingDef.defName=BlocksSlate
 |ThingDef.label=slate blocks
-|ThingDef.label.zh-cn=板岩块
+|ThingDef.label.zh-cn=板岩砖
 |ThingDef.label.zh-tw=板岩磚
 |ThingDef.description=Blocks of solid slate. A dull-looking rock that chips easily.
-|ThingDef.description.zh-cn=块状的板岩。板岩是一种外表平淡的易碎岩石。
+|ThingDef.description.zh-cn=坚固的板岩砖块。板岩是一种外表平淡的易碎岩石。
 |ThingDef.description.zh-tw=板岩磚塊。這種外觀暗沉的岩石很容易碎裂。
 |ThingDef.statBases="MarketValue","1.9";"Mass","0.9";"SharpDamageMultiplier","0.6";"BluntDamageMultiplier","1.0";"Beauty","-12"
 |ThingDef.pathCost=15

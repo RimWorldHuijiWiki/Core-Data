@@ -4,8 +4,8 @@
 |defName=Outpost
 |SitePartDef.defName=Outpost
 |SitePartDef.label=outpost
-|SitePartDef.label.zh-cn=outpost
-|SitePartDef.label.zh-tw=outpost
+|SitePartDef.label.zh-cn=哨所
+|SitePartDef.label.zh-tw=哨站
 |SitePartDef.siteTexture=World/WorldObjects/Sites/Outpost
 |SitePartDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Outpost
 |SitePartDef.applyFactionColorToSiteTexture=true

@@ -7,7 +7,7 @@
 |ThingDef.label.zh-cn=长剑
 |ThingDef.label.zh-tw=長劍
 |ThingDef.description=The ancient weapon of kings, the longsword can be used for slashing or stabbing and is deadly in the right hands.
-|ThingDef.description.zh-cn=一般由国王拥有的远古武器，长剑可以用来劈砍或戳刺，在合适的人的手里非常致命。
+|ThingDef.description.zh-cn=一般由国王拥有的古老武器，长剑可以用来劈砍或戳刺，在合适的人的手里非常致命。
 |ThingDef.description.zh-tw=古代國王的武器，長劍適合砍殺與突刺，有了它就如同有了一支致命的右手。
 |ThingDef.statBases="WorkToMake","22000";"Mass","1.6";"MeleeWeapon_DamageAmount","17";"MeleeWeapon_Cooldown","2.5";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-6";"SellPriceFactor","0.20"
 |ThingDef.pathCost=10

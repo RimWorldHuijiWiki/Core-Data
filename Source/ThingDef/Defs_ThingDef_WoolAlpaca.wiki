@@ -4,10 +4,10 @@
 |defName=WoolAlpaca
 |ThingDef.defName=WoolAlpaca
 |ThingDef.label=alpaca wool
-|ThingDef.label.zh-cn=alpaca wool
+|ThingDef.label.zh-cn=羊驼毛
 |ThingDef.label.zh-tw=alpaca wool
 |ThingDef.description=The remarkably soft wool of an alpaca. It is very warm.
-|ThingDef.description.zh-cn=The remarkably soft wool of an alpaca. It is very warm.
+|ThingDef.description.zh-cn=非常柔软的羊驼毛。非常保暖。
 |ThingDef.description.zh-tw=The remarkably soft wool of an alpaca. It is very warm.
 |ThingDef.statBases="MarketValue","6.0";"DeteriorationRate","2.6";"MaxHitPoints","90";"Mass","0.028";"Flammability","1.0";"Beauty","-4"
 |ThingDef.pathCost=15
@@ -32,7 +32,7 @@
 |ThingDef.thingCategories="Textiles"
 |ThingDef.stuffProps=Exist
 |ThingDef.stuffProps.stuffAdjective=alpaca wool
-|ThingDef.stuffProps.stuffAdjective.zh-cn=alpaca wool
+|ThingDef.stuffProps.stuffAdjective.zh-cn=羊驼毛
 |ThingDef.stuffProps.stuffAdjective.zh-tw=alpaca wool
 |ThingDef.stuffProps.commonality=0.12
 |ThingDef.stuffProps.categories="Fabric"

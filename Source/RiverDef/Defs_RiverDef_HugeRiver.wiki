@@ -4,7 +4,7 @@
 |defName=HugeRiver
 |RiverDef.defName=HugeRiver
 |RiverDef.label=huge river
-|RiverDef.label.zh-cn=huge river
+|RiverDef.label.zh-cn=巨河
 |RiverDef.label.zh-tw=huge river
 |RiverDef.spawnFlowThreshold=1000000
 |RiverDef.spawnChance=1

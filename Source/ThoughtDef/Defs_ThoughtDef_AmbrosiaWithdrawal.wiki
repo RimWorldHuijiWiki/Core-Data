@@ -10,10 +10,10 @@
 |ThoughtDef.stages.0.visible=false
 |ThoughtDef.stages.1=Exist
 |ThoughtDef.stages.1.label=ambrosia withdrawal
-|ThoughtDef.stages.1.label.zh-cn=ambrosia withdrawal
+|ThoughtDef.stages.1.label.zh-cn=仙馐果戒断
 |ThoughtDef.stages.1.label.zh-tw=ambrosia withdrawal
 |ThoughtDef.stages.1.description=I just feel heavy and cold all the time. I never thought I'd want a piece of fruit so much.
-|ThoughtDef.stages.1.description.zh-cn=I just feel heavy and cold all the time. I never thought I'd want a piece of fruit so much.
+|ThoughtDef.stages.1.description.zh-cn=我总是感觉沉沉的，还发冷。我从来没像这样想再来一片果子。
 |ThoughtDef.stages.1.description.zh-tw=I just feel heavy and cold all the time. I never thought I'd want a piece of fruit so much.
 |ThoughtDef.stages.1.baseMoodEffect=-10
 |ThoughtDef.validWhileDespawned=true

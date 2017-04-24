@@ -5,10 +5,10 @@
 |MainButtonDef.defName=Assign
 |MainButtonDef.label=assign
 |MainButtonDef.label.zh-cn=方案
-|MainButtonDef.label.zh-tw=assign
+|MainButtonDef.label.zh-tw=分配
 |MainButtonDef.description=Configure what each colonist is allowed to wear, and how to react to nearby enemies.
 |MainButtonDef.description.zh-cn=配置每个殖民者允许穿戴的装备，以及附近有敌人时作出何种反应。管理使用成瘾品的方针。
-|MainButtonDef.description.zh-tw=Configure what each colonist is allowed to wear, and how to react to nearby enemies.
+|MainButtonDef.description.zh-tw=管理每位居民該穿些什麼服裝，以及遭遇敵人時該如何反應。
 |MainButtonDef.tabWindowClass=MainTabWindow_Assign
 |MainButtonDef.order=30
 |MainButtonDef.defaultHotKey=F3

@@ -4,8 +4,8 @@
 |defName=AncientAsphaltRoad
 |RoadDef.defName=AncientAsphaltRoad
 |RoadDef.label=ancient asphalt road
-|RoadDef.label.zh-cn=ancient asphalt road
-|RoadDef.label.zh-tw=ancient asphalt road
+|RoadDef.label.zh-cn=古老的沥青路
+|RoadDef.label.zh-tw=遠古瀝青路
 |RoadDef.priority=40
 |RoadDef.ancientOnly=true
 |RoadDef.movementCostMultiplier=0.5

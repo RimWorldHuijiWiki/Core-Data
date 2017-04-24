@@ -5,7 +5,7 @@
 |TraderKindDef.defName=Caravan_Neolithic_ShamanMerchant
 |TraderKindDef.label=shaman merchant
 |TraderKindDef.label.zh-cn=萨满商人
-|TraderKindDef.label.zh-tw=shaman merchant
+|TraderKindDef.label.zh-tw=薩滿商人
 |TraderKindDef.stockGenerators=Exist
 |TraderKindDef.stockGenerators.Count=9
 |TraderKindDef.stockGenerators.0=Exist

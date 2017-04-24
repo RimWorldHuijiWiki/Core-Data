@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=Flicker
 |WorkTypeDef.label=Flick
 |WorkTypeDef.label.zh-cn=开关
-|WorkTypeDef.label.zh-tw=Flick
+|WorkTypeDef.label.zh-tw=控制
 |WorkTypeDef.description=Flick switches. For example, when you designate toggling power on a turret, a flicker must manually flick it to toggle the power.
 |WorkTypeDef.description.zh-cn=电工负责开关电源。当切换用电设备或电路开关的供电状态时，电工将会前往拨动开关。
 |WorkTypeDef.description.zh-tw=控制員可以控制電源開關。

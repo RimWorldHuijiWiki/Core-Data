@@ -4,7 +4,7 @@
 |defName=AncientTempleContents
 |ItemCollectionGeneratorDef.defName=AncientTempleContents
 |ItemCollectionGeneratorDef.label=ancient temple contents
-|ItemCollectionGeneratorDef.label.zh-cn=ancient temple contents
+|ItemCollectionGeneratorDef.label.zh-cn=古代神庙内容物
 |ItemCollectionGeneratorDef.label.zh-tw=ancient temple contents
 |ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_AncientTempleContents
 }}

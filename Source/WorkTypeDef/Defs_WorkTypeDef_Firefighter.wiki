@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=Firefighter
 |WorkTypeDef.label=Firefight
 |WorkTypeDef.label.zh-cn=灭火
-|WorkTypeDef.label.zh-tw=Firefight
+|WorkTypeDef.label.zh-tw=滅火
 |WorkTypeDef.description=Extinguish fires in the colony.
 |WorkTypeDef.description.zh-cn=扑灭居住区内的火灾。
 |WorkTypeDef.description.zh-tw=消防員會撲滅殖民地内的火焰。

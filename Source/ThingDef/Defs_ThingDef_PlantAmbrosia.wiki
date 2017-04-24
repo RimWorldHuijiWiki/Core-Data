@@ -4,10 +4,10 @@
 |defName=PlantAmbrosia
 |ThingDef.defName=PlantAmbrosia
 |ThingDef.label=ambrosia bush
-|ThingDef.label.zh-cn=ambrosia bush
+|ThingDef.label.zh-cn=仙馐树
 |ThingDef.label.zh-tw=ambrosia bush
 |ThingDef.description=A rarely-sprouting bush which yields the ambrosia fruit. Ambrosia is pleasurable to eat and produces a slightly addictive chemical warmth effect.
-|ThingDef.description.zh-cn=A rarely-sprouting bush which yields the ambrosia fruit. Ambrosia is pleasurable to eat and produces a slightly addictive chemical warmth effect.
+|ThingDef.description.zh-cn=一种树苗罕见的灌木，可以收获仙馐果。食用仙馐果能使人愉悦并产生成瘾性轻微的化学温暖感效果。
 |ThingDef.description.zh-tw=A rarely-sprouting bush which yields the ambrosia fruit. Ambrosia is pleasurable to eat and produces a slightly addictive chemical warmth effect.
 |ThingDef.statBases="MaxHitPoints","100";"Flammability","0.8"
 |ThingDef.pathCost=10

@@ -4,7 +4,7 @@
 |defName=AmbrosiaHigh
 |HediffDef.defName=AmbrosiaHigh
 |HediffDef.label=ambrosia warmth
-|HediffDef.label.zh-cn=ambrosia warmth
+|HediffDef.label.zh-cn=仙馐果暖身
 |HediffDef.label.zh-tw=ambrosia warmth
 |HediffDef.hediffClass=HediffWithComps
 |HediffDef.comps=Exist

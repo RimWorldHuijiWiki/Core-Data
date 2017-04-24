@@ -4,10 +4,10 @@
 |defName=WoolMegasloth
 |ThingDef.defName=WoolMegasloth
 |ThingDef.label=Megasloth wool
-|ThingDef.label.zh-cn=Megasloth wool
+|ThingDef.label.zh-cn=巨懒毛
 |ThingDef.label.zh-tw=Megasloth wool
 |ThingDef.description=While somewhat coarse, megasloth wool's long fibers make it very strong. It is very warm.
-|ThingDef.description.zh-cn=While somewhat coarse, megasloth wool's long fibers make it very strong. It is very warm.
+|ThingDef.description.zh-cn=虽然有点粗糙，巨型树懒毛的长纤维使其非常坚固，非常保暖。
 |ThingDef.description.zh-tw=While somewhat coarse, megasloth wool's long fibers make it very strong. It is very warm.
 |ThingDef.statBases="MaxHitPoints","90";"MarketValue","2.7";"Mass","0.028";"Flammability","1.0";"DeteriorationRate","3.4";"Beauty","-4"
 |ThingDef.pathCost=15
@@ -32,7 +32,7 @@
 |ThingDef.thingCategories="Textiles"
 |ThingDef.stuffProps=Exist
 |ThingDef.stuffProps.stuffAdjective=Megasloth wool
-|ThingDef.stuffProps.stuffAdjective.zh-cn=Megasloth wool
+|ThingDef.stuffProps.stuffAdjective.zh-cn=巨懒毛
 |ThingDef.stuffProps.stuffAdjective.zh-tw=Megasloth wool
 |ThingDef.stuffProps.commonality=0.12
 |ThingDef.stuffProps.categories="Fabric"

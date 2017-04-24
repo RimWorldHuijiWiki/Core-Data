@@ -4,7 +4,7 @@
 |defName=QuestBanditCamp
 |IncidentDef.defName=QuestBanditCamp
 |IncidentDef.label=bandit camp opportunity
-|IncidentDef.label.zh-cn=bandit camp opportunity
+|IncidentDef.label.zh-cn=匪徒营地机会
 |IncidentDef.label.zh-tw=bandit camp opportunity
 |IncidentDef.workerClass=IncidentWorker_QuestBanditCamp
 |IncidentDef.category=Misc
@@ -12,10 +12,10 @@
 |IncidentDef.baseChance=1.3
 |IncidentDef.minRefireDays=5
 |IncidentDef.letterText={0}, {1} of {2}, has sent us a message.<br/><br/>Apparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.<br/><br/>If we succeed, their relations will improve, and they'll send us this reward:<br/><br/>{3}
-|IncidentDef.letterText.zh-cn={0}, {1} of {2}, has sent us a message.<br/><br/>Apparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.<br/><br/>If we succeed, their relations will improve, and they'll send us this reward:<br/><br/>{3}
+|IncidentDef.letterText.zh-cn={2}的{1}，{0}，给我们发送了一条消息。<br/><br/>附近一个营地中的匪徒基地袭击了他们的远行队。他们请求我们将其摧毁，这意味着要消灭所有敌人和炮塔。<br/><br/>成功后，关系将会得到提升，并且他们会发送给我们以下报酬：<br/><br/>{3}
 |IncidentDef.letterText.zh-tw={0}, {1} of {2}, has sent us a message.<br/><br/>Apparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.<br/><br/>If we succeed, their relations will improve, and they'll send us this reward:<br/><br/>{3}
 |IncidentDef.letterLabel=Bandit camp opportunity
-|IncidentDef.letterLabel.zh-cn=Bandit camp opportunity
+|IncidentDef.letterLabel.zh-cn=匪徒营地机会
 |IncidentDef.letterLabel.zh-tw=Bandit camp opportunity
 |IncidentDef.letterType=Good
 }}

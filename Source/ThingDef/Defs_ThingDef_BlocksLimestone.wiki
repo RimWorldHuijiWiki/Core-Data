@@ -4,10 +4,10 @@
 |defName=BlocksLimestone
 |ThingDef.defName=BlocksLimestone
 |ThingDef.label=limestone blocks
-|ThingDef.label.zh-cn=石灰岩块
+|ThingDef.label.zh-cn=石灰岩砖
 |ThingDef.label.zh-tw=石灰岩磚
 |ThingDef.description=Blocks of solid limestone.
-|ThingDef.description.zh-cn=块状的石灰岩。
+|ThingDef.description.zh-cn=坚固的石灰岩砖块。
 |ThingDef.description.zh-tw=加工成磚的石灰岩。
 |ThingDef.statBases="MarketValue","1.9";"Mass","1.1";"SharpDamageMultiplier","0.6";"BluntDamageMultiplier","1.0";"Beauty","-12"
 |ThingDef.pathCost=15

@@ -5,10 +5,10 @@
 |MainButtonDef.defName=World
 |MainButtonDef.label=world
 |MainButtonDef.label.zh-cn=世界
-|MainButtonDef.label.zh-tw=world
+|MainButtonDef.label.zh-tw=世界
 |MainButtonDef.description=Examine the world map.
 |MainButtonDef.description.zh-cn=查看世界地图。
-|MainButtonDef.description.zh-tw=Examine the world map.
+|MainButtonDef.description.zh-tw=查看世界地圖。
 |MainButtonDef.workerClass=MainButtonWorker_ToggleWorld
 |MainButtonDef.order=60
 |MainButtonDef.defaultHotKey=F5

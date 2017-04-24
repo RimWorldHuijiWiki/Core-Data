@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=Smithing
 |WorkTypeDef.label=Smith
 |WorkTypeDef.label.zh-cn=锻造
-|WorkTypeDef.label.zh-tw=Smith
+|WorkTypeDef.label.zh-tw=鍛造
 |WorkTypeDef.description=Create weapons and tools from raw materials, either as a blacksmith or by machining.
 |WorkTypeDef.description.zh-cn=铁匠负责将原材料锻造成武器和工具。
 |WorkTypeDef.description.zh-tw=鍛造師會將原料打造成武器或工具。
@@ -18,7 +18,7 @@
 |WorkTypeDef.pawnLabel.zh-tw=鍛造師
 |WorkTypeDef.gerundLabel=Smithing
 |WorkTypeDef.gerundLabel.zh-cn=锻造
-|WorkTypeDef.gerundLabel.zh-tw=鍛造師
+|WorkTypeDef.gerundLabel.zh-tw=鍛造
 |WorkTypeDef.verb=Smith at
 |WorkTypeDef.verb.zh-cn=锻造
 |WorkTypeDef.verb.zh-tw=鍛造於

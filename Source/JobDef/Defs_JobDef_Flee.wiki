@@ -6,6 +6,6 @@
 |JobDef.driverClass=JobDriver_Flee
 |JobDef.reportString=fleeing.
 |JobDef.reportString.zh-cn=逃跑中。
-|JobDef.reportString.zh-tw=fleeing.
+|JobDef.reportString.zh-tw=逃跑。
 |JobDef.checkOverrideOnDamage=OnlyIfInstigatorNotJobTarget
 }}

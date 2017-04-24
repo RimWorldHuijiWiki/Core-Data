@@ -5,7 +5,7 @@
 |RulePackDef.defName=ArtName_SarcophagusPlate
 |RulePackDef.include="ArtNameUtility"
 |RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="art_name->[angstyadjective] [anyPawn_nameShort]","art_name->[anyPawn_nameShort]","art_name->[color] [anyPawn_nameShort]","art_name->[angstyadjective] [angstyconcept]","art_name->[angstyadjective] [badassconcept]","art_name->[angstyadjective]之[anyPawn_nameShort]","art_name->[anyPawn_nameShort]","art_name->[color]色[anyPawn_nameShort]","art_name->[angstyadjective]之[angstyconcept]","art_name->[angstyadjective]之[badassconcept]","art_name->[angstyadjective] [anyPawn_nameShort]","art_name->[anyPawn_nameShort]","art_name->[color] [anyPawn_nameShort]","art_name->[angstyadjective] [angstyconcept]","art_name->[angstyadjective] [badassconcept]"
+|RulePackDef.rulePack.rulesStrings="art_name->[angstyadjective] [anyPawn_nameShort]","art_name->[anyPawn_nameShort]","art_name->[color] [anyPawn_nameShort]","art_name->[angstyadjective] [angstyconcept]","art_name->[angstyadjective] [badassconcept]","art_name->[angstyadjective]之[anyPawn_nameShort]","art_name->[anyPawn_nameShort]","art_name->[color]色[anyPawn_nameShort]","art_name->[angstyadjective]之[angstyconcept]","art_name->[angstyadjective]之[badassconcept]","art_name->[angstyadjective][anyPawn_nameShort]","art_name->[anyPawn_nameShort]","art_name->[color]色[anyPawn_nameShort]","art_name->[angstyconcept]","art_name->[angstyadjective][anyPawn_nameShort]"
 |RulePackDef.rulePack.rulesRaw=Exist
 |RulePackDef.rulePack.rulesRaw.Count=5
 |RulePackDef.rulePack.rulesRaw.0=Exist

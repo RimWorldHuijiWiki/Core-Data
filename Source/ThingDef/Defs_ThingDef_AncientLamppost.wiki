@@ -4,11 +4,11 @@
 |defName=AncientLamppost
 |ThingDef.defName=AncientLamppost
 |ThingDef.label=ancient lamppost
-|ThingDef.label.zh-cn=ancient lamppost
-|ThingDef.label.zh-tw=ancient lamppost
+|ThingDef.label.zh-cn=古老的路灯杆
+|ThingDef.label.zh-tw=古老路燈
 |ThingDef.description=Road lighting from long ago. No longer functional.
-|ThingDef.description.zh-cn=Road lighting from long ago. No longer functional.
-|ThingDef.description.zh-tw=Road lighting from long ago. No longer functional.
+|ThingDef.description.zh-cn=非常久远之前的路灯。已经无法工作了。
+|ThingDef.description.zh-tw=古老的道路照明設施，已經失去功能。
 |ThingDef.statBases="MaxHitPoints","300"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=100

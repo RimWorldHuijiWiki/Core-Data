@@ -5,10 +5,10 @@
 |ThingDef.defName=Apparel_SmokepopBelt
 |ThingDef.label=smokepop belt
 |ThingDef.label.zh-cn=烟罐腰带
-|ThingDef.label.zh-tw=smokepop belt
+|ThingDef.label.zh-tw=煙霧腰帶
 |ThingDef.description=An automatic defensive smokescreen. It will release a thick cloud of smoke if the wearer is hit by a projectile, providing line-of-sight cover and preventing turrets from locking on. Single-use.
 |ThingDef.description.zh-cn=自动防御烟幕。一旦穿戴者被子弹击中，会释放出厚厚的烟雾云，提供视线遮挡以及防止被炮塔锁定。一次性用品。
-|ThingDef.description.zh-tw=An automatic defensive smokescreen. It will release a thick cloud of smoke if the wearer is hit by a projectile, providing line-of-sight cover and preventing turrets from locking on. Single-use.
+|ThingDef.description.zh-tw=單人使用的自動煙霧屏障。當使用者被子彈擊中時會釋出一陣煙霧，阻隔敵人的視線或自動機槍塔的鎖定。
 |ThingDef.statBases="WorkToMake","3500";"Mass","3";"SmokepopBeltRadius","4";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-4";"SellPriceFactor","0.70"
 |ThingDef.pathCost=10
 |ThingDef.costList="Chemfuel","75";"Component","1";"Steel","25"

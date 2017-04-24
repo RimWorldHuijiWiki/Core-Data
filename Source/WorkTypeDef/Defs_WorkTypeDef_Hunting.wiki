@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=Hunting
 |WorkTypeDef.label=Hunt
 |WorkTypeDef.label.zh-cn=狩猎
-|WorkTypeDef.label.zh-tw=Hunt
+|WorkTypeDef.label.zh-tw=狩獵
 |WorkTypeDef.description=Kill animals which are designated to be hunted.
 |WorkTypeDef.description.zh-cn=猎人负责狩猎你指定的野生动物。
 |WorkTypeDef.description.zh-tw=獵人會狩獵你指定的動物。

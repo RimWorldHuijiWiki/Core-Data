@@ -5,10 +5,10 @@
 |MainButtonDef.defName=Menu
 |MainButtonDef.label=menu
 |MainButtonDef.label.zh-cn=菜单
-|MainButtonDef.label.zh-tw=menu
+|MainButtonDef.label.zh-tw=選單
 |MainButtonDef.description=Change options, save, load, or quit the game.
 |MainButtonDef.description.zh-cn=改变选项，保存、载入或退出游戏。
-|MainButtonDef.description.zh-tw=Change options, save, load, or quit the game.
+|MainButtonDef.description.zh-tw=變更遊戲選項、載入、儲存或離開遊戲
 |MainButtonDef.tabWindowClass=MainTabWindow_Menu
 |MainButtonDef.order=500
 |MainButtonDef.canBeTutorDenied=false

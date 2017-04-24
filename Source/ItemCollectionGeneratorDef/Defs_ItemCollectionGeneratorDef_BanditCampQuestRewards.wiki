@@ -4,7 +4,7 @@
 |defName=BanditCampQuestRewards
 |ItemCollectionGeneratorDef.defName=BanditCampQuestRewards
 |ItemCollectionGeneratorDef.label=bandit camp quest rewards
-|ItemCollectionGeneratorDef.label.zh-cn=bandit camp quest rewards
+|ItemCollectionGeneratorDef.label.zh-cn=匪徒营地请求报酬
 |ItemCollectionGeneratorDef.label.zh-tw=bandit camp quest rewards
 |ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_Rewards
 }}

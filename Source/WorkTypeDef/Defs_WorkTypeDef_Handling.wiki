@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=Handling
 |WorkTypeDef.label=Handle
 |WorkTypeDef.label.zh-cn=驯兽
-|WorkTypeDef.label.zh-tw=Handle
+|WorkTypeDef.label.zh-tw=馴獸
 |WorkTypeDef.description=Tame, train, harvest resources from and slaughter animals.
 |WorkTypeDef.description.zh-cn=驯兽师负责驯服野生动物、训练已驯服的动物、收获畜产品、宰杀已驯服的动物。
 |WorkTypeDef.description.zh-tw=馴獸員馴服、飼養以及宰殺動物，此外他們也負責擠奶、剃毛及撿拾雞蛋。

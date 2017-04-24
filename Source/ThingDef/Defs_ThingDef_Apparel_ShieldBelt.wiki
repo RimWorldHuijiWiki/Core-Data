@@ -4,11 +4,11 @@
 |defName=Apparel_ShieldBelt
 |ThingDef.defName=Apparel_ShieldBelt
 |ThingDef.label=shield belt
-|ThingDef.label.zh-cn=shield belt
-|ThingDef.label.zh-tw=shield belt
+|ThingDef.label.zh-cn=护盾腰带
+|ThingDef.label.zh-tw=護盾腰帶
 |ThingDef.description=A single-person energy shield device. It will attempt to stop any rapidly-moving projectile or energy attack that comes from a distance. It does nothing against melee attacks or shots from point-blank range. It also prevents firing past touch range.
-|ThingDef.description.zh-cn=A single-person energy shield device. It will attempt to stop any rapidly-moving projectile or energy attack that comes from a distance. It does nothing against melee attacks or shots from point-blank range. It also prevents firing past touch range.
-|ThingDef.description.zh-tw=A single-person energy shield device. It will attempt to stop any rapidly-moving projectile or energy attack that comes from a distance. It does nothing against melee attacks or shots from point-blank range. It also prevents firing past touch range.
+|ThingDef.description.zh-cn=一个单人用的能量护盾装置。它能阻挡从一定距离外射来的任何高速运动弹头或能量攻击。但对近战攻击或零距离贴近射击无效。同时也会阻碍穿戴者从内往外的射击。
+|ThingDef.description.zh-tw=單人使用的護盾腰帶，它會阻隔來自遠方的任何攻擊，如子彈或能量彈，但它無法防禦近身攻擊或來自護盾內的射擊，而它同時也阻止護盾內朝外部的射擊。
 |ThingDef.statBases="Mass","3";"EnergyShieldRechargeRate","0.13";"EnergyShieldEnergyMax","1.1";"WorkToMake","65000";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-4";"SellPriceFactor","0.70"
 |ThingDef.pathCost=10
 |ThingDef.costList="Component","6";"Plasteel","50";"Uranium","5"

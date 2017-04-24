@@ -4,7 +4,7 @@
 |defName=Weapons
 |ItemCollectionGeneratorDef.defName=Weapons
 |ItemCollectionGeneratorDef.label=weapons
-|ItemCollectionGeneratorDef.label.zh-cn=weapons
+|ItemCollectionGeneratorDef.label.zh-cn=武器
 |ItemCollectionGeneratorDef.label.zh-tw=weapons
 |ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_Weapons
 }}

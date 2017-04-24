@@ -14,7 +14,7 @@
 |WorkGiverDef.verb.zh-tw=石材加工
 |WorkGiverDef.gerund=stonecutting at
 |WorkGiverDef.gerund.zh-cn=切石于
-|WorkGiverDef.gerund.zh-tw=石材加工
+|WorkGiverDef.gerund.zh-tw=加工石材
 |WorkGiverDef.requiredCapacities="Manipulation"
 |WorkGiverDef.prioritizeSustains=true
 |WorkGiverDef.fixedBillGiverDefs="TableStonecutter"

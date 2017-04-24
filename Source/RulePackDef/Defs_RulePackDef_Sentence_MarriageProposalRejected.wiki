@@ -4,5 +4,5 @@
 |defName=Sentence_MarriageProposalRejected
 |RulePackDef.defName=Sentence_MarriageProposalRejected
 |RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="sent->[recipient_nameShortDef] rejected the proposal.","sent->[recipient_nameShortDef]拒绝了求婚。","sent->[recipient_nameShortDef] rejected the proposal."
+|RulePackDef.rulePack.rulesStrings="sent->[recipient_nameShortDef] rejected the proposal.","sent->[recipient_nameShortDef]拒绝了求婚。","sent->[recipient_nameShortDef]拒絕了求婚。"
 }}

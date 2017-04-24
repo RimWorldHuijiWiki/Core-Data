@@ -5,6 +5,6 @@
 |BodyPartDef.defName=Waist
 |BodyPartDef.label=waist
 |BodyPartDef.label.zh-cn=腰
-|BodyPartDef.label.zh-tw=waist
+|BodyPartDef.label.zh-tw=腰部
 |BodyPartDef.isConceptual=true
 }}

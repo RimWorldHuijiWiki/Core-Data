@@ -6,5 +6,5 @@
 |JobDef.driverClass=JobDriver_WaitMaintainPosture
 |JobDef.reportString=standing.
 |JobDef.reportString.zh-cn=站立中。
-|JobDef.reportString.zh-tw=standing.
+|JobDef.reportString.zh-tw=站著。
 }}

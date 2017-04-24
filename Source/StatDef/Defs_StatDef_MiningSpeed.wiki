@@ -8,7 +8,7 @@
 |StatDef.label.zh-tw=採礦速度
 |StatDef.description=A speed at which this person digs at walls and drills for deep resources.
 |StatDef.description.zh-cn=此人在开采和钻取深层资源时的速度。
-|StatDef.description.zh-tw=這名角色進行採礦工作時的效率加成。
+|StatDef.description.zh-tw=這名角色進行採礦工作時的速度加成。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
 |StatDef.defaultBaseValue=1

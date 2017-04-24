@@ -8,7 +8,7 @@
 |StatDef.label.zh-tw=工作速度
 |StatDef.description=A multiplier on someone's speed at doing any work.
 |StatDef.description.zh-cn=此人在做任何工作时的速度乘数。
-|StatDef.description.zh-tw=這名角色進行任何工作時的效率加成。
+|StatDef.description.zh-tw=這名角色進行任何工作時的速度加成。
 |StatDef.category=PawnWork
 |StatDef.displayPriorityInCategory=100
 |StatDef.toStringStyle=PercentZero

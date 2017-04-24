@@ -8,7 +8,7 @@
 |StatDef.label.zh-tw=研究速度
 |StatDef.description=This person does research at this speed.
 |StatDef.description.zh-cn=此人在研究时的速度。
-|StatDef.description.zh-tw=這名角色進行研究工作時的效率加成。
+|StatDef.description.zh-tw=這名角色進行研究工作時的速度加成。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
 |StatDef.defaultBaseValue=1

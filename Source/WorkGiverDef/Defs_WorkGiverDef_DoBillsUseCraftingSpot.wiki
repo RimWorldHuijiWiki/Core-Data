@@ -11,10 +11,10 @@
 |WorkGiverDef.priorityInType=100
 |WorkGiverDef.verb=craft
 |WorkGiverDef.verb.zh-cn=制作
-|WorkGiverDef.verb.zh-tw=工作
+|WorkGiverDef.verb.zh-tw=製造
 |WorkGiverDef.gerund=crafting at
 |WorkGiverDef.gerund.zh-cn=制作于
-|WorkGiverDef.gerund.zh-tw=工作於
+|WorkGiverDef.gerund.zh-tw=製造
 |WorkGiverDef.requiredCapacities="Manipulation"
 |WorkGiverDef.prioritizeSustains=true
 |WorkGiverDef.fixedBillGiverDefs="CraftingSpot"

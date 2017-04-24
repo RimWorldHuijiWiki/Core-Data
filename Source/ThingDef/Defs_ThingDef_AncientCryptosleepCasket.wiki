@@ -4,8 +4,8 @@
 |defName=AncientCryptosleepCasket
 |ThingDef.defName=AncientCryptosleepCasket
 |ThingDef.label=ancient cryptosleep casket
-|ThingDef.label.zh-cn=远古低温休眠舱
-|ThingDef.label.zh-tw=古老的冷凍休眠艙
+|ThingDef.label.zh-cn=古老的低温休眠舱
+|ThingDef.label.zh-tw=古老冷凍休眠艙
 |ThingDef.description=This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain?
 |ThingDef.description.zh-cn=这个低温休眠舱看起来已经在这里有很长时间了。谁知道这里边装着什么？
 |ThingDef.description.zh-tw=看起來已經存在了非常久的休眠艙，誰知道裡頭裝了些什麼？

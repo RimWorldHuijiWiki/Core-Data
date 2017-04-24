@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=Warden
 |WorkTypeDef.label=Warden
 |WorkTypeDef.label.zh-cn=监管
-|WorkTypeDef.label.zh-tw=Warden
+|WorkTypeDef.label.zh-tw=監管
 |WorkTypeDef.description=Manage, feed, chat with, and recruit prisoners.
 |WorkTypeDef.description.zh-cn=狱卒负责给囚犯送餐、和囚犯聊天、招募、殴打或是处决囚犯。需要在「囚犯」菜单内选择对应的选项。
 |WorkTypeDef.description.zh-tw=獄卒可以和招募俘虜，和俘虜聊天，毆打俘虜或是處決俘虜——只要你選擇對應的選項。獄卒也會替俘虜送食物。

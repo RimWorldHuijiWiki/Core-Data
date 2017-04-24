@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=Crafting
 |WorkTypeDef.label=Craft
 |WorkTypeDef.label.zh-cn=制作
-|WorkTypeDef.label.zh-tw=Craft
+|WorkTypeDef.label.zh-tw=製作
 |WorkTypeDef.description=Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more.
 |WorkTypeDef.description.zh-cn=工匠负责把原材料制成成品。
 |WorkTypeDef.description.zh-tw=工匠可以把原材料製成成品。

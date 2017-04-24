@@ -5,7 +5,7 @@
 |TraderKindDef.defName=Caravan_Neolithic_WarMerchant
 |TraderKindDef.label=war merchant
 |TraderKindDef.label.zh-cn=战争商人
-|TraderKindDef.label.zh-tw=war merchant
+|TraderKindDef.label.zh-tw=武器商人
 |TraderKindDef.stockGenerators=Exist
 |TraderKindDef.stockGenerators.Count=10
 |TraderKindDef.stockGenerators.0=Exist

@@ -5,10 +5,10 @@
 |MainButtonDef.defName=Factions
 |MainButtonDef.label=factions
 |MainButtonDef.label.zh-cn=派系
-|MainButtonDef.label.zh-tw=factions
+|MainButtonDef.label.zh-tw=勢力
 |MainButtonDef.description=Review the factions known to the colony and their relationships.
 |MainButtonDef.description.zh-cn=查看殖民地已知的所有派系和派系关系。
-|MainButtonDef.description.zh-tw=Review the factions known to the colony and their relationships.
+|MainButtonDef.description.zh-tw=殖民地與各方勢力的關係。
 |MainButtonDef.tabWindowClass=MainTabWindow_Factions
 |MainButtonDef.order=80
 |MainButtonDef.defaultHotKey=F7

@@ -7,7 +7,7 @@
 |ResearchProjectDef.label.zh-cn=低温休眠舱
 |ResearchProjectDef.label.zh-tw=冷凍休眠
 |ResearchProjectDef.description=Allows colonists to construct cryptosleep caskets, which can put living beings in a state of suspended animation.
-|ResearchProjectDef.description.zh-cn=解锁建造低温休眠舱，可使其内的生命体进入生理上的暂停状态。
+|ResearchProjectDef.description.zh-cn=解锁建造「低温休眠舱」，可使其内的生命体进入生理上的暂停状态。
 |ResearchProjectDef.description.zh-tw=解鎖居民建造冷凍休眠艙，可讓其中的生物進入冷凍休眠狀態。
 |ResearchProjectDef.techLevel=Spacer
 |ResearchProjectDef.baseCost=1100

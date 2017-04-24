@@ -5,10 +5,10 @@
 |ThingDef.defName=Apparel_BowlerHat
 |ThingDef.label=bowler hat
 |ThingDef.label.zh-cn=圆顶礼帽
-|ThingDef.label.zh-tw=bowler hat
+|ThingDef.label.zh-tw=禮帽
 |ThingDef.description=A good-looking hat which projects a slightly urban, money-loving style. Improves social impact.
 |ThingDef.description.zh-cn=一顶突出了轻都市、富贵风格的好看的帽子。提升社交影响力。
-|ThingDef.description.zh-tw=A good-looking hat which projects a slightly urban, money-loving style. Improves social impact.
+|ThingDef.description.zh-tw=一頂好看的帽子，投射出一種輕盈的都市拜金風格，能夠增進社交影響。
 |ThingDef.statBases="WorkToMake","4500";"Mass","0.14";"ArmorRating_Blunt","0.03";"ArmorRating_Sharp","0.03";"Insulation_Heat","4";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-4";"SellPriceFactor","0.70"
 |ThingDef.pathCost=10
 |ThingDef.costStuffCount=20

@@ -14,6 +14,6 @@
 |WorkGiverDef.verb.zh-tw=押送俘虜
 |WorkGiverDef.gerund=taking to bed
 |WorkGiverDef.gerund.zh-cn=带到床上
-|WorkGiverDef.gerund.zh-tw=押送俘虜
+|WorkGiverDef.gerund.zh-tw=押送
 |WorkGiverDef.requiredCapacities="Manipulation"
 }}

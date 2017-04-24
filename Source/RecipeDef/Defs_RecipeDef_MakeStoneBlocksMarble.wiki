@@ -4,10 +4,10 @@
 |defName=MakeStoneBlocksMarble
 |RecipeDef.defName=MakeStoneBlocksMarble
 |RecipeDef.label=make marble blocks
-|RecipeDef.label.zh-cn=制作大理石块
+|RecipeDef.label.zh-cn=制作大理石砖
 |RecipeDef.label.zh-tw=製造大理石石材
 |RecipeDef.description=Cuts marble chunks into usable blocks.
-|RecipeDef.description.zh-cn=将大理石堆切割成可用的方块。
+|RecipeDef.description.zh-cn=将大理石块切割成可用的砖块。
 |RecipeDef.description.zh-tw=將石塊製成大理石石材。
 |RecipeDef.jobString=Cutting stone blocks from chunk.
 |RecipeDef.jobString.zh-cn=正在切割石材。

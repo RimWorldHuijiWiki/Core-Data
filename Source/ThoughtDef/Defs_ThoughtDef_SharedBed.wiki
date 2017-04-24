@@ -13,5 +13,5 @@
 |ThoughtDef.stages.0.label.zh-tw=共用床鋪
 |ThoughtDef.stages.0.description=I have to share a bed with someone who I don't particularly want to.
 |ThoughtDef.stages.0.description.zh-cn=我得和我不想一起睡的人共用一张床。我想有些隐私。
-|ThoughtDef.stages.0.description.zh-tw=我不喜歡跟別人一起睡，希望能有自己的床。
+|ThoughtDef.stages.0.description.zh-tw=我得和一個我不願同床的人一起睡。
 }}

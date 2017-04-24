@@ -5,10 +5,10 @@
 |StatDef.defName=MechanoidOperationSuccessChance
 |StatDef.label=mechanoid operation success chance
 |StatDef.label.zh-cn=机械体改装成功几率
-|StatDef.label.zh-tw=mechanoid operation success chance
+|StatDef.label.zh-tw=機械拆解成功率
 |StatDef.description=The likelihood that a character will succeed when attempting to perform an operation on a mechanoid. Failures can result in simple wasted time, or catastrophic damage to the subject.
 |StatDef.description.zh-cn=当角色尝试对机械体执行改装时成功的可能性。改装出错时，轻则浪费时间，重则给对象带来灾难性的伤害。
-|StatDef.description.zh-tw=The likelihood that a character will succeed when attempting to perform an operation on a mechanoid. Failures can result in simple wasted time, or catastrophic damage to the subject.
+|StatDef.description.zh-tw=這名角色拆解機械時的成功率，拆解失敗的結果輕則白費時間，嚴重則可能使對象受到嚴重損害。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
 |StatDef.defaultBaseValue=1.00

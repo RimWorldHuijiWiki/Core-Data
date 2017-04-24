@@ -4,7 +4,7 @@
 |defName=AIPersonaCore
 |ThingDef.defName=AIPersonaCore
 |ThingDef.label=AI persona core
-|ThingDef.label.zh-cn=AI角色核心
+|ThingDef.label.zh-cn=AI伪人格核心
 |ThingDef.label.zh-tw=AI核心
 |ThingDef.description=A hyper-advanced computer core that houses a superhumanlike artificial intelligence. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of frightening power.
 |ThingDef.description.zh-cn=一个极先进的电脑核心，装载有类似于超人一般的人工智能。目前处于未连接的休眠状态。一但装在合适的飞船结构梁上，它将变成有着惊人威力的大脑。

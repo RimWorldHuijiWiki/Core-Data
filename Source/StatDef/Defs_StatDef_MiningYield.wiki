@@ -5,10 +5,10 @@
 |StatDef.defName=MiningYield
 |StatDef.label=mining yield
 |StatDef.label.zh-cn=开采产出
-|StatDef.label.zh-tw=mining yield
+|StatDef.label.zh-tw=採礦產量倍率
 |StatDef.description=The percentage yield a miner will achieve. Higher percentages reduce the chance of wasting the yield. This applies to both wall mining and deep drill mining.
 |StatDef.description.zh-cn=矿工将达到的百分比产出。更高的百分比将减少产出的浪费几率。同时应用于开采和深钻采矿。
-|StatDef.description.zh-tw=The percentage yield a miner will achieve. Higher percentages reduce the chance of wasting the yield. This applies to both wall mining and deep drill mining.
+|StatDef.description.zh-tw=這名角色採礦的產量加成。越高的倍率越能避免產品的浪費。此數值同時作用於地表開採及地下採礦。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
 |StatDef.defaultBaseValue=1

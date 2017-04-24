@@ -5,7 +5,7 @@
 |WorkTypeDef.defName=Tailoring
 |WorkTypeDef.label=Tailor
 |WorkTypeDef.label.zh-cn=缝制
-|WorkTypeDef.label.zh-tw=Tailor
+|WorkTypeDef.label.zh-tw=裁縫
 |WorkTypeDef.description=Create apparel from raw materials.
 |WorkTypeDef.description.zh-cn=裁缝负责将原材料缝制成衣物。
 |WorkTypeDef.description.zh-tw=裁縫師會將原料製成服裝。

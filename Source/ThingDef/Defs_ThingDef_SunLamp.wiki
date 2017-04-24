@@ -7,7 +7,7 @@
 |ThingDef.label.zh-cn=太阳灯
 |ThingDef.label.zh-tw=太陽燈
 |ThingDef.description=Lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.
-|ThingDef.description.zh-cn=将一片区域照亮到足以种植农作物。适合室内种植，代替太阳提供光源。需要消耗大量电力。
+|ThingDef.description.zh-cn=将一片区域照亮到足以种植农作物，但需要消耗大量电力。夜晚时会自动关闭。
 |ThingDef.description.zh-tw=為一整片區域提供足以讓植物生長的亮光。
 |ThingDef.statBases="WorkToBuild","330";"Mass","4.5";"MaxHitPoints","50";"Flammability","1.0"
 |ThingDef.passability=PassThroughOnly

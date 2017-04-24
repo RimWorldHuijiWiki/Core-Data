@@ -4,8 +4,8 @@
 |defName=DirtPath
 |RoadDef.defName=DirtPath
 |RoadDef.label=dirt path
-|RoadDef.label.zh-cn=dirt path
-|RoadDef.label.zh-tw=dirt path
+|RoadDef.label.zh-cn=泥土小径
+|RoadDef.label.zh-tw=小徑
 |RoadDef.priority=10
 |RoadDef.movementCostMultiplier=0.5
 |RoadDef.tilesPerSegment=15
