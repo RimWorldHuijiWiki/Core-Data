@@ -22,7 +22,7 @@
 |ThingDef.comps.1=Exist
 |ThingDef.comps.1.Class=CompProperties_Milkable
 |ThingDef.comps.1.milkIntervalDays=2
-|ThingDef.comps.1.milkAmount=8
+|ThingDef.comps.1.milkAmount=12
 |ThingDef.comps.1.milkDef=Milk
 |ThingDef.comps.2=Exist
 |ThingDef.comps.2.Class=CompProperties_Shearable

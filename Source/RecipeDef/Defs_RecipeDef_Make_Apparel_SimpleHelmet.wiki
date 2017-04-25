@@ -1,0 +1,32 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Apparel_SimpleHelmet
+|RecipeDef.defName=Make_Apparel_SimpleHelmet
+|RecipeDef.label=make simple helmet
+|RecipeDef.label.zh-cn=制作简易头盔
+|RecipeDef.label.zh-tw=make simple helmet
+|RecipeDef.description=Make simple helmet.
+|RecipeDef.description.zh-cn=提供一定利器攻击防护的简易头盔。抵抗钝器类武器不太有效。
+|RecipeDef.description.zh-tw=Make simple helmet.
+|RecipeDef.jobString=Making simple helmet.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=Making simple helmet.
+|RecipeDef.workAmount=6000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Metallic"
+|RecipeDef.ingredients.0.count=70
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Metallic"
+|RecipeDef.products="Apparel_SimpleHelmet","1"
+|RecipeDef.productHasIngredientStuff=true
+|RecipeDef.unfinishedThingDef=UnfinishedApparel
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Machining
+|RecipeDef.recipeUsers="TableMachining"
+}}

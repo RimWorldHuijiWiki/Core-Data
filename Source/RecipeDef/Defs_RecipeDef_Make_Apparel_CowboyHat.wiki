@@ -1,0 +1,33 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Apparel_CowboyHat
+|RecipeDef.defName=Make_Apparel_CowboyHat
+|RecipeDef.label=make cowboy hat
+|RecipeDef.label.zh-cn=缝制牛仔帽
+|RecipeDef.label.zh-tw=製作牛仔帽
+|RecipeDef.description=Make cowboy hat.
+|RecipeDef.description.zh-cn=时髦、粗狂，这顶风格独特的帽子可以为你遮风挡雨，而且带上它的人显得特别有魅力。西部风格着装中最重要的部分。
+|RecipeDef.description.zh-tw=製作一頂牛仔帽。
+|RecipeDef.jobString=Making cowboy hat.
+|RecipeDef.jobString.zh-cn=缝制中。
+|RecipeDef.jobString.zh-tw=製作牛仔帽。
+|RecipeDef.workAmount=5000
+|RecipeDef.workSpeedStat=TailoringSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Fabric","Leathery"
+|RecipeDef.ingredients.0.count=25
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Fabric","Leathery"
+|RecipeDef.products="Apparel_CowboyHat","1"
+|RecipeDef.productHasIngredientStuff=true
+|RecipeDef.unfinishedThingDef=UnfinishedApparel
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Tailor
+|RecipeDef.soundWorking=Recipe_Tailor
+|RecipeDef.recipeUsers="ElectricTailoringBench","HandTailoringBench"
+|RecipeDef.researchPrerequisite=ComplexClothing
+}}

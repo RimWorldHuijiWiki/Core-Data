@@ -1,0 +1,35 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_MeleeWeapon_LongSword
+|RecipeDef.defName=Make_MeleeWeapon_LongSword
+|RecipeDef.label=make longsword
+|RecipeDef.label.zh-cn=制作长剑
+|RecipeDef.label.zh-tw=製造長劍
+|RecipeDef.description=Make longsword.
+|RecipeDef.description.zh-cn=一般由国王拥有的古老武器，长剑可以用来劈砍或戳刺，在合适的人的手里非常致命。
+|RecipeDef.description.zh-tw=製造一把長劍。
+|RecipeDef.jobString=Making longsword.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造長劍。
+|RecipeDef.workAmount=22000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Metallic","Woody"
+|RecipeDef.ingredients.0.count=120
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Metallic","Woody"
+|RecipeDef.defaultIngredientFilter=Exist
+|RecipeDef.defaultIngredientFilter.categories="Root"
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs="Silver","Gold","WoodLog"
+|RecipeDef.products="MeleeWeapon_LongSword","1"
+|RecipeDef.productHasIngredientStuff=true
+|RecipeDef.unfinishedThingDef=UnfinishedWeapon
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Smith
+|RecipeDef.recipeUsers="ElectricSmithy","FueledSmithy"
+}}

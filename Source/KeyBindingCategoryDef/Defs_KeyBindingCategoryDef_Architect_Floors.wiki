@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingCategoryDef
+|defName=Architect_Floors
+|KeyBindingCategoryDef.defName=Architect_Floors
+|KeyBindingCategoryDef.label=floors tab
+|KeyBindingCategoryDef.description=Key bindings for the "floors" section of the Architect menu
+|KeyBindingCategoryDef.checkForConflicts="GameMapCamera","Game","SelectionMisc","SelectionSpecial","Architect","MainTabs","Development"
+}}

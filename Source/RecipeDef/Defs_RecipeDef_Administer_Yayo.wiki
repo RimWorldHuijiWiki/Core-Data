@@ -1,0 +1,24 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Administer_Yayo
+|RecipeDef.defName=Administer_Yayo
+|RecipeDef.label=administer yayo
+|RecipeDef.label.zh-cn=施用呀呦粉
+|RecipeDef.label.zh-tw=施用Y他命
+|RecipeDef.workerClass=Recipe_AdministerIngestible
+|RecipeDef.jobString=Administering yayo.
+|RecipeDef.jobString.zh-cn=正在施用呀呦粉。
+|RecipeDef.jobString.zh-tw=施用Y他命。
+|RecipeDef.workAmount=240
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Yayo"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Yayo"
+|RecipeDef.targetsBodyPart=false
+|RecipeDef.anesthetize=false
+}}

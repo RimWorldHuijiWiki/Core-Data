@@ -9,7 +9,7 @@
 |ThingDef.description=Road lighting from long ago. No longer functional.
 |ThingDef.description.zh-cn=非常久远之前的路灯。已经无法工作了。
 |ThingDef.description.zh-tw=古老的道路照明設施，已經失去功能。
-|ThingDef.statBases="MaxHitPoints","300"
+|ThingDef.statBases="MaxHitPoints","300";"WorkToBuild","400"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=100
 |ThingDef.costList="Steel","15"

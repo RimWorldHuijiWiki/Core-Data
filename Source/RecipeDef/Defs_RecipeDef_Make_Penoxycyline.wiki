@@ -1,0 +1,31 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Penoxycyline
+|RecipeDef.defName=Make_Penoxycyline
+|RecipeDef.label=make penoxycyline
+|RecipeDef.label.zh-cn=制作盘诺西林
+|RecipeDef.label.zh-tw=製造盤諾沙林抗生素
+|RecipeDef.description=Make penoxycyline.
+|RecipeDef.description.zh-cn=制作盘诺西林
+|RecipeDef.description.zh-tw=製造盤諾沙林抗生素。
+|RecipeDef.jobString=Making penoxycyline.
+|RecipeDef.jobString.zh-cn=制作制作盘诺西林。
+|RecipeDef.jobString.zh-tw=製造盤諾沙林抗生素。
+|RecipeDef.workAmount=500
+|RecipeDef.workSpeedStat=DrugProductionSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Neutroamine"
+|RecipeDef.ingredients.0.count=3
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Neutroamine"
+|RecipeDef.products="Penoxycyline","1"
+|RecipeDef.workSkill=Intellectual
+|RecipeDef.effectWorking=Cook
+|RecipeDef.soundWorking=Recipe_CookMeal
+|RecipeDef.recipeUsers="DrugLab"
+|RecipeDef.researchPrerequisite=PenoxycylineProduction
+}}

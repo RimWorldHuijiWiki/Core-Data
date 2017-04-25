@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MainTab_Animals
+|KeyBindingDef.defName=MainTab_Animals
+|KeyBindingDef.label=Toggle animals tab
+|KeyBindingDef.category=MainTabs
+|KeyBindingDef.defaultKeyCodeA=F4
+}}

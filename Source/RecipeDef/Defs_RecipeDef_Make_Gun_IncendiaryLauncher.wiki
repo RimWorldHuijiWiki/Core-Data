@@ -1,0 +1,35 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Gun_IncendiaryLauncher
+|RecipeDef.defName=Make_Gun_IncendiaryLauncher
+|RecipeDef.label=make incendiary launcher
+|RecipeDef.label.zh-cn=制作燃烧弹发射器
+|RecipeDef.label.zh-tw=製造燃燒彈發射器
+|RecipeDef.description=Make incendiary launcher.
+|RecipeDef.description.zh-cn=燃烧弹发射器。可以用来放火。
+|RecipeDef.description.zh-tw=製造一把燃燒彈發射器。
+|RecipeDef.jobString=Making incendiary launcher.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造燃燒彈發射器。
+|RecipeDef.workAmount=22000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Steel"
+|RecipeDef.ingredients.0.count=75
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs="Component"
+|RecipeDef.ingredients.1.count=4
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Steel","Component"
+|RecipeDef.products="Gun_IncendiaryLauncher","1"
+|RecipeDef.unfinishedThingDef=UnfinishedGun
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Smith
+|RecipeDef.recipeUsers="TableMachining"
+}}

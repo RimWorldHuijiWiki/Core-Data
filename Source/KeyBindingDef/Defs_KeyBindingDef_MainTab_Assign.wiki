@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MainTab_Assign
+|KeyBindingDef.defName=MainTab_Assign
+|KeyBindingDef.label=Toggle assign tab
+|KeyBindingDef.category=MainTabs
+|KeyBindingDef.defaultKeyCodeA=F3
+}}

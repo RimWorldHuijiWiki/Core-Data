@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MainTab_Architect
+|KeyBindingDef.defName=MainTab_Architect
+|KeyBindingDef.label=Toggle architect tab
+|KeyBindingDef.category=MainTabs
+|KeyBindingDef.defaultKeyCodeA=Tab
+}}

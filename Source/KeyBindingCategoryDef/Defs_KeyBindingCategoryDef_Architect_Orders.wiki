@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingCategoryDef
+|defName=Architect_Orders
+|KeyBindingCategoryDef.defName=Architect_Orders
+|KeyBindingCategoryDef.label=orders tab
+|KeyBindingCategoryDef.description=Key bindings for the "orders" section of the Architect menu
+|KeyBindingCategoryDef.checkForConflicts="GameMapCamera","Game","SelectionMisc","SelectionSpecial","Architect","MainTabs","Development"
+}}

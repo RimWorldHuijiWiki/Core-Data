@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MainTab_World
+|KeyBindingDef.defName=MainTab_World
+|KeyBindingDef.label=Toggle world tab
+|KeyBindingDef.category=MainTabs
+|KeyBindingDef.defaultKeyCodeA=F5
+}}

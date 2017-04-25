@@ -1,0 +1,24 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Administer_WakeUp
+|RecipeDef.defName=Administer_WakeUp
+|RecipeDef.label=administer wake-up
+|RecipeDef.label.zh-cn=施用清醒丸
+|RecipeDef.label.zh-tw=施用醒神劑
+|RecipeDef.workerClass=Recipe_AdministerIngestible
+|RecipeDef.jobString=Administering wake-up.
+|RecipeDef.jobString.zh-cn=正在施用清醒丸。
+|RecipeDef.jobString.zh-tw=施用醒神劑。
+|RecipeDef.workAmount=120
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="WakeUp"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="WakeUp"
+|RecipeDef.targetsBodyPart=false
+|RecipeDef.anesthetize=false
+}}

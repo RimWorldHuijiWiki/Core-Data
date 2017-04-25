@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingCategoryDef
+|defName=Architect_Misc
+|KeyBindingCategoryDef.defName=Architect_Misc
+|KeyBindingCategoryDef.label=misc tab
+|KeyBindingCategoryDef.description=Key bindings for the "misc" section of the Architect menu
+|KeyBindingCategoryDef.checkForConflicts="GameMapCamera","Game","SelectionMisc","SelectionSpecial","Architect","MainTabs","Development"
+}}

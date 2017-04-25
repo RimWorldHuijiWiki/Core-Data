@@ -1,0 +1,35 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_MeleeWeapon_Shiv
+|RecipeDef.defName=Make_MeleeWeapon_Shiv
+|RecipeDef.label=make shiv
+|RecipeDef.label.zh-cn=制作小刀
+|RecipeDef.label.zh-tw=製造刺刀
+|RecipeDef.description=Make shiv.
+|RecipeDef.description.zh-cn=一种自制的长得像匕首的武器。
+|RecipeDef.description.zh-tw=製造一把刺刀。
+|RecipeDef.jobString=Making shiv.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造刺刀。
+|RecipeDef.workAmount=400
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Metallic","Woody","Stony"
+|RecipeDef.ingredients.0.count=10
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Metallic","Woody","Stony"
+|RecipeDef.defaultIngredientFilter=Exist
+|RecipeDef.defaultIngredientFilter.categories="Root"
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs="Silver","Gold","WoodLog"
+|RecipeDef.products="MeleeWeapon_Shiv","1"
+|RecipeDef.productHasIngredientStuff=true
+|RecipeDef.unfinishedThingDef=UnfinishedWeapon
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Smith
+|RecipeDef.recipeUsers="ElectricSmithy","FueledSmithy","ElectricSmithy","FueledSmithy","CraftingSpot"
+}}

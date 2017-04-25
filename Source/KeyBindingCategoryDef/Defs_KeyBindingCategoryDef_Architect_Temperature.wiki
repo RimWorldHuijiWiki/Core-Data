@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingCategoryDef
+|defName=Architect_Temperature
+|KeyBindingCategoryDef.defName=Architect_Temperature
+|KeyBindingCategoryDef.label=temperature tab
+|KeyBindingCategoryDef.description=Key bindings for the "temperature" section of the Architect menu
+|KeyBindingCategoryDef.checkForConflicts="GameMapCamera","Game","SelectionMisc","SelectionSpecial","Architect","MainTabs","Development"
+}}

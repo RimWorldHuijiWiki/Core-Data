@@ -1,0 +1,36 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Apparel_PowerArmorHelmet
+|RecipeDef.defName=Make_Apparel_PowerArmorHelmet
+|RecipeDef.label=make power armor helmet
+|RecipeDef.label.zh-cn=制作动力头盔
+|RecipeDef.label.zh-tw=製造動力裝甲頭盔
+|RecipeDef.description=Make power armor helmet.
+|RecipeDef.description.zh-cn=动力装甲套装中的一部分，一般装备于重步兵。
+|RecipeDef.description.zh-tw=製造一頂動力裝甲頭盔。
+|RecipeDef.jobString=Making power armor helmet.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造動力裝甲頭盔。
+|RecipeDef.workAmount=40000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Component"
+|RecipeDef.ingredients.0.count=7
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs="Plasteel"
+|RecipeDef.ingredients.1.count=60
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Component","Plasteel"
+|RecipeDef.products="Apparel_PowerArmorHelmet","1"
+|RecipeDef.unfinishedThingDef=UnfinishedTechArmor
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Machining
+|RecipeDef.recipeUsers="TableMachining"
+|RecipeDef.researchPrerequisite=PoweredArmor
+}}

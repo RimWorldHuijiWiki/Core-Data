@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MainTab_History
+|KeyBindingDef.defName=MainTab_History
+|KeyBindingDef.label=Toggle history tab
+|KeyBindingDef.category=MainTabs
+|KeyBindingDef.defaultKeyCodeA=F6
+}}

@@ -22,7 +22,7 @@
 |ThingDef.comps.1=Exist
 |ThingDef.comps.1.Class=CompProperties_Milkable
 |ThingDef.comps.1.milkIntervalDays=1
-|ThingDef.comps.1.milkAmount=10
+|ThingDef.comps.1.milkAmount=15
 |ThingDef.comps.1.milkDef=Milk
 |ThingDef.selectable=true
 |ThingDef.hasTooltip=true

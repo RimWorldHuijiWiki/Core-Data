@@ -1,0 +1,33 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Apparel_CollarShirt
+|RecipeDef.defName=Make_Apparel_CollarShirt
+|RecipeDef.label=make button-down shirt
+|RecipeDef.label.zh-cn=缝制衬衫
+|RecipeDef.label.zh-tw=製作襯衫
+|RecipeDef.description=Make button-down shirt.
+|RecipeDef.description.zh-cn=一件好看的、带有纽扣的有领衬衫。
+|RecipeDef.description.zh-tw=製作一件襯衫。
+|RecipeDef.jobString=Making button-down shirt.
+|RecipeDef.jobString.zh-cn=缝制中。
+|RecipeDef.jobString.zh-tw=製作襯衫。
+|RecipeDef.workAmount=7500
+|RecipeDef.workSpeedStat=TailoringSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Fabric","Leathery"
+|RecipeDef.ingredients.0.count=55
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Fabric","Leathery"
+|RecipeDef.products="Apparel_CollarShirt","1"
+|RecipeDef.productHasIngredientStuff=true
+|RecipeDef.unfinishedThingDef=UnfinishedApparel
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Tailor
+|RecipeDef.soundWorking=Recipe_Tailor
+|RecipeDef.recipeUsers="ElectricTailoringBench","HandTailoringBench"
+|RecipeDef.researchPrerequisite=ComplexClothing
+}}

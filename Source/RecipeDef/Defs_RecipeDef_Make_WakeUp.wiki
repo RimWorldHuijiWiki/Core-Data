@@ -1,0 +1,31 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_WakeUp
+|RecipeDef.defName=Make_WakeUp
+|RecipeDef.label=make wake-up
+|RecipeDef.label.zh-cn=制作清醒丸
+|RecipeDef.label.zh-tw=製造醒神劑
+|RecipeDef.description=Make wake-up.
+|RecipeDef.description.zh-cn=一种成瘾性极强的兴奋剂，清醒丸能够强化使用者的认知能力，使得服用者在短时期内工作时更加集中，忘记疲劳。但是药物成瘾后会使得精神受损，有时还会导致精神崩溃。
+|RecipeDef.description.zh-tw=製造醒神劑。
+|RecipeDef.jobString=Making wake-up.
+|RecipeDef.jobString.zh-cn=正在制作清醒丸。
+|RecipeDef.jobString.zh-tw=製造醒神劑。
+|RecipeDef.workAmount=900
+|RecipeDef.workSpeedStat=DrugProductionSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Neutroamine"
+|RecipeDef.ingredients.0.count=2
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Neutroamine"
+|RecipeDef.products="WakeUp","1"
+|RecipeDef.workSkill=Intellectual
+|RecipeDef.effectWorking=Cook
+|RecipeDef.soundWorking=Recipe_CookMeal
+|RecipeDef.recipeUsers="DrugLab"
+|RecipeDef.researchPrerequisite=WakeUpProduction
+}}

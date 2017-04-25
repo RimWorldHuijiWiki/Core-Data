@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingCategoryDef
+|defName=Architect_Structure
+|KeyBindingCategoryDef.defName=Architect_Structure
+|KeyBindingCategoryDef.label=structure tab
+|KeyBindingCategoryDef.description=Key bindings for the "structure" section of the Architect menu
+|KeyBindingCategoryDef.checkForConflicts="GameMapCamera","Game","SelectionMisc","SelectionSpecial","Architect","MainTabs","Development"
+}}

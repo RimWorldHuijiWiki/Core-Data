@@ -1,0 +1,35 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_SculptureGrand
+|RecipeDef.defName=Make_SculptureGrand
+|RecipeDef.label=make grand sculpture
+|RecipeDef.label.zh-cn=制作宏伟雕塑
+|RecipeDef.label.zh-tw=雕塑巨型雕像
+|RecipeDef.description=Make grand sculpture.
+|RecipeDef.description.zh-cn=由一块汽车大小的材料塑造而成的艺术品。
+|RecipeDef.description.zh-tw=製作一個巨型雕像。
+|RecipeDef.jobString=Making grand sculpture.
+|RecipeDef.jobString.zh-cn=雕塑中。
+|RecipeDef.jobString.zh-tw=製作巨型雕像。
+|RecipeDef.workAmount=65000
+|RecipeDef.workSpeedStat=SculptingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Metallic","Woody","Stony"
+|RecipeDef.ingredients.0.count=260
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Metallic","Woody","Stony"
+|RecipeDef.defaultIngredientFilter=Exist
+|RecipeDef.defaultIngredientFilter.categories="Root"
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs="Gold","Silver","Plasteel","Jade","Uranium"
+|RecipeDef.products="SculptureGrand","1"
+|RecipeDef.productHasIngredientStuff=true
+|RecipeDef.unfinishedThingDef=UnfinishedSculpture
+|RecipeDef.workSkill=Artistic
+|RecipeDef.effectWorking=Sculpt
+|RecipeDef.soundWorking=Recipe_Sculpt
+|RecipeDef.recipeUsers="TableSculpting"
+}}

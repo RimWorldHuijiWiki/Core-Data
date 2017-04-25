@@ -1,0 +1,24 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Administer_GoJuice
+|RecipeDef.defName=Administer_GoJuice
+|RecipeDef.label=administer go-juice
+|RecipeDef.label.zh-cn=施用活力水
+|RecipeDef.label.zh-tw=施用能量果飲
+|RecipeDef.workerClass=Recipe_AdministerIngestible
+|RecipeDef.jobString=Administering go-juice.
+|RecipeDef.jobString.zh-cn=正在施用活力水。
+|RecipeDef.jobString.zh-tw=施用能量果飲。
+|RecipeDef.workAmount=90
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="GoJuice"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="GoJuice"
+|RecipeDef.targetsBodyPart=false
+|RecipeDef.anesthetize=false
+}}

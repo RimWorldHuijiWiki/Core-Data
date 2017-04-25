@@ -9,7 +9,7 @@
 |ThingDef.description=A traffic management solution from long ago.
 |ThingDef.description.zh-cn=非常久远之前的交通管制设施。
 |ThingDef.description.zh-tw=古老的道路交通設施。
-|ThingDef.statBases="MaxHitPoints","500";"Beauty","-10";"Flammability","0"
+|ThingDef.statBases="MaxHitPoints","500";"Beauty","-10";"Flammability","0";"WorkToBuild","600"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=35
 |ThingDef.pathCostIgnoreRepeat=true

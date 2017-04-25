@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MainTab_Restrict
+|KeyBindingDef.defName=MainTab_Restrict
+|KeyBindingDef.label=Toggle restrict tab
+|KeyBindingDef.category=MainTabs
+|KeyBindingDef.defaultKeyCodeA=F2
+}}

@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MainTab_Factions
+|KeyBindingDef.defName=MainTab_Factions
+|KeyBindingDef.label=Toggle factions tab
+|KeyBindingDef.category=MainTabs
+|KeyBindingDef.defaultKeyCodeA=F7
+}}

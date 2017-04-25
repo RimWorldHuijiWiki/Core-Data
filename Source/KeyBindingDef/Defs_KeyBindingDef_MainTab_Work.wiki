@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MainTab_Work
+|KeyBindingDef.defName=MainTab_Work
+|KeyBindingDef.label=Toggle work tab
+|KeyBindingDef.category=MainTabs
+|KeyBindingDef.defaultKeyCodeA=F1
+}}

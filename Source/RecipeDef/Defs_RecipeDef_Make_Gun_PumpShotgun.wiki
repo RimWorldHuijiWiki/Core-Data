@@ -1,0 +1,35 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Gun_PumpShotgun
+|RecipeDef.defName=Make_Gun_PumpShotgun
+|RecipeDef.label=make pump shotgun
+|RecipeDef.label.zh-cn=制作泵动霰弹枪
+|RecipeDef.label.zh-tw=製造泵動霰彈槍
+|RecipeDef.description=Make pump shotgun.
+|RecipeDef.description.zh-cn=很古老的设计，杀伤力很强，但是射程很短。
+|RecipeDef.description.zh-tw=製造一把泵動霰彈槍。
+|RecipeDef.jobString=Making pump shotgun.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造泵動霰彈槍。
+|RecipeDef.workAmount=30000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Steel"
+|RecipeDef.ingredients.0.count=60
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs="Component"
+|RecipeDef.ingredients.1.count=3
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Steel","Component"
+|RecipeDef.products="Gun_PumpShotgun","1"
+|RecipeDef.unfinishedThingDef=UnfinishedGun
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Smith
+|RecipeDef.recipeUsers="TableMachining"
+}}

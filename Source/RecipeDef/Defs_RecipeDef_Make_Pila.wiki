@@ -1,0 +1,30 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Pila
+|RecipeDef.defName=Make_Pila
+|RecipeDef.label=make pila
+|RecipeDef.label.zh-cn=制作投矛
+|RecipeDef.label.zh-tw=製造投矛
+|RecipeDef.description=Make pila.
+|RecipeDef.description.zh-cn=一捆投矛，投掷出去后就无法重新回收使用。
+|RecipeDef.description.zh-tw=製造一把投矛。
+|RecipeDef.jobString=Making pila.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造投矛。
+|RecipeDef.workAmount=13000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="WoodLog"
+|RecipeDef.ingredients.0.count=70
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="WoodLog"
+|RecipeDef.products="Pila","1"
+|RecipeDef.unfinishedThingDef=UnfinishedWeapon
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smelt
+|RecipeDef.recipeUsers="ElectricSmithy","FueledSmithy"
+}}

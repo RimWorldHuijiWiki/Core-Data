@@ -1,0 +1,35 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Gun_SniperRifle
+|RecipeDef.defName=Make_Gun_SniperRifle
+|RecipeDef.label=make sniper rifle
+|RecipeDef.label.zh-cn=制作狙击步枪
+|RecipeDef.label.zh-tw=製造狙擊槍
+|RecipeDef.description=Make sniper rifle.
+|RecipeDef.description.zh-cn=样式古老的军用狙击步枪。栓动式。射程很远，极高的精确度和威力。
+|RecipeDef.description.zh-tw=製造一把狙擊槍。
+|RecipeDef.jobString=Making sniper rifle.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造狙擊槍。
+|RecipeDef.workAmount=55000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Steel"
+|RecipeDef.ingredients.0.count=60
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs="Component"
+|RecipeDef.ingredients.1.count=8
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Steel","Component"
+|RecipeDef.products="Gun_SniperRifle","1"
+|RecipeDef.unfinishedThingDef=UnfinishedGun
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Smith
+|RecipeDef.recipeUsers="TableMachining"
+}}

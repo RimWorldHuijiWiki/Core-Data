@@ -1,0 +1,33 @@
+﻿{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Apparel_Pants
+|RecipeDef.defName=Make_Apparel_Pants
+|RecipeDef.label=make pants
+|RecipeDef.label.zh-cn=缝制裤子
+|RecipeDef.label.zh-tw=製作褲子
+|RecipeDef.description=Make pants.
+|RecipeDef.description.zh-cn=一条普通的裤子。
+|RecipeDef.description.zh-tw=製作一件褲子。
+|RecipeDef.jobString=Making pants.
+|RecipeDef.jobString.zh-cn=缝制中。
+|RecipeDef.jobString.zh-tw=製作褲子。
+|RecipeDef.workAmount=7000
+|RecipeDef.workSpeedStat=TailoringSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Fabric","Leathery"
+|RecipeDef.ingredients.0.count=50
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Fabric","Leathery"
+|RecipeDef.products="Apparel_Pants","1"
+|RecipeDef.productHasIngredientStuff=true
+|RecipeDef.unfinishedThingDef=UnfinishedApparel
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Tailor
+|RecipeDef.soundWorking=Recipe_Tailor
+|RecipeDef.recipeUsers="ElectricTailoringBench","HandTailoringBench"
+|RecipeDef.researchPrerequisite=ComplexClothing
+}}

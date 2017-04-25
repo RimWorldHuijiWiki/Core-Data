@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingCategoryDef
+|defName=Architect_Furniture
+|KeyBindingCategoryDef.defName=Architect_Furniture
+|KeyBindingCategoryDef.label=furniture tab
+|KeyBindingCategoryDef.description=Key bindings for the "furniture" section of the Architect menu
+|KeyBindingCategoryDef.checkForConflicts="GameMapCamera","Game","SelectionMisc","SelectionSpecial","Architect","MainTabs","Development"
+}}

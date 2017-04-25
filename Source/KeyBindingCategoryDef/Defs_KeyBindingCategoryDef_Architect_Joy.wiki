@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=KeyBindingCategoryDef
+|defName=Architect_Joy
+|KeyBindingCategoryDef.defName=Architect_Joy
+|KeyBindingCategoryDef.label=joy tab
+|KeyBindingCategoryDef.description=Key bindings for the "joy" section of the Architect menu
+|KeyBindingCategoryDef.checkForConflicts="GameMapCamera","Game","SelectionMisc","SelectionSpecial","Architect","MainTabs","Development"
+}}
