@@ -4,10 +4,10 @@
 |defName=Sandstone_Smooth
 |TerrainDef.defName=Sandstone_Smooth
 |TerrainDef.label=smooth sandstone
-|TerrainDef.label.zh-cn=打磨过的砂岩地面
+|TerrainDef.label.zh-cn=光滑的砂岩地面
 |TerrainDef.label.zh-tw=光滑砂岩地
 |TerrainDef.description=Smoothed natural sandstone floor.
-|TerrainDef.description.zh-cn=打磨过的天然砂岩地面。
+|TerrainDef.description.zh-cn=打磨光滑的天然砂岩地面。
 |TerrainDef.description.zh-tw=經打磨的光滑砂岩地面。
 |TerrainDef.statBases="Beauty","1"
 |TerrainDef.pathCost=1

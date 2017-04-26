@@ -4,6 +4,10 @@
 |defName=Architect_Floors
 |KeyBindingCategoryDef.defName=Architect_Floors
 |KeyBindingCategoryDef.label=floors tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 地面
+|KeyBindingCategoryDef.label.zh-tw=地面選單
 |KeyBindingCategoryDef.description=Key bindings for the "floors" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「地面」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「地面」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts="GameMapCamera","Game","SelectionMisc","SelectionSpecial","Architect","MainTabs","Development"
 }}

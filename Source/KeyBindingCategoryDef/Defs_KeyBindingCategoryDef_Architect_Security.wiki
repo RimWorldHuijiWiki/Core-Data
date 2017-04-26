@@ -4,6 +4,10 @@
 |defName=Architect_Security
 |KeyBindingCategoryDef.defName=Architect_Security
 |KeyBindingCategoryDef.label=security tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 防卫
+|KeyBindingCategoryDef.label.zh-tw=防衛選單
 |KeyBindingCategoryDef.description=Key bindings for the "security" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「防卫」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「防衛」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts="GameMapCamera","Game","SelectionMisc","SelectionSpecial","Architect","MainTabs","Development"
 }}

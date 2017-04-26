@@ -16576,7 +16576,11 @@ Core:Defs_KeyBindingCategoryDef_Architect_Floors,"{{#set:
 |defName=Architect_Floors
 |KeyBindingCategoryDef.defName=Architect_Floors
 |KeyBindingCategoryDef.label=floors tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 地面
+|KeyBindingCategoryDef.label.zh-tw=地面選單
 |KeyBindingCategoryDef.description=Key bindings for the ""floors"" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「地面」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「地面」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts=""GameMapCamera"",""Game"",""SelectionMisc"",""SelectionSpecial"",""Architect"",""MainTabs"",""Development""
 }}"
 Core:Defs_KeyBindingCategoryDef_Architect_Furniture,"{{#set:
@@ -16585,7 +16589,11 @@ Core:Defs_KeyBindingCategoryDef_Architect_Furniture,"{{#set:
 |defName=Architect_Furniture
 |KeyBindingCategoryDef.defName=Architect_Furniture
 |KeyBindingCategoryDef.label=furniture tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 家具
+|KeyBindingCategoryDef.label.zh-tw=家具選單
 |KeyBindingCategoryDef.description=Key bindings for the ""furniture"" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「家具」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「家具」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts=""GameMapCamera"",""Game"",""SelectionMisc"",""SelectionSpecial"",""Architect"",""MainTabs"",""Development""
 }}"
 Core:Defs_KeyBindingCategoryDef_Architect_Joy,"{{#set:
@@ -16594,7 +16602,11 @@ Core:Defs_KeyBindingCategoryDef_Architect_Joy,"{{#set:
 |defName=Architect_Joy
 |KeyBindingCategoryDef.defName=Architect_Joy
 |KeyBindingCategoryDef.label=joy tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 娱乐
+|KeyBindingCategoryDef.label.zh-tw=娛樂選單
 |KeyBindingCategoryDef.description=Key bindings for the ""joy"" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「娱乐」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「娛樂」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts=""GameMapCamera"",""Game"",""SelectionMisc"",""SelectionSpecial"",""Architect"",""MainTabs"",""Development""
 }}"
 Core:Defs_KeyBindingCategoryDef_Architect_Misc,"{{#set:
@@ -16603,7 +16615,11 @@ Core:Defs_KeyBindingCategoryDef_Architect_Misc,"{{#set:
 |defName=Architect_Misc
 |KeyBindingCategoryDef.defName=Architect_Misc
 |KeyBindingCategoryDef.label=misc tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 杂项
+|KeyBindingCategoryDef.label.zh-tw=其他選單
 |KeyBindingCategoryDef.description=Key bindings for the ""misc"" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「杂项」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「其他」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts=""GameMapCamera"",""Game"",""SelectionMisc"",""SelectionSpecial"",""Architect"",""MainTabs"",""Development""
 }}"
 Core:Defs_KeyBindingCategoryDef_Architect_Orders,"{{#set:
@@ -16612,7 +16628,11 @@ Core:Defs_KeyBindingCategoryDef_Architect_Orders,"{{#set:
 |defName=Architect_Orders
 |KeyBindingCategoryDef.defName=Architect_Orders
 |KeyBindingCategoryDef.label=orders tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 命令
+|KeyBindingCategoryDef.label.zh-tw=命令選單
 |KeyBindingCategoryDef.description=Key bindings for the ""orders"" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「命令」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「命令」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts=""GameMapCamera"",""Game"",""SelectionMisc"",""SelectionSpecial"",""Architect"",""MainTabs"",""Development""
 }}"
 Core:Defs_KeyBindingCategoryDef_Architect_Power,"{{#set:
@@ -16621,7 +16641,11 @@ Core:Defs_KeyBindingCategoryDef_Architect_Power,"{{#set:
 |defName=Architect_Power
 |KeyBindingCategoryDef.defName=Architect_Power
 |KeyBindingCategoryDef.label=power tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 电力
+|KeyBindingCategoryDef.label.zh-tw=電力選單
 |KeyBindingCategoryDef.description=Key bindings for the ""power"" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「电力」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「電力」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts=""GameMapCamera"",""Game"",""SelectionMisc"",""SelectionSpecial"",""Architect"",""MainTabs"",""Development""
 }}"
 Core:Defs_KeyBindingCategoryDef_Architect_Production,"{{#set:
@@ -16630,7 +16654,11 @@ Core:Defs_KeyBindingCategoryDef_Architect_Production,"{{#set:
 |defName=Architect_Production
 |KeyBindingCategoryDef.defName=Architect_Production
 |KeyBindingCategoryDef.label=production tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 生产
+|KeyBindingCategoryDef.label.zh-tw=生產選單
 |KeyBindingCategoryDef.description=Key bindings for the ""production"" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「生产」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「生產」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts=""GameMapCamera"",""Game"",""SelectionMisc"",""SelectionSpecial"",""Architect"",""MainTabs"",""Development""
 }}"
 Core:Defs_KeyBindingCategoryDef_Architect_Security,"{{#set:
@@ -16639,7 +16667,11 @@ Core:Defs_KeyBindingCategoryDef_Architect_Security,"{{#set:
 |defName=Architect_Security
 |KeyBindingCategoryDef.defName=Architect_Security
 |KeyBindingCategoryDef.label=security tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 防卫
+|KeyBindingCategoryDef.label.zh-tw=防衛選單
 |KeyBindingCategoryDef.description=Key bindings for the ""security"" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「防卫」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「防衛」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts=""GameMapCamera"",""Game"",""SelectionMisc"",""SelectionSpecial"",""Architect"",""MainTabs"",""Development""
 }}"
 Core:Defs_KeyBindingCategoryDef_Architect_Ship,"{{#set:
@@ -16648,7 +16680,11 @@ Core:Defs_KeyBindingCategoryDef_Architect_Ship,"{{#set:
 |defName=Architect_Ship
 |KeyBindingCategoryDef.defName=Architect_Ship
 |KeyBindingCategoryDef.label=ship tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 飞船
+|KeyBindingCategoryDef.label.zh-tw=星艦選單
 |KeyBindingCategoryDef.description=Key bindings for the ""ship"" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「飞船」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「星艦」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts=""GameMapCamera"",""Game"",""SelectionMisc"",""SelectionSpecial"",""Architect"",""MainTabs"",""Development""
 }}"
 Core:Defs_KeyBindingCategoryDef_Architect_Structure,"{{#set:
@@ -16657,7 +16693,11 @@ Core:Defs_KeyBindingCategoryDef_Architect_Structure,"{{#set:
 |defName=Architect_Structure
 |KeyBindingCategoryDef.defName=Architect_Structure
 |KeyBindingCategoryDef.label=structure tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 结构
+|KeyBindingCategoryDef.label.zh-tw=結構選單
 |KeyBindingCategoryDef.description=Key bindings for the ""structure"" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「结构」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「結構」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts=""GameMapCamera"",""Game"",""SelectionMisc"",""SelectionSpecial"",""Architect"",""MainTabs"",""Development""
 }}"
 Core:Defs_KeyBindingCategoryDef_Architect_Temperature,"{{#set:
@@ -16666,7 +16706,11 @@ Core:Defs_KeyBindingCategoryDef_Architect_Temperature,"{{#set:
 |defName=Architect_Temperature
 |KeyBindingCategoryDef.defName=Architect_Temperature
 |KeyBindingCategoryDef.label=temperature tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 温度
+|KeyBindingCategoryDef.label.zh-tw=溫度選單
 |KeyBindingCategoryDef.description=Key bindings for the ""temperature"" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「温度」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「溫度」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts=""GameMapCamera"",""Game"",""SelectionMisc"",""SelectionSpecial"",""Architect"",""MainTabs"",""Development""
 }}"
 Core:Defs_KeyBindingCategoryDef_Architect_Zone,"{{#set:
@@ -16675,7 +16719,11 @@ Core:Defs_KeyBindingCategoryDef_Architect_Zone,"{{#set:
 |defName=Architect_Zone
 |KeyBindingCategoryDef.defName=Architect_Zone
 |KeyBindingCategoryDef.label=zone/Area tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 区域
+|KeyBindingCategoryDef.label.zh-tw=區域選單
 |KeyBindingCategoryDef.description=Key bindings for the ""zone/Area"" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「区域」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「區域」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts=""GameMapCamera"",""Game"",""SelectionMisc"",""SelectionSpecial"",""Architect"",""MainTabs"",""Development""
 }}"
 Core:Defs_KeyBindingCategoryDef_Development,"{{#set:
@@ -16842,6 +16890,8 @@ Core:Defs_KeyBindingDef_MainTab_Animals,"{{#set:
 |defName=MainTab_Animals
 |KeyBindingDef.defName=MainTab_Animals
 |KeyBindingDef.label=Toggle animals tab
+|KeyBindingDef.label.zh-cn=开关「动物」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉動物
 |KeyBindingDef.category=MainTabs
 |KeyBindingDef.defaultKeyCodeA=F4
 }}"
@@ -16851,6 +16901,8 @@ Core:Defs_KeyBindingDef_MainTab_Architect,"{{#set:
 |defName=MainTab_Architect
 |KeyBindingDef.defName=MainTab_Architect
 |KeyBindingDef.label=Toggle architect tab
+|KeyBindingDef.label.zh-cn=开关「建筑规划」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉建築清單
 |KeyBindingDef.category=MainTabs
 |KeyBindingDef.defaultKeyCodeA=Tab
 }}"
@@ -16860,6 +16912,8 @@ Core:Defs_KeyBindingDef_MainTab_Assign,"{{#set:
 |defName=MainTab_Assign
 |KeyBindingDef.defName=MainTab_Assign
 |KeyBindingDef.label=Toggle assign tab
+|KeyBindingDef.label.zh-cn=开关「方案」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉分配
 |KeyBindingDef.category=MainTabs
 |KeyBindingDef.defaultKeyCodeA=F3
 }}"
@@ -16869,6 +16923,8 @@ Core:Defs_KeyBindingDef_MainTab_Factions,"{{#set:
 |defName=MainTab_Factions
 |KeyBindingDef.defName=MainTab_Factions
 |KeyBindingDef.label=Toggle factions tab
+|KeyBindingDef.label.zh-cn=开关「派系」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉勢力
 |KeyBindingDef.category=MainTabs
 |KeyBindingDef.defaultKeyCodeA=F7
 }}"
@@ -16878,6 +16934,8 @@ Core:Defs_KeyBindingDef_MainTab_History,"{{#set:
 |defName=MainTab_History
 |KeyBindingDef.defName=MainTab_History
 |KeyBindingDef.label=Toggle history tab
+|KeyBindingDef.label.zh-cn=开关「历史」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉歷史
 |KeyBindingDef.category=MainTabs
 |KeyBindingDef.defaultKeyCodeA=F6
 }}"
@@ -16887,6 +16945,8 @@ Core:Defs_KeyBindingDef_MainTab_Restrict,"{{#set:
 |defName=MainTab_Restrict
 |KeyBindingDef.defName=MainTab_Restrict
 |KeyBindingDef.label=Toggle restrict tab
+|KeyBindingDef.label.zh-cn=开关「管制」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉管制
 |KeyBindingDef.category=MainTabs
 |KeyBindingDef.defaultKeyCodeA=F2
 }}"
@@ -16896,6 +16956,8 @@ Core:Defs_KeyBindingDef_MainTab_Work,"{{#set:
 |defName=MainTab_Work
 |KeyBindingDef.defName=MainTab_Work
 |KeyBindingDef.label=Toggle work tab
+|KeyBindingDef.label.zh-cn=开关「工作」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉工作
 |KeyBindingDef.category=MainTabs
 |KeyBindingDef.defaultKeyCodeA=F1
 }}"
@@ -16905,6 +16967,8 @@ Core:Defs_KeyBindingDef_MainTab_World,"{{#set:
 |defName=MainTab_World
 |KeyBindingDef.defName=MainTab_World
 |KeyBindingDef.label=Toggle world tab
+|KeyBindingDef.label.zh-cn=开关「世界」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉世界
 |KeyBindingDef.category=MainTabs
 |KeyBindingDef.defaultKeyCodeA=F5
 }}"
@@ -47083,10 +47147,10 @@ Core:Defs_TerrainDef_Granite_RoughHewn,"{{#set:
 |defName=Granite_RoughHewn
 |TerrainDef.defName=Granite_RoughHewn
 |TerrainDef.label=rough-hewn granite
-|TerrainDef.label.zh-cn=粗糙打磨过的花岗岩地面
+|TerrainDef.label.zh-cn=粗糙砍凿的花岗岩地面
 |TerrainDef.label.zh-tw=開鑿崗岩地
 |TerrainDef.description=Roughly cut natural granite floor.
-|TerrainDef.description.zh-cn=粗糙打磨过的天然花岗岩地面。
+|TerrainDef.description.zh-cn=粗糙砍凿的天然花岗岩地面。
 |TerrainDef.description.zh-tw=開鑿出的花崗岩地面。
 |TerrainDef.statBases=""Beauty"",""1""
 |TerrainDef.pathCost=1
@@ -47107,10 +47171,10 @@ Core:Defs_TerrainDef_Granite_Smooth,"{{#set:
 |defName=Granite_Smooth
 |TerrainDef.defName=Granite_Smooth
 |TerrainDef.label=smooth granite
-|TerrainDef.label.zh-cn=打磨过的花岗岩地面
+|TerrainDef.label.zh-cn=光滑的花岗岩地面
 |TerrainDef.label.zh-tw=光滑花崗岩地
 |TerrainDef.description=Smoothed natural granite floor.
-|TerrainDef.description.zh-cn=打磨过的天然花岗岩地面。
+|TerrainDef.description.zh-cn=打磨光滑的天然花岗岩地面。
 |TerrainDef.description.zh-tw=經打磨的光滑花崗岩地面。
 |TerrainDef.statBases=""Beauty"",""1""
 |TerrainDef.pathCost=1
@@ -47193,10 +47257,10 @@ Core:Defs_TerrainDef_Limestone_RoughHewn,"{{#set:
 |defName=Limestone_RoughHewn
 |TerrainDef.defName=Limestone_RoughHewn
 |TerrainDef.label=rough-hewn limestone
-|TerrainDef.label.zh-cn=粗糙打磨过的石灰岩地面
+|TerrainDef.label.zh-cn=粗糙砍凿的石灰岩地面
 |TerrainDef.label.zh-tw=開鑿石灰岩地
 |TerrainDef.description=Roughly cut natural limestone floor.
-|TerrainDef.description.zh-cn=粗糙打磨过的天然石灰岩地面。
+|TerrainDef.description.zh-cn=粗糙砍凿的天然石灰岩地面。
 |TerrainDef.description.zh-tw=開鑿出的石灰岩地面。
 |TerrainDef.statBases=""Beauty"",""1""
 |TerrainDef.pathCost=1
@@ -47217,10 +47281,10 @@ Core:Defs_TerrainDef_Limestone_Smooth,"{{#set:
 |defName=Limestone_Smooth
 |TerrainDef.defName=Limestone_Smooth
 |TerrainDef.label=smooth limestone
-|TerrainDef.label.zh-cn=打磨过的石灰岩地面
+|TerrainDef.label.zh-cn=光滑的石灰岩地面
 |TerrainDef.label.zh-tw=光滑石灰岩地
 |TerrainDef.description=Smoothed natural limestone floor.
-|TerrainDef.description.zh-cn=打磨过的天然石灰岩地面。
+|TerrainDef.description.zh-cn=打磨光滑的天然石灰岩地面。
 |TerrainDef.description.zh-tw=經打磨的光滑石灰岩地面。
 |TerrainDef.statBases=""Beauty"",""1""
 |TerrainDef.pathCost=1
@@ -47265,10 +47329,10 @@ Core:Defs_TerrainDef_Marble_RoughHewn,"{{#set:
 |defName=Marble_RoughHewn
 |TerrainDef.defName=Marble_RoughHewn
 |TerrainDef.label=rough-hewn marble
-|TerrainDef.label.zh-cn=粗糙打磨过的大理石地面
+|TerrainDef.label.zh-cn=粗糙砍凿的大理石地面
 |TerrainDef.label.zh-tw=開鑿大理石地
 |TerrainDef.description=Roughly cut natural marble floor.
-|TerrainDef.description.zh-cn=粗糙打磨过的天然大理石地面。
+|TerrainDef.description.zh-cn=粗糙砍凿的天然大理石地面。
 |TerrainDef.description.zh-tw=開鑿出的大理石地面。
 |TerrainDef.statBases=""Beauty"",""1""
 |TerrainDef.pathCost=1
@@ -47289,10 +47353,10 @@ Core:Defs_TerrainDef_Marble_Smooth,"{{#set:
 |defName=Marble_Smooth
 |TerrainDef.defName=Marble_Smooth
 |TerrainDef.label=smooth marble
-|TerrainDef.label.zh-cn=打磨过的大理石地面
+|TerrainDef.label.zh-cn=光滑的大理石地面
 |TerrainDef.label.zh-tw=光滑大理石地
 |TerrainDef.description=Smoothed natural marble floor.
-|TerrainDef.description.zh-cn=打磨过的天然大理石地面。
+|TerrainDef.description.zh-cn=打磨光滑的天然大理石地面。
 |TerrainDef.description.zh-tw=經打磨的光滑大理石地面。
 |TerrainDef.statBases=""Beauty"",""1""
 |TerrainDef.pathCost=1
@@ -47503,10 +47567,10 @@ Core:Defs_TerrainDef_Sandstone_RoughHewn,"{{#set:
 |defName=Sandstone_RoughHewn
 |TerrainDef.defName=Sandstone_RoughHewn
 |TerrainDef.label=rough-hewn sandstone
-|TerrainDef.label.zh-cn=粗糙打磨过的砂岩地面
+|TerrainDef.label.zh-cn=粗糙砍凿的砂岩地面
 |TerrainDef.label.zh-tw=開鑿砂岩地
 |TerrainDef.description=Roughly cut natural sandstone floor.
-|TerrainDef.description.zh-cn=粗糙打磨过的天然砂岩地面。
+|TerrainDef.description.zh-cn=粗糙砍凿的天然砂岩地面。
 |TerrainDef.description.zh-tw=開鑿出的砂岩地面。
 |TerrainDef.statBases=""Beauty"",""1""
 |TerrainDef.pathCost=1
@@ -47527,10 +47591,10 @@ Core:Defs_TerrainDef_Sandstone_Smooth,"{{#set:
 |defName=Sandstone_Smooth
 |TerrainDef.defName=Sandstone_Smooth
 |TerrainDef.label=smooth sandstone
-|TerrainDef.label.zh-cn=打磨过的砂岩地面
+|TerrainDef.label.zh-cn=光滑的砂岩地面
 |TerrainDef.label.zh-tw=光滑砂岩地
 |TerrainDef.description=Smoothed natural sandstone floor.
-|TerrainDef.description.zh-cn=打磨过的天然砂岩地面。
+|TerrainDef.description.zh-cn=打磨光滑的天然砂岩地面。
 |TerrainDef.description.zh-tw=經打磨的光滑砂岩地面。
 |TerrainDef.statBases=""Beauty"",""1""
 |TerrainDef.pathCost=1
@@ -47600,10 +47664,10 @@ Core:Defs_TerrainDef_Slate_RoughHewn,"{{#set:
 |defName=Slate_RoughHewn
 |TerrainDef.defName=Slate_RoughHewn
 |TerrainDef.label=rough-hewn slate
-|TerrainDef.label.zh-cn=粗糙打磨过的板岩地面
+|TerrainDef.label.zh-cn=粗糙砍凿的板岩地面
 |TerrainDef.label.zh-tw=開鑿板岩地
 |TerrainDef.description=Roughly cut natural slate floor.
-|TerrainDef.description.zh-cn=粗糙打磨过的天然板岩地面。
+|TerrainDef.description.zh-cn=粗糙砍凿的天然板岩地面。
 |TerrainDef.description.zh-tw=開鑿出的板岩地面。
 |TerrainDef.statBases=""Beauty"",""1""
 |TerrainDef.pathCost=1
@@ -47624,10 +47688,10 @@ Core:Defs_TerrainDef_Slate_Smooth,"{{#set:
 |defName=Slate_Smooth
 |TerrainDef.defName=Slate_Smooth
 |TerrainDef.label=smooth slate
-|TerrainDef.label.zh-cn=打磨过的板岩地面
+|TerrainDef.label.zh-cn=光滑的板岩地面
 |TerrainDef.label.zh-tw=光滑板岩地
 |TerrainDef.description=Smoothed natural slate floor.
-|TerrainDef.description.zh-cn=打磨过的天然板岩地面。
+|TerrainDef.description.zh-cn=打磨光滑的天然板岩地面。
 |TerrainDef.description.zh-tw=經打磨的光滑板岩地面。
 |TerrainDef.statBases=""Beauty"",""1""
 |TerrainDef.pathCost=1

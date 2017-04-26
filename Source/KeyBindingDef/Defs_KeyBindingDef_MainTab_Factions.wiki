@@ -4,6 +4,8 @@
 |defName=MainTab_Factions
 |KeyBindingDef.defName=MainTab_Factions
 |KeyBindingDef.label=Toggle factions tab
+|KeyBindingDef.label.zh-cn=开关「派系」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉勢力
 |KeyBindingDef.category=MainTabs
 |KeyBindingDef.defaultKeyCodeA=F7
 }}

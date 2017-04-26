@@ -4,6 +4,8 @@
 |defName=MainTab_Assign
 |KeyBindingDef.defName=MainTab_Assign
 |KeyBindingDef.label=Toggle assign tab
+|KeyBindingDef.label.zh-cn=开关「方案」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉分配
 |KeyBindingDef.category=MainTabs
 |KeyBindingDef.defaultKeyCodeA=F3
 }}

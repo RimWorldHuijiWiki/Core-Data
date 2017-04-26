@@ -4,6 +4,8 @@
 |defName=MainTab_History
 |KeyBindingDef.defName=MainTab_History
 |KeyBindingDef.label=Toggle history tab
+|KeyBindingDef.label.zh-cn=开关「历史」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉歷史
 |KeyBindingDef.category=MainTabs
 |KeyBindingDef.defaultKeyCodeA=F6
 }}

@@ -4,10 +4,10 @@
 |defName=Sandstone_RoughHewn
 |TerrainDef.defName=Sandstone_RoughHewn
 |TerrainDef.label=rough-hewn sandstone
-|TerrainDef.label.zh-cn=粗糙打磨过的砂岩地面
+|TerrainDef.label.zh-cn=粗糙砍凿的砂岩地面
 |TerrainDef.label.zh-tw=開鑿砂岩地
 |TerrainDef.description=Roughly cut natural sandstone floor.
-|TerrainDef.description.zh-cn=粗糙打磨过的天然砂岩地面。
+|TerrainDef.description.zh-cn=粗糙砍凿的天然砂岩地面。
 |TerrainDef.description.zh-tw=開鑿出的砂岩地面。
 |TerrainDef.statBases="Beauty","1"
 |TerrainDef.pathCost=1

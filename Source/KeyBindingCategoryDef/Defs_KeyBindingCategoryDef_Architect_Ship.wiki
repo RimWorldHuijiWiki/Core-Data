@@ -4,6 +4,10 @@
 |defName=Architect_Ship
 |KeyBindingCategoryDef.defName=Architect_Ship
 |KeyBindingCategoryDef.label=ship tab
+|KeyBindingCategoryDef.label.zh-cn=建筑规划 - 飞船
+|KeyBindingCategoryDef.label.zh-tw=星艦選單
 |KeyBindingCategoryDef.description=Key bindings for the "ship" section of the Architect menu
+|KeyBindingCategoryDef.description.zh-cn=用于建筑规划 - 「飞船」分类的快捷键
+|KeyBindingCategoryDef.description.zh-tw=建築選單中「星艦」分類的指令配置。
 |KeyBindingCategoryDef.checkForConflicts="GameMapCamera","Game","SelectionMisc","SelectionSpecial","Architect","MainTabs","Development"
 }}
