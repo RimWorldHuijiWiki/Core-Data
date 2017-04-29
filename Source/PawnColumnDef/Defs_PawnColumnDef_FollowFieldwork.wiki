@@ -1,0 +1,10 @@
+﻿{{#set:
+|dataType=Def
+|defType=PawnColumnDef
+|defName=FollowFieldwork
+|PawnColumnDef.defName=FollowFieldwork
+|PawnColumnDef.workerClass=PawnColumnWorker_FollowFieldwork
+|PawnColumnDef.sortable=true
+|PawnColumnDef.headerIcon=UI/Icons/Animal/FollowFieldwork
+|PawnColumnDef.headerTip=Follow master while the master is doing field work (hunting or taming animals).
+}}

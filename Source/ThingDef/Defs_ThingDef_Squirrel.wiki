@@ -80,10 +80,10 @@
 |ThingDef.race.lifeStageAges.0.minAge=0
 |ThingDef.race.lifeStageAges.1=Exist
 |ThingDef.race.lifeStageAges.1.def=AnimalJuvenile
-|ThingDef.race.lifeStageAges.1.minAge=0.07
+|ThingDef.race.lifeStageAges.1.minAge=0.11
 |ThingDef.race.lifeStageAges.2=Exist
 |ThingDef.race.lifeStageAges.2.def=AnimalAdult
-|ThingDef.race.lifeStageAges.2.minAge=0.22
+|ThingDef.race.lifeStageAges.2.minAge=0.26
 |ThingDef.race.lifeStageAges.2.soundCall=Pawn_Rodent_Call
 |ThingDef.race.lifeStageAges.2.soundAngry=Pawn_Rodent_Angry
 |ThingDef.race.lifeStageAges.2.soundWounded=Pawn_Rodent_Wounded

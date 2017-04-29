@@ -8,8 +8,8 @@
 |TerrainDef.label.zh-tw=淺水
 |TerrainDef.pathCost=12
 |TerrainDef.fertility=0
-|TerrainDef.texturePath=Terrain/Surfaces/WaterShallow
-|TerrainDef.edgeType=FadeRough
+|TerrainDef.texturePath=Terrain/Surfaces/WaterShallowSolid
+|TerrainDef.edgeType=Water
 |TerrainDef.renderPrecedence=394
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false

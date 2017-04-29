@@ -1,0 +1,7 @@
+﻿{{#set:
+|dataType=Def
+|defType=TrainableIntelligenceDef
+|defName=Simple
+|TrainableIntelligenceDef.defName=Simple
+|TrainableIntelligenceDef.intelligenceOrder=10
+}}

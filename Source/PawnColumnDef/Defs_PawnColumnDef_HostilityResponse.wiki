@@ -1,0 +1,8 @@
+﻿{{#set:
+|dataType=Def
+|defType=PawnColumnDef
+|defName=HostilityResponse
+|PawnColumnDef.defName=HostilityResponse
+|PawnColumnDef.workerClass=PawnColumnWorker_HostilityResponse
+|PawnColumnDef.sortable=true
+}}

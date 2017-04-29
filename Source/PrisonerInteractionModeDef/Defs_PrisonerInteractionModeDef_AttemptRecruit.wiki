@@ -1,0 +1,7 @@
+﻿{{#set:
+|dataType=Def
+|defType=PrisonerInteractionModeDef
+|defName=AttemptRecruit
+|PrisonerInteractionModeDef.defName=AttemptRecruit
+|PrisonerInteractionModeDef.listOrder=20
+}}

@@ -61,7 +61,7 @@
 |ThingDef.race.nameOnNuzzleChance=0.5
 |ThingDef.race.baseBodySize=0.8
 |ThingDef.race.baseHealthScale=0.7
-|ThingDef.race.baseHungerRate=0.40
+|ThingDef.race.baseHungerRate=0.45
 |ThingDef.race.lifeStageAges=Exist
 |ThingDef.race.lifeStageAges.Count=3
 |ThingDef.race.lifeStageAges.0=Exist

@@ -13,8 +13,8 @@
 |DamageDef.deathMessage={0} has died during surgery.
 |DamageDef.deathMessage.zh-cn={0}在手术中死亡。
 |DamageDef.deathMessage.zh-tw={0}在手術過程中死亡了。
-|DamageDef.impactSoundType=None
-|DamageDef.armorCategory=IgnoreArmor
+|DamageDef.impactSoundType=
+|DamageDef.armorCategory=
 |DamageDef.harmAllLayersUntilOutside=false
 |DamageDef.hediff=SurgicalCut
 |DamageDef.hediffSkin=Cut

@@ -57,7 +57,7 @@
 |ThingDef.race.wildness=0.05
 |ThingDef.race.manhunterOnDamageChance=0.0125
 |ThingDef.race.manhunterOnTameFailChance=0.003
-|ThingDef.race.gestationPeriodDays=50
+|ThingDef.race.gestationPeriodDays=20
 |ThingDef.race.litterSizeCurve=Exist
 |ThingDef.race.litterSizeCurve.points="(0.5, 0)","(1, 1)","(3, 1)","(3.5, 0)"
 |ThingDef.race.trainableIntelligence=Intermediate
@@ -66,7 +66,7 @@
 |ThingDef.race.nameOnNuzzleChance=0.5
 |ThingDef.race.baseBodySize=2.0
 |ThingDef.race.baseHealthScale=1.5
-|ThingDef.race.baseHungerRate=0.8
+|ThingDef.race.baseHungerRate=0.85
 |ThingDef.race.lifeStageAges=Exist
 |ThingDef.race.lifeStageAges.Count=3
 |ThingDef.race.lifeStageAges.0=Exist

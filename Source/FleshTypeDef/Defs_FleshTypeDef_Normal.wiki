@@ -1,0 +1,7 @@
+﻿{{#set:
+|dataType=Def
+|defType=FleshTypeDef
+|defName=Normal
+|FleshTypeDef.defName=Normal
+|FleshTypeDef.corpseCategory=CorpsesAnimal
+}}

@@ -22,7 +22,7 @@
 |ThingDef.comps.1=Exist
 |ThingDef.comps.1.Class=CompProperties_EggLayer
 |ThingDef.comps.1.eggLayIntervalDays=20
-|ThingDef.comps.1.eggCountRange=3 ~ 7
+|ThingDef.comps.1.eggCountRange=2 ~ 3
 |ThingDef.comps.1.eggFertilizedDef=EggTortoiseFertilized
 |ThingDef.comps.1.eggFertilizationCountMax=1
 |ThingDef.comps.1.eggProgressUnfertilizedMax=0.5
@@ -67,7 +67,7 @@
 |ThingDef.race.nameOnNuzzleChance=0.5
 |ThingDef.race.baseBodySize=0.5
 |ThingDef.race.baseHealthScale=0.6
-|ThingDef.race.baseHungerRate=0.3
+|ThingDef.race.baseHungerRate=0.33
 |ThingDef.race.lifeStageAges=Exist
 |ThingDef.race.lifeStageAges.Count=3
 |ThingDef.race.lifeStageAges.0=Exist

@@ -13,8 +13,8 @@
 |DamageDef.deathMessage={0} has been executed by cutting.
 |DamageDef.deathMessage.zh-cn={0}被处决了。
 |DamageDef.deathMessage.zh-tw={0}被處死了。
-|DamageDef.impactSoundType=None
-|DamageDef.armorCategory=IgnoreArmor
+|DamageDef.impactSoundType=
+|DamageDef.armorCategory=
 |DamageDef.execution=true
 |DamageDef.harmAllLayersUntilOutside=true
 |DamageDef.hediff=Cut

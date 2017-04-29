@@ -21,8 +21,8 @@
 |ThingDef.comps.0.compClass=CompAttachBase
 |ThingDef.comps.1=Exist
 |ThingDef.comps.1.Class=CompProperties_EggLayer
-|ThingDef.comps.1.eggLayIntervalDays=7.5
-|ThingDef.comps.1.eggCountRange=2 ~ 5
+|ThingDef.comps.1.eggLayIntervalDays=14.0
+|ThingDef.comps.1.eggCountRange=1 ~ 3
 |ThingDef.comps.1.eggFertilizedDef=EggCobraFertilized
 |ThingDef.comps.1.eggFertilizationCountMax=1
 |ThingDef.comps.1.eggProgressUnfertilizedMax=0.5

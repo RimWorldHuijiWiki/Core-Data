@@ -64,11 +64,11 @@
 |ThingDef.race.wildness=0.75
 |ThingDef.race.manhunterOnDamageChance=0.0125
 |ThingDef.race.manhunterOnTameFailChance=0.003
-|ThingDef.race.gestationPeriodDays=25
+|ThingDef.race.gestationPeriodDays=24
 |ThingDef.race.nameGenerator=NamerAnimalGenericMale
 |ThingDef.race.nameGeneratorFemale=NamerAnimalGenericFemale
 |ThingDef.race.nameOnNuzzleChance=0.5
-|ThingDef.race.baseBodySize=2.1
+|ThingDef.race.baseBodySize=2.2
 |ThingDef.race.baseHealthScale=2.0
 |ThingDef.race.baseHungerRate=0.90
 |ThingDef.race.lifeStageAges=Exist

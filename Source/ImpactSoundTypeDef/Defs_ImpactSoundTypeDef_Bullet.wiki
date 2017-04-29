@@ -1,0 +1,6 @@
+﻿{{#set:
+|dataType=Def
+|defType=ImpactSoundTypeDef
+|defName=Bullet
+|ImpactSoundTypeDef.defName=Bullet
+}}

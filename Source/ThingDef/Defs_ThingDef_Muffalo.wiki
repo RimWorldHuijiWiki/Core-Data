@@ -37,14 +37,13 @@
 |ThingDef.tradeTags="StandardAnimal"
 |ThingDef.recipes="ExciseCarcinoma","RemoveBodyPart","Euthanize","Anesthetize"
 |ThingDef.verbs=Exist
-|ThingDef.verbs.Count=2
+|ThingDef.verbs.Count=1
 |ThingDef.verbs.0=Exist
 |ThingDef.verbs.0.verbClass=Verb_MeleeAttack
 |ThingDef.verbs.0.defaultCooldownTime=1.65
 |ThingDef.verbs.0.linkedBodyPartsGroup=HeadAttackTool
 |ThingDef.verbs.0.meleeDamageDef=Blunt
 |ThingDef.verbs.0.meleeDamageBaseAmount=10
-|ThingDef.verbs.1=Exist
 |ThingDef.race=Exist
 |ThingDef.race.hasGenders=true
 |ThingDef.race.thinkTreeMain=Animal
@@ -59,7 +58,7 @@
 |ThingDef.race.nuzzleMtbHours=120
 |ThingDef.race.manhunterOnDamageChance=0.0125
 |ThingDef.race.manhunterOnTameFailChance=0.003
-|ThingDef.race.gestationPeriodDays=30
+|ThingDef.race.gestationPeriodDays=25
 |ThingDef.race.nameGenerator=NamerAnimalGenericMale
 |ThingDef.race.nameGeneratorFemale=NamerAnimalGenericFemale
 |ThingDef.race.nameOnNuzzleChance=0.5

@@ -9,8 +9,8 @@
 |TerrainDef.passability=Impassable
 |TerrainDef.pathCost=300
 |TerrainDef.fertility=0
-|TerrainDef.texturePath=Terrain/Surfaces/WaterDeep
-|TerrainDef.edgeType=FadeRough
+|TerrainDef.texturePath=Terrain/Surfaces/WaterDeepSolid
+|TerrainDef.edgeType=Water
 |TerrainDef.renderPrecedence=396
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false

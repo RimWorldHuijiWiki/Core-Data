@@ -1,0 +1,7 @@
+﻿{{#set:
+|dataType=Def
+|defType=DamageArmorCategoryDef
+|defName=Electric
+|DamageArmorCategoryDef.defName=Electric
+|DamageArmorCategoryDef.deflectionStat=ArmorRating_Electric
+}}

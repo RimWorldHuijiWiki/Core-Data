@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=FleshTypeDef
+|defName=Insectoid
+|FleshTypeDef.defName=Insectoid
+|FleshTypeDef.ateDirect=AteInsectMeatDirect
+|FleshTypeDef.ateAsIngredient=AteInsectMeatAsIngredient
+|FleshTypeDef.corpseCategory=CorpsesInsect
+}}

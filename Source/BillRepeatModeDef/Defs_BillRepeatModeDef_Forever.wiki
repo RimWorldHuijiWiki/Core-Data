@@ -1,0 +1,7 @@
+﻿{{#set:
+|dataType=Def
+|defType=BillRepeatModeDef
+|defName=Forever
+|BillRepeatModeDef.defName=Forever
+|BillRepeatModeDef.listOrder=20
+}}

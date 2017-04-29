@@ -31,7 +31,7 @@
 |RoadDef.roadGenSteps.3=Exist
 |RoadDef.roadGenSteps.3.Class=RoadDefGenStep_Place
 |RoadDef.roadGenSteps.3.chancePerPositionCurve=Exist
-|RoadDef.roadGenSteps.3.chancePerPositionCurve.points="(0, 0.003)","(1.7, 0.003)","(1.8, 0.5)","(1.9, 0)"
+|RoadDef.roadGenSteps.3.chancePerPositionCurve.points="(0, 0.001)","(2.2, 0.001)","(2.3, 0.5)","(2.5, 0)"
 |RoadDef.roadGenSteps.3.place=AncientConcreteBarrier
 |RoadDef.roadGenSteps.4=Exist
 |RoadDef.roadGenSteps.4.Class=RoadDefGenStep_Place

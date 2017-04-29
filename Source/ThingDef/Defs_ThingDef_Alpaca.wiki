@@ -66,7 +66,7 @@
 |ThingDef.race.nuzzleMtbHours=120
 |ThingDef.race.manhunterOnDamageChance=0.0125
 |ThingDef.race.manhunterOnTameFailChance=0.003
-|ThingDef.race.gestationPeriodDays=45
+|ThingDef.race.gestationPeriodDays=25
 |ThingDef.race.nameGenerator=NamerAnimalGenericMale
 |ThingDef.race.nameGeneratorFemale=NamerAnimalGenericFemale
 |ThingDef.race.nameOnNuzzleChance=0.5

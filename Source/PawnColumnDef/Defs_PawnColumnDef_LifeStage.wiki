@@ -1,0 +1,8 @@
+﻿{{#set:
+|dataType=Def
+|defType=PawnColumnDef
+|defName=LifeStage
+|PawnColumnDef.defName=LifeStage
+|PawnColumnDef.workerClass=PawnColumnWorker_LifeStage
+|PawnColumnDef.sortable=true
+}}

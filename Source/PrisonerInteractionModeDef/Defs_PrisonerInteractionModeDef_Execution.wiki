@@ -1,0 +1,7 @@
+﻿{{#set:
+|dataType=Def
+|defType=PrisonerInteractionModeDef
+|defName=Execution
+|PrisonerInteractionModeDef.defName=Execution
+|PrisonerInteractionModeDef.listOrder=40
+}}

@@ -12,7 +12,7 @@
 |ThingDef.statBases="MaxHitPoints","300";"WorkToBuild","5000";"Flammability","1.0"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
-|ThingDef.costList="Steel","400";"Component","20"
+|ThingDef.costList="Steel","200";"Component","14"
 |ThingDef.terrainAffordanceNeeded=Heavy
 |ThingDef.researchPrerequisites="ComponentAssembly"
 |ThingDef.repairEffect=Repair
