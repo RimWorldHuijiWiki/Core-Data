@@ -4,10 +4,10 @@
 |defName=ImmunityGainSpeedFactor
 |StatDef.defName=ImmunityGainSpeedFactor
 |StatDef.label=immunity gain speed factor
-|StatDef.label.zh-cn=免疫性增加速度系数
+|StatDef.label.zh-cn=免疫性获取速度系数
 |StatDef.label.zh-tw=免疫力形成速度倍率
 |StatDef.description=Immunity gain speed is multiplied by this value.
-|StatDef.description.zh-cn=免疫性增加的速度会乘以此项的值。
+|StatDef.description.zh-cn=免疫性获取速度会乘以此项的值。
 |StatDef.description.zh-tw=免疫力形成速度的速度倍率。
 |StatDef.category=Building
 |StatDef.hideAtValue=1

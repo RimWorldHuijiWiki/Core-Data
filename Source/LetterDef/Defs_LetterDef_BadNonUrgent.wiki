@@ -1,0 +1,9 @@
+﻿{{#set:
+|dataType=Def
+|defType=LetterDef
+|defName=BadNonUrgent
+|LetterDef.defName=BadNonUrgent
+|LetterDef.color=(204, 196, 135)
+|LetterDef.flashColor=(210, 198, 106)
+|LetterDef.flashInterval=40
+}}

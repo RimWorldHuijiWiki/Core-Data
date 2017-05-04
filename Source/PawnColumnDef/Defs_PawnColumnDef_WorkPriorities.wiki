@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=PawnColumnDef
-|defName=WorkPriorities
-|PawnColumnDef.defName=WorkPriorities
-|PawnColumnDef.workerClass=PawnColumnWorker_WorkPriorities
-}}

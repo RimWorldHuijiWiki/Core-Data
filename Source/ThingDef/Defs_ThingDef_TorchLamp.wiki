@@ -16,6 +16,7 @@
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair
 |ThingDef.constructEffect=ConstructWood
+|ThingDef.resourcesFractionWhenDeconstructed=0
 |ThingDef.altitudeLayer=Building
 |ThingDef.placeWorkers="PlaceWorker_Heater"
 |ThingDef.designationCategory=Furniture
@@ -47,7 +48,6 @@
 |ThingDef.comps.3.fireSize=0.4
 |ThingDef.comps.3.offset=(0,0,0.2)
 |ThingDef.leaveResourcesWhenKilled=false
-|ThingDef.resourcesFractionWhenDeconstructed=0
 |ThingDef.filthLeaving=BuildingRubble
 |ThingDef.graphicData=Exist
 |ThingDef.graphicData.texPath=Things/Building/Misc/TorchLamp

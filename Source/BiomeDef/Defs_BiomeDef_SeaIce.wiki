@@ -13,7 +13,7 @@
 |BiomeDef.canAutoChoose=false
 |BiomeDef.allowRoads=false
 |BiomeDef.allowRivers=false
-|BiomeDef.animalDensity=0.1
+|BiomeDef.animalDensity=0.05
 |BiomeDef.plantDensity=0
 |BiomeDef.diseaseMtbDays=80
 |BiomeDef.factionBaseSelectionWeight=0.01

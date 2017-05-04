@@ -184,6 +184,7 @@
 |Keyed.IdenticalBlueprintExists=Identical blueprint already exists here.
 |Keyed.TerrainCannotSupport=The terrain here cannot support this.
 |Keyed.SpaceAlreadyOccupied=Space already occupied.
+|Keyed.SpaceBeingSmoothed=Space being smoothed.
 |Keyed.TerrainMustBeRemovable=Must target a removable floor.
 |Keyed.ExpandOrCreateZone=Expand {0} or<br/>Create new {1}
 |Keyed.CreateNewZone=Create new {0}
@@ -1157,6 +1158,8 @@
 |Keyed.ArmorHeat=Heat
 |Keyed.ArmorElectric=Electric
 |Keyed.JumpToLocation=Jump to location
+|Keyed.PostponeLetter=Postpone
+|Keyed.RejectLetter=Reject
 |Keyed.LetterLabelFirstSummerWarning=Summer
 |Keyed.FirstSummerWarning=Summer has begun! But winter is coming.<br/><br/>Your food crops won't grow in the winter cold. Be sure to store several days' worth of food now, while you still can.<br/><br/>You can build a walk-in refrigeration room to prevent food from spoiling.<br/><br/>And try to buy, steal, or make some parkas, or you'll freeze when you step outside.
 |Keyed.RelationsBrokenDown=Relations with {0} have broken down. They are now hostile to you.
@@ -1252,6 +1255,8 @@
 |Keyed.LetterPawnsLostDueToMapCountdown=Some of your animals or prisoners were left behind in the wilderness:<br/><br/>{0}
 |Keyed.LetterLabelDefeatAllEnemiesQuestCompleted=Quest completed
 |Keyed.LetterDefeatAllEnemiesQuestCompleted=You have defeated the enemy outpost!<br/><br/>The payment from {0} has arrived, and faction relations have improved by {1}.
+|Keyed.LetterLabelFoundPreciousLump=Precious minerals found
+|Keyed.LetterFoundPreciousLump=Your long-range mineral scanner has found a lump of precious resources nearby.<br/><br/>We don't know who or what - if anything - might be guarding it.
 |Keyed.ManualPriorities=Manual priorities
 |Keyed.HigherPriority=higher priority
 |Keyed.LowerPriority=lower priority
@@ -1800,6 +1805,10 @@
 |Keyed.ItemStashContents=Contents: {0}.
 |Keyed.SomeItemStashContents=Some contents: {0}.
 |Keyed.ClickToSortByThisColumn=Click to sort by this column.
+|Keyed.WorkPriorityShiftClickTip=Shift + click: Increase priority<br/>Shift + right click: Decrease priority
+|Keyed.WorkPriorityShiftClickEnableDisableTip=Shift + click: Enable all<br/>Shift + right click: Disable all
+|Keyed.AllowedAreaShiftClickTip=Shift + click: Set all to home<br/>Shift + right click: Set all to unrestricted
+|Keyed.CheckboxShiftClickTip=Shift + click: Check all<br/>Shift + right click: Uncheck all
 |Keyed.ContainsWort=Contains {0} / {1} wort.
 |Keyed.ContainsBeer=Contains {0} / {1} beer.
 |Keyed.Fermented=Fermented

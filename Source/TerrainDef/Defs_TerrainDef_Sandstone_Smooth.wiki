@@ -9,7 +9,7 @@
 |TerrainDef.description=Smoothed natural sandstone floor.
 |TerrainDef.description.zh-cn=打磨光滑的天然砂岩地面。
 |TerrainDef.description.zh-tw=經打磨的光滑砂岩地面。
-|TerrainDef.statBases="Beauty","1"
+|TerrainDef.statBases="Beauty","3"
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/SmoothStone

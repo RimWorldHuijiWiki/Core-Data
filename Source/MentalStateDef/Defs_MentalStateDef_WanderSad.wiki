@@ -24,7 +24,7 @@
 |MentalStateDef.beginLetterLabel=sad wander
 |MentalStateDef.beginLetterLabel.zh-cn=悲伤徘徊
 |MentalStateDef.beginLetterLabel.zh-tw=悲傷
-|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.beginLetterDef=BadNonUrgent
 |MentalStateDef.nameColor=(0.65, 0.9, 0.93)
 |MentalStateDef.recoveryMessage={0} is no longer wandering in sadness.
 |MentalStateDef.recoveryMessage.zh-cn={0}不再悲伤徘徊。

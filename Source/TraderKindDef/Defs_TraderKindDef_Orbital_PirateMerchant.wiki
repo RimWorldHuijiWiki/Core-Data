@@ -4,7 +4,7 @@
 |defName=Orbital_PirateMerchant
 |TraderKindDef.defName=Orbital_PirateMerchant
 |TraderKindDef.label=pirate merchant
-|TraderKindDef.label.zh-cn=奴隶商
+|TraderKindDef.label.zh-cn=海盗商人
 |TraderKindDef.label.zh-tw=海盜商船
 |TraderKindDef.stockGenerators=Exist
 |TraderKindDef.stockGenerators.Count=16

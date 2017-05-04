@@ -17,7 +17,7 @@
 |IncidentDef.letterLabel=Cold snap
 |IncidentDef.letterLabel.zh-cn=寒流
 |IncidentDef.letterLabel.zh-tw=寒流
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.gameCondition=ColdSnap
 |IncidentDef.durationDays=1.5 ~ 3.5
 }}

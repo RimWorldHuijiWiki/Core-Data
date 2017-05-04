@@ -17,5 +17,5 @@
 |IncidentDef.letterLabel=Bandit camp opportunity
 |IncidentDef.letterLabel.zh-cn=匪徒营地机会
 |IncidentDef.letterLabel.zh-tw=Bandit camp opportunity
-|IncidentDef.letterType=Good
+|IncidentDef.letterDef=Good
 }}

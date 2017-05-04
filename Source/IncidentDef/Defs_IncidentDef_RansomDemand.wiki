@@ -11,4 +11,8 @@
 |IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=2
 |IncidentDef.populationEffect=Increase
+|IncidentDef.letterLabel=Ransom demand
+|IncidentDef.letterLabel.zh-cn=索取赎金
+|IncidentDef.letterLabel.zh-tw=Ransom demand
+|IncidentDef.letterDef=RansomDemand
 }}

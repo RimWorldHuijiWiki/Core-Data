@@ -18,6 +18,6 @@
 |IncidentDef.letterLabel=Flashstorm
 |IncidentDef.letterLabel.zh-cn=闪电风暴
 |IncidentDef.letterLabel.zh-tw=雷暴
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.durationDays=0.075 ~ 0.1
 }}

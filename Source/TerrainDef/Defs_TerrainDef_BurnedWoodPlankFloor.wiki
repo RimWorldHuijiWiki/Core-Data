@@ -6,10 +6,10 @@
 |TerrainDef.label=burned wood floor
 |TerrainDef.label.zh-cn=被烧毁的木地板
 |TerrainDef.label.zh-tw=burned wood floor
-|TerrainDef.description=Burned out wood plank flooring.
+|TerrainDef.description=Burned-out wood plank flooring.
 |TerrainDef.description.zh-cn=被烧毁的木板地面。
-|TerrainDef.description.zh-tw=Burned out wood plank flooring.
-|TerrainDef.statBases="Beauty","-30"
+|TerrainDef.description.zh-tw=Burned-out wood plank flooring.
+|TerrainDef.statBases="Beauty","-6"
 |TerrainDef.pathCost=9
 |TerrainDef.fertility=0
 |TerrainDef.terrainAffordanceNeeded=Light

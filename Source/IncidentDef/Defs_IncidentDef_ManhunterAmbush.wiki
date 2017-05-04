@@ -17,6 +17,6 @@
 |IncidentDef.letterLabel=Caravan ambushed (manhunters)
 |IncidentDef.letterLabel.zh-cn=远行队遭遇伏击（猎杀人类）
 |IncidentDef.letterLabel.zh-tw=旅隊遇襲
-|IncidentDef.letterType=BadUrgent
+|IncidentDef.letterDef=BadUrgent
 |IncidentDef.mtbDaysByBiome="TemperateForest","20";"BorealForest","20";"TropicalRainforest","20";"AridShrubland","20";"Desert","30";"Tundra","30";"ExtremeDesert","35";"IceSheet","40";"SeaIce","60"
 }}

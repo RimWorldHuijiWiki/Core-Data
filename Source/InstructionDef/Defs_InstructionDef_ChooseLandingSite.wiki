@@ -4,12 +4,12 @@
 |defName=ChooseLandingSite
 |InstructionDef.defName=ChooseLandingSite
 |InstructionDef.text=Here, you choose your landing site.<br/><br/>There are lots of biomes, but for now, let's start with a friendly one.<br/><br/>Click a landing site with temperate forest biome and flat terrain, and click NEXT.<br/><br/>You can use the TERRAIN tab to view information about the selected tile.
-|InstructionDef.text.zh-cn=在这里你将选择自己的降落地点。<br/><br/>游戏中有多种不同的生态系统，但现在，我们还是从对新手比较友好的生态系统开始。<br/><br/>请选择一处温带森林的平原地形的着降落点，并点击「继续」。<br/><br/>你可以通过「地形」标签查看所选中六边形格子的信息。
+|InstructionDef.text.zh-cn=在这里你将选择自己的降落地点。<br/><br/>游戏中有多种不同的生态区，但现在，我们还是从对新手比较友好的生态区开始。<br/><br/>请选择一处温带森林的平原地形的着降落点，并点击「继续」。<br/><br/>你可以通过「地形」标签查看所选中六边形格子的信息。
 |InstructionDef.text.zh-tw=在這裡，你可以選擇你將降落的地點。<br/><br/>在這顆星球上有許許多多的生態系，但現在，讓我們先從較容易生存的開始。<br/><br/>選擇一個地形平坦的溫帶森林，然後點擊「選擇著陸點」。
 |InstructionDef.eventTagInitiate=PageStart-SelectLandingSite
 |InstructionDef.eventTagsEnd="PageClosed"
 |InstructionDef.actionTagsAllowed="GotoPrevPage","ChooseBiome-TemperateForest-Flat","ITab-Planet-Open","ITab-Terrain-Open","GotoNextPage"
 |InstructionDef.rejectInputMessage=Please choose a temperate forest landing site with flat terrain.
-|InstructionDef.rejectInputMessage.zh-cn=请选择一个位于「温带森林」生态系统的「平原」来开始游戏。
+|InstructionDef.rejectInputMessage.zh-cn=请选择一个位于「温带森林」生态区的「平原」来开始游戏。
 |InstructionDef.rejectInputMessage.zh-tw=請選擇地形平坦的溫帶森林生態系。
 }}

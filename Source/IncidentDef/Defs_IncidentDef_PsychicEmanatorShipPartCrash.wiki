@@ -21,6 +21,6 @@
 |IncidentDef.letterLabel=Psychic ship
 |IncidentDef.letterLabel.zh-cn=心灵飞船
 |IncidentDef.letterLabel.zh-tw=邪惡碎片
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.shipPart=CrashedPsychicEmanatorShipPart
 }}

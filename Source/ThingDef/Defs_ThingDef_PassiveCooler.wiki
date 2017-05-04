@@ -17,6 +17,7 @@
 |ThingDef.researchPrerequisites="PassiveCooler"
 |ThingDef.repairEffect=Repair
 |ThingDef.constructEffect=ConstructDirt
+|ThingDef.resourcesFractionWhenDeconstructed=0
 |ThingDef.altitudeLayer=Building
 |ThingDef.placeWorkers="PlaceWorker_CoolerSimple"
 |ThingDef.designationCategory=Temperature
@@ -34,7 +35,6 @@
 |ThingDef.comps.1.Class=CompProperties_Lifespan
 |ThingDef.comps.1.lifespanTicks=300000
 |ThingDef.leaveResourcesWhenKilled=false
-|ThingDef.resourcesFractionWhenDeconstructed=0
 |ThingDef.filthLeaving=BuildingRubble
 |ThingDef.graphicData=Exist
 |ThingDef.graphicData.texPath=Things/Building/Misc/PassiveCooler

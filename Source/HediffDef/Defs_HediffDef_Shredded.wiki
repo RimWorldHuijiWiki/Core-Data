@@ -22,7 +22,7 @@
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.25
+|HediffDef.comps.1.infectionChance=0.15
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=scar

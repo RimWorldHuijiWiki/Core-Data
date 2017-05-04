@@ -19,5 +19,5 @@
 |IncidentDef.letterLabel=Infestation
 |IncidentDef.letterLabel.zh-cn=虫害
 |IncidentDef.letterLabel.zh-tw=蟲族侵襲
-|IncidentDef.letterType=BadUrgent
+|IncidentDef.letterDef=BadUrgent
 }}

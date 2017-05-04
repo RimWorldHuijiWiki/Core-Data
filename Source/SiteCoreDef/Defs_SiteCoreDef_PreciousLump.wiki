@@ -8,4 +8,5 @@
 |SiteCoreDef.label.zh-tw=一大筆貴重資源
 |SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/PreciousLump
+|SiteCoreDef.forceExitAndRemoveMapCountdownDurationDays=10
 }}

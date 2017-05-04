@@ -17,5 +17,5 @@
 |IncidentDef.letterLabel=Item stash opportunity
 |IncidentDef.letterLabel.zh-cn=物品藏匿点机会
 |IncidentDef.letterLabel.zh-tw=Item stash opportunity
-|IncidentDef.letterType=Good
+|IncidentDef.letterDef=Good
 }}

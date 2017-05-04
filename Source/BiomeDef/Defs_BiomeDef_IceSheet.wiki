@@ -12,7 +12,7 @@
 |BiomeDef.workerClass=BiomeWorker_IceSheet
 |BiomeDef.allowRoads=false
 |BiomeDef.allowRivers=false
-|BiomeDef.animalDensity=0.4
+|BiomeDef.animalDensity=0.1
 |BiomeDef.plantDensity=0
 |BiomeDef.diseaseMtbDays=90
 |BiomeDef.factionBaseSelectionWeight=0.15

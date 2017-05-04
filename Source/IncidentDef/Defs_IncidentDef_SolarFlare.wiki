@@ -17,7 +17,7 @@
 |IncidentDef.letterLabel=Solar flare
 |IncidentDef.letterLabel.zh-cn=太阳耀斑
 |IncidentDef.letterLabel.zh-tw=太陽閃焰
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.gameCondition=SolarFlare
 |IncidentDef.durationDays=0.15 ~ 0.5
 }}

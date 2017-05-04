@@ -19,7 +19,7 @@
 |IncidentDef.letterLabel=Volcanic winter
 |IncidentDef.letterLabel.zh-cn=火山冬天
 |IncidentDef.letterLabel.zh-tw=火山冬天
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.gameCondition=VolcanicWinter
 |IncidentDef.durationDays=7.5 ~ 40
 }}

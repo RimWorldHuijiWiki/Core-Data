@@ -24,7 +24,7 @@
 |MentalStateDef.beginLetterLabel=berserk
 |MentalStateDef.beginLetterLabel.zh-cn=狂暴
 |MentalStateDef.beginLetterLabel.zh-tw=狂暴
-|MentalStateDef.beginLetterType=BadUrgent
+|MentalStateDef.beginLetterDef=BadUrgent
 |MentalStateDef.nameColor=(0.9,0.2,0.5)
 |MentalStateDef.recoveryMessage={0}'s berserk rage has come to an end.
 |MentalStateDef.recoveryMessage.zh-cn={0}的狂暴已经结束。

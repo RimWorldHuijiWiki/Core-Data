@@ -17,7 +17,7 @@
 |IncidentDef.letterLabel=Eclipse
 |IncidentDef.letterLabel.zh-cn=日蚀
 |IncidentDef.letterLabel.zh-tw=日蝕
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.gameCondition=Eclipse
 |IncidentDef.durationDays=0.75 ~ 1.25
 }}

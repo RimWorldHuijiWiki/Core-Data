@@ -6,10 +6,10 @@
 |TerrainDef.label=burned carpet
 |TerrainDef.label.zh-cn=被烧毁的地毯
 |TerrainDef.label.zh-tw=burned carpet
-|TerrainDef.description=Burned out carpet.
+|TerrainDef.description=Burned-out carpet.
 |TerrainDef.description.zh-cn=被烧毁的地毯。
-|TerrainDef.description.zh-tw=Burned out carpet.
-|TerrainDef.statBases="Beauty","-30"
+|TerrainDef.description.zh-tw=Burned-out carpet.
+|TerrainDef.statBases="Beauty","-6"
 |TerrainDef.pathCost=9
 |TerrainDef.fertility=0
 |TerrainDef.terrainAffordanceNeeded=Light

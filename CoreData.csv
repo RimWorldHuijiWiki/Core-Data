@@ -45,7 +45,7 @@ Core:Defs_BiomeDef_AridShrubland,"{{#set:
 |BiomeDef.description.zh-cn=干旱的地区，但还未干旱成沙漠的地步。开阔的平原，以草地和灌木为主，树木稀少。植物的适应能力很强，动物数量中等。
 |BiomeDef.description.zh-tw=一個乾旱的地區，但沒有乾旱到成為沙漠的地步。這裡有廣闊的平原，稀少的樹叢以及中等密度的動物。只有比較堅強的植物才會生長在這裡，
 |BiomeDef.workerClass=BiomeWorker_AridShrubland
-|BiomeDef.animalDensity=3.6
+|BiomeDef.animalDensity=1.3
 |BiomeDef.plantDensity=0.16
 |BiomeDef.diseaseMtbDays=60
 |BiomeDef.factionBaseSelectionWeight=0.95
@@ -73,7 +73,7 @@ Core:Defs_BiomeDef_BorealForest,"{{#set:
 |BiomeDef.description.zh-tw=充滿松樹的北方森林。各類大小型動物克服著寒冷的殘酷環境在這裡生存。冬季的降雪導致在此地的行動非常緩慢。
 |BiomeDef.workerClass=BiomeWorker_BorealForest
 |BiomeDef.implemented=true
-|BiomeDef.animalDensity=3.0
+|BiomeDef.animalDensity=1.9
 |BiomeDef.plantDensity=0.30
 |BiomeDef.diseaseMtbDays=50
 |BiomeDef.factionBaseSelectionWeight=0.9
@@ -105,7 +105,7 @@ Core:Defs_BiomeDef_Desert,"{{#set:
 |BiomeDef.description.zh-cn=非常干旱的地区，动植物数量稀少。沙漠要么很热要么很冷。
 |BiomeDef.description.zh-tw=一個非常乾旱，非常炎熱的地區。這裡的生命非常稀少。
 |BiomeDef.workerClass=BiomeWorker_Desert
-|BiomeDef.animalDensity=0.8
+|BiomeDef.animalDensity=0.25
 |BiomeDef.plantDensity=0.05
 |BiomeDef.diseaseMtbDays=80
 |BiomeDef.factionBaseSelectionWeight=0.65
@@ -131,7 +131,7 @@ Core:Defs_BiomeDef_ExtremeDesert,"{{#set:
 |BiomeDef.description.zh-cn=极端炎热干旱的地区，几乎没有生物的痕迹。极高的温度和有限的植物使此处非常难以生存，即使是适应力很强的动物也是如此。
 |BiomeDef.description.zh-tw=一個極度炎熱、極度乾旱的地區，只有極少量生物。極端的高溫及稀疏的植被使生存顯得非常困難，即使對原生動物也是如此。
 |BiomeDef.workerClass=BiomeWorker_ExtremeDesert
-|BiomeDef.animalDensity=0.4
+|BiomeDef.animalDensity=0.05
 |BiomeDef.plantDensity=0.002
 |BiomeDef.diseaseMtbDays=90
 |BiomeDef.factionBaseSelectionWeight=0.42
@@ -160,7 +160,7 @@ Core:Defs_BiomeDef_IceSheet,"{{#set:
 |BiomeDef.workerClass=BiomeWorker_IceSheet
 |BiomeDef.allowRoads=false
 |BiomeDef.allowRivers=false
-|BiomeDef.animalDensity=0.4
+|BiomeDef.animalDensity=0.1
 |BiomeDef.plantDensity=0
 |BiomeDef.diseaseMtbDays=90
 |BiomeDef.factionBaseSelectionWeight=0.15
@@ -207,7 +207,7 @@ Core:Defs_BiomeDef_Ocean,"{{#set:
 |BiomeDef.label=ocean
 |BiomeDef.label.zh-cn=海洋
 |BiomeDef.label.zh-tw=海洋
-|BiomeDef.description=Open ocean. Great for fish - not so great for you.
+|BiomeDef.description=Open ocean. Great for fish. Not so great for you.
 |BiomeDef.description.zh-cn=这里是一片汪洋，鱼儿会很喜欢这里的，你可就不一定了。
 |BiomeDef.description.zh-tw=廣闊的的大海，對於魚來說是相當理想的地方，對於您來說就不是了。
 |BiomeDef.workerClass=BiomeWorker_Ocean
@@ -233,7 +233,7 @@ Core:Defs_BiomeDef_SeaIce,"{{#set:
 |BiomeDef.canAutoChoose=false
 |BiomeDef.allowRoads=false
 |BiomeDef.allowRivers=false
-|BiomeDef.animalDensity=0.1
+|BiomeDef.animalDensity=0.05
 |BiomeDef.plantDensity=0
 |BiomeDef.diseaseMtbDays=80
 |BiomeDef.factionBaseSelectionWeight=0.01
@@ -265,7 +265,7 @@ Core:Defs_BiomeDef_TemperateForest,"{{#set:
 |BiomeDef.description.zh-cn=散布着肥沃的土壤落叶乔木林。丛林里和平原上游荡着多种多样的动物群落。冬季的积雪会导致出行变得缓慢。
 |BiomeDef.description.zh-tw=一個由森林和肥沃土地統領的地區。在這裡的樹叢和平原中生活著各種奇特的動物。冬季的降雪會減緩通行此地的速度。
 |BiomeDef.workerClass=BiomeWorker_TemperateForest
-|BiomeDef.animalDensity=5.5
+|BiomeDef.animalDensity=2.8
 |BiomeDef.plantDensity=0.55
 |BiomeDef.diseaseMtbDays=45
 |BiomeDef.factionBaseSelectionWeight=1
@@ -294,10 +294,10 @@ Core:Defs_BiomeDef_TropicalRainforest,"{{#set:
 |BiomeDef.label.zh-cn=热带雨林
 |BiomeDef.label.zh-tw=熱帶雨林
 |BiomeDef.description=A thick, moist jungle. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant disease are why some explorers call this the ""green hell"".
-|BiomeDef.description.zh-cn=茂密潮湿的丛林。尽管如此美丽多姿，却实际上是个非常危险的生态系统。繁茂到闭塞的植被，富有攻击性的动物，以及阴魂不散的疾病，这就是为什么有些探险者将之称为「绿色地狱」。
+|BiomeDef.description.zh-cn=茂密潮湿的丛林。尽管如此美丽多姿，却实际上是个非常危险的生态区。繁茂到闭塞的植被，富有攻击性的动物，以及阴魂不散的疾病，这就是为什么有些探险者将之称为「绿色地狱」。
 |BiomeDef.description.zh-tw=一個樹木茂密又潮濕的地區，雖然視覺上非常美麗，但這裡是非常危險的生態系。極度茂密生長的植物、侵略性的生物和不斷侵襲的疾病是熱帶雨林被探險家們稱為「綠色地獄」的原因。
 |BiomeDef.workerClass=BiomeWorker_TropicalRainforest
-|BiomeDef.animalDensity=7.2
+|BiomeDef.animalDensity=4.0
 |BiomeDef.plantDensity=0.85
 |BiomeDef.diseaseMtbDays=30
 |BiomeDef.factionBaseSelectionWeight=0.7
@@ -333,7 +333,7 @@ Core:Defs_BiomeDef_Tundra,"{{#set:
 |BiomeDef.description.zh-tw=這個完全被凍結的平原中幾乎找不到任何樹木，連植物都很少見。這裡有一些小型動物和少量的草食性遷徙動物，偶爾也會有一些肉食動物出現。冬季的降雪導致在此地的行動非常緩慢。
 |BiomeDef.workerClass=BiomeWorker_Tundra
 |BiomeDef.implemented=true
-|BiomeDef.animalDensity=1.0
+|BiomeDef.animalDensity=0.8
 |BiomeDef.plantDensity=0.14
 |BiomeDef.diseaseMtbDays=80
 |BiomeDef.factionBaseSelectionWeight=0.32
@@ -7228,6 +7228,18 @@ Core:Defs_DifficultyDef_VeryHard,"{{#set:
 |DifficultyDef.diseaseIntervalFactor=0.9
 |DifficultyDef.enemyReproductionRateFactor=1
 }}"
+Core:Defs_DrawTargetDef_Main,"{{#set:
+|dataType=Def
+|defType=DrawTargetDef
+|defName=Main
+|DrawTargetDef.defName=Main
+}}"
+Core:Defs_DrawTargetDef_WaterHeight,"{{#set:
+|dataType=Def
+|defType=DrawTargetDef
+|defName=WaterHeight
+|DrawTargetDef.defName=WaterHeight
+}}"
 Core:Defs_DutyDef_AssaultColony,"{{#set:
 |dataType=Def
 |defType=DutyDef
@@ -10116,7 +10128,7 @@ Core:Defs_HediffDef_Bite,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.50
+|HediffDef.comps.1.infectionChance=0.35
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=bite scar
@@ -10250,7 +10262,7 @@ Core:Defs_HediffDef_Burn,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.50
+|HediffDef.comps.1.infectionChance=0.35
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=burn scar
@@ -10464,7 +10476,7 @@ Core:Defs_HediffDef_Crush,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.25
+|HediffDef.comps.1.infectionChance=0.15
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=scar
@@ -10539,7 +10551,7 @@ Core:Defs_HediffDef_Cut,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.25
+|HediffDef.comps.1.infectionChance=0.15
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=cut scar
@@ -10916,7 +10928,7 @@ Core:Defs_HediffDef_Frostbite,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.50
+|HediffDef.comps.1.infectionChance=0.35
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=frostbite scar
@@ -11086,7 +11098,7 @@ Core:Defs_HediffDef_Gunshot,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.25
+|HediffDef.comps.1.infectionChance=0.15
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=old gunshot
@@ -12189,7 +12201,7 @@ Core:Defs_HediffDef_Scratch,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.25
+|HediffDef.comps.1.infectionChance=0.15
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=scratch scar
@@ -12337,7 +12349,7 @@ Core:Defs_HediffDef_Shredded,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.25
+|HediffDef.comps.1.infectionChance=0.15
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=scar
@@ -12576,7 +12588,7 @@ Core:Defs_HediffDef_SmokeleafHigh,"{{#set:
 |HediffDef.stages.0.capMods.0.offset=-0.3
 |HediffDef.stages.0.capMods.1=Exist
 |HediffDef.stages.0.capMods.1.capacity=Moving
-|HediffDef.stages.0.capMods.1.offset=-0.3
+|HediffDef.stages.0.capMods.1.offset=-0.1
 |HediffDef.maxSeverity=1.0
 |HediffDef.scenarioCanAdd=true
 |HediffDef.defaultLabelColor=(1,0,0.5)
@@ -12662,7 +12674,7 @@ Core:Defs_HediffDef_Stab,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.25
+|HediffDef.comps.1.infectionChance=0.15
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=stab scar
@@ -13356,7 +13368,7 @@ Core:Defs_IncidentDef_AmbrosiaSprout,"{{#set:
 |IncidentDef.letterLabel=Ambrosia sprout
 |IncidentDef.letterLabel.zh-cn=仙馐树萌芽
 |IncidentDef.letterLabel.zh-tw=Ambrosia sprout
-|IncidentDef.letterType=Good
+|IncidentDef.letterDef=Good
 }}"
 Core:Defs_IncidentDef_Ambush,"{{#set:
 |dataType=Def
@@ -13377,7 +13389,7 @@ Core:Defs_IncidentDef_Ambush,"{{#set:
 |IncidentDef.letterLabel=Caravan ambushed
 |IncidentDef.letterLabel.zh-cn=远行队遭遇伏击
 |IncidentDef.letterLabel.zh-tw=旅隊遇襲
-|IncidentDef.letterType=BadUrgent
+|IncidentDef.letterDef=BadUrgent
 |IncidentDef.mtbDaysByBiome=""TemperateForest"",""20"";""BorealForest"",""20"";""TropicalRainforest"",""20"";""AridShrubland"",""20"";""Desert"",""30"";""Tundra"",""30"";""ExtremeDesert"",""35"";""IceSheet"",""40"";""SeaIce"",""60""
 }}"
 Core:Defs_IncidentDef_AnimalInsanityMass,"{{#set:
@@ -13427,7 +13439,7 @@ Core:Defs_IncidentDef_CaravanDemand,"{{#set:
 |IncidentDef.letterLabel=Caravan ambushed
 |IncidentDef.letterLabel.zh-cn=远行队遭遇伏击
 |IncidentDef.letterLabel.zh-tw=旅隊攔截
-|IncidentDef.letterType=BadUrgent
+|IncidentDef.letterDef=BadUrgent
 |IncidentDef.mtbDaysByBiome=""TemperateForest"",""20"";""BorealForest"",""20"";""TropicalRainforest"",""20"";""AridShrubland"",""20"";""Desert"",""30"";""Tundra"",""30"";""ExtremeDesert"",""35"";""IceSheet"",""40"";""SeaIce"",""60""
 }}"
 Core:Defs_IncidentDef_CaravanMeeting,"{{#set:
@@ -13476,7 +13488,7 @@ Core:Defs_IncidentDef_ColdSnap,"{{#set:
 |IncidentDef.letterLabel=Cold snap
 |IncidentDef.letterLabel.zh-cn=寒流
 |IncidentDef.letterLabel.zh-tw=寒流
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.gameCondition=ColdSnap
 |IncidentDef.durationDays=1.5 ~ 3.5
 }}"
@@ -13626,7 +13638,7 @@ Core:Defs_IncidentDef_Eclipse,"{{#set:
 |IncidentDef.letterLabel=Eclipse
 |IncidentDef.letterLabel.zh-cn=日蚀
 |IncidentDef.letterLabel.zh-tw=日蝕
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.gameCondition=Eclipse
 |IncidentDef.durationDays=0.75 ~ 1.25
 }}"
@@ -13663,7 +13675,7 @@ Core:Defs_IncidentDef_Flashstorm,"{{#set:
 |IncidentDef.letterLabel=Flashstorm
 |IncidentDef.letterLabel.zh-cn=闪电风暴
 |IncidentDef.letterLabel.zh-tw=雷暴
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.durationDays=0.075 ~ 0.1
 }}"
 Core:Defs_IncidentDef_HeatWave,"{{#set:
@@ -13685,7 +13697,7 @@ Core:Defs_IncidentDef_HeatWave,"{{#set:
 |IncidentDef.letterLabel=Heat wave
 |IncidentDef.letterLabel.zh-cn=热浪
 |IncidentDef.letterLabel.zh-tw=熱浪
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.gameCondition=HeatWave
 |IncidentDef.durationDays=1.5 ~ 3.5
 }}"
@@ -13710,7 +13722,7 @@ Core:Defs_IncidentDef_Infestation,"{{#set:
 |IncidentDef.letterLabel=Infestation
 |IncidentDef.letterLabel.zh-cn=虫害
 |IncidentDef.letterLabel.zh-tw=蟲族侵襲
-|IncidentDef.letterType=BadUrgent
+|IncidentDef.letterDef=BadUrgent
 }}"
 Core:Defs_IncidentDef_JourneyOffer,"{{#set:
 |dataType=Def
@@ -13743,7 +13755,7 @@ Core:Defs_IncidentDef_ManhunterAmbush,"{{#set:
 |IncidentDef.letterLabel=Caravan ambushed (manhunters)
 |IncidentDef.letterLabel.zh-cn=远行队遭遇伏击（猎杀人类）
 |IncidentDef.letterLabel.zh-tw=旅隊遇襲
-|IncidentDef.letterType=BadUrgent
+|IncidentDef.letterDef=BadUrgent
 |IncidentDef.mtbDaysByBiome=""TemperateForest"",""20"";""BorealForest"",""20"";""TropicalRainforest"",""20"";""AridShrubland"",""20"";""Desert"",""30"";""Tundra"",""30"";""ExtremeDesert"",""35"";""IceSheet"",""40"";""SeaIce"",""60""
 }}"
 Core:Defs_IncidentDef_ManhunterPack,"{{#set:
@@ -13797,7 +13809,7 @@ Core:Defs_IncidentDef_PoisonShipPartCrash,"{{#set:
 |IncidentDef.letterLabel=Poison ship
 |IncidentDef.letterLabel.zh-cn=有毒飞船
 |IncidentDef.letterLabel.zh-tw=有毒碎片
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.shipPart=CrashedPoisonShipPart
 }}"
 Core:Defs_IncidentDef_PsychicDrone,"{{#set:
@@ -13839,7 +13851,7 @@ Core:Defs_IncidentDef_PsychicEmanatorShipPartCrash,"{{#set:
 |IncidentDef.letterLabel=Psychic ship
 |IncidentDef.letterLabel.zh-cn=心灵飞船
 |IncidentDef.letterLabel.zh-tw=邪惡碎片
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.shipPart=CrashedPsychicEmanatorShipPart
 }}"
 Core:Defs_IncidentDef_PsychicSoothe,"{{#set:
@@ -13876,7 +13888,7 @@ Core:Defs_IncidentDef_QuestBanditCamp,"{{#set:
 |IncidentDef.letterLabel=Bandit camp opportunity
 |IncidentDef.letterLabel.zh-cn=匪徒营地机会
 |IncidentDef.letterLabel.zh-tw=Bandit camp opportunity
-|IncidentDef.letterType=Good
+|IncidentDef.letterDef=Good
 }}"
 Core:Defs_IncidentDef_QuestItemStash,"{{#set:
 |dataType=Def
@@ -13897,7 +13909,7 @@ Core:Defs_IncidentDef_QuestItemStash,"{{#set:
 |IncidentDef.letterLabel=Item stash opportunity
 |IncidentDef.letterLabel.zh-cn=物品藏匿点机会
 |IncidentDef.letterLabel.zh-tw=Item stash opportunity
-|IncidentDef.letterType=Good
+|IncidentDef.letterDef=Good
 }}"
 Core:Defs_IncidentDef_RaidEnemy,"{{#set:
 |dataType=Def
@@ -13940,6 +13952,10 @@ Core:Defs_IncidentDef_RansomDemand,"{{#set:
 |IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=2
 |IncidentDef.populationEffect=Increase
+|IncidentDef.letterLabel=Ransom demand
+|IncidentDef.letterLabel.zh-cn=索取赎金
+|IncidentDef.letterLabel.zh-tw=Ransom demand
+|IncidentDef.letterDef=RansomDemand
 }}"
 Core:Defs_IncidentDef_RefugeeChased,"{{#set:
 |dataType=Def
@@ -14042,7 +14058,7 @@ Core:Defs_IncidentDef_SolarFlare,"{{#set:
 |IncidentDef.letterLabel=Solar flare
 |IncidentDef.letterLabel.zh-cn=太阳耀斑
 |IncidentDef.letterLabel.zh-tw=太陽閃焰
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.gameCondition=SolarFlare
 |IncidentDef.durationDays=0.15 ~ 0.5
 }}"
@@ -14081,7 +14097,7 @@ Core:Defs_IncidentDef_ToxicFallout,"{{#set:
 |IncidentDef.letterLabel=Toxic fallout
 |IncidentDef.letterLabel.zh-cn=有毒尘埃
 |IncidentDef.letterLabel.zh-tw=輻射塵
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.gameCondition=ToxicFallout
 |IncidentDef.durationDays=2.5 ~ 10.5
 }}"
@@ -14147,7 +14163,7 @@ Core:Defs_IncidentDef_VolcanicWinter,"{{#set:
 |IncidentDef.letterLabel=Volcanic winter
 |IncidentDef.letterLabel.zh-cn=火山冬天
 |IncidentDef.letterLabel.zh-tw=火山冬天
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.gameCondition=VolcanicWinter
 |IncidentDef.durationDays=7.5 ~ 40
 }}"
@@ -14412,13 +14428,13 @@ Core:Defs_InstructionDef_ChooseLandingSite,"{{#set:
 |defName=ChooseLandingSite
 |InstructionDef.defName=ChooseLandingSite
 |InstructionDef.text=Here, you choose your landing site.<br/><br/>There are lots of biomes, but for now, let's start with a friendly one.<br/><br/>Click a landing site with temperate forest biome and flat terrain, and click NEXT.<br/><br/>You can use the TERRAIN tab to view information about the selected tile.
-|InstructionDef.text.zh-cn=在这里你将选择自己的降落地点。<br/><br/>游戏中有多种不同的生态系统，但现在，我们还是从对新手比较友好的生态系统开始。<br/><br/>请选择一处温带森林的平原地形的着降落点，并点击「继续」。<br/><br/>你可以通过「地形」标签查看所选中六边形格子的信息。
+|InstructionDef.text.zh-cn=在这里你将选择自己的降落地点。<br/><br/>游戏中有多种不同的生态区，但现在，我们还是从对新手比较友好的生态区开始。<br/><br/>请选择一处温带森林的平原地形的着降落点，并点击「继续」。<br/><br/>你可以通过「地形」标签查看所选中六边形格子的信息。
 |InstructionDef.text.zh-tw=在這裡，你可以選擇你將降落的地點。<br/><br/>在這顆星球上有許許多多的生態系，但現在，讓我們先從較容易生存的開始。<br/><br/>選擇一個地形平坦的溫帶森林，然後點擊「選擇著陸點」。
 |InstructionDef.eventTagInitiate=PageStart-SelectLandingSite
 |InstructionDef.eventTagsEnd=""PageClosed""
 |InstructionDef.actionTagsAllowed=""GotoPrevPage"",""ChooseBiome-TemperateForest-Flat"",""ITab-Planet-Open"",""ITab-Terrain-Open"",""GotoNextPage""
 |InstructionDef.rejectInputMessage=Please choose a temperate forest landing site with flat terrain.
-|InstructionDef.rejectInputMessage.zh-cn=请选择一个位于「温带森林」生态系统的「平原」来开始游戏。
+|InstructionDef.rejectInputMessage.zh-cn=请选择一个位于「温带森林」生态区的「平原」来开始游戏。
 |InstructionDef.rejectInputMessage.zh-tw=請選擇地形平坦的溫帶森林生態系。
 }}"
 Core:Defs_InstructionDef_ChooseStoryteller,"{{#set:
@@ -17504,6 +17520,55 @@ Core:Defs_KeyBindingDef_ToggleScreenshotMode,"{{#set:
 |KeyBindingDef.category=Game
 |KeyBindingDef.defaultKeyCodeA=F11
 }}"
+Core:Defs_LetterDef_BadNonUrgent,"{{#set:
+|dataType=Def
+|defType=LetterDef
+|defName=BadNonUrgent
+|LetterDef.defName=BadNonUrgent
+|LetterDef.color=(204, 196, 135)
+|LetterDef.flashColor=(210, 198, 106)
+|LetterDef.flashInterval=40
+}}"
+Core:Defs_LetterDef_BadUrgent,"{{#set:
+|dataType=Def
+|defType=LetterDef
+|defName=BadUrgent
+|LetterDef.defName=BadUrgent
+|LetterDef.color=(204, 115, 115)
+|LetterDef.flashColor=(255, 85, 85)
+|LetterDef.flashInterval=16
+|LetterDef.bounce=true
+|LetterDef.arriveSound=LetterArriveBadUrgent
+}}"
+Core:Defs_LetterDef_Good,"{{#set:
+|dataType=Def
+|defType=LetterDef
+|defName=Good
+|LetterDef.defName=Good
+|LetterDef.color=(120, 176, 216)
+|LetterDef.flashColor=(106, 179, 231)
+|LetterDef.flashInterval=90
+}}"
+Core:Defs_LetterDef_ItemStashFeeDemand,"{{#set:
+|dataType=Def
+|defType=LetterDef
+|defName=ItemStashFeeDemand
+|LetterDef.defName=ItemStashFeeDemand
+|LetterDef.letterClass=ChoiceLetter_ItemStashFeeDemand
+|LetterDef.color=(95, 151, 191)
+|LetterDef.flashInterval=-1
+|LetterDef.icon=UI/Letters/CustomChoiceLetter
+}}"
+Core:Defs_LetterDef_RansomDemand,"{{#set:
+|dataType=Def
+|defType=LetterDef
+|defName=RansomDemand
+|LetterDef.defName=RansomDemand
+|LetterDef.letterClass=ChoiceLetter_RansomDemand
+|LetterDef.color=(95, 151, 191)
+|LetterDef.flashInterval=-1
+|LetterDef.icon=UI/Letters/CustomChoiceLetter
+}}"
 Core:Defs_LifeStageDef_AnimalAdult,"{{#set:
 |dataType=Def
 |defType=LifeStageDef
@@ -17981,7 +18046,7 @@ Core:Defs_MentalStateDef_Berserk,"{{#set:
 |MentalStateDef.beginLetterLabel=berserk
 |MentalStateDef.beginLetterLabel.zh-cn=狂暴
 |MentalStateDef.beginLetterLabel.zh-tw=狂暴
-|MentalStateDef.beginLetterType=BadUrgent
+|MentalStateDef.beginLetterDef=BadUrgent
 |MentalStateDef.nameColor=(0.9,0.2,0.5)
 |MentalStateDef.recoveryMessage={0}'s berserk rage has come to an end.
 |MentalStateDef.recoveryMessage.zh-cn={0}的狂暴已经结束。
@@ -18068,7 +18133,7 @@ Core:Defs_MentalStateDef_BingingFood,"{{#set:
 |MentalStateDef.beginLetterLabel=food binge
 |MentalStateDef.beginLetterLabel.zh-cn=暴饮暴食
 |MentalStateDef.beginLetterLabel.zh-tw=暴飲暴食
-|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.beginLetterDef=BadNonUrgent
 |MentalStateDef.nameColor=(0.5, 0.9, 0.5)
 |MentalStateDef.recoveryMessage={0} is no longer pigging out on food.
 |MentalStateDef.recoveryMessage.zh-cn={0}不再暴饮暴食了。
@@ -18102,7 +18167,7 @@ Core:Defs_MentalStateDef_FireStartingSpree,"{{#set:
 |MentalStateDef.beginLetterLabel=fire starting spree
 |MentalStateDef.beginLetterLabel.zh-cn=纵火
 |MentalStateDef.beginLetterLabel.zh-tw=縱火
-|MentalStateDef.beginLetterType=BadUrgent
+|MentalStateDef.beginLetterDef=BadUrgent
 |MentalStateDef.nameColor=(0.5, 0.9, 0.5)
 |MentalStateDef.recoveryMessage={0} is no longer on a fire starting spree.
 |MentalStateDef.recoveryMessage.zh-cn={0}停止纵火了。
@@ -18134,7 +18199,7 @@ Core:Defs_MentalStateDef_GiveUpExit,"{{#set:
 |MentalStateDef.beginLetterLabel=gave up
 |MentalStateDef.beginLetterLabel.zh-cn=放弃
 |MentalStateDef.beginLetterLabel.zh-tw=萬念俱灰
-|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.beginLetterDef=BadNonUrgent
 |MentalStateDef.nameColor=(0.65, 0.9, 0.93)
 |MentalStateDef.recoveryMessage={0} has had a change of heart and is coming back to the colony.
 |MentalStateDef.recoveryMessage.zh-cn={0}改变心意，并返回殖民地。
@@ -18265,7 +18330,7 @@ Core:Defs_MentalStateDef_WanderConfused,"{{#set:
 |MentalStateDef.beginLetterLabel=confusion
 |MentalStateDef.beginLetterLabel.zh-cn=迷茫
 |MentalStateDef.beginLetterLabel.zh-tw=茫然
-|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.beginLetterDef=BadNonUrgent
 |MentalStateDef.nameColor=(0.65, 0.9, 0.93)
 |MentalStateDef.recoveryMessage={0} is no longer confused.
 |MentalStateDef.recoveryMessage.zh-cn={0}不再迷茫徘徊了。
@@ -18300,7 +18365,7 @@ Core:Defs_MentalStateDef_WanderOwnRoom,"{{#set:
 |MentalStateDef.beginLetterLabel=hide in room
 |MentalStateDef.beginLetterLabel.zh-cn=封闭自我
 |MentalStateDef.beginLetterLabel.zh-tw=閉門不出
-|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.beginLetterDef=BadNonUrgent
 |MentalStateDef.nameColor=(0.65, 0.9, 0.93)
 |MentalStateDef.recoveryMessage={0} is no longer hiding in HIS room.
 |MentalStateDef.recoveryMessage.zh-cn={0}不再把自己关在房间中。
@@ -18332,7 +18397,7 @@ Core:Defs_MentalStateDef_WanderPsychotic,"{{#set:
 |MentalStateDef.beginLetterLabel=daze
 |MentalStateDef.beginLetterLabel.zh-cn=茫然徘徊
 |MentalStateDef.beginLetterLabel.zh-tw=憂鬱
-|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.beginLetterDef=BadNonUrgent
 |MentalStateDef.nameColor=(0.65, 0.9, 0.93)
 |MentalStateDef.recoveryMessage={0} is no longer wandering in a psychotic state.
 |MentalStateDef.recoveryMessage.zh-cn={0}不再茫然徘徊。
@@ -18367,7 +18432,7 @@ Core:Defs_MentalStateDef_WanderSad,"{{#set:
 |MentalStateDef.beginLetterLabel=sad wander
 |MentalStateDef.beginLetterLabel.zh-cn=悲伤徘徊
 |MentalStateDef.beginLetterLabel.zh-tw=悲傷
-|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.beginLetterDef=BadNonUrgent
 |MentalStateDef.nameColor=(0.65, 0.9, 0.93)
 |MentalStateDef.recoveryMessage={0} is no longer wandering in sadness.
 |MentalStateDef.recoveryMessage.zh-cn={0}不再悲伤徘徊。
@@ -18960,13 +19025,6 @@ Core:Defs_PawnColumnDef_Timetable,"{{#set:
 |PawnColumnDef.defName=Timetable
 |PawnColumnDef.workerClass=PawnColumnWorker_Timetable
 |PawnColumnDef.sortable=true
-}}"
-Core:Defs_PawnColumnDef_WorkPriorities,"{{#set:
-|dataType=Def
-|defType=PawnColumnDef
-|defName=WorkPriorities
-|PawnColumnDef.defName=WorkPriorities
-|PawnColumnDef.workerClass=PawnColumnWorker_WorkPriorities
 }}"
 Core:Defs_PawnGroupKindDef_FactionBase,"{{#set:
 |dataType=Def
@@ -26453,7 +26511,7 @@ Core:Defs_PawnTableDef_Work,"{{#set:
 |defType=PawnTableDef
 |defName=Work
 |PawnTableDef.defName=Work
-|PawnTableDef.columns=""Label"",""CopyPasteWorkPriorities"",""WorkPriorities"",""RemainingSpace""
+|PawnTableDef.columns=""Label"",""CopyPasteWorkPriorities"",""RemainingSpace""
 }}"
 Core:Defs_PrisonerInteractionModeDef_AttemptRecruit,"{{#set:
 |dataType=Def
@@ -35060,6 +35118,18 @@ Core:Defs_ScenPartDef_StatFactor,"{{#set:
 |ScenPartDef.summaryPriority=379
 |ScenPartDef.selectionWeight=1.0
 }}"
+Core:Defs_SectionLayerPhaseDef_Main,"{{#set:
+|dataType=Def
+|defType=SectionLayerPhaseDef
+|defName=Main
+|SectionLayerPhaseDef.defName=Main
+}}"
+Core:Defs_SectionLayerPhaseDef_WaterGeneration,"{{#set:
+|dataType=Def
+|defType=SectionLayerPhaseDef
+|defName=WaterGeneration
+|SectionLayerPhaseDef.defName=WaterGeneration
+}}"
 Core:Defs_SiteCoreDef_ItemStash,"{{#set:
 |dataType=Def
 |defType=SiteCoreDef
@@ -35092,6 +35162,7 @@ Core:Defs_SiteCoreDef_PreciousLump,"{{#set:
 |SiteCoreDef.label.zh-tw=一大筆貴重資源
 |SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/PreciousLump
+|SiteCoreDef.forceExitAndRemoveMapCountdownDurationDays=10
 }}"
 Core:Defs_SitePartDef_Manhunters,"{{#set:
 |dataType=Def
@@ -36949,7 +37020,7 @@ Core:Defs_SoundDef_Crunch,"{{#set:
 |SoundDef.subSounds.0.grains.0=Exist
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
 |SoundDef.subSounds.0.grains.0.clipPath=UI/Crunch
-|SoundDef.subSounds.0.volumeRange=20 ~ 20
+|SoundDef.subSounds.0.volumeRange=30 ~ 30
 |SoundDef.subSounds.0.pitchRange=0.9 ~ 1.1
 }}"
 Core:Defs_SoundDef_CryptosleepCasketAccept,"{{#set:
@@ -45037,10 +45108,10 @@ Core:Defs_StatDef_ImmunityGainSpeedFactor,"{{#set:
 |defName=ImmunityGainSpeedFactor
 |StatDef.defName=ImmunityGainSpeedFactor
 |StatDef.label=immunity gain speed factor
-|StatDef.label.zh-cn=免疫性增加速度系数
+|StatDef.label.zh-cn=免疫性获取速度系数
 |StatDef.label.zh-tw=免疫力形成速度倍率
 |StatDef.description=Immunity gain speed is multiplied by this value.
-|StatDef.description.zh-cn=免疫性增加的速度会乘以此项的值。
+|StatDef.description.zh-cn=免疫性获取速度会乘以此项的值。
 |StatDef.description.zh-tw=免疫力形成速度的速度倍率。
 |StatDef.category=Building
 |StatDef.hideAtValue=1
@@ -47153,6 +47224,7 @@ Core:Defs_TerrainDef_BrokenAsphalt,"{{#set:
 |TerrainDef.statBases=""Beauty"",""-1"";""Cleanliness"",""-1""
 |TerrainDef.pathCost=0
 |TerrainDef.fertility=0.0
+|TerrainDef.resourcesFractionWhenDeconstructed=0
 |TerrainDef.texturePath=Terrain/Surfaces/BrokenAsphalt
 |TerrainDef.edgeType=FadeRough
 |TerrainDef.renderPrecedence=370
@@ -47169,10 +47241,10 @@ Core:Defs_TerrainDef_BurnedCarpet,"{{#set:
 |TerrainDef.label=burned carpet
 |TerrainDef.label.zh-cn=被烧毁的地毯
 |TerrainDef.label.zh-tw=burned carpet
-|TerrainDef.description=Burned out carpet.
+|TerrainDef.description=Burned-out carpet.
 |TerrainDef.description.zh-cn=被烧毁的地毯。
-|TerrainDef.description.zh-tw=Burned out carpet.
-|TerrainDef.statBases=""Beauty"",""-30""
+|TerrainDef.description.zh-tw=Burned-out carpet.
+|TerrainDef.statBases=""Beauty"",""-6""
 |TerrainDef.pathCost=9
 |TerrainDef.fertility=0
 |TerrainDef.terrainAffordanceNeeded=Light
@@ -47191,10 +47263,10 @@ Core:Defs_TerrainDef_BurnedWoodPlankFloor,"{{#set:
 |TerrainDef.label=burned wood floor
 |TerrainDef.label.zh-cn=被烧毁的木地板
 |TerrainDef.label.zh-tw=burned wood floor
-|TerrainDef.description=Burned out wood plank flooring.
+|TerrainDef.description=Burned-out wood plank flooring.
 |TerrainDef.description.zh-cn=被烧毁的木板地面。
-|TerrainDef.description.zh-tw=Burned out wood plank flooring.
-|TerrainDef.statBases=""Beauty"",""-30""
+|TerrainDef.description.zh-tw=Burned-out wood plank flooring.
+|TerrainDef.statBases=""Beauty"",""-6""
 |TerrainDef.pathCost=9
 |TerrainDef.fertility=0
 |TerrainDef.terrainAffordanceNeeded=Light
@@ -47351,7 +47423,7 @@ Core:Defs_TerrainDef_Concrete,"{{#set:
 |TerrainDef.description=Quick-poured concrete. Fast to walk on, cheap, and very quick to pour, but quite ugly.
 |TerrainDef.description.zh-cn=迅速浇灌的混凝土。在上面走很迅速，但是比较难看。你需要把地面挖开才能浇灌混凝土。
 |TerrainDef.description.zh-tw=迅速澆灌的水泥。在上面行走很迅速，但外觀欠佳。
-|TerrainDef.statBases=""WorkToBuild"",""70""
+|TerrainDef.statBases=""Beauty"",""-1"";""WorkToBuild"",""100""
 |TerrainDef.fertility=0
 |TerrainDef.costList=""Steel"",""1""
 |TerrainDef.terrainAffordanceNeeded=Light
@@ -47373,14 +47445,15 @@ Core:Defs_TerrainDef_FlagstoneGranite,"{{#set:
 |TerrainDef.label=granite flagstone
 |TerrainDef.label.zh-cn=花岗岩石板
 |TerrainDef.label.zh-tw=granite flagstone
-|TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
-|TerrainDef.description.zh-cn=粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。
-|TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
+|TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.
+|TerrainDef.description.zh-cn=粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。拆除石板无法回收资源。
+|TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.
 |TerrainDef.statBases=""WorkToBuild"",""500"";""Beauty"",""0""
 |TerrainDef.fertility=0
 |TerrainDef.costList=""BlocksGranite"",""4""
 |TerrainDef.terrainAffordanceNeeded=Light
 |TerrainDef.constructEffect=ConstructDirt
+|TerrainDef.resourcesFractionWhenDeconstructed=0
 |TerrainDef.designationCategory=Floors
 |TerrainDef.texturePath=Terrain/Surfaces/Flagstone
 |TerrainDef.renderPrecedence=220
@@ -47398,14 +47471,15 @@ Core:Defs_TerrainDef_FlagstoneLimestone,"{{#set:
 |TerrainDef.label=limestone flagstone
 |TerrainDef.label.zh-cn=石灰岩石板
 |TerrainDef.label.zh-tw=limestone flagstone
-|TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
-|TerrainDef.description.zh-cn=粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。
-|TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
+|TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.
+|TerrainDef.description.zh-cn=粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。拆除石板无法回收资源。
+|TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.
 |TerrainDef.statBases=""WorkToBuild"",""500"";""Beauty"",""0""
 |TerrainDef.fertility=0
 |TerrainDef.costList=""BlocksLimestone"",""4""
 |TerrainDef.terrainAffordanceNeeded=Light
 |TerrainDef.constructEffect=ConstructDirt
+|TerrainDef.resourcesFractionWhenDeconstructed=0
 |TerrainDef.designationCategory=Floors
 |TerrainDef.texturePath=Terrain/Surfaces/Flagstone
 |TerrainDef.renderPrecedence=220
@@ -47423,14 +47497,15 @@ Core:Defs_TerrainDef_FlagstoneMarble,"{{#set:
 |TerrainDef.label=marble flagstone
 |TerrainDef.label.zh-cn=大理石石板
 |TerrainDef.label.zh-tw=marble flagstone
-|TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
-|TerrainDef.description.zh-cn=粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。
-|TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
+|TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.
+|TerrainDef.description.zh-cn=粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。拆除石板无法回收资源。
+|TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.
 |TerrainDef.statBases=""WorkToBuild"",""500"";""Beauty"",""0""
 |TerrainDef.fertility=0
 |TerrainDef.costList=""BlocksMarble"",""4""
 |TerrainDef.terrainAffordanceNeeded=Light
 |TerrainDef.constructEffect=ConstructDirt
+|TerrainDef.resourcesFractionWhenDeconstructed=0
 |TerrainDef.designationCategory=Floors
 |TerrainDef.texturePath=Terrain/Surfaces/Flagstone
 |TerrainDef.renderPrecedence=220
@@ -47448,14 +47523,15 @@ Core:Defs_TerrainDef_FlagstoneSandstone,"{{#set:
 |TerrainDef.label=sandstone flagstone
 |TerrainDef.label.zh-cn=砂岩石板
 |TerrainDef.label.zh-tw=sandstone flagstone
-|TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
-|TerrainDef.description.zh-cn=粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。
-|TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
+|TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.
+|TerrainDef.description.zh-cn=粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。拆除石板无法回收资源。
+|TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.
 |TerrainDef.statBases=""WorkToBuild"",""500"";""Beauty"",""0""
 |TerrainDef.fertility=0
 |TerrainDef.costList=""BlocksSandstone"",""4""
 |TerrainDef.terrainAffordanceNeeded=Light
 |TerrainDef.constructEffect=ConstructDirt
+|TerrainDef.resourcesFractionWhenDeconstructed=0
 |TerrainDef.designationCategory=Floors
 |TerrainDef.texturePath=Terrain/Surfaces/Flagstone
 |TerrainDef.renderPrecedence=220
@@ -47473,14 +47549,15 @@ Core:Defs_TerrainDef_FlagstoneSlate,"{{#set:
 |TerrainDef.label=slate flagstone
 |TerrainDef.label.zh-cn=板岩石板
 |TerrainDef.label.zh-tw=slate flagstone
-|TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
-|TerrainDef.description.zh-cn=粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。
-|TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways.
+|TerrainDef.description=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.
+|TerrainDef.description.zh-cn=粗糙切割的岩石地砖。不太好看，但非常适合铺设道路和室外的走道。拆除石板无法回收资源。
+|TerrainDef.description.zh-tw=Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.
 |TerrainDef.statBases=""WorkToBuild"",""500"";""Beauty"",""0""
 |TerrainDef.fertility=0
 |TerrainDef.costList=""BlocksSlate"",""4""
 |TerrainDef.terrainAffordanceNeeded=Light
 |TerrainDef.constructEffect=ConstructDirt
+|TerrainDef.resourcesFractionWhenDeconstructed=0
 |TerrainDef.designationCategory=Floors
 |TerrainDef.texturePath=Terrain/Surfaces/Flagstone
 |TerrainDef.renderPrecedence=220
@@ -47526,7 +47603,7 @@ Core:Defs_TerrainDef_Granite_Rough,"{{#set:
 |TerrainDef.description=Rough, natural granite ground.
 |TerrainDef.description.zh-cn=粗糙的天然花岗岩地面。
 |TerrainDef.description.zh-tw=崎嶇的天然砂岩地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""-1""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/RoughStone
@@ -47550,7 +47627,7 @@ Core:Defs_TerrainDef_Granite_RoughHewn,"{{#set:
 |TerrainDef.description=Roughly cut natural granite floor.
 |TerrainDef.description.zh-cn=粗糙砍凿的天然花岗岩地面。
 |TerrainDef.description.zh-tw=開鑿出的花崗岩地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""-1""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/RoughHewnRock
@@ -47574,7 +47651,7 @@ Core:Defs_TerrainDef_Granite_Smooth,"{{#set:
 |TerrainDef.description=Smoothed natural granite floor.
 |TerrainDef.description.zh-cn=打磨光滑的天然花岗岩地面。
 |TerrainDef.description.zh-tw=經打磨的光滑花崗岩地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""3""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/SmoothStone
@@ -47636,7 +47713,7 @@ Core:Defs_TerrainDef_Limestone_Rough,"{{#set:
 |TerrainDef.description=Rough, natural limestone ground.
 |TerrainDef.description.zh-cn=粗糙的天然石灰岩地面。
 |TerrainDef.description.zh-tw=崎嶇的天然石灰岩地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""-1""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/RoughStone
@@ -47660,7 +47737,7 @@ Core:Defs_TerrainDef_Limestone_RoughHewn,"{{#set:
 |TerrainDef.description=Roughly cut natural limestone floor.
 |TerrainDef.description.zh-cn=粗糙砍凿的天然石灰岩地面。
 |TerrainDef.description.zh-tw=開鑿出的石灰岩地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""-1""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/RoughHewnRock
@@ -47684,7 +47761,7 @@ Core:Defs_TerrainDef_Limestone_Smooth,"{{#set:
 |TerrainDef.description=Smoothed natural limestone floor.
 |TerrainDef.description.zh-cn=打磨光滑的天然石灰岩地面。
 |TerrainDef.description.zh-tw=經打磨的光滑石灰岩地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""3""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/SmoothStone
@@ -47708,7 +47785,7 @@ Core:Defs_TerrainDef_Marble_Rough,"{{#set:
 |TerrainDef.description=Rough, natural marble ground.
 |TerrainDef.description.zh-cn=粗糙的天然大理石地面。
 |TerrainDef.description.zh-tw=崎嶇的天然大理石地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""-1""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/RoughStone
@@ -47732,7 +47809,7 @@ Core:Defs_TerrainDef_Marble_RoughHewn,"{{#set:
 |TerrainDef.description=Roughly cut natural marble floor.
 |TerrainDef.description.zh-cn=粗糙砍凿的天然大理石地面。
 |TerrainDef.description.zh-tw=開鑿出的大理石地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""-1""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/RoughHewnRock
@@ -47756,7 +47833,7 @@ Core:Defs_TerrainDef_Marble_Smooth,"{{#set:
 |TerrainDef.description=Smoothed natural marble floor.
 |TerrainDef.description.zh-cn=打磨光滑的天然大理石地面。
 |TerrainDef.description.zh-tw=經打磨的光滑大理石地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""3""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/SmoothStone
@@ -47820,9 +47897,9 @@ Core:Defs_TerrainDef_MetalTile,"{{#set:
 |TerrainDef.description=Metal tiles, for that spaceship look. Pretty, but labor and material-intensive.
 |TerrainDef.description.zh-cn=金属的地砖，拥有宇宙飞船般的外表。看起来很好看，就是铺设时的工作量和所用材料有点多。
 |TerrainDef.description.zh-tw=金屬的地磚，擁有星艦般的外觀。
-|TerrainDef.statBases=""WorkToBuild"",""500""
+|TerrainDef.statBases=""WorkToBuild"",""700"";""Beauty"",""1""
 |TerrainDef.fertility=0
-|TerrainDef.costList=""Steel"",""5""
+|TerrainDef.costList=""Steel"",""7""
 |TerrainDef.terrainAffordanceNeeded=Light
 |TerrainDef.constructEffect=ConstructMetal
 |TerrainDef.designationCategory=Floors
@@ -47885,11 +47962,13 @@ Core:Defs_TerrainDef_PackedDirt,"{{#set:
 |TerrainDef.statBases=""Beauty"",""-1"";""Cleanliness"",""-1""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0.0
+|TerrainDef.resourcesFractionWhenDeconstructed=0
 |TerrainDef.texturePath=Terrain/Surfaces/PackedDirt
 |TerrainDef.edgeType=FadeRough
 |TerrainDef.renderPrecedence=360
 |TerrainDef.affordances=""Light"",""Heavy""
 |TerrainDef.scatterType=Rocky
+|TerrainDef.tags=""Road""
 |TerrainDef.terrainFilthDef=FilthDirt
 }}"
 Core:Defs_TerrainDef_PavedTile,"{{#set:
@@ -47946,7 +48025,7 @@ Core:Defs_TerrainDef_Sandstone_Rough,"{{#set:
 |TerrainDef.description=Rough, natural sandstone ground.
 |TerrainDef.description.zh-cn=粗糙的天然砂岩地面。
 |TerrainDef.description.zh-tw=崎嶇的天然砂岩地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""-1""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/RoughStone
@@ -47970,7 +48049,7 @@ Core:Defs_TerrainDef_Sandstone_RoughHewn,"{{#set:
 |TerrainDef.description=Roughly cut natural sandstone floor.
 |TerrainDef.description.zh-cn=粗糙砍凿的天然砂岩地面。
 |TerrainDef.description.zh-tw=開鑿出的砂岩地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""-1""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/RoughHewnRock
@@ -47994,7 +48073,7 @@ Core:Defs_TerrainDef_Sandstone_Smooth,"{{#set:
 |TerrainDef.description=Smoothed natural sandstone floor.
 |TerrainDef.description.zh-cn=打磨光滑的天然砂岩地面。
 |TerrainDef.description.zh-tw=經打磨的光滑砂岩地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""3""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/SmoothStone
@@ -48015,7 +48094,7 @@ Core:Defs_TerrainDef_SilverTile,"{{#set:
 |TerrainDef.label=silver tile
 |TerrainDef.label.zh-cn=银质地砖
 |TerrainDef.label.zh-tw=白銀地磚
-|TerrainDef.description=Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.
+|TerrainDef.description=Expensive and slow to build, but very pretty. Fits perfectly into luxurious rooms.
 |TerrainDef.description.zh-cn=造价昂贵且铺设缓慢，但非常漂亮。适合所有类型的豪华房间。
 |TerrainDef.description.zh-tw=價格高昂，鋪設費時，但是外觀相當華麗，奢華空間的絕配。
 |TerrainDef.statBases=""Beauty"",""2"";""WorkToBuild"",""1200""
@@ -48043,7 +48122,7 @@ Core:Defs_TerrainDef_Slate_Rough,"{{#set:
 |TerrainDef.description=Rough, natural slate ground.
 |TerrainDef.description.zh-cn=粗糙的天然板岩地面。
 |TerrainDef.description.zh-tw=崎嶇的天然板岩地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""-1""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/RoughStone
@@ -48067,7 +48146,7 @@ Core:Defs_TerrainDef_Slate_RoughHewn,"{{#set:
 |TerrainDef.description=Roughly cut natural slate floor.
 |TerrainDef.description.zh-cn=粗糙砍凿的天然板岩地面。
 |TerrainDef.description.zh-tw=開鑿出的板岩地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""-1""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/RoughHewnRock
@@ -48091,7 +48170,7 @@ Core:Defs_TerrainDef_Slate_Smooth,"{{#set:
 |TerrainDef.description=Smoothed natural slate floor.
 |TerrainDef.description.zh-cn=打磨光滑的天然板岩地面。
 |TerrainDef.description.zh-tw=經打磨的光滑板岩地面。
-|TerrainDef.statBases=""Beauty"",""1""
+|TerrainDef.statBases=""Beauty"",""3""
 |TerrainDef.pathCost=1
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/SmoothStone
@@ -48310,12 +48389,14 @@ Core:Defs_TerrainDef_WaterDeep,"{{#set:
 |TerrainDef.passability=Impassable
 |TerrainDef.pathCost=300
 |TerrainDef.fertility=0
-|TerrainDef.texturePath=Terrain/Surfaces/WaterDeepSolid
+|TerrainDef.texturePath=Terrain/Surfaces/WaterDeepRamp
 |TerrainDef.edgeType=Water
+|TerrainDef.waterDepthShader=Map/WaterDepth
 |TerrainDef.renderPrecedence=396
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
+|TerrainDef.tags=""CreateSplashes""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WaterMovingDeep,"{{#set:
@@ -48329,13 +48410,14 @@ Core:Defs_TerrainDef_WaterMovingDeep,"{{#set:
 |TerrainDef.passability=Impassable
 |TerrainDef.pathCost=300
 |TerrainDef.fertility=0
-|TerrainDef.texturePath=Terrain/Surfaces/WaterDeepSolid
+|TerrainDef.texturePath=Terrain/Surfaces/WaterDeepRamp
 |TerrainDef.edgeType=Water
+|TerrainDef.waterDepthShader=Map/WaterDepth
 |TerrainDef.renderPrecedence=395
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
-|TerrainDef.tags=""River""
+|TerrainDef.tags=""River"",""CreateSplashes""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WaterMovingShallow,"{{#set:
@@ -48348,13 +48430,14 @@ Core:Defs_TerrainDef_WaterMovingShallow,"{{#set:
 |TerrainDef.label.zh-tw=shallow moving water
 |TerrainDef.pathCost=12
 |TerrainDef.fertility=0
-|TerrainDef.texturePath=Terrain/Surfaces/WaterShallowSolid
+|TerrainDef.texturePath=Terrain/Surfaces/WaterShallowRamp
 |TerrainDef.edgeType=Water
+|TerrainDef.waterDepthShader=Map/WaterDepth
 |TerrainDef.renderPrecedence=394
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
-|TerrainDef.tags=""River""
+|TerrainDef.tags=""River"",""CreateSplashes""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WaterShallow,"{{#set:
@@ -48367,13 +48450,15 @@ Core:Defs_TerrainDef_WaterShallow,"{{#set:
 |TerrainDef.label.zh-tw=淺水
 |TerrainDef.pathCost=12
 |TerrainDef.fertility=0
-|TerrainDef.texturePath=Terrain/Surfaces/WaterShallowSolid
+|TerrainDef.texturePath=Terrain/Surfaces/WaterShallowRamp
 |TerrainDef.edgeType=Water
+|TerrainDef.waterDepthShader=Map/WaterDepth
 |TerrainDef.renderPrecedence=394
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
 |TerrainDef.driesTo=Gravel
+|TerrainDef.tags=""CreateSplashes""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WoodPlankFloor,"{{#set:
@@ -52754,6 +52839,7 @@ Core:Defs_ThingDef_Campfire,"{{#set:
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair
 |ThingDef.constructEffect=ConstructDirt
+|ThingDef.resourcesFractionWhenDeconstructed=0
 |ThingDef.altitudeLayer=Building
 |ThingDef.placeWorkers=""PlaceWorker_Heater""
 |ThingDef.designationCategory=Temperature
@@ -52785,7 +52871,6 @@ Core:Defs_ThingDef_Campfire,"{{#set:
 |ThingDef.comps.4=Exist
 |ThingDef.comps.4.compClass=CompGatherSpot
 |ThingDef.leaveResourcesWhenKilled=false
-|ThingDef.resourcesFractionWhenDeconstructed=0
 |ThingDef.interactionCellOffset=(0,0,-1)
 |ThingDef.hasInteractionCell=True
 |ThingDef.filthLeaving=BuildingRubble
@@ -66380,6 +66465,28 @@ Core:Defs_ThingDef_Mote_VomitBit,"{{#set:
 |ThingDef.mote.solidTime=0.4
 |ThingDef.mote.fadeOutTime=0.25
 }}"
+Core:Defs_ThingDef_Mote_WaterSplash,"{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Mote_WaterSplash
+|ThingDef.defName=Mote_WaterSplash
+|ThingDef.label=Mote
+|ThingDef.altitudeLayer=MoteLow
+|ThingDef.thingClass=MoteSplash
+|ThingDef.category=Mote
+|ThingDef.tickerType=Normal
+|ThingDef.rotatable=false
+|ThingDef.useHitPoints=false
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Mote/Horseshoe
+|ThingDef.graphicData.graphicClass=Graphic_MoteSplash
+|ThingDef.graphicData.shaderType=MoteWater
+|ThingDef.isSaveable=false
+|ThingDef.mote=Exist
+|ThingDef.mote.fadeInTime=0
+|ThingDef.mote.solidTime=500
+|ThingDef.mote.fadeOutTime=0
+}}"
 Core:Defs_ThingDef_Muffalo,"{{#set:
 |dataType=Def
 |defType=ThingDef
@@ -67216,6 +67323,7 @@ Core:Defs_ThingDef_PassiveCooler,"{{#set:
 |ThingDef.researchPrerequisites=""PassiveCooler""
 |ThingDef.repairEffect=Repair
 |ThingDef.constructEffect=ConstructDirt
+|ThingDef.resourcesFractionWhenDeconstructed=0
 |ThingDef.altitudeLayer=Building
 |ThingDef.placeWorkers=""PlaceWorker_CoolerSimple""
 |ThingDef.designationCategory=Temperature
@@ -67233,7 +67341,6 @@ Core:Defs_ThingDef_PassiveCooler,"{{#set:
 |ThingDef.comps.1.Class=CompProperties_Lifespan
 |ThingDef.comps.1.lifespanTicks=300000
 |ThingDef.leaveResourcesWhenKilled=false
-|ThingDef.resourcesFractionWhenDeconstructed=0
 |ThingDef.filthLeaving=BuildingRubble
 |ThingDef.graphicData=Exist
 |ThingDef.graphicData.texPath=Things/Building/Misc/PassiveCooler
@@ -73763,6 +73870,7 @@ Core:Defs_ThingDef_TorchLamp,"{{#set:
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair
 |ThingDef.constructEffect=ConstructWood
+|ThingDef.resourcesFractionWhenDeconstructed=0
 |ThingDef.altitudeLayer=Building
 |ThingDef.placeWorkers=""PlaceWorker_Heater""
 |ThingDef.designationCategory=Furniture
@@ -73794,7 +73902,6 @@ Core:Defs_ThingDef_TorchLamp,"{{#set:
 |ThingDef.comps.3.fireSize=0.4
 |ThingDef.comps.3.offset=(0,0,0.2)
 |ThingDef.leaveResourcesWhenKilled=false
-|ThingDef.resourcesFractionWhenDeconstructed=0
 |ThingDef.filthLeaving=BuildingRubble
 |ThingDef.graphicData=Exist
 |ThingDef.graphicData.texPath=Things/Building/Misc/TorchLamp
@@ -83437,7 +83544,7 @@ Core:Defs_TraderKindDef_Caravan_Outlander_PirateMerchant,"{{#set:
 |defName=Caravan_Outlander_PirateMerchant
 |TraderKindDef.defName=Caravan_Outlander_PirateMerchant
 |TraderKindDef.label=pirate merchant
-|TraderKindDef.label.zh-cn=奴隶商人
+|TraderKindDef.label.zh-cn=海盗商人
 |TraderKindDef.label.zh-tw=奴隸商人
 |TraderKindDef.stockGenerators=Exist
 |TraderKindDef.stockGenerators.Count=9
@@ -83731,7 +83838,7 @@ Core:Defs_TraderKindDef_Orbital_PirateMerchant,"{{#set:
 |defName=Orbital_PirateMerchant
 |TraderKindDef.defName=Orbital_PirateMerchant
 |TraderKindDef.label=pirate merchant
-|TraderKindDef.label.zh-cn=奴隶商
+|TraderKindDef.label.zh-cn=海盗商人
 |TraderKindDef.label.zh-tw=海盜商船
 |TraderKindDef.stockGenerators=Exist
 |TraderKindDef.stockGenerators.Count=16

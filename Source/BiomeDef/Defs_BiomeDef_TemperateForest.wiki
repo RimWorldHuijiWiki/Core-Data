@@ -10,7 +10,7 @@
 |BiomeDef.description.zh-cn=散布着肥沃的土壤落叶乔木林。丛林里和平原上游荡着多种多样的动物群落。冬季的积雪会导致出行变得缓慢。
 |BiomeDef.description.zh-tw=一個由森林和肥沃土地統領的地區。在這裡的樹叢和平原中生活著各種奇特的動物。冬季的降雪會減緩通行此地的速度。
 |BiomeDef.workerClass=BiomeWorker_TemperateForest
-|BiomeDef.animalDensity=5.5
+|BiomeDef.animalDensity=2.8
 |BiomeDef.plantDensity=0.55
 |BiomeDef.diseaseMtbDays=45
 |BiomeDef.factionBaseSelectionWeight=1

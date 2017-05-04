@@ -4,7 +4,7 @@
 |defName=Caravan_Outlander_PirateMerchant
 |TraderKindDef.defName=Caravan_Outlander_PirateMerchant
 |TraderKindDef.label=pirate merchant
-|TraderKindDef.label.zh-cn=奴隶商人
+|TraderKindDef.label.zh-cn=海盗商人
 |TraderKindDef.label.zh-tw=奴隸商人
 |TraderKindDef.stockGenerators=Exist
 |TraderKindDef.stockGenerators.Count=9

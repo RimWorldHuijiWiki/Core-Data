@@ -21,7 +21,7 @@
 |MentalStateDef.beginLetterLabel=gave up
 |MentalStateDef.beginLetterLabel.zh-cn=放弃
 |MentalStateDef.beginLetterLabel.zh-tw=萬念俱灰
-|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.beginLetterDef=BadNonUrgent
 |MentalStateDef.nameColor=(0.65, 0.9, 0.93)
 |MentalStateDef.recoveryMessage={0} has had a change of heart and is coming back to the colony.
 |MentalStateDef.recoveryMessage.zh-cn={0}改变心意，并返回殖民地。

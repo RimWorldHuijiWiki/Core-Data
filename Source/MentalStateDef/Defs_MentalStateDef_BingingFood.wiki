@@ -24,7 +24,7 @@
 |MentalStateDef.beginLetterLabel=food binge
 |MentalStateDef.beginLetterLabel.zh-cn=暴饮暴食
 |MentalStateDef.beginLetterLabel.zh-tw=暴飲暴食
-|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.beginLetterDef=BadNonUrgent
 |MentalStateDef.nameColor=(0.5, 0.9, 0.5)
 |MentalStateDef.recoveryMessage={0} is no longer pigging out on food.
 |MentalStateDef.recoveryMessage.zh-cn={0}不再暴饮暴食了。

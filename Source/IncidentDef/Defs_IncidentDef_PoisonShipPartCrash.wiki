@@ -21,6 +21,6 @@
 |IncidentDef.letterLabel=Poison ship
 |IncidentDef.letterLabel.zh-cn=有毒飞船
 |IncidentDef.letterLabel.zh-tw=有毒碎片
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.shipPart=CrashedPoisonShipPart
 }}

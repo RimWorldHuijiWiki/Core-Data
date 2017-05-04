@@ -21,7 +21,7 @@
 |MentalStateDef.beginLetterLabel=daze
 |MentalStateDef.beginLetterLabel.zh-cn=茫然徘徊
 |MentalStateDef.beginLetterLabel.zh-tw=憂鬱
-|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.beginLetterDef=BadNonUrgent
 |MentalStateDef.nameColor=(0.65, 0.9, 0.93)
 |MentalStateDef.recoveryMessage={0} is no longer wandering in a psychotic state.
 |MentalStateDef.recoveryMessage.zh-cn={0}不再茫然徘徊。

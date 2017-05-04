@@ -10,7 +10,7 @@
 |BiomeDef.description.zh-cn=非常干旱的地区，动植物数量稀少。沙漠要么很热要么很冷。
 |BiomeDef.description.zh-tw=一個非常乾旱，非常炎熱的地區。這裡的生命非常稀少。
 |BiomeDef.workerClass=BiomeWorker_Desert
-|BiomeDef.animalDensity=0.8
+|BiomeDef.animalDensity=0.25
 |BiomeDef.plantDensity=0.05
 |BiomeDef.diseaseMtbDays=80
 |BiomeDef.factionBaseSelectionWeight=0.65

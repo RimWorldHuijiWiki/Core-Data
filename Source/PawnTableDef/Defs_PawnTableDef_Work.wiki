@@ -3,5 +3,5 @@
 |defType=PawnTableDef
 |defName=Work
 |PawnTableDef.defName=Work
-|PawnTableDef.columns="Label","CopyPasteWorkPriorities","WorkPriorities","RemainingSpace"
+|PawnTableDef.columns="Label","CopyPasteWorkPriorities","RemainingSpace"
 }}

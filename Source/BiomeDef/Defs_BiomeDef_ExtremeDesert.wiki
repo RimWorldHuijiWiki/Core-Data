@@ -10,7 +10,7 @@
 |BiomeDef.description.zh-cn=极端炎热干旱的地区，几乎没有生物的痕迹。极高的温度和有限的植物使此处非常难以生存，即使是适应力很强的动物也是如此。
 |BiomeDef.description.zh-tw=一個極度炎熱、極度乾旱的地區，只有極少量生物。極端的高溫及稀疏的植被使生存顯得非常困難，即使對原生動物也是如此。
 |BiomeDef.workerClass=BiomeWorker_ExtremeDesert
-|BiomeDef.animalDensity=0.4
+|BiomeDef.animalDensity=0.05
 |BiomeDef.plantDensity=0.002
 |BiomeDef.diseaseMtbDays=90
 |BiomeDef.factionBaseSelectionWeight=0.42

@@ -24,7 +24,7 @@
 |HediffDef.stages.0.capMods.0.offset=-0.3
 |HediffDef.stages.0.capMods.1=Exist
 |HediffDef.stages.0.capMods.1.capacity=Moving
-|HediffDef.stages.0.capMods.1.offset=-0.3
+|HediffDef.stages.0.capMods.1.offset=-0.1
 |HediffDef.maxSeverity=1.0
 |HediffDef.scenarioCanAdd=true
 |HediffDef.defaultLabelColor=(1,0,0.5)

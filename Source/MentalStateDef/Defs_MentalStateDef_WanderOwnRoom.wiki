@@ -24,7 +24,7 @@
 |MentalStateDef.beginLetterLabel=hide in room
 |MentalStateDef.beginLetterLabel.zh-cn=封闭自我
 |MentalStateDef.beginLetterLabel.zh-tw=閉門不出
-|MentalStateDef.beginLetterType=BadNonUrgent
+|MentalStateDef.beginLetterDef=BadNonUrgent
 |MentalStateDef.nameColor=(0.65, 0.9, 0.93)
 |MentalStateDef.recoveryMessage={0} is no longer hiding in HIS room.
 |MentalStateDef.recoveryMessage.zh-cn={0}不再把自己关在房间中。

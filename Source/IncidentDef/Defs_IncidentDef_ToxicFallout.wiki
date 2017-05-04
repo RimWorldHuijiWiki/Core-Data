@@ -19,7 +19,7 @@
 |IncidentDef.letterLabel=Toxic fallout
 |IncidentDef.letterLabel.zh-cn=有毒尘埃
 |IncidentDef.letterLabel.zh-tw=輻射塵
-|IncidentDef.letterType=BadNonUrgent
+|IncidentDef.letterDef=BadNonUrgent
 |IncidentDef.gameCondition=ToxicFallout
 |IncidentDef.durationDays=2.5 ~ 10.5
 }}

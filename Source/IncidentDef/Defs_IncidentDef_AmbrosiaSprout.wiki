@@ -17,5 +17,5 @@
 |IncidentDef.letterLabel=Ambrosia sprout
 |IncidentDef.letterLabel.zh-cn=仙馐树萌芽
 |IncidentDef.letterLabel.zh-tw=Ambrosia sprout
-|IncidentDef.letterType=Good
+|IncidentDef.letterDef=Good
 }}

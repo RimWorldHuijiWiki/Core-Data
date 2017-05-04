@@ -23,7 +23,7 @@
 |MentalStateDef.beginLetterLabel=fire starting spree
 |MentalStateDef.beginLetterLabel.zh-cn=纵火
 |MentalStateDef.beginLetterLabel.zh-tw=縱火
-|MentalStateDef.beginLetterType=BadUrgent
+|MentalStateDef.beginLetterDef=BadUrgent
 |MentalStateDef.nameColor=(0.5, 0.9, 0.5)
 |MentalStateDef.recoveryMessage={0} is no longer on a fire starting spree.
 |MentalStateDef.recoveryMessage.zh-cn={0}停止纵火了。
