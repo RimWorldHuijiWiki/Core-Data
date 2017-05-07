@@ -1,21 +1,21 @@
 ﻿{{#set:
 |dataType=Def
 |defType=TerrainDef
-|defName=WaterMovingShallow
-|TerrainDef.defName=WaterMovingShallow
-|TerrainDef.label=shallow moving water
-|TerrainDef.label.zh-cn=流动的浅水
-|TerrainDef.label.zh-tw=shallow moving water
+|defName=WaterOceanShallow
+|TerrainDef.defName=WaterOceanShallow
+|TerrainDef.label=shallow ocean water
+|TerrainDef.label.zh-cn=海水（浅）
+|TerrainDef.label.zh-tw=shallow ocean water
 |TerrainDef.pathCost=12
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/WaterShallowRamp
 |TerrainDef.edgeType=Water
 |TerrainDef.waterDepthShader=Map/WaterDepth
-|TerrainDef.renderPrecedence=398
+|TerrainDef.renderPrecedence=396
 |TerrainDef.takeSplashes=true
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
-|TerrainDef.tags="River"
+|TerrainDef.driesTo=Gravel
 |TerrainDef.acceptFilth=false
 }}

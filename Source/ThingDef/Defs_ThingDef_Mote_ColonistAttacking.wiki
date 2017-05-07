@@ -4,6 +4,8 @@
 |defName=Mote_ColonistAttacking
 |ThingDef.defName=Mote_ColonistAttacking
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrownAttached
 |ThingDef.category=Mote

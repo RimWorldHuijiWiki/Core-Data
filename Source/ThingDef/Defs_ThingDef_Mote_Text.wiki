@@ -4,6 +4,8 @@
 |defName=Mote_Text
 |ThingDef.defName=Mote_Text
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteText
 |ThingDef.category=Mote

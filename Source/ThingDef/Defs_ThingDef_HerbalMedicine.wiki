@@ -7,7 +7,7 @@
 |ThingDef.label.zh-cn=草药
 |ThingDef.label.zh-tw=草藥
 |ThingDef.description=A pack of herbal concoctions typically extracted from the healroot plant. Less potent than industrial pharmaceuticals, but much better than nothing.
-|ThingDef.description.zh-cn=一包从草药植物提取而来的草药混合物。比起工业药物效果稍差，但总好过没有。
+|ThingDef.description.zh-cn=一包从草药植物提取而来的草药混合物。比起工业医药效果稍差，但总好过没有。
 |ThingDef.description.zh-tw=成分提取自藥草製成的藥品，效果略遜於工業製藥。
 |ThingDef.statBases="MaxHitPoints","100";"MarketValue","12";"Mass","0.35";"Flammability","1.0";"MedicalPotency","0.60";"DeteriorationRate","10";"Beauty","-4"
 |ThingDef.pathCost=15

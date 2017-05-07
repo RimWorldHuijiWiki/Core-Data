@@ -7,7 +7,7 @@
 |ResearchProjectDef.label.zh-cn=飞船电脑核心
 |ResearchProjectDef.label.zh-tw=星艦電腦核心
 |ResearchProjectDef.description=Allows coercing an existing AI persona into a usable AI computer core for ship guidance.
-|ResearchProjectDef.description.zh-cn=解锁强制将现有的AI角色核心装入人工智能电脑核心中，用于飞船导航。
+|ResearchProjectDef.description.zh-cn=解锁强制将现有的AI伪人格核心装入用于飞船导航的人工智能电脑核心中。
 |ResearchProjectDef.description.zh-tw=解鎖你將一個已經存在的AI系統裝入一個用於導航星艦的電腦核心裡。
 |ResearchProjectDef.techLevel=Spacer
 |ResearchProjectDef.baseCost=2500

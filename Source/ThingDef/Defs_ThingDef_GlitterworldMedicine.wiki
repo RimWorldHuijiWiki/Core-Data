@@ -4,10 +4,10 @@
 |defName=GlitterworldMedicine
 |ThingDef.defName=GlitterworldMedicine
 |ThingDef.label=glitterworld medicine
-|ThingDef.label.zh-cn=闪耀世界药物
+|ThingDef.label.zh-cn=闪耀世界医药
 |ThingDef.label.zh-tw=高科技藥品
 |ThingDef.description=Advanced medical supplies from a high-tech glitterworld.
-|ThingDef.description.zh-cn=来自高科技的闪耀世界的高级药物。
+|ThingDef.description.zh-cn=来自高科技的闪耀世界的高级医药。
 |ThingDef.description.zh-tw=來自「閃耀世界」的高科技藥品。
 |ThingDef.statBases="MarketValue","100";"Mass","0.5";"Flammability","1.0";"MedicalPotency","2.2";"DeteriorationRate","2.0";"Beauty","-4"
 |ThingDef.pathCost=15

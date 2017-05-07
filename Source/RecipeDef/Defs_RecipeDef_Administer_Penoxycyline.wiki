@@ -4,11 +4,11 @@
 |defName=Administer_Penoxycyline
 |RecipeDef.defName=Administer_Penoxycyline
 |RecipeDef.label=administer penoxycyline
-|RecipeDef.label.zh-cn=施用盘诺西林
+|RecipeDef.label.zh-cn=施用佩诺西林
 |RecipeDef.label.zh-tw=施用盤諾沙林抗生素
 |RecipeDef.workerClass=Recipe_AdministerIngestible
 |RecipeDef.jobString=Administering penoxycyline.
-|RecipeDef.jobString.zh-cn=正在施用盘诺西林。
+|RecipeDef.jobString.zh-cn=正在施用佩诺西林。
 |RecipeDef.jobString.zh-tw=施用盤諾沙林抗生素。
 |RecipeDef.workAmount=120
 |RecipeDef.ingredients=Exist

@@ -7,7 +7,7 @@
 |ResearchProjectDef.label.zh-cn=电荷弹
 |ResearchProjectDef.label.zh-tw=高能光束
 |ResearchProjectDef.description=Understand the secrets of pulse-charged energy/projectile munitions. Allows you to build the charge rifle.
-|ResearchProjectDef.description.zh-cn=研究采用脉冲充能的高能能量弹药的秘密。解锁制作电荷步枪。
+|ResearchProjectDef.description.zh-cn=研究采用脉冲充能的高能能量弹药的秘密。解锁制作「电荷步枪」。
 |ResearchProjectDef.description.zh-tw=理解能量脈衝彈藥的秘密，解鎖生產光束步槍。
 |ResearchProjectDef.techLevel=Spacer
 |ResearchProjectDef.baseCost=1500

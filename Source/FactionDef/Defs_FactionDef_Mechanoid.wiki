@@ -27,6 +27,7 @@
 |FactionDef.pawnsPlural=mechanoids
 |FactionDef.pawnsPlural.zh-cn=机械体
 |FactionDef.pawnsPlural.zh-tw=機器人
+|FactionDef.maxPawnOptionCostFactor=3.0
 |FactionDef.requiredCountAtGameStart=1
 |FactionDef.techLevel=Ultra
 |FactionDef.startingGoodwill=-100 ~ -100

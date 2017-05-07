@@ -8,7 +8,7 @@
 |InstructionDef.text.zh-cn=我派了一些掠夺者来攻打你的殖民地！<br/><br/>1. 按下{Key:TogglePause}暂停游戏<br/>2. 阅读屏幕右侧弹出的红色通知。<br/>3. 将你的殖民者通过「征召」按钮动员起来，准备战斗！<br/>4. 解除暂停 <br/><br/>将你的殖民者移动到沙包旁边，只有这样掩体才能生效，一旦敌人进入射程，他们就会自动开火！
 |InstructionDef.text.zh-tw=我已經向你的殖民地發派出了一名襲擊者。<br/><br/>1. 按下{Key:TogglePause}暫停時間。<br/>2. 閱讀畫面右下角的紅色信封通知。<br/>3. 選取你的殖民者後，點擊「徵召」按鈕徵召他們。<br/>4. 右鍵點擊將居民派遣至沙包陣地，緊鄰沙包的位置。<br/>5. 解除暫停。<br/><br/>居民必須緊臨掩體才能獲得掩護效果。當居民們就位，等待襲擊者到達。居民們會自動開火攻擊。
 |InstructionDef.eventTagInitiate=InstructionDeactivated-FinishSandbags
-|InstructionDef.actionTagsAllowed="Draft","Undraft","AllowFiringToggle","VerbTarget","ITab-Health-Open","ITab-Gear-Open","ITab-Needs-Open","ITab-Social-Open","ITab-Character-Open"
+|InstructionDef.actionTagsAllowed="Draft","Undraft","FireAtWillToggle","VerbTarget","ITab-Health-Open","ITab-Gear-Open","ITab-Needs-Open","ITab-Social-Open","ITab-Character-Open"
 |InstructionDef.rejectInputMessage=Please focus on winning the fight!
 |InstructionDef.rejectInputMessage.zh-cn=请着重关注赢取战斗。
 |InstructionDef.rejectInputMessage.zh-tw=請專注於打贏這場戰鬥！

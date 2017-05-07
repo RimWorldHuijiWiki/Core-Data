@@ -16,7 +16,7 @@
 |PawnKindDef.maxGenerationAge=48
 |PawnKindDef.gearHealthRange=0.4 ~ 1.1
 |PawnKindDef.factionLeader=true
-|PawnKindDef.combatPower=36
+|PawnKindDef.combatPower=40
 |PawnKindDef.baseRecruitDifficulty=0.65
 |PawnKindDef.apparelMoney=300 ~ 800
 |PawnKindDef.apparelTags="Outlander","Outlander","BeltDefense"

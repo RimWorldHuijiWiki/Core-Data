@@ -4,6 +4,8 @@
 |defName=Mote_ThoughtGood
 |ThingDef.defName=Mote_ThoughtGood
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteBubble
 |ThingDef.category=Mote

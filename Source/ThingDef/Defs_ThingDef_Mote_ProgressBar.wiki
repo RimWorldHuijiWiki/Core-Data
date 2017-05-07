@@ -4,6 +4,8 @@
 |defName=Mote_ProgressBar
 |ThingDef.defName=Mote_ProgressBar
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteProgressBar
 |ThingDef.category=Mote

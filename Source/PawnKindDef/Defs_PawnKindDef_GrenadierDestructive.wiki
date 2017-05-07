@@ -15,7 +15,7 @@
 |PawnKindDef.backstoryCryptosleepCommonality=0.25
 |PawnKindDef.maxGenerationAge=65
 |PawnKindDef.gearHealthRange=0.7 ~ 2.3
-|PawnKindDef.combatPower=60
+|PawnKindDef.combatPower=65
 |PawnKindDef.baseRecruitDifficulty=0.70
 |PawnKindDef.apparelMoney=800 ~ 1400
 |PawnKindDef.apparelTags="Outlander","Military","BeltDefensePop"

@@ -4,10 +4,10 @@
 |defName=Batteries
 |ResearchProjectDef.defName=Batteries
 |ResearchProjectDef.label=batteries
-|ResearchProjectDef.label.zh-cn=电池
+|ResearchProjectDef.label.zh-cn=蓄电池
 |ResearchProjectDef.label.zh-tw=電池
 |ResearchProjectDef.description=Build batteries for storing electricity.
-|ResearchProjectDef.description.zh-cn=解锁建造电池以储存电力。
+|ResearchProjectDef.description.zh-cn=解锁建造「蓄电池」以储存电力。
 |ResearchProjectDef.description.zh-tw=解鎖建造能夠儲存電力的電池。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=400

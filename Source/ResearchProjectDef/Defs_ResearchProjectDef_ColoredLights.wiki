@@ -7,7 +7,7 @@
 |ResearchProjectDef.label.zh-cn=彩色灯
 |ResearchProjectDef.label.zh-tw=彩色燈
 |ResearchProjectDef.description=Allows colonists to construct colored lights for decorative purposes.
-|ResearchProjectDef.description.zh-cn=解锁建造装饰性的彩色灯。
+|ResearchProjectDef.description.zh-cn=解锁建造装饰性的彩色落地灯。
 |ResearchProjectDef.description.zh-tw=解鎖居民製作裝飾性的彩色燈。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=500

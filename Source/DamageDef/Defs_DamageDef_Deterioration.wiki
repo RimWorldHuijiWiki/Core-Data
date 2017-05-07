@@ -9,4 +9,7 @@
 |DamageDef.hasForcefulImpact=false
 |DamageDef.makesBlood=false
 |DamageDef.canInterruptJobs=false
+|DamageDef.deathMessage={0} has been killed.
+|DamageDef.deathMessage.zh-cn={0}被杀死了。
+|DamageDef.deathMessage.zh-tw={0} has been killed.
 }}

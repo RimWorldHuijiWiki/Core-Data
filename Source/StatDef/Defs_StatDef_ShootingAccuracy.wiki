@@ -7,7 +7,7 @@
 |StatDef.label.zh-cn=射击精确度
 |StatDef.label.zh-tw=射擊精度
 |StatDef.description=Base chance to not miss per square of shot distance.
-|StatDef.description.zh-cn=每增加一格距离不打偏的基本几率。
+|StatDef.description.zh-cn=射击距离内的命中几率。
 |StatDef.description.zh-tw=對目標遠程射擊的基礎命中率。
 |StatDef.category=PawnCombat
 |StatDef.showOnAnimals=false

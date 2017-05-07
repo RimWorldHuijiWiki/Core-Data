@@ -4,10 +4,10 @@
 |defName=MedicineProduction
 |ResearchProjectDef.defName=MedicineProduction
 |ResearchProjectDef.label=medicine production
-|ResearchProjectDef.label.zh-cn=制药
+|ResearchProjectDef.label.zh-cn=医药生产
 |ResearchProjectDef.label.zh-tw=製藥
 |ResearchProjectDef.description=Produce medicine from herbal medicine, neutroamine, and cloth.
-|ResearchProjectDef.description.zh-cn=将草药、中性胺和布制成药物。
+|ResearchProjectDef.description.zh-cn=将草药、中性胺和布制成「医药」。
 |ResearchProjectDef.description.zh-tw=解鎖建造製藥實驗桌，能夠從藥草、中性胺與衣物中提煉成分製成藥物。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1500

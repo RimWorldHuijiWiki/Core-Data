@@ -7,7 +7,7 @@
 |ResearchProjectDef.label.zh-cn=酿酒
 |ResearchProjectDef.label.zh-tw=釀造
 |ResearchProjectDef.description=Allows you to build a brewery to transform hops into tasty, tasty beer.
-|ResearchProjectDef.description.zh-cn=解锁建造酿造台。将啤酒花酿成美味的啤酒。
+|ResearchProjectDef.description.zh-cn=解锁建造「酿造台」。将啤酒花酿成美味的啤酒。
 |ResearchProjectDef.description.zh-tw=讓你可以建造釀酒工作台，將啤酒花釀造成美味的啤酒。
 |ResearchProjectDef.techLevel=Neolithic
 |ResearchProjectDef.baseCost=700

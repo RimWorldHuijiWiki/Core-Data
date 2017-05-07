@@ -4,7 +4,7 @@
 |defName=Penoxycyline
 |ThingDef.defName=Penoxycyline
 |ThingDef.label=penoxycyline
-|ThingDef.label.zh-cn=盘诺西林
+|ThingDef.label.zh-cn=佩诺西林
 |ThingDef.label.zh-tw=盤諾沙林
 |ThingDef.description=A drug for blocking various infections. Blocks malaria, sleeping sickness, and plague. Take every five days.
 |ThingDef.description.zh-cn=用于阻断多种感染的药物。阻断疟疾、昏睡病以及瘟疫的感染。五天一服。

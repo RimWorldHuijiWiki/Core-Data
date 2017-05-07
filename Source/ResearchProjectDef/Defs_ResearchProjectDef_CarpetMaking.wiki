@@ -4,10 +4,10 @@
 |defName=CarpetMaking
 |ResearchProjectDef.defName=CarpetMaking
 |ResearchProjectDef.label=carpet making
-|ResearchProjectDef.label.zh-cn=地毯制作
+|ResearchProjectDef.label.zh-cn=地毯铺设
 |ResearchProjectDef.label.zh-tw=地毯製作
 |ResearchProjectDef.description=Allows colonists to build carpets to increase the quality of their environments.
-|ResearchProjectDef.description.zh-cn=解锁建造地毯，用来提升居住环境的品质。
+|ResearchProjectDef.description.zh-cn=解锁建造「地毯」，用来提升居住环境的品质。
 |ResearchProjectDef.description.zh-tw=解鎖居民製作地毯来改善環境。
 |ResearchProjectDef.techLevel=Medieval
 |ResearchProjectDef.baseCost=1200

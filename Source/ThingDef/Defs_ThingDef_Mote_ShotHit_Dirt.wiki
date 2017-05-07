@@ -4,6 +4,8 @@
 |defName=Mote_ShotHit_Dirt
 |ThingDef.defName=Mote_ShotHit_Dirt
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteLow
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote

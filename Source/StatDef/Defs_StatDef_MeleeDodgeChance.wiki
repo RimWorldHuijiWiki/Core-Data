@@ -7,7 +7,7 @@
 |StatDef.label.zh-cn=近战闪避几率
 |StatDef.label.zh-tw=近身攻擊迴避率
 |StatDef.description=Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon.
-|StatDef.description.zh-cn=闪避近身攻击或者其他击打的几率。（在瞄准或使用远程武器开火时，角色无法进行闪避。）
+|StatDef.description.zh-cn=闪避近身攻击或者其他物理击打的几率。（在瞄准时或使用远程武器开火时，角色无法进行闪避。）
 |StatDef.description.zh-tw=近身攻擊的迴避機率，但人物在瞄準或射擊時不會閃避。
 |StatDef.category=PawnCombat
 |StatDef.displayPriorityInCategory=99

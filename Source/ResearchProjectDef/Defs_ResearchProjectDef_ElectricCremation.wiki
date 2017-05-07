@@ -7,7 +7,7 @@
 |ResearchProjectDef.label.zh-cn=电力火化炉
 |ResearchProjectDef.label.zh-tw=火化爐
 |ResearchProjectDef.description=Build crematoriums which can vaporize unwanted corpses.
-|ResearchProjectDef.description.zh-cn=解锁建造电力火化炉，可焚烧尸体和无用的衣物。
+|ResearchProjectDef.description.zh-cn=解锁建造「电力火化炉」，可焚烧尸体和无用的衣物。
 |ResearchProjectDef.description.zh-tw=解鎖建造能將屍體與衣物徹底燒毀的火化爐。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=500

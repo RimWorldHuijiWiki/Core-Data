@@ -7,4 +7,6 @@
 |PawnColumnDef.sortable=true
 |PawnColumnDef.headerIcon=UI/Icons/Animal/Slaughter
 |PawnColumnDef.headerTip=Slaughter
+|PawnColumnDef.headerTip.zh-cn=宰杀
+|PawnColumnDef.headerTip.zh-tw=Slaughter
 }}

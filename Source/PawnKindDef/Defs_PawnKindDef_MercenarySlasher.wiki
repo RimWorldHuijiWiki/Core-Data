@@ -15,7 +15,7 @@
 |PawnKindDef.backstoryCryptosleepCommonality=0.25
 |PawnKindDef.maxGenerationAge=65
 |PawnKindDef.gearHealthRange=0.5 ~ 2.3
-|PawnKindDef.combatPower=135
+|PawnKindDef.combatPower=140
 |PawnKindDef.baseRecruitDifficulty=0.70
 |PawnKindDef.apparelMoney=1000 ~ 2600
 |PawnKindDef.apparelRequired="Apparel_ShieldBelt"

@@ -4,13 +4,13 @@
 |defName=Make_Penoxycyline
 |RecipeDef.defName=Make_Penoxycyline
 |RecipeDef.label=make penoxycyline
-|RecipeDef.label.zh-cn=制作盘诺西林
+|RecipeDef.label.zh-cn=制作佩诺西林
 |RecipeDef.label.zh-tw=製造盤諾沙林抗生素
 |RecipeDef.description=Make penoxycyline.
-|RecipeDef.description.zh-cn=制作盘诺西林
+|RecipeDef.description.zh-cn=制作佩诺西林
 |RecipeDef.description.zh-tw=製造盤諾沙林抗生素。
 |RecipeDef.jobString=Making penoxycyline.
-|RecipeDef.jobString.zh-cn=制作制作盘诺西林。
+|RecipeDef.jobString.zh-cn=制作制作佩诺西林。
 |RecipeDef.jobString.zh-tw=製造盤諾沙林抗生素。
 |RecipeDef.workAmount=500
 |RecipeDef.workSpeedStat=DrugProductionSpeed

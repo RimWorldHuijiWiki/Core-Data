@@ -7,7 +7,7 @@
 |StatDef.label.zh-cn=医疗手术成功几率
 |StatDef.label.zh-tw=手術成功率
 |StatDef.description=The likelihood that a character will succeed when attempting to perform a medical surgery. Failures can result in simple wasted time and medicine, or catastrophic damage to the patient.
-|StatDef.description.zh-cn=当角色尝试执行医疗手术时成功的可能性。手术出错时，轻则浪费时间和药物，重则给病人带来灾难性的伤害。
+|StatDef.description.zh-cn=当角色尝试执行医疗手术时成功的可能性。手术出错时，轻则浪费时间和医药，重则给病人带来灾难性的伤害。
 |StatDef.description.zh-tw=此角色執行手術時的成功機率，輕微的失誤可能只需要花費更多時間與藥即可彌補，但重大的失誤可能帶給病人災難性的傷害。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero

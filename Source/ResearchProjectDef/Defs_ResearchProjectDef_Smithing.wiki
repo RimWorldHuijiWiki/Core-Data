@@ -7,7 +7,7 @@
 |ResearchProjectDef.label.zh-cn=锻造
 |ResearchProjectDef.label.zh-tw=鍛造
 |ResearchProjectDef.description=Build smithies for crafting metal weapons and tools.
-|ResearchProjectDef.description.zh-cn=解锁建造锻造台，将金属打造成武器和工具。
+|ResearchProjectDef.description.zh-cn=解锁建造「锻造台」，将金属打造成武器和工具。
 |ResearchProjectDef.description.zh-tw=用來鍛造金屬武器和工具的工作台。
 |ResearchProjectDef.techLevel=Medieval
 |ResearchProjectDef.baseCost=700

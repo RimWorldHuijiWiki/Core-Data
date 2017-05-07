@@ -12,10 +12,11 @@
 |TerrainDef.texturePath=Terrain/Surfaces/WaterDeepRamp
 |TerrainDef.edgeType=Water
 |TerrainDef.waterDepthShader=Map/WaterDepth
-|TerrainDef.renderPrecedence=395
+|TerrainDef.renderPrecedence=399
+|TerrainDef.takeSplashes=true
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
-|TerrainDef.tags="River","CreateSplashes"
+|TerrainDef.tags="River"
 |TerrainDef.acceptFilth=false
 }}

@@ -7,4 +7,6 @@
 |PawnColumnDef.sortable=true
 |PawnColumnDef.headerIcon=UI/Icons/Animal/FollowDrafted
 |PawnColumnDef.headerTip=Follow master while the master is drafted.
+|PawnColumnDef.headerTip.zh-cn=当主人被征召时跟随主人。
+|PawnColumnDef.headerTip.zh-tw=Follow master while the master is drafted.
 }}

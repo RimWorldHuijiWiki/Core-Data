@@ -14,7 +14,7 @@
 |PawnKindDef.labelPlural.zh-tw=scavengers
 |PawnKindDef.backstoryCryptosleepCommonality=0.1
 |PawnKindDef.gearHealthRange=0.2 ~ 0.9
-|PawnKindDef.combatPower=38
+|PawnKindDef.combatPower=40
 |PawnKindDef.baseRecruitDifficulty=0.65
 |PawnKindDef.apparelMoney=300 ~ 500
 |PawnKindDef.apparelTags="Outlander"

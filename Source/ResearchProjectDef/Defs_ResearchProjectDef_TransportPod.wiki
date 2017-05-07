@@ -4,10 +4,10 @@
 |defName=TransportPod
 |ResearchProjectDef.defName=TransportPod
 |ResearchProjectDef.label=transport pod
-|ResearchProjectDef.label.zh-cn=空投舱
+|ResearchProjectDef.label.zh-cn=运输舱
 |ResearchProjectDef.label.zh-tw=運輸艙發射平台
 |ResearchProjectDef.description=Construct launchable transport pods that you can use to launch people and supplies long distances across the planet's surface.
-|ResearchProjectDef.description.zh-cn=建造可发射的空投舱，可以远距离发射你的人和物资越过行星表面。
+|ResearchProjectDef.description.zh-cn=建造可发射的「运输舱」，可以远距离发射你的人和物资越过行星表面。
 |ResearchProjectDef.description.zh-tw=解鎖建造次行星軌道運輸艙，讓你能夠快速進行長距離的人員及物資輸送。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1100

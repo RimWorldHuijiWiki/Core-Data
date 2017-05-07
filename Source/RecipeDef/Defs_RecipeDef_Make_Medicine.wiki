@@ -4,13 +4,13 @@
 |defName=Make_Medicine
 |RecipeDef.defName=Make_Medicine
 |RecipeDef.label=make medicine
-|RecipeDef.label.zh-cn=制作药物
+|RecipeDef.label.zh-cn=制作医药
 |RecipeDef.label.zh-tw=製造藥品
 |RecipeDef.description=Make medicine.
-|RecipeDef.description.zh-cn=医疗人员用药物来治疗病人和伤员。
+|RecipeDef.description.zh-cn=医疗人员用医药来治疗病人和伤员。
 |RecipeDef.description.zh-tw=製造藥品。
 |RecipeDef.jobString=Making medicine.
-|RecipeDef.jobString.zh-cn=正在制作药物。
+|RecipeDef.jobString.zh-cn=正在制作医药。
 |RecipeDef.jobString.zh-tw=製造藥品。
 |RecipeDef.workAmount=700
 |RecipeDef.workSpeedStat=DrugProductionSpeed

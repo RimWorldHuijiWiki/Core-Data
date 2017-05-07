@@ -42,6 +42,8 @@
 |ThingDef.comps.3.startTime=0.25
 |ThingDef.comps.3.endTime=0.8
 |ThingDef.comps.3.offMessage=Off for plant resting period
+|ThingDef.comps.3.offMessage.zh-cn=植物休眠期间关闭。
+|ThingDef.comps.3.offMessage.zh-tw=Off for plant resting period
 |ThingDef.minifiedDef=MinifiedFurniture
 |ThingDef.leaveResourcesWhenKilled=false
 |ThingDef.filthLeaving=BuildingRubble

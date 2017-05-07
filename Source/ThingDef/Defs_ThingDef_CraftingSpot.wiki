@@ -43,5 +43,6 @@
 |ThingDef.building=Exist
 |ThingDef.building.spawnedConceptLearnOpportunity=BillsTab
 |ThingDef.building.canPlaceOverImpassablePlant=false
+|ThingDef.building.ai_chillDestination=false
 |ThingDef.building.sowTag=SupportPlantsOnly
 }}

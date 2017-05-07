@@ -7,7 +7,7 @@
 |ResearchProjectDef.label.zh-cn=机械加工
 |ResearchProjectDef.label.zh-tw=機械拆解
 |ResearchProjectDef.description=Build machining tables to craft guns and machinery or disassemble dead mechanoids.
-|ResearchProjectDef.description.zh-cn=解锁建造机械加工台，用于制作枪支和机械，或者拆解死亡的机械体获得高级的材料。
+|ResearchProjectDef.description.zh-cn=解锁建造「机械加工台」，用于制作枪支和机械，或者拆解死亡的机械体获得高级的材料。
 |ResearchProjectDef.description.zh-tw=解鎖建造能將損壞的機器人拆解為有用金屬的設備。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1500

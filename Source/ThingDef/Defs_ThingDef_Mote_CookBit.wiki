@@ -4,6 +4,8 @@
 |defName=Mote_CookBit
 |ThingDef.defName=Mote_CookBit
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=Projectile
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote

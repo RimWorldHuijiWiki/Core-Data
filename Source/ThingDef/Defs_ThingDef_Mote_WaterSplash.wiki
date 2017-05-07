@@ -4,6 +4,8 @@
 |defName=Mote_WaterSplash
 |ThingDef.defName=Mote_WaterSplash
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteLow
 |ThingDef.thingClass=MoteSplash
 |ThingDef.category=Mote

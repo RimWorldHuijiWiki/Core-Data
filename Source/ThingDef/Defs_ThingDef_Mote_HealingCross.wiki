@@ -4,6 +4,8 @@
 |defName=Mote_HealingCross
 |ThingDef.defName=Mote_HealingCross
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote

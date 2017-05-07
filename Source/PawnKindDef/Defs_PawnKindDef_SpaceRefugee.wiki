@@ -18,7 +18,7 @@
 |PawnKindDef.isFighter=false
 |PawnKindDef.combatPower=25
 |PawnKindDef.baseRecruitDifficulty=0.30
-|PawnKindDef.apparelMoney=0 ~ 3000
+|PawnKindDef.apparelMoney=0 ~ 1000
 |PawnKindDef.apparelTags="Spacer"
 |PawnKindDef.apparelAllowHeadwearChance=0.5
 |PawnKindDef.apparelIgnoreSeasons=true

@@ -39,5 +39,6 @@
 |ThingDef.building=Exist
 |ThingDef.building.canPlaceOverImpassablePlant=false
 |ThingDef.building.bed_showSleeperBody=True
+|ThingDef.building.ai_chillDestination=false
 |ThingDef.building.sowTag=SupportPlantsOnly
 }}

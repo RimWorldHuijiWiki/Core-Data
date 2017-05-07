@@ -4,6 +4,8 @@
 |defName=Mote_BlastExtinguisher
 |ThingDef.defName=Mote_BlastExtinguisher
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote

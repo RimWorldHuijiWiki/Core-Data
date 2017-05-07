@@ -6,7 +6,7 @@
 |StatDef.label=mining yield
 |StatDef.label.zh-cn=开采产出
 |StatDef.label.zh-tw=採礦產量倍率
-|StatDef.description=The percentage yield a miner will achieve. Higher percentages reduce the chance of wasting the yield. This applies to both wall mining and deep drill mining.
+|StatDef.description=The percentage yield a miner will achieve. This applies to both wall mining and deep drill mining. This doesn't affect the rate of mining rock chunks.
 |StatDef.description.zh-cn=矿工将达到的百分比产出。更高的百分比将减少产出的浪费几率。同时应用于开采和深钻采矿。
 |StatDef.description.zh-tw=這名角色採礦的產量加成。越高的倍率越能避免產品的浪費。此數值同時作用於地表開採及地下採礦。
 |StatDef.category=PawnWork
@@ -19,7 +19,7 @@
 |StatDef.skillNeedFactors.0=Exist
 |StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
 |StatDef.skillNeedFactors.0.skill=Mining
-|StatDef.skillNeedFactors.0.factorsPerLevel="0.3","0.4","0.5","0.6","0.7","0.75","0.8","0.85","0.9","0.95","0.96","0.97","0.98","0.99","0.99","0.99","1","1","1","1","1"
+|StatDef.skillNeedFactors.0.factorsPerLevel="0.6","0.7","0.8","0.85","0.875","0.9","0.925","0.95","0.96","0.96","0.97","0.97","0.98","0.98","0.99","0.99","1","1","1","1","1"
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist

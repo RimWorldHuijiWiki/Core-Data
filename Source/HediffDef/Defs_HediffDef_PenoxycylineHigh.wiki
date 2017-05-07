@@ -4,7 +4,7 @@
 |defName=PenoxycylineHigh
 |HediffDef.defName=PenoxycylineHigh
 |HediffDef.label=penoxycyline
-|HediffDef.label.zh-cn=盘诺西林
+|HediffDef.label.zh-cn=佩诺西林
 |HediffDef.label.zh-tw=盤諾沙林亢奮
 |HediffDef.hediffClass=HediffWithComps
 |HediffDef.comps=Exist

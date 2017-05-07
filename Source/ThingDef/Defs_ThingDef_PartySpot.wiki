@@ -30,5 +30,6 @@
 |ThingDef.soundImpactDefault=BulletImpactMetal
 |ThingDef.building=Exist
 |ThingDef.building.canPlaceOverImpassablePlant=false
+|ThingDef.building.ai_chillDestination=false
 |ThingDef.building.sowTag=SupportPlantsOnly
 }}

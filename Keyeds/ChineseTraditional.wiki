@@ -794,8 +794,8 @@
 |Keyed.CommandUndraftLabel=取消徵召
 |Keyed.CommandToggleDraftDesc=切換徵召狀態。<br/><br/>被徵召的人會遵守命令並戰鬥。他們不會工作、吃飯或休息。
 |Keyed.IsIncapped={0}無法動彈。
-|Keyed.CommandAllowFiringLabel=允許開火
-|Keyed.CommandAllowFiringDesc=允許或禁止開火。<br/><br/>當禁止開火時，這名角色將不會自動對射程範圍內的目標開火。此設定對近戰不起作用。
+|Keyed.CommandFireAtWillLabel=Fire at will
+|Keyed.CommandFireAtWillDesc=Toggle fire at will.<br/><br/>When disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.
 |Keyed.CommandClearPrioritizedWork=取消優先工作
 |Keyed.CommandClearPrioritizedWorkDesc=取消目前優先進行的工作，讓居民回歸正常工作。
 |Keyed.CommandCancelConstructionLabel=取消

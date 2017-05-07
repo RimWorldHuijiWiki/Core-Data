@@ -4,10 +4,10 @@
 |defName=Medicine
 |ThingDef.defName=Medicine
 |ThingDef.label=medicine
-|ThingDef.label.zh-cn=药物
+|ThingDef.label.zh-cn=医药
 |ThingDef.label.zh-tw=醫療包
 |ThingDef.description=Medical staff use these supplies to heal the wounded.
-|ThingDef.description.zh-cn=医疗人员用药物来治疗病人和伤员。
+|ThingDef.description.zh-cn=医疗人员用医药来治疗病人和伤员。
 |ThingDef.description.zh-tw=醫療人員會使用醫療包來治療傷患。
 |ThingDef.statBases="MaxHitPoints","100";"MarketValue","18";"Mass","0.5";"Flammability","1.0";"MedicalPotency","1.00";"DeteriorationRate","2";"WorkToMake","700";"Beauty","-4"
 |ThingDef.pathCost=15

@@ -5836,12 +5836,12 @@ Core:Defs_ConceptDef_DrugPolicies,"{{#set:
 |defName=DrugPolicies
 |ConceptDef.defName=DrugPolicies
 |ConceptDef.label=Drug policies
-|ConceptDef.label.zh-cn=成瘾品方针
+|ConceptDef.label.zh-cn=用药方针
 |ConceptDef.label.zh-tw=用藥計劃
 |ConceptDef.priority=50
 |ConceptDef.needsOpportunity=true
 |ConceptDef.helpText=You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take anti-malaria drugs regularly, or drink a beer a day to stay happy.<br/><br/>Open the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.<br/><br/>Colonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires!
-|ConceptDef.helpText.zh-cn=你可以按照规定日程给殖民者指定使用特定的药物和成瘾品。例如定期接种疟疾疫苗或是允许一天一支啤酒来保持快乐。<br/><br/>打开「方案管理」菜单来添加一个成瘾品方针。<br/><br/>但有时你的规定并不那么有效，殖民者会被自己的欲望驱使而无视你的规则！
+|ConceptDef.helpText.zh-cn=你可以按照规定日程给殖民者指定使用特定的药物或成瘾品。例如定期接种疟疾疫苗或是允许一天一支啤酒来保持快乐。<br/><br/>打开「方案管理」菜单来添加一个用药方针。<br/><br/>但有时你的规定并不那么有效，殖民者会被自己的欲望驱使而无视你的规则！
 |ConceptDef.helpText.zh-tw=你可以指定居民在預定的時間服用特定的藥物，例如定時服用抗瘧疾藥、一天一次小酌怡情。<br/><br/>開啟分配面板後點擊「管理用藥計畫」，創建新的用藥計畫，這樣就可以將用藥計畫分配給居民了。<br/><br/>有時居民仍然會使用計畫之外的藥物。你可以有你的一套規則，但居民們還是會跟著自己的慾望行動。
 |ConceptDef.highlightTags=""MainTab-Assign-Closed"",""ManageDrugPolicies""
 }}"
@@ -6571,6 +6571,9 @@ Core:Defs_DamageDef_Deterioration,"{{#set:
 |DamageDef.hasForcefulImpact=false
 |DamageDef.makesBlood=false
 |DamageDef.canInterruptJobs=false
+|DamageDef.deathMessage={0} has been killed.
+|DamageDef.deathMessage.zh-cn={0}被杀死了。
+|DamageDef.deathMessage.zh-tw={0} has been killed.
 }}"
 Core:Defs_DamageDef_EMP,"{{#set:
 |dataType=Def
@@ -6629,6 +6632,9 @@ Core:Defs_DamageDef_Extinguish,"{{#set:
 |DamageDef.workerClass=DamageWorker_Extinguish
 |DamageDef.makesBlood=false
 |DamageDef.canInterruptJobs=false
+|DamageDef.deathMessage={0} has been killed.
+|DamageDef.deathMessage.zh-cn={0}被杀死了。
+|DamageDef.deathMessage.zh-tw={0} has been killed.
 |DamageDef.explosionDamage=999999
 |DamageDef.explosionCellMote=Mote_BlastExtinguisher
 |DamageDef.explosionColorEdge=(1, 1, 1, 0.05)
@@ -6685,6 +6691,9 @@ Core:Defs_DamageDef_Mining,"{{#set:
 |DamageDef.label=mining
 |DamageDef.label.zh-cn=开采
 |DamageDef.label.zh-tw=採掘
+|DamageDef.deathMessage={0} has been killed.
+|DamageDef.deathMessage.zh-cn={0}被杀死了。
+|DamageDef.deathMessage.zh-tw={0} has been killed.
 }}"
 Core:Defs_DamageDef_Rotting,"{{#set:
 |dataType=Def
@@ -6697,6 +6706,9 @@ Core:Defs_DamageDef_Rotting,"{{#set:
 |DamageDef.hasForcefulImpact=false
 |DamageDef.makesBlood=false
 |DamageDef.canInterruptJobs=false
+|DamageDef.deathMessage={0} has been killed.
+|DamageDef.deathMessage.zh-cn={0}被杀死了。
+|DamageDef.deathMessage.zh-tw={0} has been killed.
 }}"
 Core:Defs_DamageDef_Scratch,"{{#set:
 |dataType=Def
@@ -6728,6 +6740,9 @@ Core:Defs_DamageDef_Smoke,"{{#set:
 |DamageDef.harmsHealth=false
 |DamageDef.makesBlood=false
 |DamageDef.canInterruptJobs=false
+|DamageDef.deathMessage={0} has been killed.
+|DamageDef.deathMessage.zh-cn={0}被杀死了。
+|DamageDef.deathMessage.zh-tw={0} has been killed.
 |DamageDef.explosionDamage=0
 |DamageDef.explosionCellMote=Mote_BlastExtinguisher
 |DamageDef.explosionColorEdge=(1, 1, 1, 0.05)
@@ -8577,6 +8592,7 @@ Core:Defs_FactionDef_Mechanoid,"{{#set:
 |FactionDef.pawnsPlural=mechanoids
 |FactionDef.pawnsPlural.zh-cn=机械体
 |FactionDef.pawnsPlural.zh-tw=機器人
+|FactionDef.maxPawnOptionCostFactor=3.0
 |FactionDef.requiredCountAtGameStart=1
 |FactionDef.techLevel=Ultra
 |FactionDef.startingGoodwill=-100 ~ -100
@@ -8601,15 +8617,15 @@ Core:Defs_FactionDef_Outlander,"{{#set:
 |FactionDef.pawnGroupMakers.Count=3
 |FactionDef.pawnGroupMakers.0=Exist
 |FactionDef.pawnGroupMakers.0.kindDef=Normal
-|FactionDef.pawnGroupMakers.0.options=""Villager"",""50"";""TownGuard"",""250"";""TownCouncilman"",""250"";""GrenadierDestructive"",""50"";""MercenaryGunner"",""100"";""MercenarySlasher"",""100""
+|FactionDef.pawnGroupMakers.0.options=""Villager"",""50"";""GrenadierDestructive"",""50"";""MercenarySlasher"",""70"";""TownGuard"",""100"";""TownCouncilman"",""100"";""MercenaryGunner"",""100"";""MercenaryElite"",""100""
 |FactionDef.pawnGroupMakers.1=Exist
 |FactionDef.pawnGroupMakers.1.kindDef=Trader
 |FactionDef.pawnGroupMakers.1.traders=""TownTrader"",""1""
 |FactionDef.pawnGroupMakers.1.carriers=""Muffalo"",""1"";""Dromedary"",""1""
-|FactionDef.pawnGroupMakers.1.guards=""TownGuard"",""250"";""GrenadierDestructive"",""50"";""MercenaryGunner"",""100"";""MercenarySlasher"",""100""
+|FactionDef.pawnGroupMakers.1.guards=""GrenadierDestructive"",""50"";""MercenarySlasher"",""70"";""TownGuard"",""100"";""MercenaryGunner"",""100"";""MercenaryElite"",""100""
 |FactionDef.pawnGroupMakers.2=Exist
 |FactionDef.pawnGroupMakers.2.kindDef=FactionBase
-|FactionDef.pawnGroupMakers.2.options=""Villager"",""50"";""TownGuard"",""250"";""TownCouncilman"",""250"";""GrenadierDestructive"",""50"";""MercenaryGunner"",""100"";""MercenarySlasher"",""100""
+|FactionDef.pawnGroupMakers.2.options=""GrenadierDestructive"",""50"";""MercenarySlasher"",""70"";""Villager"",""100"";""TownGuard"",""100"";""TownCouncilman"",""100"";""MercenaryGunner"",""100"";""MercenaryElite"",""100""
 |FactionDef.raidCommonality=100
 |FactionDef.canSiege=true
 |FactionDef.canStageAttacks=true
@@ -8653,15 +8669,15 @@ Core:Defs_FactionDef_Pirate,"{{#set:
 |FactionDef.pawnGroupMakers.0=Exist
 |FactionDef.pawnGroupMakers.0.kindDef=Normal
 |FactionDef.pawnGroupMakers.0.commonality=100
-|FactionDef.pawnGroupMakers.0.options=""Drifter"",""5"";""Thrasher"",""70"";""GrenadierDestructive"",""100"";""GrenadierEMP"",""50"";""Scavenger"",""100"";""Pirate"",""150"";""MercenaryGunner"",""200"";""MercenarySniper"",""150"";""MercenarySlasher"",""180"";""MercenaryElite"",""200"";""PirateBoss"",""200"";""MercenaryHeavy"",""60""
+|FactionDef.pawnGroupMakers.0.options=""Drifter"",""5"";""Thrasher"",""70"";""MercenarySlasher"",""70"";""GrenadierDestructive"",""70"";""MercenaryHeavy"",""60"";""GrenadierEMP"",""50"";""MercenarySniper"",""80"";""Scavenger"",""100"";""Pirate"",""120"";""MercenaryGunner"",""100"";""MercenaryElite"",""100"";""PirateBoss"",""100""
 |FactionDef.pawnGroupMakers.1=Exist
 |FactionDef.pawnGroupMakers.1.kindDef=Normal
-|FactionDef.pawnGroupMakers.1.commonality=50
+|FactionDef.pawnGroupMakers.1.commonality=25
 |FactionDef.pawnGroupMakers.1.disallowedStrategies=""Siege""
-|FactionDef.pawnGroupMakers.1.options=""MercenarySlasher"",""200""
+|FactionDef.pawnGroupMakers.1.options=""MercenarySlasher"",""100""
 |FactionDef.pawnGroupMakers.2=Exist
 |FactionDef.pawnGroupMakers.2.kindDef=FactionBase
-|FactionDef.pawnGroupMakers.2.options=""Drifter"",""5"";""Thrasher"",""70"";""GrenadierDestructive"",""100"";""Scavenger"",""100"";""Pirate"",""150"";""MercenaryGunner"",""200"";""MercenarySniper"",""150"";""MercenarySlasher"",""180"";""MercenaryElite"",""200"";""PirateBoss"",""200""
+|FactionDef.pawnGroupMakers.2.options=""Drifter"",""5"";""Thrasher"",""70"";""MercenarySlasher"",""70"";""GrenadierDestructive"",""70"";""MercenarySniper"",""80"";""Scavenger"",""100"";""Pirate"",""120"";""MercenaryGunner"",""100"";""MercenaryElite"",""100"";""PirateBoss"",""100""
 |FactionDef.raidCommonality=100
 |FactionDef.canSiege=true
 |FactionDef.canStageAttacks=true
@@ -11512,7 +11528,7 @@ Core:Defs_HediffDef_LuciferiumAddiction,"{{#set:
 |defName=LuciferiumAddiction
 |HediffDef.defName=LuciferiumAddiction
 |HediffDef.label=luciferium need
-|HediffDef.label.zh-cn=路西法合剂
+|HediffDef.label.zh-cn=路西法合剂渴求
 |HediffDef.label.zh-tw=路西法強化劑成癮
 |HediffDef.hediffClass=Hediff_Addiction
 |HediffDef.initialSeverity=0.5
@@ -11868,7 +11884,7 @@ Core:Defs_HediffDef_PenoxycylineHigh,"{{#set:
 |defName=PenoxycylineHigh
 |HediffDef.defName=PenoxycylineHigh
 |HediffDef.label=penoxycyline
-|HediffDef.label.zh-cn=盘诺西林
+|HediffDef.label.zh-cn=佩诺西林
 |HediffDef.label.zh-tw=盤諾沙林亢奮
 |HediffDef.hediffClass=HediffWithComps
 |HediffDef.comps=Exist
@@ -14495,7 +14511,7 @@ Core:Defs_InstructionDef_DownRaider,"{{#set:
 |InstructionDef.text.zh-cn=我派了一些掠夺者来攻打你的殖民地！<br/><br/>1. 按下{Key:TogglePause}暂停游戏<br/>2. 阅读屏幕右侧弹出的红色通知。<br/>3. 将你的殖民者通过「征召」按钮动员起来，准备战斗！<br/>4. 解除暂停 <br/><br/>将你的殖民者移动到沙包旁边，只有这样掩体才能生效，一旦敌人进入射程，他们就会自动开火！
 |InstructionDef.text.zh-tw=我已經向你的殖民地發派出了一名襲擊者。<br/><br/>1. 按下{Key:TogglePause}暫停時間。<br/>2. 閱讀畫面右下角的紅色信封通知。<br/>3. 選取你的殖民者後，點擊「徵召」按鈕徵召他們。<br/>4. 右鍵點擊將居民派遣至沙包陣地，緊鄰沙包的位置。<br/>5. 解除暫停。<br/><br/>居民必須緊臨掩體才能獲得掩護效果。當居民們就位，等待襲擊者到達。居民們會自動開火攻擊。
 |InstructionDef.eventTagInitiate=InstructionDeactivated-FinishSandbags
-|InstructionDef.actionTagsAllowed=""Draft"",""Undraft"",""AllowFiringToggle"",""VerbTarget"",""ITab-Health-Open"",""ITab-Gear-Open"",""ITab-Needs-Open"",""ITab-Social-Open"",""ITab-Character-Open""
+|InstructionDef.actionTagsAllowed=""Draft"",""Undraft"",""FireAtWillToggle"",""VerbTarget"",""ITab-Health-Open"",""ITab-Gear-Open"",""ITab-Needs-Open"",""ITab-Social-Open"",""ITab-Character-Open""
 |InstructionDef.rejectInputMessage=Please focus on winning the fight!
 |InstructionDef.rejectInputMessage.zh-cn=请着重关注赢取战斗。
 |InstructionDef.rejectInputMessage.zh-tw=請專注於打贏這場戰鬥！
@@ -17789,7 +17805,7 @@ Core:Defs_MainButtonDef_Assign,"{{#set:
 |MainButtonDef.label.zh-cn=方案
 |MainButtonDef.label.zh-tw=分配
 |MainButtonDef.description=Configure what each colonist is allowed to wear, and how to react to nearby enemies.
-|MainButtonDef.description.zh-cn=配置每个殖民者允许穿戴的装备，以及附近有敌人时作出何种反应。管理使用成瘾品的方针。
+|MainButtonDef.description.zh-cn=配置每个殖民者允许穿戴的装备，以及附近有敌人时作出何种反应。管理使用药物或成瘾品的方针。
 |MainButtonDef.description.zh-tw=管理每位居民該穿些什麼服裝，以及遭遇敵人時該如何反應。
 |MainButtonDef.tabWindowClass=MainTabWindow_Assign
 |MainButtonDef.order=30
@@ -18894,6 +18910,8 @@ Core:Defs_PawnColumnDef_FollowDrafted,"{{#set:
 |PawnColumnDef.sortable=true
 |PawnColumnDef.headerIcon=UI/Icons/Animal/FollowDrafted
 |PawnColumnDef.headerTip=Follow master while the master is drafted.
+|PawnColumnDef.headerTip.zh-cn=当主人被征召时跟随主人。
+|PawnColumnDef.headerTip.zh-tw=Follow master while the master is drafted.
 }}"
 Core:Defs_PawnColumnDef_FollowFieldwork,"{{#set:
 |dataType=Def
@@ -18904,6 +18922,8 @@ Core:Defs_PawnColumnDef_FollowFieldwork,"{{#set:
 |PawnColumnDef.sortable=true
 |PawnColumnDef.headerIcon=UI/Icons/Animal/FollowFieldwork
 |PawnColumnDef.headerTip=Follow master while the master is doing field work (hunting or taming animals).
+|PawnColumnDef.headerTip.zh-cn=当主人从事野外活动（狩猎或驯服动物）时跟随主人。
+|PawnColumnDef.headerTip.zh-tw=Follow master while the master is doing field work (hunting or taming animals).
 }}"
 Core:Defs_PawnColumnDef_Gap,"{{#set:
 |dataType=Def
@@ -19017,6 +19037,8 @@ Core:Defs_PawnColumnDef_Slaughter,"{{#set:
 |PawnColumnDef.sortable=true
 |PawnColumnDef.headerIcon=UI/Icons/Animal/Slaughter
 |PawnColumnDef.headerTip=Slaughter
+|PawnColumnDef.headerTip.zh-cn=宰杀
+|PawnColumnDef.headerTip.zh-tw=Slaughter
 }}"
 Core:Defs_PawnColumnDef_Timetable,"{{#set:
 |dataType=Def
@@ -21676,7 +21698,7 @@ Core:Defs_PawnKindDef_GrenadierDestructive,"{{#set:
 |PawnKindDef.backstoryCryptosleepCommonality=0.25
 |PawnKindDef.maxGenerationAge=65
 |PawnKindDef.gearHealthRange=0.7 ~ 2.3
-|PawnKindDef.combatPower=60
+|PawnKindDef.combatPower=65
 |PawnKindDef.baseRecruitDifficulty=0.70
 |PawnKindDef.apparelMoney=800 ~ 1400
 |PawnKindDef.apparelTags=""Outlander"",""Military"",""BeltDefensePop""
@@ -21718,7 +21740,7 @@ Core:Defs_PawnKindDef_GrenadierEMP,"{{#set:
 |PawnKindDef.backstoryCryptosleepCommonality=0.25
 |PawnKindDef.maxGenerationAge=65
 |PawnKindDef.gearHealthRange=0.7 ~ 2.3
-|PawnKindDef.combatPower=60
+|PawnKindDef.combatPower=65
 |PawnKindDef.baseRecruitDifficulty=0.70
 |PawnKindDef.apparelMoney=800 ~ 1400
 |PawnKindDef.apparelTags=""Outlander"",""Military"",""BeltDefensePop""
@@ -22904,7 +22926,7 @@ Core:Defs_PawnKindDef_MercenaryElite,"{{#set:
 |PawnKindDef.backstoryCryptosleepCommonality=0.25
 |PawnKindDef.maxGenerationAge=45
 |PawnKindDef.gearHealthRange=0.8 ~ 3.5
-|PawnKindDef.combatPower=220
+|PawnKindDef.combatPower=210
 |PawnKindDef.baseRecruitDifficulty=0.70
 |PawnKindDef.apparelMoney=2500 ~ 4200
 |PawnKindDef.apparelTags=""Outlander"",""Military"",""Spacer"",""BeltDefensePop""
@@ -22947,7 +22969,7 @@ Core:Defs_PawnKindDef_MercenaryGunner,"{{#set:
 |PawnKindDef.backstoryCryptosleepCommonality=0.25
 |PawnKindDef.maxGenerationAge=65
 |PawnKindDef.gearHealthRange=0.7 ~ 2.3
-|PawnKindDef.combatPower=70
+|PawnKindDef.combatPower=90
 |PawnKindDef.baseRecruitDifficulty=0.70
 |PawnKindDef.apparelMoney=1500 ~ 2800
 |PawnKindDef.apparelTags=""Outlander"",""Military"",""BeltDefensePop""
@@ -23021,7 +23043,7 @@ Core:Defs_PawnKindDef_MercenarySlasher,"{{#set:
 |PawnKindDef.backstoryCryptosleepCommonality=0.25
 |PawnKindDef.maxGenerationAge=65
 |PawnKindDef.gearHealthRange=0.5 ~ 2.3
-|PawnKindDef.combatPower=135
+|PawnKindDef.combatPower=140
 |PawnKindDef.baseRecruitDifficulty=0.70
 |PawnKindDef.apparelMoney=1000 ~ 2600
 |PawnKindDef.apparelRequired=""Apparel_ShieldBelt""
@@ -23064,7 +23086,7 @@ Core:Defs_PawnKindDef_MercenarySniper,"{{#set:
 |PawnKindDef.backstoryCryptosleepCommonality=0.25
 |PawnKindDef.maxGenerationAge=65
 |PawnKindDef.gearHealthRange=0.7 ~ 2.3
-|PawnKindDef.combatPower=90
+|PawnKindDef.combatPower=95
 |PawnKindDef.baseRecruitDifficulty=0.70
 |PawnKindDef.apparelMoney=1500 ~ 2500
 |PawnKindDef.apparelTags=""Outlander"",""Military""
@@ -23709,7 +23731,7 @@ Core:Defs_PawnKindDef_Pirate,"{{#set:
 |PawnKindDef.maxGenerationAge=50
 |PawnKindDef.gearHealthRange=0.4 ~ 1.5
 |PawnKindDef.factionLeader=true
-|PawnKindDef.combatPower=56
+|PawnKindDef.combatPower=68
 |PawnKindDef.baseRecruitDifficulty=0.65
 |PawnKindDef.apparelMoney=500 ~ 1100
 |PawnKindDef.apparelTags=""Outlander"",""Outlander""
@@ -23750,7 +23772,7 @@ Core:Defs_PawnKindDef_PirateBoss,"{{#set:
 |PawnKindDef.maxGenerationAge=45
 |PawnKindDef.gearHealthRange=0.8 ~ 3.5
 |PawnKindDef.factionLeader=true
-|PawnKindDef.combatPower=220
+|PawnKindDef.combatPower=210
 |PawnKindDef.baseRecruitDifficulty=0.70
 |PawnKindDef.apparelMoney=2500 ~ 4200
 |PawnKindDef.apparelTags=""Outlander"",""Military"",""Spacer"",""BeltDefensePop""
@@ -24246,7 +24268,7 @@ Core:Defs_PawnKindDef_Scavenger,"{{#set:
 |PawnKindDef.labelPlural.zh-tw=scavengers
 |PawnKindDef.backstoryCryptosleepCommonality=0.1
 |PawnKindDef.gearHealthRange=0.2 ~ 0.9
-|PawnKindDef.combatPower=38
+|PawnKindDef.combatPower=40
 |PawnKindDef.baseRecruitDifficulty=0.65
 |PawnKindDef.apparelMoney=300 ~ 500
 |PawnKindDef.apparelTags=""Outlander""
@@ -24457,7 +24479,7 @@ Core:Defs_PawnKindDef_SpaceRefugee,"{{#set:
 |PawnKindDef.isFighter=false
 |PawnKindDef.combatPower=25
 |PawnKindDef.baseRecruitDifficulty=0.30
-|PawnKindDef.apparelMoney=0 ~ 3000
+|PawnKindDef.apparelMoney=0 ~ 1000
 |PawnKindDef.apparelTags=""Spacer""
 |PawnKindDef.apparelAllowHeadwearChance=0.5
 |PawnKindDef.apparelIgnoreSeasons=true
@@ -24481,7 +24503,7 @@ Core:Defs_PawnKindDef_SpaceSoldier,"{{#set:
 |PawnKindDef.maxGenerationAge=58
 |PawnKindDef.combatPower=100
 |PawnKindDef.baseRecruitDifficulty=0.30
-|PawnKindDef.apparelMoney=0 ~ 4000
+|PawnKindDef.apparelMoney=0 ~ 3200
 |PawnKindDef.apparelTags=""Spacer"",""BeltDefensePop""
 |PawnKindDef.apparelAllowHeadwearChance=0.5
 |PawnKindDef.apparelIgnoreSeasons=true
@@ -24731,7 +24753,7 @@ Core:Defs_PawnKindDef_Thrasher,"{{#set:
 |PawnKindDef.maxGenerationAge=48
 |PawnKindDef.gearHealthRange=0.4 ~ 1.1
 |PawnKindDef.factionLeader=true
-|PawnKindDef.combatPower=36
+|PawnKindDef.combatPower=40
 |PawnKindDef.baseRecruitDifficulty=0.65
 |PawnKindDef.apparelMoney=300 ~ 800
 |PawnKindDef.apparelTags=""Outlander"",""Outlander"",""BeltDefense""
@@ -26781,11 +26803,11 @@ Core:Defs_RecipeDef_Administer_Penoxycyline,"{{#set:
 |defName=Administer_Penoxycyline
 |RecipeDef.defName=Administer_Penoxycyline
 |RecipeDef.label=administer penoxycyline
-|RecipeDef.label.zh-cn=施用盘诺西林
+|RecipeDef.label.zh-cn=施用佩诺西林
 |RecipeDef.label.zh-tw=施用盤諾沙林抗生素
 |RecipeDef.workerClass=Recipe_AdministerIngestible
 |RecipeDef.jobString=Administering penoxycyline.
-|RecipeDef.jobString.zh-cn=正在施用盘诺西林。
+|RecipeDef.jobString.zh-cn=正在施用佩诺西林。
 |RecipeDef.jobString.zh-tw=施用盤諾沙林抗生素。
 |RecipeDef.workAmount=120
 |RecipeDef.ingredients=Exist
@@ -29089,13 +29111,13 @@ Core:Defs_RecipeDef_Make_Medicine,"{{#set:
 |defName=Make_Medicine
 |RecipeDef.defName=Make_Medicine
 |RecipeDef.label=make medicine
-|RecipeDef.label.zh-cn=制作药物
+|RecipeDef.label.zh-cn=制作医药
 |RecipeDef.label.zh-tw=製造藥品
 |RecipeDef.description=Make medicine.
-|RecipeDef.description.zh-cn=医疗人员用药物来治疗病人和伤员。
+|RecipeDef.description.zh-cn=医疗人员用医药来治疗病人和伤员。
 |RecipeDef.description.zh-tw=製造藥品。
 |RecipeDef.jobString=Making medicine.
-|RecipeDef.jobString.zh-cn=正在制作药物。
+|RecipeDef.jobString.zh-cn=正在制作医药。
 |RecipeDef.jobString.zh-tw=製造藥品。
 |RecipeDef.workAmount=700
 |RecipeDef.workSpeedStat=DrugProductionSpeed
@@ -29372,13 +29394,13 @@ Core:Defs_RecipeDef_Make_Penoxycyline,"{{#set:
 |defName=Make_Penoxycyline
 |RecipeDef.defName=Make_Penoxycyline
 |RecipeDef.label=make penoxycyline
-|RecipeDef.label.zh-cn=制作盘诺西林
+|RecipeDef.label.zh-cn=制作佩诺西林
 |RecipeDef.label.zh-tw=製造盤諾沙林抗生素
 |RecipeDef.description=Make penoxycyline.
-|RecipeDef.description.zh-cn=制作盘诺西林
+|RecipeDef.description.zh-cn=制作佩诺西林
 |RecipeDef.description.zh-tw=製造盤諾沙林抗生素。
 |RecipeDef.jobString=Making penoxycyline.
-|RecipeDef.jobString.zh-cn=制作制作盘诺西林。
+|RecipeDef.jobString.zh-cn=制作制作佩诺西林。
 |RecipeDef.jobString.zh-tw=製造盤諾沙林抗生素。
 |RecipeDef.workAmount=500
 |RecipeDef.workSpeedStat=DrugProductionSpeed
@@ -31124,7 +31146,7 @@ Core:Defs_ResearchProjectDef_Autodoors,"{{#set:
 |ResearchProjectDef.label.zh-cn=自动门
 |ResearchProjectDef.label.zh-tw=自動門
 |ResearchProjectDef.description=Build autodoors which open to permit movement without slowing anyone down.
-|ResearchProjectDef.description.zh-cn=解锁建造自动门，人通过时不会减速。
+|ResearchProjectDef.description.zh-cn=解锁建造「自动门」，人通过时不会被减速。
 |ResearchProjectDef.description.zh-tw=解鎖建造自動門，使人通過門時不需減速。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=400
@@ -31138,10 +31160,10 @@ Core:Defs_ResearchProjectDef_Batteries,"{{#set:
 |defName=Batteries
 |ResearchProjectDef.defName=Batteries
 |ResearchProjectDef.label=batteries
-|ResearchProjectDef.label.zh-cn=电池
+|ResearchProjectDef.label.zh-cn=蓄电池
 |ResearchProjectDef.label.zh-tw=電池
 |ResearchProjectDef.description=Build batteries for storing electricity.
-|ResearchProjectDef.description.zh-cn=解锁建造电池以储存电力。
+|ResearchProjectDef.description.zh-cn=解锁建造「蓄电池」以储存电力。
 |ResearchProjectDef.description.zh-tw=解鎖建造能夠儲存電力的電池。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=400
@@ -31159,7 +31181,7 @@ Core:Defs_ResearchProjectDef_Brewing,"{{#set:
 |ResearchProjectDef.label.zh-cn=酿酒
 |ResearchProjectDef.label.zh-tw=釀造
 |ResearchProjectDef.description=Allows you to build a brewery to transform hops into tasty, tasty beer.
-|ResearchProjectDef.description.zh-cn=解锁建造酿造台。将啤酒花酿成美味的啤酒。
+|ResearchProjectDef.description.zh-cn=解锁建造「酿造台」。将啤酒花酿成美味的啤酒。
 |ResearchProjectDef.description.zh-tw=讓你可以建造釀酒工作台，將啤酒花釀造成美味的啤酒。
 |ResearchProjectDef.techLevel=Neolithic
 |ResearchProjectDef.baseCost=700
@@ -31172,10 +31194,10 @@ Core:Defs_ResearchProjectDef_CarpetMaking,"{{#set:
 |defName=CarpetMaking
 |ResearchProjectDef.defName=CarpetMaking
 |ResearchProjectDef.label=carpet making
-|ResearchProjectDef.label.zh-cn=地毯制作
+|ResearchProjectDef.label.zh-cn=地毯铺设
 |ResearchProjectDef.label.zh-tw=地毯製作
 |ResearchProjectDef.description=Allows colonists to build carpets to increase the quality of their environments.
-|ResearchProjectDef.description.zh-cn=解锁建造地毯，用来提升居住环境的品质。
+|ResearchProjectDef.description.zh-cn=解锁建造「地毯」，用来提升居住环境的品质。
 |ResearchProjectDef.description.zh-tw=解鎖居民製作地毯来改善環境。
 |ResearchProjectDef.techLevel=Medieval
 |ResearchProjectDef.baseCost=1200
@@ -31191,7 +31213,7 @@ Core:Defs_ResearchProjectDef_ChargedShot,"{{#set:
 |ResearchProjectDef.label.zh-cn=电荷弹
 |ResearchProjectDef.label.zh-tw=高能光束
 |ResearchProjectDef.description=Understand the secrets of pulse-charged energy/projectile munitions. Allows you to build the charge rifle.
-|ResearchProjectDef.description.zh-cn=研究采用脉冲充能的高能能量弹药的秘密。解锁制作电荷步枪。
+|ResearchProjectDef.description.zh-cn=研究采用脉冲充能的高能能量弹药的秘密。解锁制作「电荷步枪」。
 |ResearchProjectDef.description.zh-tw=理解能量脈衝彈藥的秘密，解鎖生產光束步槍。
 |ResearchProjectDef.techLevel=Spacer
 |ResearchProjectDef.baseCost=1500
@@ -31210,7 +31232,7 @@ Core:Defs_ResearchProjectDef_ColoredLights,"{{#set:
 |ResearchProjectDef.label.zh-cn=彩色灯
 |ResearchProjectDef.label.zh-tw=彩色燈
 |ResearchProjectDef.description=Allows colonists to construct colored lights for decorative purposes.
-|ResearchProjectDef.description.zh-cn=解锁建造装饰性的彩色灯。
+|ResearchProjectDef.description.zh-cn=解锁建造装饰性的彩色落地灯。
 |ResearchProjectDef.description.zh-tw=解鎖居民製作裝飾性的彩色燈。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=500
@@ -31224,10 +31246,10 @@ Core:Defs_ResearchProjectDef_ComplexClothing,"{{#set:
 |defName=ComplexClothing
 |ResearchProjectDef.defName=ComplexClothing
 |ResearchProjectDef.label=complex clothing
-|ResearchProjectDef.label.zh-cn=高档衣物
+|ResearchProjectDef.label.zh-cn=复杂衣物
 |ResearchProjectDef.label.zh-tw=高級衣物
 |ResearchProjectDef.description=Sew complicated garments like pants, dusters, and cowboy hats.
-|ResearchProjectDef.description.zh-cn=看起来更高档的衣物，比如裤子、防尘大衣、牛仔帽等。
+|ResearchProjectDef.description.zh-cn=缝制复杂的服饰，比如裤子、防尘大衣、牛仔帽等。
 |ResearchProjectDef.description.zh-tw=解鎖部落生產複雜的衣物，如褲子、大衣以及牛仔帽。
 |ResearchProjectDef.techLevel=Medieval
 |ResearchProjectDef.baseCost=500
@@ -31301,7 +31323,7 @@ Core:Defs_ResearchProjectDef_Devilstrand,"{{#set:
 |ResearchProjectDef.label.zh-cn=恶魔菇
 |ResearchProjectDef.label.zh-tw=魔鬼菇
 |ResearchProjectDef.description=Allows colonists to plant devilstrand, a slow-growing mushroom that yields a valuable plant fiber.
-|ResearchProjectDef.description.zh-cn=解锁种植恶魔菇，一种生长非常缓慢的蘑菇，可提取得到贵重的织物：魔菇布。
+|ResearchProjectDef.description.zh-cn=解锁种植「恶魔菇」，一种生长非常缓慢的蘑菇，可提取得到贵重的织物：魔菇布。
 |ResearchProjectDef.description.zh-tw=解鎖種植魔鬼菇，生長緩慢，但可以收穫相當珍貴的植物纖維布料。
 |ResearchProjectDef.techLevel=Neolithic
 |ResearchProjectDef.baseCost=500
@@ -31314,10 +31336,10 @@ Core:Defs_ResearchProjectDef_DrugProduction,"{{#set:
 |defName=DrugProduction
 |ResearchProjectDef.defName=DrugProduction
 |ResearchProjectDef.label=drug production
-|ResearchProjectDef.label.zh-cn=成瘾品制造基础
+|ResearchProjectDef.label.zh-cn=成瘾品生产
 |ResearchProjectDef.label.zh-tw=製藥
 |ResearchProjectDef.description=The basics of drug preparation and synthesis. Allows creation of the drug lab. Further research is required to make specific drugs.
-|ResearchProjectDef.description.zh-cn=成瘾品制造与合成的基础技术。允许建造药物实验台。需要进一步研究以制作特定的成瘾品。
+|ResearchProjectDef.description.zh-cn=成瘾品制备与合成的基础技术。允许建造药物实验台。需要进一步研究以制作特定的成瘾品。
 |ResearchProjectDef.description.zh-tw=製造藥物的前提科技，解鎖建造藥物合成台，需要進一步研究才能實際製造藥物。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=500
@@ -31333,7 +31355,7 @@ Core:Defs_ResearchProjectDef_ElectricCremation,"{{#set:
 |ResearchProjectDef.label.zh-cn=电力火化炉
 |ResearchProjectDef.label.zh-tw=火化爐
 |ResearchProjectDef.description=Build crematoriums which can vaporize unwanted corpses.
-|ResearchProjectDef.description.zh-cn=解锁建造电力火化炉，可焚烧尸体和无用的衣物。
+|ResearchProjectDef.description.zh-cn=解锁建造「电力火化炉」，可焚烧尸体和无用的衣物。
 |ResearchProjectDef.description.zh-tw=解鎖建造能將屍體與衣物徹底燒毀的火化爐。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=500
@@ -31367,7 +31389,7 @@ Core:Defs_ResearchProjectDef_ElectricSmelting,"{{#set:
 |ResearchProjectDef.label.zh-cn=电力熔炼
 |ResearchProjectDef.label.zh-tw=金屬提煉
 |ResearchProjectDef.description=Build electric smithy and smelters.<br/><br/>The electric smithy allows smithing items without fuel. The electric smelters uses heat and strong electromagnets to extract useful metal from slag chunks and other items.
-|ResearchProjectDef.description.zh-cn=解锁建造电力锻造台和电熔炼器。<br/><br/>电力锻造台不需要燃料。电熔炼器用高温和强磁从钢块渣和其他物品中提炼有用的金属。
+|ResearchProjectDef.description.zh-cn=解锁建造「电力锻造台」和「电熔炼器」。<br/><br/>电力锻造台不需要燃料。电熔炼器用高温和强磁从钢块渣和其他物品中提炼有用的金属。
 |ResearchProjectDef.description.zh-tw=解鎖建造金屬提煉器。金屬提煉器可以透過高溫和電磁鐵將金屬碎片中有用的金屬提煉出來。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1700
@@ -31384,7 +31406,7 @@ Core:Defs_ResearchProjectDef_Firefoam,"{{#set:
 |ResearchProjectDef.label.zh-cn=泡沫灭火器
 |ResearchProjectDef.label.zh-tw=泡沫滅火裝置
 |ResearchProjectDef.description=Allows the construction of firefoam poppers; fire-safety buildings which spread fire-retardant foam in response to encroaching flames.
-|ResearchProjectDef.description.zh-cn=解锁建造泡沫灭火器，一种消防设备，感应到火焰时喷出大量的能扑灭火灾的泡沫。
+|ResearchProjectDef.description.zh-cn=解锁建造「泡沫灭火器」，一种消防设备，感应到火焰时喷出大量的能扑灭火灾的泡沫。
 |ResearchProjectDef.description.zh-tw=解鎖建造泡沫滅火裝置，一種可以噴出大量泡沫以滅火的設備。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=800
@@ -31402,7 +31424,7 @@ Core:Defs_ResearchProjectDef_GeothermalPower,"{{#set:
 |ResearchProjectDef.label.zh-cn=地热能
 |ResearchProjectDef.label.zh-tw=地熱發電
 |ResearchProjectDef.description=Allows you to build geothermal power plants on top of steam geysers, for uninterrupted power.
-|ResearchProjectDef.description.zh-cn=解锁建造地热发电机，建造在蒸汽间歇喷泉上，提供不间断的电力。
+|ResearchProjectDef.description.zh-cn=解锁建造「地热发电机」，建造在蒸汽间歇喷泉上，提供不间断的电力。
 |ResearchProjectDef.description.zh-tw=解鎖你在蒸氣間歇泉上建造地熱發電機，一種源源不絕的電力來源。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1800
@@ -31456,7 +31478,7 @@ Core:Defs_ResearchProjectDef_GunTurrets,"{{#set:
 |ResearchProjectDef.label.zh-cn=自动机枪塔
 |ResearchProjectDef.label.zh-tw=自動機槍塔
 |ResearchProjectDef.description=Allows the production of automated gun turrets.
-|ResearchProjectDef.description.zh-cn=解锁建造自动机枪塔。
+|ResearchProjectDef.description.zh-cn=解锁建造「自动机枪塔」。
 |ResearchProjectDef.description.zh-tw=解鎖建造自動機槍塔。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=800
@@ -31473,7 +31495,7 @@ Core:Defs_ResearchProjectDef_HospitalBed,"{{#set:
 |ResearchProjectDef.label.zh-cn=医疗床
 |ResearchProjectDef.label.zh-tw=醫療床
 |ResearchProjectDef.description=Allows colonists to construct hospital beds which increase chance of successful medical work.
-|ResearchProjectDef.description.zh-cn=解锁建造医疗床，提高医疗工作的质量和成功率。
+|ResearchProjectDef.description.zh-cn=解锁建造「医疗床」，提高医疗工作的质量和成功率。
 |ResearchProjectDef.description.zh-tw=解鎖建造醫療床，在醫療床上可增加醫療工作成功的機率。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=2000
@@ -31491,7 +31513,7 @@ Core:Defs_ResearchProjectDef_Hydroponics,"{{#set:
 |ResearchProjectDef.label.zh-cn=水栽培
 |ResearchProjectDef.label.zh-tw=水培技術
 |ResearchProjectDef.description=Allows you to build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside.
-|ResearchProjectDef.description.zh-cn=解锁建造水栽培植物盆，在室内快速种植作物，不受土壤贫瘠和室外天气的影响。
+|ResearchProjectDef.description.zh-cn=解锁建造「水栽培植物盆」，在室内快速种植作物，不受土壤贫瘠和室外天气的影响。
 |ResearchProjectDef.description.zh-tw=解鎖建造水培設施以在室內進行快速種植。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=700
@@ -31508,7 +31530,7 @@ Core:Defs_ResearchProjectDef_IEDBomb,"{{#set:
 |ResearchProjectDef.label.zh-cn=爆炸陷阱
 |ResearchProjectDef.label.zh-tw=地雷
 |ResearchProjectDef.description=Allows colonists to build improvised explosive device-based traps from mortar shells.
-|ResearchProjectDef.description.zh-cn=解锁建造爆炸陷阱，以迫击炮炮弹为材料制作的简易爆炸装置。
+|ResearchProjectDef.description.zh-cn=解锁建造「爆炸陷阱」，以迫击炮炮弹为材料制作的简易爆炸装置。
 |ResearchProjectDef.description.zh-tw=解鎖居民用砲彈製造一種爆裂性的地雷裝置。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1600
@@ -31525,7 +31547,7 @@ Core:Defs_ResearchProjectDef_IEDIncendiary,"{{#set:
 |ResearchProjectDef.label.zh-cn=燃烧陷阱
 |ResearchProjectDef.label.zh-tw=燃燒地雷
 |ResearchProjectDef.description=Allows colonists to build incendiary explosive traps from mortar shells.
-|ResearchProjectDef.description.zh-cn=解锁建造燃烧陷阱，以迫击炮炮弹为材料制作的简易燃烧爆炸装置。
+|ResearchProjectDef.description.zh-cn=解锁建造「燃烧陷阱」，以迫击炮炮弹为材料制作的简易燃烧爆炸装置。
 |ResearchProjectDef.description.zh-tw=解鎖居民用砲彈製造一種會炸出火焰的地雷裝置。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1600
@@ -31560,7 +31582,7 @@ Core:Defs_ResearchProjectDef_Machining,"{{#set:
 |ResearchProjectDef.label.zh-cn=机械加工
 |ResearchProjectDef.label.zh-tw=機械拆解
 |ResearchProjectDef.description=Build machining tables to craft guns and machinery or disassemble dead mechanoids.
-|ResearchProjectDef.description.zh-cn=解锁建造机械加工台，用于制作枪支和机械，或者拆解死亡的机械体获得高级的材料。
+|ResearchProjectDef.description.zh-cn=解锁建造「机械加工台」，用于制作枪支和机械，或者拆解死亡的机械体获得高级的材料。
 |ResearchProjectDef.description.zh-tw=解鎖建造能將損壞的機器人拆解為有用金屬的設備。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1500
@@ -31574,10 +31596,10 @@ Core:Defs_ResearchProjectDef_MedicineProduction,"{{#set:
 |defName=MedicineProduction
 |ResearchProjectDef.defName=MedicineProduction
 |ResearchProjectDef.label=medicine production
-|ResearchProjectDef.label.zh-cn=制药
+|ResearchProjectDef.label.zh-cn=医药生产
 |ResearchProjectDef.label.zh-tw=製藥
 |ResearchProjectDef.description=Produce medicine from herbal medicine, neutroamine, and cloth.
-|ResearchProjectDef.description.zh-cn=将草药、中性胺和布制成药物。
+|ResearchProjectDef.description.zh-cn=将草药、中性胺和布制成「医药」。
 |ResearchProjectDef.description.zh-tw=解鎖建造製藥實驗桌，能夠從藥草、中性胺與衣物中提煉成分製成藥物。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1500
@@ -31595,7 +31617,7 @@ Core:Defs_ResearchProjectDef_MicroelectronicsBasics,"{{#set:
 |ResearchProjectDef.label.zh-cn=微电子基础
 |ResearchProjectDef.label.zh-tw=基礎微電子科技
 |ResearchProjectDef.description=The basics of working with delicate, complex electronics. This unlocks the high-tech research bench, comms console, and other research projects like tube televisions, and cryptosleep caskets.
-|ResearchProjectDef.description.zh-cn=用精密复杂的电子进行工作的基础。解锁高级研究台、通讯台，以及其他研究项目，比如显像管电视、低温休眠舱。
+|ResearchProjectDef.description.zh-cn=用精密复杂的电子进行工作的基础。解锁建造「高级研究台」、「通讯台」，以及其他研究项目，比如「显像管电视」、「低温休眠舱」。
 |ResearchProjectDef.description.zh-tw=更加精密，更加複雜的電子技術。解鎖建造高科技研究桌、通訊台，和新的研究計劃。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=700
@@ -31612,7 +31634,7 @@ Core:Defs_ResearchProjectDef_MoisturePump,"{{#set:
 |ResearchProjectDef.label.zh-cn=排水泵
 |ResearchProjectDef.label.zh-tw=排水泵
 |ResearchProjectDef.description=Allows the construction of moisture pumps, which turn wet ground dry.
-|ResearchProjectDef.description.zh-cn=解锁建造排水泵，一种能将潮湿土地变干的装置。
+|ResearchProjectDef.description.zh-cn=解锁建造「排水泵」，一种能将潮湿土地变干的装置。
 |ResearchProjectDef.description.zh-tw=解鎖建造排水泵，一種能將潮濕土地乾燥化的裝置。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1200
@@ -31630,7 +31652,7 @@ Core:Defs_ResearchProjectDef_Mortars,"{{#set:
 |ResearchProjectDef.label.zh-cn=迫击炮
 |ResearchProjectDef.label.zh-tw=迫擊砲
 |ResearchProjectDef.description=Learn to build mortars which can lob shells long distances over walls.
-|ResearchProjectDef.description.zh-cn=解锁建造迫击炮，可越过墙抛射炮弹，射程非常远。
+|ResearchProjectDef.description.zh-cn=解锁建造「迫击炮」，可越过墙抛射炮弹，射程非常远。
 |ResearchProjectDef.description.zh-tw=解鎖建造能夠將炮彈拋過牆壁的重炮。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=2000
@@ -31647,7 +31669,7 @@ Core:Defs_ResearchProjectDef_MultiAnalyzer,"{{#set:
 |ResearchProjectDef.label.zh-cn=多元分析仪
 |ResearchProjectDef.label.zh-tw=多重分析技術
 |ResearchProjectDef.description=Allows colonists to build multi-analyzers which increase research speed, and allow higher-level research projects, if placed near a research bench.
-|ResearchProjectDef.description.zh-cn=解锁建造多元分析仪，提高研究速度，以及解锁更高级的研究项目，必须建造在高级研究台旁。
+|ResearchProjectDef.description.zh-cn=解锁建造「多元分析仪」，提高研究速度，以及解锁更高级的研究项目，必须建造在高级研究台旁。
 |ResearchProjectDef.description.zh-tw=解鎖建造多重分析裝置，可用來加快研究速度、解鎖更高階的科技。必須安裝在高科技研究桌附近。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=800
@@ -31684,7 +31706,7 @@ Core:Defs_ResearchProjectDef_NutrientPaste,"{{#set:
 |ResearchProjectDef.label.zh-cn=营养膏合成机
 |ResearchProjectDef.label.zh-tw=營養膏生產機
 |ResearchProjectDef.description=Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks.
-|ResearchProjectDef.description.zh-cn=解锁建造营养膏合成机，能自动将生食高效地合成为营养膏。用于应对食物短缺。
+|ResearchProjectDef.description.zh-cn=解锁建造「营养膏合成机」，能自动将生食高效地合成为营养膏。用于应对食物短缺。
 |ResearchProjectDef.description.zh-tw=解鎖建造營養膏生產機，可自動將原料製成營養膏。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=600
@@ -31702,7 +31724,7 @@ Core:Defs_ResearchProjectDef_PackagedSurvivalMeal,"{{#set:
 |ResearchProjectDef.label.zh-cn=包装生存食品
 |ResearchProjectDef.label.zh-tw=packaged survival meal
 |ResearchProjectDef.description=Learn to produce packaged survival meals, a preserved and sealed food that never goes bad. Great for traveling.
-|ResearchProjectDef.description.zh-cn=解锁生产包装生存食品，密封储存且不会变质的食品。非常适合用于旅行中。
+|ResearchProjectDef.description.zh-cn=解锁生产「包装生存食品」，密封储存且不会变质的食品。非常适合用于旅行中。
 |ResearchProjectDef.description.zh-tw=Learn to produce packaged survival meals, a preserved and sealed food that never goes bad. Great for traveling.
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=2000
@@ -31719,7 +31741,7 @@ Core:Defs_ResearchProjectDef_PassiveCooler,"{{#set:
 |ResearchProjectDef.label.zh-cn=蒸发制冷器
 |ResearchProjectDef.label.zh-tw=簡易冷卻器
 |ResearchProjectDef.description=Make passive coolers, a way to cool indoor spaces without using electricity.
-|ResearchProjectDef.description.zh-cn=允许殖民者建造蒸发制冷器，一种不需要通电即可降温的工具。
+|ResearchProjectDef.description.zh-cn=允许殖民者建造「蒸发制冷器」，一种不需要通电即可降温的工具。
 |ResearchProjectDef.description.zh-tw=解鎖建造簡易冷卻器，一種用於室內，不需電力的設備。
 |ResearchProjectDef.techLevel=Neolithic
 |ResearchProjectDef.baseCost=400
@@ -31736,7 +31758,7 @@ Core:Defs_ResearchProjectDef_Pemmican,"{{#set:
 |ResearchProjectDef.label.zh-cn=干肉饼
 |ResearchProjectDef.label.zh-tw=肉餅製作
 |ResearchProjectDef.description=Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling.
-|ResearchProjectDef.description.zh-cn=解锁制作干肉饼，由肉食和素食混合制成，保质期很长。居家旅行必备。
+|ResearchProjectDef.description.zh-cn=解锁制作「干肉饼」，由肉食和素食混合制成，保质期很长。居家旅行必备。
 |ResearchProjectDef.description.zh-tw=解鎖居民用肉類和作物製作肉餅，一種不易變質，可長期存放的食品。
 |ResearchProjectDef.techLevel=Neolithic
 |ResearchProjectDef.baseCost=500
@@ -31750,10 +31772,10 @@ Core:Defs_ResearchProjectDef_PenoxycylineProduction,"{{#set:
 |defName=PenoxycylineProduction
 |ResearchProjectDef.defName=PenoxycylineProduction
 |ResearchProjectDef.label=penoxycyline production
-|ResearchProjectDef.label.zh-cn=盘诺西林制作
+|ResearchProjectDef.label.zh-cn=佩诺西林制作
 |ResearchProjectDef.label.zh-tw=盤諾沙林生產
 |ResearchProjectDef.description=Learn to produce penoxycline, a disease prevention drug.
-|ResearchProjectDef.description.zh-cn=学会制作盘诺西林，一种疾病防治药物。
+|ResearchProjectDef.description.zh-cn=学会制作「佩诺西林」，一种疾病防治药物。
 |ResearchProjectDef.description.zh-tw=研究如何製造盤諾沙林，一種能夠預防疾病的藥物。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=500
@@ -31789,7 +31811,7 @@ Core:Defs_ResearchProjectDef_PsychiteRefining,"{{#set:
 |ResearchProjectDef.label.zh-cn=精神药物提炼
 |ResearchProjectDef.label.zh-tw=提煉
 |ResearchProjectDef.description=Learn to refine psychoid leaves into flake and yayo, different forms of the euphoric drug psychite.
-|ResearchProjectDef.description.zh-cn=允许殖民者对精神叶进行精炼，制作薄片和呀呦粉。
+|ResearchProjectDef.description.zh-cn=允许殖民者对精神叶进行精炼，制作「薄片」和「呀呦粉」。
 |ResearchProjectDef.description.zh-tw=研究從迷幻草中提煉成分的技術，用來製成薄片及Y他命，兩種不同的精神藥物。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=400
@@ -31806,7 +31828,7 @@ Core:Defs_ResearchProjectDef_Refining,"{{#set:
 |ResearchProjectDef.label.zh-cn=精炼
 |ResearchProjectDef.label.zh-tw=化合燃料提煉
 |ResearchProjectDef.description=Build refineries to make chemfuel from wood.
-|ResearchProjectDef.description.zh-cn=建造精炼设备用于从木材提炼化合燃料。
+|ResearchProjectDef.description.zh-cn=建造精炼设备用于从木材提炼「化合燃料」。
 |ResearchProjectDef.description.zh-tw=解鎖建造煉油器，可從木頭中提煉化合燃料。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1200
@@ -31861,7 +31883,7 @@ Core:Defs_ResearchProjectDef_ShipComputerCore,"{{#set:
 |ResearchProjectDef.label.zh-cn=飞船电脑核心
 |ResearchProjectDef.label.zh-tw=星艦電腦核心
 |ResearchProjectDef.description=Allows coercing an existing AI persona into a usable AI computer core for ship guidance.
-|ResearchProjectDef.description.zh-cn=解锁强制将现有的AI角色核心装入人工智能电脑核心中，用于飞船导航。
+|ResearchProjectDef.description.zh-cn=解锁强制将现有的AI伪人格核心装入用于飞船导航的人工智能电脑核心中。
 |ResearchProjectDef.description.zh-tw=解鎖你將一個已經存在的AI系統裝入一個用於導航星艦的電腦核心裡。
 |ResearchProjectDef.techLevel=Spacer
 |ResearchProjectDef.baseCost=2500
@@ -31880,7 +31902,7 @@ Core:Defs_ResearchProjectDef_ShipCryptosleep,"{{#set:
 |ResearchProjectDef.label.zh-cn=飞船低温休眠舱
 |ResearchProjectDef.label.zh-tw=星艦低溫休眠艙
 |ResearchProjectDef.description=Allows you to construct ship cryptosleep caskets for transporting cryptosleeping colonists between the stars.
-|ResearchProjectDef.description.zh-cn=解锁建造飞船低温休眠舱，用于星际交通中殖民者休眠。
+|ResearchProjectDef.description.zh-cn=解锁建造「飞船低温休眠舱」，用于星际交通中殖民者休眠。
 |ResearchProjectDef.description.zh-tw=允许你建造用於星際旅行的休眠艙。
 |ResearchProjectDef.techLevel=Spacer
 |ResearchProjectDef.baseCost=1200
@@ -31899,7 +31921,7 @@ Core:Defs_ResearchProjectDef_ShipEngine,"{{#set:
 |ResearchProjectDef.label.zh-cn=反物质飞船推进器
 |ResearchProjectDef.label.zh-tw=反物質星艦推進器
 |ResearchProjectDef.description=Allows you to construct an engine for a ship.
-|ResearchProjectDef.description.zh-cn=解锁建造飞船推进器。
+|ResearchProjectDef.description.zh-cn=解锁建造「飞船推进器」。
 |ResearchProjectDef.description.zh-tw=解鎖你使用反物質牽制核心來建造一個反物質推進器。
 |ResearchProjectDef.techLevel=Spacer
 |ResearchProjectDef.baseCost=4000
@@ -31918,7 +31940,7 @@ Core:Defs_ResearchProjectDef_ShipReactor,"{{#set:
 |ResearchProjectDef.label.zh-cn=反物质飞船反应炉
 |ResearchProjectDef.label.zh-tw=反物質星艦反應堆
 |ResearchProjectDef.description=Allows you to use an antimatter containment core to build a reactor to power a ship.
-|ResearchProjectDef.description.zh-cn=解锁使用反物质约束核心建造运转的反应炉，用于给飞船提供电力。
+|ResearchProjectDef.description.zh-cn=解锁使用反物质约束核心建造用于给飞船提供动力的反应炉。
 |ResearchProjectDef.description.zh-tw=解鎖你使用反物質牽制核心來建造一個可以驅動整艘星艦的反應堆。
 |ResearchProjectDef.techLevel=Spacer
 |ResearchProjectDef.baseCost=4000
@@ -31937,7 +31959,7 @@ Core:Defs_ResearchProjectDef_Smithing,"{{#set:
 |ResearchProjectDef.label.zh-cn=锻造
 |ResearchProjectDef.label.zh-tw=鍛造
 |ResearchProjectDef.description=Build smithies for crafting metal weapons and tools.
-|ResearchProjectDef.description.zh-cn=解锁建造锻造台，将金属打造成武器和工具。
+|ResearchProjectDef.description.zh-cn=解锁建造「锻造台」，将金属打造成武器和工具。
 |ResearchProjectDef.description.zh-tw=用來鍛造金屬武器和工具的工作台。
 |ResearchProjectDef.techLevel=Medieval
 |ResearchProjectDef.baseCost=700
@@ -31953,7 +31975,7 @@ Core:Defs_ResearchProjectDef_SmokepopBelt,"{{#set:
 |ResearchProjectDef.label.zh-cn=烟罐腰带
 |ResearchProjectDef.label.zh-tw=煙霧腰帶
 |ResearchProjectDef.description=Learn to build smokepop belts which can provide an automatic defensive smokescreen.
-|ResearchProjectDef.description.zh-cn=解锁制作烟罐腰带，可提供自动防御烟幕。
+|ResearchProjectDef.description.zh-cn=解锁制作「烟罐腰带」，可提供自动防御烟幕。
 |ResearchProjectDef.description.zh-tw=解鎖煙霧腰帶，能夠自動產生一道煙霧障壁保護使用者。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1000
@@ -31970,7 +31992,7 @@ Core:Defs_ResearchProjectDef_SolarPanels,"{{#set:
 |ResearchProjectDef.label.zh-cn=太阳能板
 |ResearchProjectDef.label.zh-tw=太陽能發電板
 |ResearchProjectDef.description=Build solar panels for electrical generation.
-|ResearchProjectDef.description.zh-cn=解锁建造太阳能板，用于发电。
+|ResearchProjectDef.description.zh-cn=解锁建造「太阳能板」，用于发电。
 |ResearchProjectDef.description.zh-tw=解鎖建造太陽能發電板，能在陽光下產生電力。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=600
@@ -31988,7 +32010,7 @@ Core:Defs_ResearchProjectDef_Stonecutting,"{{#set:
 |ResearchProjectDef.label.zh-cn=岩石切割
 |ResearchProjectDef.label.zh-tw=石材加工
 |ResearchProjectDef.description=Build stonecutting tables, which allow you to refine rock chunks into stone blocks that can be used for construction.
-|ResearchProjectDef.description.zh-cn=解锁建造切石桌，将岩石堆切成可用的石块。
+|ResearchProjectDef.description.zh-cn=解锁建造「切石桌」，将岩石堆切成可用的石块。
 |ResearchProjectDef.description.zh-tw=解鎖建造石材加工桌，可以用來將沒用的石頭加工成有用的石材並可用於建築。
 |ResearchProjectDef.techLevel=Medieval
 |ResearchProjectDef.baseCost=300
@@ -32002,10 +32024,10 @@ Core:Defs_ResearchProjectDef_TransportPod,"{{#set:
 |defName=TransportPod
 |ResearchProjectDef.defName=TransportPod
 |ResearchProjectDef.label=transport pod
-|ResearchProjectDef.label.zh-cn=空投舱
+|ResearchProjectDef.label.zh-cn=运输舱
 |ResearchProjectDef.label.zh-tw=運輸艙發射平台
 |ResearchProjectDef.description=Construct launchable transport pods that you can use to launch people and supplies long distances across the planet's surface.
-|ResearchProjectDef.description.zh-cn=建造可发射的空投舱，可以远距离发射你的人和物资越过行星表面。
+|ResearchProjectDef.description.zh-cn=建造可发射的「运输舱」，可以远距离发射你的人和物资越过行星表面。
 |ResearchProjectDef.description.zh-tw=解鎖建造次行星軌道運輸艙，讓你能夠快速進行長距離的人員及物資輸送。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=1100
@@ -32023,7 +32045,7 @@ Core:Defs_ResearchProjectDef_TubeTelevision,"{{#set:
 |ResearchProjectDef.label.zh-cn=显像管电视
 |ResearchProjectDef.label.zh-tw=顯像管電視
 |ResearchProjectDef.description=Allows the production of tube televisions.
-|ResearchProjectDef.description.zh-cn=解锁建造显像管电视。
+|ResearchProjectDef.description.zh-cn=解锁建造「显像管电视」。
 |ResearchProjectDef.description.zh-tw=解鎖建造顯像管電視。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=800
@@ -32059,7 +32081,7 @@ Core:Defs_ResearchProjectDef_WakeUpProduction,"{{#set:
 |ResearchProjectDef.label.zh-cn=清醒丸制作
 |ResearchProjectDef.label.zh-tw=醒神劑生產
 |ResearchProjectDef.description=Your chemists learn the formulas and techniques for synthesizing wake-up, a work performance-enhancing drug.
-|ResearchProjectDef.description.zh-cn=学会制作清醒丸，清醒丸可以延长殖民者的工作时间，使其忘却疲劳，但是带有一些副作用。
+|ResearchProjectDef.description.zh-cn=学会制作「清醒丸」，清醒丸可以延长殖民者的工作时间，使其忘却疲劳，但是带有一些副作用。
 |ResearchProjectDef.description.zh-tw=研究如何生產醒神劑，一種能強化工作能力的藥物。
 |ResearchProjectDef.techLevel=Industrial
 |ResearchProjectDef.baseCost=600
@@ -43843,7 +43865,7 @@ Core:Defs_StatCategoryDef_Building,"{{#set:
 |defName=Building
 |StatCategoryDef.defName=Building
 |StatCategoryDef.label=Building
-|StatCategoryDef.label.zh-cn=建造
+|StatCategoryDef.label.zh-cn=建筑
 |StatCategoryDef.label.zh-tw=建築
 |StatCategoryDef.displayOrder=50
 }}"
@@ -45413,7 +45435,7 @@ Core:Defs_StatDef_MedicalSurgerySuccessChance,"{{#set:
 |StatDef.label.zh-cn=医疗手术成功几率
 |StatDef.label.zh-tw=手術成功率
 |StatDef.description=The likelihood that a character will succeed when attempting to perform a medical surgery. Failures can result in simple wasted time and medicine, or catastrophic damage to the patient.
-|StatDef.description.zh-cn=当角色尝试执行医疗手术时成功的可能性。手术出错时，轻则浪费时间和药物，重则给病人带来灾难性的伤害。
+|StatDef.description.zh-cn=当角色尝试执行医疗手术时成功的可能性。手术出错时，轻则浪费时间和医药，重则给病人带来灾难性的伤害。
 |StatDef.description.zh-tw=此角色執行手術時的成功機率，輕微的失誤可能只需要花費更多時間與藥即可彌補，但重大的失誤可能帶給病人災難性的傷害。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
@@ -45521,7 +45543,7 @@ Core:Defs_StatDef_MeleeDodgeChance,"{{#set:
 |StatDef.label.zh-cn=近战闪避几率
 |StatDef.label.zh-tw=近身攻擊迴避率
 |StatDef.description=Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon.
-|StatDef.description.zh-cn=闪避近身攻击或者其他击打的几率。（在瞄准或使用远程武器开火时，角色无法进行闪避。）
+|StatDef.description.zh-cn=闪避近身攻击或者其他物理击打的几率。（在瞄准时或使用远程武器开火时，角色无法进行闪避。）
 |StatDef.description.zh-tw=近身攻擊的迴避機率，但人物在瞄準或射擊時不會閃避。
 |StatDef.category=PawnCombat
 |StatDef.displayPriorityInCategory=99
@@ -45728,7 +45750,7 @@ Core:Defs_StatDef_MiningYield,"{{#set:
 |StatDef.label=mining yield
 |StatDef.label.zh-cn=开采产出
 |StatDef.label.zh-tw=採礦產量倍率
-|StatDef.description=The percentage yield a miner will achieve. Higher percentages reduce the chance of wasting the yield. This applies to both wall mining and deep drill mining.
+|StatDef.description=The percentage yield a miner will achieve. This applies to both wall mining and deep drill mining. This doesn't affect the rate of mining rock chunks.
 |StatDef.description.zh-cn=矿工将达到的百分比产出。更高的百分比将减少产出的浪费几率。同时应用于开采和深钻采矿。
 |StatDef.description.zh-tw=這名角色採礦的產量加成。越高的倍率越能避免產品的浪費。此數值同時作用於地表開採及地下採礦。
 |StatDef.category=PawnWork
@@ -45741,7 +45763,7 @@ Core:Defs_StatDef_MiningYield,"{{#set:
 |StatDef.skillNeedFactors.0=Exist
 |StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
 |StatDef.skillNeedFactors.0.skill=Mining
-|StatDef.skillNeedFactors.0.factorsPerLevel=""0.3"",""0.4"",""0.5"",""0.6"",""0.7"",""0.75"",""0.8"",""0.85"",""0.9"",""0.95"",""0.96"",""0.97"",""0.98"",""0.99"",""0.99"",""0.99"",""1"",""1"",""1"",""1"",""1""
+|StatDef.skillNeedFactors.0.factorsPerLevel=""0.6"",""0.7"",""0.8"",""0.85"",""0.875"",""0.9"",""0.925"",""0.95"",""0.96"",""0.96"",""0.97"",""0.97"",""0.98"",""0.98"",""0.99"",""0.99"",""1"",""1"",""1"",""1"",""1""
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
@@ -46035,7 +46057,7 @@ Core:Defs_StatDef_ShootingAccuracy,"{{#set:
 |StatDef.label.zh-cn=射击精确度
 |StatDef.label.zh-tw=射擊精度
 |StatDef.description=Base chance to not miss per square of shot distance.
-|StatDef.description.zh-cn=每增加一格距离不打偏的基本几率。
+|StatDef.description.zh-cn=射击距离内的命中几率。
 |StatDef.description.zh-tw=對目標遠程射擊的基礎命中率。
 |StatDef.category=PawnCombat
 |StatDef.showOnAnimals=false
@@ -48392,11 +48414,11 @@ Core:Defs_TerrainDef_WaterDeep,"{{#set:
 |TerrainDef.texturePath=Terrain/Surfaces/WaterDeepRamp
 |TerrainDef.edgeType=Water
 |TerrainDef.waterDepthShader=Map/WaterDepth
-|TerrainDef.renderPrecedence=396
+|TerrainDef.renderPrecedence=395
+|TerrainDef.takeSplashes=true
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
-|TerrainDef.tags=""CreateSplashes""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WaterMovingDeep,"{{#set:
@@ -48413,11 +48435,12 @@ Core:Defs_TerrainDef_WaterMovingDeep,"{{#set:
 |TerrainDef.texturePath=Terrain/Surfaces/WaterDeepRamp
 |TerrainDef.edgeType=Water
 |TerrainDef.waterDepthShader=Map/WaterDepth
-|TerrainDef.renderPrecedence=395
+|TerrainDef.renderPrecedence=399
+|TerrainDef.takeSplashes=true
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
-|TerrainDef.tags=""River"",""CreateSplashes""
+|TerrainDef.tags=""River""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WaterMovingShallow,"{{#set:
@@ -48433,11 +48456,54 @@ Core:Defs_TerrainDef_WaterMovingShallow,"{{#set:
 |TerrainDef.texturePath=Terrain/Surfaces/WaterShallowRamp
 |TerrainDef.edgeType=Water
 |TerrainDef.waterDepthShader=Map/WaterDepth
-|TerrainDef.renderPrecedence=394
+|TerrainDef.renderPrecedence=398
+|TerrainDef.takeSplashes=true
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
-|TerrainDef.tags=""River"",""CreateSplashes""
+|TerrainDef.tags=""River""
+|TerrainDef.acceptFilth=false
+}}"
+Core:Defs_TerrainDef_WaterOceanDeep,"{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=WaterOceanDeep
+|TerrainDef.defName=WaterOceanDeep
+|TerrainDef.label=deep ocean water
+|TerrainDef.label.zh-cn=海水（深）
+|TerrainDef.label.zh-tw=deep ocean water
+|TerrainDef.passability=Impassable
+|TerrainDef.pathCost=300
+|TerrainDef.fertility=0
+|TerrainDef.texturePath=Terrain/Surfaces/WaterDeepRamp
+|TerrainDef.edgeType=Water
+|TerrainDef.waterDepthShader=Map/WaterDepth
+|TerrainDef.renderPrecedence=397
+|TerrainDef.takeSplashes=true
+|TerrainDef.avoidWander=true
+|TerrainDef.changeable=false
+|TerrainDef.holdSnow=false
+|TerrainDef.acceptFilth=false
+}}"
+Core:Defs_TerrainDef_WaterOceanShallow,"{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=WaterOceanShallow
+|TerrainDef.defName=WaterOceanShallow
+|TerrainDef.label=shallow ocean water
+|TerrainDef.label.zh-cn=海水（浅）
+|TerrainDef.label.zh-tw=shallow ocean water
+|TerrainDef.pathCost=12
+|TerrainDef.fertility=0
+|TerrainDef.texturePath=Terrain/Surfaces/WaterShallowRamp
+|TerrainDef.edgeType=Water
+|TerrainDef.waterDepthShader=Map/WaterDepth
+|TerrainDef.renderPrecedence=396
+|TerrainDef.takeSplashes=true
+|TerrainDef.avoidWander=true
+|TerrainDef.changeable=false
+|TerrainDef.holdSnow=false
+|TerrainDef.driesTo=Gravel
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WaterShallow,"{{#set:
@@ -48454,11 +48520,11 @@ Core:Defs_TerrainDef_WaterShallow,"{{#set:
 |TerrainDef.edgeType=Water
 |TerrainDef.waterDepthShader=Map/WaterDepth
 |TerrainDef.renderPrecedence=394
+|TerrainDef.takeSplashes=true
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
 |TerrainDef.driesTo=Gravel
-|TerrainDef.tags=""CreateSplashes""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WoodPlankFloor,"{{#set:
@@ -49664,6 +49730,7 @@ Core:Defs_ThingDef_AnimalSleepingSpot,"{{#set:
 |ThingDef.building.canPlaceOverImpassablePlant=false
 |ThingDef.building.bed_showSleeperBody=True
 |ThingDef.building.bed_humanlike=false
+|ThingDef.building.ai_chillDestination=false
 |ThingDef.building.sowTag=SupportPlantsOnly
 }}"
 Core:Defs_ThingDef_Apparel_AdvancedHelmet,"{{#set:
@@ -53113,6 +53180,7 @@ Core:Defs_ThingDef_CaravanPackingSpot,"{{#set:
 |ThingDef.soundImpactDefault=BulletImpactMetal
 |ThingDef.building=Exist
 |ThingDef.building.canPlaceOverImpassablePlant=false
+|ThingDef.building.ai_chillDestination=false
 |ThingDef.building.sowTag=SupportPlantsOnly
 }}"
 Core:Defs_ThingDef_Caribou,"{{#set:
@@ -55272,6 +55340,7 @@ Core:Defs_ThingDef_CraftingSpot,"{{#set:
 |ThingDef.building=Exist
 |ThingDef.building.spawnedConceptLearnOpportunity=BillsTab
 |ThingDef.building.canPlaceOverImpassablePlant=false
+|ThingDef.building.ai_chillDestination=false
 |ThingDef.building.sowTag=SupportPlantsOnly
 }}"
 Core:Defs_ThingDef_CrashedPoisonShipPart,"{{#set:
@@ -59066,10 +59135,10 @@ Core:Defs_ThingDef_GlitterworldMedicine,"{{#set:
 |defName=GlitterworldMedicine
 |ThingDef.defName=GlitterworldMedicine
 |ThingDef.label=glitterworld medicine
-|ThingDef.label.zh-cn=闪耀世界药物
+|ThingDef.label.zh-cn=闪耀世界医药
 |ThingDef.label.zh-tw=高科技藥品
 |ThingDef.description=Advanced medical supplies from a high-tech glitterworld.
-|ThingDef.description.zh-cn=来自高科技的闪耀世界的高级药物。
+|ThingDef.description.zh-cn=来自高科技的闪耀世界的高级医药。
 |ThingDef.description.zh-tw=來自「閃耀世界」的高科技藥品。
 |ThingDef.statBases=""MarketValue"",""100"";""Mass"",""0.5"";""Flammability"",""1.0"";""MedicalPotency"",""2.2"";""DeteriorationRate"",""2.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
@@ -61181,7 +61250,7 @@ Core:Defs_ThingDef_HerbalMedicine,"{{#set:
 |ThingDef.label.zh-cn=草药
 |ThingDef.label.zh-tw=草藥
 |ThingDef.description=A pack of herbal concoctions typically extracted from the healroot plant. Less potent than industrial pharmaceuticals, but much better than nothing.
-|ThingDef.description.zh-cn=一包从草药植物提取而来的草药混合物。比起工业药物效果稍差，但总好过没有。
+|ThingDef.description.zh-cn=一包从草药植物提取而来的草药混合物。比起工业医药效果稍差，但总好过没有。
 |ThingDef.description.zh-tw=成分提取自藥草製成的藥品，效果略遜於工業製藥。
 |ThingDef.statBases=""MaxHitPoints"",""100"";""MarketValue"",""12"";""Mass"",""0.35"";""Flammability"",""1.0"";""MedicalPotency"",""0.60"";""DeteriorationRate"",""10"";""Beauty"",""-4""
 |ThingDef.pathCost=15
@@ -63236,6 +63305,7 @@ Core:Defs_ThingDef_MarriageSpot,"{{#set:
 |ThingDef.soundImpactDefault=BulletImpactMetal
 |ThingDef.building=Exist
 |ThingDef.building.canPlaceOverImpassablePlant=false
+|ThingDef.building.ai_chillDestination=false
 |ThingDef.building.sowTag=SupportPlantsOnly
 }}"
 Core:Defs_ThingDef_MealFine,"{{#set:
@@ -63619,10 +63689,10 @@ Core:Defs_ThingDef_Medicine,"{{#set:
 |defName=Medicine
 |ThingDef.defName=Medicine
 |ThingDef.label=medicine
-|ThingDef.label.zh-cn=药物
+|ThingDef.label.zh-cn=医药
 |ThingDef.label.zh-tw=醫療包
 |ThingDef.description=Medical staff use these supplies to heal the wounded.
-|ThingDef.description.zh-cn=医疗人员用药物来治疗病人和伤员。
+|ThingDef.description.zh-cn=医疗人员用医药来治疗病人和伤员。
 |ThingDef.description.zh-tw=醫療人員會使用醫療包來治療傷患。
 |ThingDef.statBases=""MaxHitPoints"",""100"";""MarketValue"",""18"";""Mass"",""0.5"";""Flammability"",""1.0"";""MedicalPotency"",""1.00"";""DeteriorationRate"",""2"";""WorkToMake"",""700"";""Beauty"",""-4""
 |ThingDef.pathCost=15
@@ -65284,6 +65354,8 @@ Core:Defs_ThingDef_Mote_AirPuff,"{{#set:
 |defName=Mote_AirPuff
 |ThingDef.defName=Mote_AirPuff
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65306,6 +65378,8 @@ Core:Defs_ThingDef_Mote_BerserkBit,"{{#set:
 |defName=Mote_BerserkBit
 |ThingDef.defName=Mote_BerserkBit
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrownAttached
 |ThingDef.category=Mote
@@ -65329,6 +65403,8 @@ Core:Defs_ThingDef_Mote_BlastDry,"{{#set:
 |defName=Mote_BlastDry
 |ThingDef.defName=Mote_BlastDry
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65350,6 +65426,8 @@ Core:Defs_ThingDef_Mote_BlastEMP,"{{#set:
 |defName=Mote_BlastEMP
 |ThingDef.defName=Mote_BlastEMP
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65371,6 +65449,8 @@ Core:Defs_ThingDef_Mote_BlastExtinguisher,"{{#set:
 |defName=Mote_BlastExtinguisher
 |ThingDef.defName=Mote_BlastExtinguisher
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65392,6 +65472,8 @@ Core:Defs_ThingDef_Mote_BlastFlame,"{{#set:
 |defName=Mote_BlastFlame
 |ThingDef.defName=Mote_BlastFlame
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65413,6 +65495,8 @@ Core:Defs_ThingDef_Mote_Clean,"{{#set:
 |defName=Mote_Clean
 |ThingDef.defName=Mote_Clean
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteDualAttached
 |ThingDef.category=Mote
@@ -65433,6 +65517,8 @@ Core:Defs_ThingDef_Mote_ClearSnow,"{{#set:
 |defName=Mote_ClearSnow
 |ThingDef.defName=Mote_ClearSnow
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteDualAttached
 |ThingDef.category=Mote
@@ -65453,6 +65539,8 @@ Core:Defs_ThingDef_Mote_ColonistAttacking,"{{#set:
 |defName=Mote_ColonistAttacking
 |ThingDef.defName=Mote_ColonistAttacking
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrownAttached
 |ThingDef.category=Mote
@@ -65476,6 +65564,8 @@ Core:Defs_ThingDef_Mote_ColonistFleeing,"{{#set:
 |defName=Mote_ColonistFleeing
 |ThingDef.defName=Mote_ColonistFleeing
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrownAttached
 |ThingDef.category=Mote
@@ -65499,6 +65589,8 @@ Core:Defs_ThingDef_Mote_CookBit,"{{#set:
 |defName=Mote_CookBit
 |ThingDef.defName=Mote_CookBit
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=Projectile
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65521,6 +65613,8 @@ Core:Defs_ThingDef_Mote_DrunkBubble,"{{#set:
 |defName=Mote_DrunkBubble
 |ThingDef.defName=Mote_DrunkBubble
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrownAttached
 |ThingDef.category=Mote
@@ -65544,6 +65638,8 @@ Core:Defs_ThingDef_Mote_DustPuff,"{{#set:
 |defName=Mote_DustPuff
 |ThingDef.defName=Mote_DustPuff
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65566,6 +65662,8 @@ Core:Defs_ThingDef_Mote_DustSlow,"{{#set:
 |defName=Mote_DustSlow
 |ThingDef.defName=Mote_DustSlow
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65588,6 +65686,8 @@ Core:Defs_ThingDef_Mote_ElectricalSpark,"{{#set:
 |defName=Mote_ElectricalSpark
 |ThingDef.defName=Mote_ElectricalSpark
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65610,6 +65710,8 @@ Core:Defs_ThingDef_Mote_ExplosionFlash,"{{#set:
 |defName=Mote_ExplosionFlash
 |ThingDef.defName=Mote_ExplosionFlash
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65631,6 +65733,8 @@ Core:Defs_ThingDef_Mote_ExtinguisherPuff,"{{#set:
 |defName=Mote_ExtinguisherPuff
 |ThingDef.defName=Mote_ExtinguisherPuff
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65656,6 +65760,8 @@ Core:Defs_ThingDef_Mote_FeedbackAttack,"{{#set:
 |defName=Mote_FeedbackAttack
 |ThingDef.defName=Mote_FeedbackAttack
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65678,6 +65784,8 @@ Core:Defs_ThingDef_Mote_FeedbackEquip,"{{#set:
 |defName=Mote_FeedbackEquip
 |ThingDef.defName=Mote_FeedbackEquip
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65700,6 +65808,8 @@ Core:Defs_ThingDef_Mote_FeedbackGoto,"{{#set:
 |defName=Mote_FeedbackGoto
 |ThingDef.defName=Mote_FeedbackGoto
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65722,6 +65832,8 @@ Core:Defs_ThingDef_Mote_FireGlow,"{{#set:
 |defName=Mote_FireGlow
 |ThingDef.defName=Mote_FireGlow
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65744,6 +65856,8 @@ Core:Defs_ThingDef_Mote_FoodBitMeat,"{{#set:
 |defName=Mote_FoodBitMeat
 |ThingDef.defName=Mote_FoodBitMeat
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=Projectile
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65766,6 +65880,8 @@ Core:Defs_ThingDef_Mote_FoodBitVegetarian,"{{#set:
 |defName=Mote_FoodBitVegetarian
 |ThingDef.defName=Mote_FoodBitVegetarian
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=Projectile
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65788,6 +65904,8 @@ Core:Defs_ThingDef_Mote_Footprint,"{{#set:
 |defName=Mote_Footprint
 |ThingDef.defName=Mote_Footprint
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteLow
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65810,6 +65928,8 @@ Core:Defs_ThingDef_Mote_Harvest,"{{#set:
 |defName=Mote_Harvest
 |ThingDef.defName=Mote_Harvest
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteDualAttached
 |ThingDef.category=Mote
@@ -65830,6 +65950,8 @@ Core:Defs_ThingDef_Mote_HealingCross,"{{#set:
 |defName=Mote_HealingCross
 |ThingDef.defName=Mote_HealingCross
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65852,6 +65974,8 @@ Core:Defs_ThingDef_Mote_Heart,"{{#set:
 |defName=Mote_Heart
 |ThingDef.defName=Mote_Heart
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65874,6 +65998,8 @@ Core:Defs_ThingDef_Mote_HeatGlow,"{{#set:
 |defName=Mote_HeatGlow
 |ThingDef.defName=Mote_HeatGlow
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65896,6 +66022,8 @@ Core:Defs_ThingDef_Mote_Horseshoe,"{{#set:
 |defName=Mote_Horseshoe
 |ThingDef.defName=Mote_Horseshoe
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteLow
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65918,6 +66046,8 @@ Core:Defs_ThingDef_Mote_IncapIcon,"{{#set:
 |defName=Mote_IncapIcon
 |ThingDef.defName=Mote_IncapIcon
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65940,6 +66070,8 @@ Core:Defs_ThingDef_Mote_LightningGlow,"{{#set:
 |defName=Mote_LightningGlow
 |ThingDef.defName=Mote_LightningGlow
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -65962,6 +66094,8 @@ Core:Defs_ThingDef_Mote_ManhunterBit,"{{#set:
 |defName=Mote_ManhunterBit
 |ThingDef.defName=Mote_ManhunterBit
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrownAttached
 |ThingDef.category=Mote
@@ -65985,6 +66119,8 @@ Core:Defs_ThingDef_Mote_MetaPuff,"{{#set:
 |defName=Mote_MetaPuff
 |ThingDef.defName=Mote_MetaPuff
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66008,6 +66144,8 @@ Core:Defs_ThingDef_Mote_MicroSparks,"{{#set:
 |defName=Mote_MicroSparks
 |ThingDef.defName=Mote_MicroSparks
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66030,6 +66168,8 @@ Core:Defs_ThingDef_Mote_ProgressBar,"{{#set:
 |defName=Mote_ProgressBar
 |ThingDef.defName=Mote_ProgressBar
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteProgressBar
 |ThingDef.category=Mote
@@ -66050,6 +66190,8 @@ Core:Defs_ThingDef_Mote_ShotFlash,"{{#set:
 |defName=Mote_ShotFlash
 |ThingDef.defName=Mote_ShotFlash
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66071,6 +66213,8 @@ Core:Defs_ThingDef_Mote_ShotHit_Dirt,"{{#set:
 |defName=Mote_ShotHit_Dirt
 |ThingDef.defName=Mote_ShotHit_Dirt
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteLow
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66092,6 +66236,8 @@ Core:Defs_ThingDef_Mote_ShotHit_Spark,"{{#set:
 |defName=Mote_ShotHit_Spark
 |ThingDef.defName=Mote_ShotHit_Spark
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteLow
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66113,6 +66259,8 @@ Core:Defs_ThingDef_Mote_SleepZ,"{{#set:
 |defName=Mote_SleepZ
 |ThingDef.defName=Mote_SleepZ
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66135,6 +66283,8 @@ Core:Defs_ThingDef_Mote_Smoke,"{{#set:
 |defName=Mote_Smoke
 |ThingDef.defName=Mote_Smoke
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66158,6 +66308,8 @@ Core:Defs_ThingDef_Mote_SmokeFlake,"{{#set:
 |defName=Mote_SmokeFlake
 |ThingDef.defName=Mote_SmokeFlake
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66183,6 +66335,8 @@ Core:Defs_ThingDef_Mote_SmokeJoint,"{{#set:
 |defName=Mote_SmokeJoint
 |ThingDef.defName=Mote_SmokeJoint
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66207,6 +66361,8 @@ Core:Defs_ThingDef_Mote_Sow,"{{#set:
 |defName=Mote_Sow
 |ThingDef.defName=Mote_Sow
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteDualAttached
 |ThingDef.category=Mote
@@ -66227,6 +66383,8 @@ Core:Defs_ThingDef_Mote_SparkFlash,"{{#set:
 |defName=Mote_SparkFlash
 |ThingDef.defName=Mote_SparkFlash
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66248,6 +66406,8 @@ Core:Defs_ThingDef_Mote_SparkThrown,"{{#set:
 |defName=Mote_SparkThrown
 |ThingDef.defName=Mote_SparkThrown
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=Projectile
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66271,6 +66431,8 @@ Core:Defs_ThingDef_Mote_Speech,"{{#set:
 |defName=Mote_Speech
 |ThingDef.defName=Mote_Speech
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteBubble
 |ThingDef.category=Mote
@@ -66293,6 +66455,8 @@ Core:Defs_ThingDef_Mote_StoneBit,"{{#set:
 |defName=Mote_StoneBit
 |ThingDef.defName=Mote_StoneBit
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=Projectile
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66315,6 +66479,8 @@ Core:Defs_ThingDef_Mote_Stun,"{{#set:
 |defName=Mote_Stun
 |ThingDef.defName=Mote_Stun
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteDualAttached
 |ThingDef.category=Mote
@@ -66336,6 +66502,8 @@ Core:Defs_ThingDef_Mote_TempRoof,"{{#set:
 |defName=Mote_TempRoof
 |ThingDef.defName=Mote_TempRoof
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteOverhead
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66358,6 +66526,8 @@ Core:Defs_ThingDef_Mote_Text,"{{#set:
 |defName=Mote_Text
 |ThingDef.defName=Mote_Text
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteText
 |ThingDef.category=Mote
@@ -66379,6 +66549,8 @@ Core:Defs_ThingDef_Mote_Thought,"{{#set:
 |defName=Mote_Thought
 |ThingDef.defName=Mote_Thought
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteBubble
 |ThingDef.category=Mote
@@ -66401,6 +66573,8 @@ Core:Defs_ThingDef_Mote_ThoughtBad,"{{#set:
 |defName=Mote_ThoughtBad
 |ThingDef.defName=Mote_ThoughtBad
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteBubble
 |ThingDef.category=Mote
@@ -66425,6 +66599,8 @@ Core:Defs_ThingDef_Mote_ThoughtGood,"{{#set:
 |defName=Mote_ThoughtGood
 |ThingDef.defName=Mote_ThoughtGood
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MetaOverlays
 |ThingDef.thingClass=MoteBubble
 |ThingDef.category=Mote
@@ -66449,6 +66625,8 @@ Core:Defs_ThingDef_Mote_VomitBit,"{{#set:
 |defName=Mote_VomitBit
 |ThingDef.defName=Mote_VomitBit
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=Projectile
 |ThingDef.thingClass=MoteThrown
 |ThingDef.category=Mote
@@ -66471,6 +66649,8 @@ Core:Defs_ThingDef_Mote_WaterSplash,"{{#set:
 |defName=Mote_WaterSplash
 |ThingDef.defName=Mote_WaterSplash
 |ThingDef.label=Mote
+|ThingDef.label.zh-cn=Mote
+|ThingDef.label.zh-tw=Mote
 |ThingDef.altitudeLayer=MoteLow
 |ThingDef.thingClass=MoteSplash
 |ThingDef.category=Mote
@@ -67302,6 +67482,7 @@ Core:Defs_ThingDef_PartySpot,"{{#set:
 |ThingDef.soundImpactDefault=BulletImpactMetal
 |ThingDef.building=Exist
 |ThingDef.building.canPlaceOverImpassablePlant=false
+|ThingDef.building.ai_chillDestination=false
 |ThingDef.building.sowTag=SupportPlantsOnly
 }}"
 Core:Defs_ThingDef_PassiveCooler,"{{#set:
@@ -67410,7 +67591,7 @@ Core:Defs_ThingDef_Penoxycyline,"{{#set:
 |defName=Penoxycyline
 |ThingDef.defName=Penoxycyline
 |ThingDef.label=penoxycyline
-|ThingDef.label.zh-cn=盘诺西林
+|ThingDef.label.zh-cn=佩诺西林
 |ThingDef.label.zh-tw=盤諾沙林
 |ThingDef.description=A drug for blocking various infections. Blocks malaria, sleeping sickness, and plague. Take every five days.
 |ThingDef.description.zh-cn=用于阻断多种感染的药物。阻断疟疾、昏睡病以及瘟疫的感染。五天一服。
@@ -72058,6 +72239,7 @@ Core:Defs_ThingDef_SleepingSpot,"{{#set:
 |ThingDef.building=Exist
 |ThingDef.building.canPlaceOverImpassablePlant=false
 |ThingDef.building.bed_showSleeperBody=True
+|ThingDef.building.ai_chillDestination=false
 |ThingDef.building.sowTag=SupportPlantsOnly
 }}"
 Core:Defs_ThingDef_SmokeleafJoint,"{{#set:
@@ -73105,6 +73287,8 @@ Core:Defs_ThingDef_SunLamp,"{{#set:
 |ThingDef.comps.3.startTime=0.25
 |ThingDef.comps.3.endTime=0.8
 |ThingDef.comps.3.offMessage=Off for plant resting period
+|ThingDef.comps.3.offMessage.zh-cn=植物休眠期间关闭。
+|ThingDef.comps.3.offMessage.zh-tw=Off for plant resting period
 |ThingDef.minifiedDef=MinifiedFurniture
 |ThingDef.leaveResourcesWhenKilled=false
 |ThingDef.filthLeaving=BuildingRubble

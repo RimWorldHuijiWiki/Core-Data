@@ -16,7 +16,7 @@
 |PawnKindDef.maxGenerationAge=58
 |PawnKindDef.combatPower=100
 |PawnKindDef.baseRecruitDifficulty=0.30
-|PawnKindDef.apparelMoney=0 ~ 4000
+|PawnKindDef.apparelMoney=0 ~ 3200
 |PawnKindDef.apparelTags="Spacer","BeltDefensePop"
 |PawnKindDef.apparelAllowHeadwearChance=0.5
 |PawnKindDef.apparelIgnoreSeasons=true
