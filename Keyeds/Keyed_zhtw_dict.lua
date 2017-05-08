@@ -1664,7 +1664,7 @@ return {
     radius = "範圍",
     durationDays = "持續天數",
     intervalDays = "間隔(天)",
-    repeat = "重複",
+    -- repeat = "重複",
     default = "預設",
     MeatLabel = "{0}肉",
     MeatDesc = "{0}的生肉。",

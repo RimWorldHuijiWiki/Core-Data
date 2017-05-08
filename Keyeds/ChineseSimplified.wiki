@@ -100,7 +100,7 @@
 |Keyed.ClockTime=时间
 |Keyed.ClockDate=日期
 |Keyed.ClockYear=年
-|Keyed.DateReadoutTip=自到达以来过去的天数：{0}<br/><br/>一年分成四个「象」，每个象有{3}天。<br/>四个象分别为：翠象、赫象、荼象素象。<br/>当前象：{4}<br/><br/>每个季节有{1}天。<br/>当前季节：{2}
+|Keyed.DateReadoutTip=自到达以来过去的天数：{0}<br/>当前象：{4}<br/>当地季节：{2}<br/><br/>一年被分为四个象，每个象有{3}天。各地的象都是相同的，但不同的地方的季节会有所不同。<br/><br/>每个象所对应的当地季节：<br/>{5}
 |Keyed.FullDate={2}年{1}第{0}天
 |Keyed.DateReadout={2}年 {1} 第{0}天
 |Keyed.SeasonFullDate={1}第{0}天
@@ -928,7 +928,7 @@
 |Keyed.CommandSelectAllTransportersDesc=选择本发射组内的所有运输舱。
 |Keyed.CommandSelectNextTransporter=选择下一个运输舱
 |Keyed.CommandSelectNextTransporterDesc=选择本发射组中的下一个运输舱。
-|Keyed.CommandDesignateOpenCloseVentLabel=指定开关
+|Keyed.CommandDesignateOpenCloseVentLabel=指派开关
 |Keyed.CommandDesignateOpenCloseVentDesc=指定此通风孔开启或关闭。一位殖民者会尽快执行这项任务。
 |Keyed.CommandRemoveWaypointLabel=移除
 |Keyed.CommandRemoveWaypointDesc=移除此路径点。
@@ -1067,7 +1067,7 @@
 |Keyed.TabHealth=健康
 |Keyed.TabRace=种族
 |Keyed.TabBasics=基础
-|Keyed.TabStats=状态
+|Keyed.TabStats=属性
 |Keyed.TabRecords=记录
 |Keyed.TabArt=艺术
 |Keyed.TabSocial=社交
@@ -1122,7 +1122,7 @@
 |Keyed.PainFactor=痛觉系数
 |Keyed.PreventsInfection=抗感染
 |Keyed.SelfTend=自我治疗
-|Keyed.SelfTendTip={0}开启自我治疗后将会以正常效果的{1}当场自动治疗自己。
+|Keyed.SelfTendTip={0}开启自我治疗后将会以正常效果的 {1} 当场自动治疗自己。
 |Keyed.None=无
 |Keyed.VeryPoor=极差
 |Keyed.Poor=较差
@@ -1963,7 +1963,7 @@
 |Keyed.Undiscovered=未探索
 |Keyed.ShowLearningHelperWhenEmptyToggleButton=开关始终显示教学助手。<br/><br/>当没有需要学习的新教程时，教学助手会自动隐藏。开启后，将在学习完所有教程之后继续显示教学助手。
 |Keyed.ZoneVisibilityToggleButton=开关区域显示。
-|Keyed.ShowEnvironmentToggleButton=开关环境显示。<br/><br/>显示殖民者在鼠标停留位置所能感受到的环境的美观度和当前房间统计数据。
+|Keyed.ShowEnvironmentToggleButton=开关环境显示。<br/><br/>显示殖民者在鼠标停留位置所能感受到的环境的美观度和当前房间属性数据。
 |Keyed.ShowColonistBarToggleButton=开关殖民者头像条显示。<br/><br/>开启后，在屏幕上方显示所有殖民者的头像和当前状态。
 |Keyed.AutoHomeAreaToggleButton=开关自动添加居住区<br/><br/>开启后，将自动在新建造的建筑附近添加居住区。
 |Keyed.CategorizedResourceReadoutToggleButton=开关资源分类显示<br/><br/>开启后，将资源显示按照其所属类型分类显示。

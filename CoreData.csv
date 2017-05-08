@@ -17370,7 +17370,7 @@ Core:Defs_KeyBindingDef_SelectNextInCell,"{{#set:
 |defName=SelectNextInCell
 |KeyBindingDef.defName=SelectNextInCell
 |KeyBindingDef.label=select next in cell
-|KeyBindingDef.label.zh-cn=循环选择相同位置的其他物体
+|KeyBindingDef.label.zh-cn=循环选择同一格中的下一个物体
 |KeyBindingDef.label.zh-tw=選取同一方格的下一個物件。
 |KeyBindingDef.category=Game
 |KeyBindingDef.defaultKeyCodeA=KeypadMultiply
@@ -17531,7 +17531,7 @@ Core:Defs_KeyBindingDef_ToggleScreenshotMode,"{{#set:
 |defName=ToggleScreenshotMode
 |KeyBindingDef.defName=ToggleScreenshotMode
 |KeyBindingDef.label=toggle screenshot mode
-|KeyBindingDef.label.zh-cn=开关截图模式
+|KeyBindingDef.label.zh-cn=切换截图模式（界面隐藏/显示）
 |KeyBindingDef.label.zh-tw=切換螢幕截圖模式
 |KeyBindingDef.category=Game
 |KeyBindingDef.defaultKeyCodeA=F11
@@ -45751,7 +45751,7 @@ Core:Defs_StatDef_MiningYield,"{{#set:
 |StatDef.label.zh-cn=开采产出
 |StatDef.label.zh-tw=採礦產量倍率
 |StatDef.description=The percentage yield a miner will achieve. This applies to both wall mining and deep drill mining. This doesn't affect the rate of mining rock chunks.
-|StatDef.description.zh-cn=矿工将达到的百分比产出。更高的百分比将减少产出的浪费几率。同时应用于开采和深钻采矿。
+|StatDef.description.zh-cn=矿工将达到的百分比产出。同时应用于资源块开采和深钻开采。不影响石块开采。
 |StatDef.description.zh-tw=這名角色採礦的產量加成。越高的倍率越能避免產品的浪費。此數值同時作用於地表開採及地下採礦。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
@@ -86378,16 +86378,16 @@ Core:Defs_WorkGiverDef_Flick,"{{#set:
 |defName=Flick
 |WorkGiverDef.defName=Flick
 |WorkGiverDef.label=flick switches
-|WorkGiverDef.label.zh-cn=开关电源
+|WorkGiverDef.label.zh-cn=开关
 |WorkGiverDef.label.zh-tw=開關電源
 |WorkGiverDef.giverClass=WorkGiver_Flick
 |WorkGiverDef.workType=Flicker
 |WorkGiverDef.priorityInType=500
 |WorkGiverDef.verb=flick switch on
-|WorkGiverDef.verb.zh-cn=开关电源
+|WorkGiverDef.verb.zh-cn=开关
 |WorkGiverDef.verb.zh-tw=開關電源
 |WorkGiverDef.gerund=flicking switch on
-|WorkGiverDef.gerund.zh-cn=开关电源
+|WorkGiverDef.gerund.zh-cn=开关
 |WorkGiverDef.gerund.zh-tw=開關電源
 }}"
 Core:Defs_WorkGiverDef_GrowerHarvest,"{{#set:

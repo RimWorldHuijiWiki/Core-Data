@@ -1664,7 +1664,7 @@ return {
     radius = "radius",
     durationDays = "duration (days)",
     intervalDays = "interval (days)",
-    repeat = "repeat",
+    -- repeat = "repeat",
     default = "default",
     MeatLabel = "{0} meat",
     MeatDesc = "Raw butchered flesh. Can be cooked into meals, or eaten raw.",
