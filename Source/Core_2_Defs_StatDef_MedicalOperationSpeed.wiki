@@ -1,0 +1,31 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=MedicalOperationSpeed
+|StatDef.defName=MedicalOperationSpeed
+|StatDef.label=medical operation speed
+|StatDef.label.zh-cn=医疗手术速度
+|StatDef.label.zh-tw=手術執行速度
+|StatDef.description=Speed at which the character performs medical operations.
+|StatDef.description.zh-cn=此人执行医疗手术的速度。
+|StatDef.description.zh-tw=角色在執行手術的速度。
+|StatDef.category=PawnWork
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
+|StatDef.skillNeedFactors.0.skill=Medicine
+|StatDef.skillNeedFactors.0.baseFactor=0.4
+|StatDef.skillNeedFactors.0.bonusFactor=0.06
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Sight
+|StatDef.capacityFactors.0.weight=0.7
+|StatDef.capacityFactors.0.max=1
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Manipulation
+|StatDef.capacityFactors.1.weight=1
+}}

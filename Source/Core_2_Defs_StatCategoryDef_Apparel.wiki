@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=StatCategoryDef
+|defName=Apparel
+|StatCategoryDef.defName=Apparel
+|StatCategoryDef.label=Apparel
+|StatCategoryDef.label.zh-cn=衣着
+|StatCategoryDef.label.zh-tw=服裝
+|StatCategoryDef.displayOrder=30
+}}

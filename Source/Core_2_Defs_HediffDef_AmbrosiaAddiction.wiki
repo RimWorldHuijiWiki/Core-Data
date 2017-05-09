@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=AmbrosiaAddiction
+|HediffDef.defName=AmbrosiaAddiction
+|HediffDef.label=ambrosia addiction
+|HediffDef.label.zh-cn=仙馐果成瘾
+|HediffDef.label.zh-tw=ambrosia addiction
+|HediffDef.hediffClass=Hediff_Addiction
+|HediffDef.comps=Exist
+|HediffDef.comps.Count=1
+|HediffDef.comps.0=Exist
+|HediffDef.comps.0.Class=HediffCompProperties_SeverityPerDay
+|HediffDef.comps.0.severityPerDay=-0.1
+|HediffDef.initialSeverity=0.5
+|HediffDef.stages=Exist
+|HediffDef.stages.Count=2
+|HediffDef.stages.0=Exist
+|HediffDef.stages.1=Exist
+|HediffDef.stages.1.label=withdrawal
+|HediffDef.stages.1.label.zh-cn=戒断
+|HediffDef.stages.1.label.zh-tw=withdrawal
+|HediffDef.causesNeed=Chemical_Ambrosia
+|HediffDef.maxSeverity=1.0
+|HediffDef.scenarioCanAdd=true
+|HediffDef.defaultLabelColor=(255,0,127)
+}}

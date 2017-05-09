@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=SongDef
-|defName=EndCreditsSong
-|SongDef.defName=EndCreditsSong
-|SongDef.clipPath=Songs/Misc/End_Credits_Song
-|SongDef.volume=1.05
-|SongDef.playOnMap=false
-}}

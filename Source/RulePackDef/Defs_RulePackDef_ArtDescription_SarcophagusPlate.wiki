@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=RulePackDef
-|defName=ArtDescription_SarcophagusPlate
-|RulePackDef.defName=ArtDescription_SarcophagusPlate
-|RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="physical_description_root->The sarcophagus is engraved with a [depiction] of [image]. [desc_sentence_group]","physical_description_root->The sarcophagus bears a [depiction] of [image]. [desc_sentence_group]","physical_description_root->An engraving on this sarcophagus [depicts] [image]. [desc_sentence_group]","physical_description_root->这件棺材上雕刻的内容[depiction]了[image]。[desc_sentence_group]","physical_description_root->这件棺材上雕刻的内容向我们[depiction]了[image]。[desc_sentence_group]","physical_description_root->在这件棺材上雕刻的内容[depicts]的是[image]。[desc_sentence_group]","physical_description_root->這個棺材刻著一段關於[image]的[depiction]。[desc_sentence_group]","physical_description_root->這個棺材上紀錄著一段關於[image]的[depiction]。[desc_sentence_group]","physical_description_root->這個棺材上的雕刻[depicts][image]的事件。[desc_sentence_group]"
-}}

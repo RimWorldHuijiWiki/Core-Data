@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=RulePackDef
+|defName=NamerTraderGeneral
+|RulePackDef.defName=NamerTraderGeneral
+|RulePackDef.rulePack=Exist
+|RulePackDef.rulePack.rulesStrings="name->[businessname] [businesstype]","name->[businessname] [businesstype]","name->[businessname] [businesstype]","name->[businessname] [businesstype]","name->[color] [animal] [businesstype]","name->[letter][letter] [businesstype]","name->[businessname][businesstype]","name->[businessname][businesstype]","name->[businessname][businesstype]","name->[businessname][businesstype]","name->[color]色[animal][businesstype]","name->[letter][letter][businesstype]","name->[businessname] [businesstype]","name->[businessname] [businesstype]","name->[businessname] [businesstype]","name->[businessname] [businesstype]","name->[color]色[businesstype]","name->[letter][letter] [businesstype]"
+|RulePackDef.rulePack.rulesRaw=Exist
+|RulePackDef.rulePack.rulesRaw.Count=2
+|RulePackDef.rulePack.rulesRaw.0=Exist
+|RulePackDef.rulePack.rulesRaw.0.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.0.keyword=businessname
+|RulePackDef.rulePack.rulesRaw.0.path=Names/Business
+|RulePackDef.rulePack.rulesRaw.1=Exist
+|RulePackDef.rulePack.rulesRaw.1.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.1.keyword=businesstype
+|RulePackDef.rulePack.rulesRaw.1.path=Words/Nouns/BusinessTypes
+}}

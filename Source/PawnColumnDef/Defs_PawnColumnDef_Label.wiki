@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=PawnColumnDef
-|defName=Label
-|PawnColumnDef.defName=Label
-|PawnColumnDef.workerClass=PawnColumnWorker_Label
-|PawnColumnDef.widthPriority=100
-}}

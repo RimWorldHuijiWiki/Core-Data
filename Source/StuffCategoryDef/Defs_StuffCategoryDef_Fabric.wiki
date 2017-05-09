@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=StuffCategoryDef
-|defName=Fabric
-|StuffCategoryDef.defName=Fabric
-|StuffCategoryDef.label=fabric
-|StuffCategoryDef.label.zh-cn=纤维
-|StuffCategoryDef.label.zh-tw=織物
-}}

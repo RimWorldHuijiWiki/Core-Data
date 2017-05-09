@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=MechanicalThorax
+|BodyPartDef.defName=MechanicalThorax
+|BodyPartDef.label=thorax
+|BodyPartDef.label.zh-cn=胸
+|BodyPartDef.label.zh-tw=胸部
+|BodyPartDef.hitPoints=40
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.isAlive=false
+}}

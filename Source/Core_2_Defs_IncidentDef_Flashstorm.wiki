@@ -1,0 +1,23 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=Flashstorm
+|IncidentDef.defName=Flashstorm
+|IncidentDef.label=flashstorm
+|IncidentDef.label.zh-cn=闪电风暴
+|IncidentDef.label.zh-tw=雷暴
+|IncidentDef.workerClass=IncidentWorker_Flashstorm
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=0.3
+|IncidentDef.minRefireDays=15
+|IncidentDef.minDifficulty=2
+|IncidentDef.letterText=Extreme amounts of lightning are hitting a small region. This can cause massive fires.
+|IncidentDef.letterText.zh-cn=极少量的闪电击中一个小区域。这会引起巨大的火灾。
+|IncidentDef.letterText.zh-tw=一場閃電雨正在密集轟炸這個地區，這可能會導致大規模的火災。
+|IncidentDef.letterLabel=Flashstorm
+|IncidentDef.letterLabel.zh-cn=闪电风暴
+|IncidentDef.letterLabel.zh-tw=雷暴
+|IncidentDef.letterDef=BadNonUrgent
+|IncidentDef.durationDays=0.075 ~ 0.1
+}}

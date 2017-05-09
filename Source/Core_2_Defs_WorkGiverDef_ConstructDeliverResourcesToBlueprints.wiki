@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=ConstructDeliverResourcesToBlueprints
+|WorkGiverDef.defName=ConstructDeliverResourcesToBlueprints
+|WorkGiverDef.label=deliver resources to blueprints
+|WorkGiverDef.label.zh-cn=搬运材料至蓝图
+|WorkGiverDef.label.zh-tw=運送材料至藍圖
+|WorkGiverDef.giverClass=WorkGiver_ConstructDeliverResourcesToBlueprints
+|WorkGiverDef.workType=Construction
+|WorkGiverDef.priorityInType=30
+|WorkGiverDef.verb=work on
+|WorkGiverDef.verb.zh-cn=建造
+|WorkGiverDef.verb.zh-tw=運送材料
+|WorkGiverDef.gerund=working on
+|WorkGiverDef.gerund.zh-cn=建造
+|WorkGiverDef.gerund.zh-tw=運送材料至
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.canBeDoneByNonColonists=true
+}}

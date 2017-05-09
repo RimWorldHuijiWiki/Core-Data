@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=ScatterRuinsSimple
+|GenStepDef.defName=ScatterRuinsSimple
+|GenStepDef.linkWithMapGenerator=BasicMap
+|GenStepDef.order=300
+|GenStepDef.genStep=Exist
+|GenStepDef.genStep.Class=GenStep_ScatterRuinsSimple
+|GenStepDef.genStep.countPer10kCellsRange=2 ~ 4
+|GenStepDef.genStep.allowOnWater=false
+}}

@@ -1,0 +1,23 @@
+{{#set:
+|dataType=Def
+|defType=RulePackDef
+|defName=ArtName_Furniture
+|RulePackDef.defName=ArtName_Furniture
+|RulePackDef.include="ArtNameUtility"
+|RulePackDef.rulePack=Exist
+|RulePackDef.rulePack.rulesStrings="art_name->[anyPawn_nameShort]'s [positiveconcept]","art_name->[positiveconcept]","art_name->The [animal]","art_name->[badasscolor] [animal]","art_name->[anyPawn_nameShort]'s [color]","art_name->[anyPawn_nameShort]之[positiveconcept]","art_name->[positiveconcept]","art_name->[animal]","art_name->[badasscolor]之[animal]","art_name->[anyPawn_nameShort]之[color]","art_name->[anyPawn_nameShort]之[positiveconcept]","art_name->[positiveconcept]","art_name->[animal]","art_name->[badasscolor][animal]","art_name->[color]色[anyPawn_nameShort]"
+|RulePackDef.rulePack.rulesRaw=Exist
+|RulePackDef.rulePack.rulesRaw.Count=3
+|RulePackDef.rulePack.rulesRaw.0=Exist
+|RulePackDef.rulePack.rulesRaw.0.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.0.keyword=positiveconcept
+|RulePackDef.rulePack.rulesRaw.0.path=Words/Nouns/Concepts_Positive
+|RulePackDef.rulePack.rulesRaw.1=Exist
+|RulePackDef.rulePack.rulesRaw.1.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.1.keyword=animal
+|RulePackDef.rulePack.rulesRaw.1.path=Words/Nouns/Animals
+|RulePackDef.rulePack.rulesRaw.2=Exist
+|RulePackDef.rulePack.rulesRaw.2.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.2.keyword=badasscolor
+|RulePackDef.rulePack.rulesRaw.2.path=Words/Nouns/Colors_Badass
+}}

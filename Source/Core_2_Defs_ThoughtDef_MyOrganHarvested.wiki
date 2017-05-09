@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=MyOrganHarvested
+|ThoughtDef.defName=MyOrganHarvested
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=my organ harvested
+|ThoughtDef.stages.0.label.zh-cn=自身器官被摘取
+|ThoughtDef.stages.0.label.zh-tw=器官被摘除了
+|ThoughtDef.stages.0.description=The colony harvested body parts from me! They're breaking me down like an old engine!
+|ThoughtDef.stages.0.description.zh-cn=这个殖民地摘取了我的器官！他们正像拆掉一具老发动机一样拆掉我！
+|ThoughtDef.stages.0.description.zh-tw=這些人奪走了我身體的器官！把我當作一部舊引擎一樣拆解！
+|ThoughtDef.stages.0.baseMoodEffect=-30
+|ThoughtDef.stackLimit=5
+|ThoughtDef.durationDays=7.5
+}}

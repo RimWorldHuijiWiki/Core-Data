@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Pelvis
+|BodyPartDef.defName=Pelvis
+|BodyPartDef.label=pelvis
+|BodyPartDef.label.zh-cn=骨盆
+|BodyPartDef.label.zh-tw=骨盆
+|BodyPartDef.tags="Pelvis"
+|BodyPartDef.hitPoints=25
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+}}

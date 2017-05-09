@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=EffecterDef
+|defName=EatVegetarian
+|EffecterDef.defName=EatVegetarian
+|EffecterDef.children=Exist
+|EffecterDef.children.Count=1
+|EffecterDef.children.0=Exist
+|EffecterDef.children.0.subEffecterClass=SubEffecter_SprayerContinuous
+|EffecterDef.children.0.ticksBetweenMotes=20
+|EffecterDef.children.0.positionLerpFactor=0.35
+|EffecterDef.children.0.moteDef=Mote_FoodBitVegetarian
+|EffecterDef.children.0.scale=0.5 ~ 0.7
+}}

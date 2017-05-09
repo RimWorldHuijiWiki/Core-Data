@@ -1,0 +1,30 @@
+{{#set:
+|dataType=Def
+|defType=FactionDef
+|defName=Insect
+|FactionDef.defName=Insect
+|FactionDef.label=insects
+|FactionDef.label.zh-cn=虫巢
+|FactionDef.label.zh-tw=蟲族
+|FactionDef.description=Usually aggressive and intrusive insects.
+|FactionDef.description.zh-cn=通常具有攻击性与侵略性的昆虫。
+|FactionDef.description.zh-tw=通常具有攻擊性和侵略性的蟲族。
+|FactionDef.fixedName=insects
+|FactionDef.fixedName.zh-cn=虫巢
+|FactionDef.fixedName.zh-tw=蟲族
+|FactionDef.humanlikeFaction=false
+|FactionDef.hidden=true
+|FactionDef.raidCommonality=0
+|FactionDef.autoFlee=false
+|FactionDef.canUseAvoidGrid=false
+|FactionDef.allowedArrivalTemperatureRange=0 ~ 45
+|FactionDef.pawnsPlural=insects
+|FactionDef.pawnsPlural.zh-cn=昆虫
+|FactionDef.pawnsPlural.zh-tw=蟲族
+|FactionDef.requiredCountAtGameStart=1
+|FactionDef.techLevel=Animal
+|FactionDef.startingGoodwill=-100 ~ -100
+|FactionDef.mustStartOneEnemy=true
+|FactionDef.naturalColonyGoodwill=-100 ~ -100
+|FactionDef.homeIconPath=World/WorldObjects/DefaultFactionBase
+}}

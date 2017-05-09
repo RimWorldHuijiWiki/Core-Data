@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RightHand
+|BodyPartDef.defName=RightHand
+|BodyPartDef.label=right hand
+|BodyPartDef.label.zh-cn=右手
+|BodyPartDef.label.zh-tw=右掌
+|BodyPartDef.tags="ManipulationLimbSegment"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=0.5
+}}

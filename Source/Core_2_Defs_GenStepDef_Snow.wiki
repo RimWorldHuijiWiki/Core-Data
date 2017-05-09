@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=Snow
+|GenStepDef.defName=Snow
+|GenStepDef.linkWithMapGenerator=BasicMap
+|GenStepDef.order=900
+|GenStepDef.genStep=
+}}

@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=Tuft
+|HairDef.defName=Tuft
+|HairDef.label=tuft
+|HairDef.label.zh-cn=鸡窝头
+|HairDef.label.zh-tw=雞窩頭
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Tuft
+|HairDef.hairGender=MaleUsually
+|HairDef.hairTags="Punk","Tribal"
+}}

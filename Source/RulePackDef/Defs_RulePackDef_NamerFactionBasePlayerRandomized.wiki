@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=RulePackDef
-|defName=NamerFactionBasePlayerRandomized
-|RulePackDef.defName=NamerFactionBasePlayerRandomized
-|RulePackDef.include="NamerFactionBaseOutlander"
-}}

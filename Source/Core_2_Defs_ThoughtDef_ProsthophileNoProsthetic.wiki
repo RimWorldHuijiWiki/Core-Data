@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=ProsthophileNoProsthetic
+|ThoughtDef.defName=ProsthophileNoProsthetic
+|ThoughtDef.workerClass=ThoughtWorker_HasBionicBodyPart
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=prosthophile lacks bionic bodypart
+|ThoughtDef.stages.0.label.zh-cn=缺少仿生部件（仿生学神教）
+|ThoughtDef.stages.0.label.zh-tw=缺少仿生義肢
+|ThoughtDef.stages.0.description=Flesh is so limiting. I wish I had some kind of artificial body part.
+|ThoughtDef.stages.0.description.zh-cn=肉体是如此地脆弱，我想要一个人造的肢体！
+|ThoughtDef.stages.0.description.zh-tw=人類的肉體處處受到限制，我多希望能有一支仿生義肢。
+|ThoughtDef.stages.0.baseMoodEffect=-4
+|ThoughtDef.invert=true
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.requiredTraits="Prosthophile"
+}}

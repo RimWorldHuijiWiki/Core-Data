@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=TrainableIntelligenceDef
-|defName=Intermediate
-|TrainableIntelligenceDef.defName=Intermediate
-|TrainableIntelligenceDef.intelligenceOrder=20
-}}

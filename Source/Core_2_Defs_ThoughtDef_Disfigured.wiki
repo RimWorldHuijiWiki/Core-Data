@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=Disfigured
+|ThoughtDef.defName=Disfigured
+|ThoughtDef.thoughtClass=Thought_SituationalSocial
+|ThoughtDef.workerClass=ThoughtWorker_Disfigured
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=disfigured
+|ThoughtDef.stages.0.label.zh-cn=毁容
+|ThoughtDef.stages.0.label.zh-tw=毀容
+|ThoughtDef.stages.0.baseOpinionOffset=-15
+|ThoughtDef.validWhileDespawned=true
+}}

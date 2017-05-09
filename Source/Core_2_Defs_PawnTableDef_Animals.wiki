@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=PawnTableDef
+|defName=Animals
+|PawnTableDef.defName=Animals
+|PawnTableDef.columns="Label","Gender","LifeStage","GapTiny","GapTiny","FollowDrafted","FollowFieldwork","GapTiny","Master","Slaughter","GapTiny","AllowedAreaWide","Pregnant","RemainingSpace"
+}}

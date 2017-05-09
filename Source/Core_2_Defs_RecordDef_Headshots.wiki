@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=Headshots
+|RecordDef.defName=Headshots
+|RecordDef.label=headshots
+|RecordDef.label.zh-cn=爆头次数
+|RecordDef.label.zh-tw=命中頭部數
+|RecordDef.description=The number of headshots I have made.
+|RecordDef.description.zh-cn=我所造成的爆头次数。
+|RecordDef.description.zh-tw=我命中頭部的次數。
+|RecordDef.type=Int
+}}

@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=FrontLeftHoof
+|BodyPartDef.defName=FrontLeftHoof
+|BodyPartDef.label=front left hoof
+|BodyPartDef.label.zh-cn=左前蹄
+|BodyPartDef.label.zh-tw=左前蹄
+|BodyPartDef.tags="MovingLimbSegment"
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=6
+|BodyPartDef.isAlive=false
+}}

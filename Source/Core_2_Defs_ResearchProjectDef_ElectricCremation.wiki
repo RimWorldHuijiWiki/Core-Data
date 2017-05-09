@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=ElectricCremation
+|ResearchProjectDef.defName=ElectricCremation
+|ResearchProjectDef.label=electric cremation
+|ResearchProjectDef.label.zh-cn=电力火化炉
+|ResearchProjectDef.label.zh-tw=火化爐
+|ResearchProjectDef.description=Build crematoriums which can vaporize unwanted corpses.
+|ResearchProjectDef.description.zh-cn=解锁建造「电力火化炉」，可焚烧尸体和无用的衣物。
+|ResearchProjectDef.description.zh-tw=解鎖建造能將屍體與衣物徹底燒毀的火化爐。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=500
+|ResearchProjectDef.prerequisites="ElectricSmelting"
+|ResearchProjectDef.researchViewX=6
+|ResearchProjectDef.researchViewY=1.25
+}}

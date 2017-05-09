@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=ButcheredHumanlikeCorpse
+|ThoughtDef.defName=ButcheredHumanlikeCorpse
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=I butchered humanlike
+|ThoughtDef.stages.0.label.zh-cn=屠宰了人类
+|ThoughtDef.stages.0.label.zh-tw=屠宰了人類
+|ThoughtDef.stages.0.description=I butchered someone up like an animal.
+|ThoughtDef.stages.0.description.zh-cn=我把人像动物一样屠宰了！
+|ThoughtDef.stages.0.description.zh-tw=我把一個人像動物一樣屠宰了。
+|ThoughtDef.stages.0.baseMoodEffect=-6
+|ThoughtDef.stackLimit=4
+|ThoughtDef.stackedEffectMultiplier=0.75
+|ThoughtDef.durationDays=6.0
+|ThoughtDef.nullifyingTraits="Psychopath","Bloodlust","Cannibal"
+}}

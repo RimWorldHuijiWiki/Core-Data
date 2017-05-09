@@ -1,0 +1,28 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=GiftImpact
+|StatDef.defName=GiftImpact
+|StatDef.label=diplomatic gift impact
+|StatDef.label.zh-cn=外交礼物效果
+|StatDef.label.zh-tw=禮品影響力
+|StatDef.description=When this person gives gifts to another faction, this multiplier is applied to their impact on faction relations.
+|StatDef.description.zh-cn=当此人在给其他派系送礼物时，对派系关系的实际影响的乘数。
+|StatDef.description.zh-tw=當該角色送出禮品給其他勢力時，這個倍率對禮品影響力的影響程度。
+|StatDef.category=PawnSocial
+|StatDef.toStringStyle=PercentTwo
+|StatDef.defaultBaseValue=1
+|StatDef.minValue=0.4
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
+|StatDef.skillNeedFactors.0.skill=Social
+|StatDef.skillNeedFactors.0.baseFactor=0.5
+|StatDef.skillNeedFactors.0.bonusFactor=0.05
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=1
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Talking
+|StatDef.capacityFactors.0.weight=0.9
+}}

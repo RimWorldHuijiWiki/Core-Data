@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MapDollyLeft
+|KeyBindingDef.defName=MapDollyLeft
+|KeyBindingDef.label=dolly left
+|KeyBindingDef.label.zh-cn=向左
+|KeyBindingDef.label.zh-tw=向左捲動地圖
+|KeyBindingDef.category=GameMapCamera
+|KeyBindingDef.defaultKeyCodeA=A
+|KeyBindingDef.defaultKeyCodeB=LeftArrow
+}}

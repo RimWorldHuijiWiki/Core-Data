@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MainTab_Work
+|KeyBindingDef.defName=MainTab_Work
+|KeyBindingDef.label=Toggle work tab
+|KeyBindingDef.label.zh-cn=开关「工作」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉工作
+|KeyBindingDef.category=MainTabs
+|KeyBindingDef.defaultKeyCodeA=F1
+}}

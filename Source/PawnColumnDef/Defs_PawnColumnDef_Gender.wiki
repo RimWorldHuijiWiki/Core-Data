@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=PawnColumnDef
-|defName=Gender
-|PawnColumnDef.defName=Gender
-|PawnColumnDef.workerClass=PawnColumnWorker_Gender
-|PawnColumnDef.sortable=true
-}}

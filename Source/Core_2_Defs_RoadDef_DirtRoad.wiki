@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=RoadDef
+|defName=DirtRoad
+|RoadDef.defName=DirtRoad
+|RoadDef.label=dirt road
+|RoadDef.label.zh-cn=土路
+|RoadDef.label.zh-tw=道路
+|RoadDef.priority=20
+|RoadDef.movementCostMultiplier=0.5
+|RoadDef.tilesPerSegment=15
+|RoadDef.pathingMode=Avoid
+|RoadDef.roadGenSteps=Exist
+|RoadDef.roadGenSteps.Count=1
+|RoadDef.roadGenSteps.0=Exist
+|RoadDef.roadGenSteps.0.Class=RoadDefGenStep_Place
+|RoadDef.roadGenSteps.0.chancePerPositionCurve=Exist
+|RoadDef.roadGenSteps.0.chancePerPositionCurve.points="(0, 0.9)","(1.2, 0.8)","(1.4, 0)"
+|RoadDef.roadGenSteps.0.place=PackedDirt
+|RoadDef.worldRenderSteps="Outline","0.55";"Dirt","0.4"
+|RoadDef.worldTransitionGroup=Dirt
+|RoadDef.distortionFrequency=0.5
+|RoadDef.distortionIntensity=0.2
+}}

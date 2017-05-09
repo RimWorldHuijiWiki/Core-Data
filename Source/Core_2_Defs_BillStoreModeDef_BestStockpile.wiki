@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=BillStoreModeDef
+|defName=BestStockpile
+|BillStoreModeDef.defName=BestStockpile
+|BillStoreModeDef.listOrder=10
+}}

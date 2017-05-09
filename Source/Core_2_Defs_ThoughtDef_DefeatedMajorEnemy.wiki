@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=DefeatedMajorEnemy
+|ThoughtDef.defName=DefeatedMajorEnemy
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=defeated {0}
+|ThoughtDef.stages.0.label.zh-cn=击败了{0}
+|ThoughtDef.stages.0.label.zh-tw=擊敗了{0}
+|ThoughtDef.stages.0.description=I took down a big threat! I'm a hero!
+|ThoughtDef.stages.0.description.zh-cn=我解决了一个大威胁！我是英雄！
+|ThoughtDef.stages.0.description.zh-tw=我擊潰了敵方的攻擊！我是英雄！
+|ThoughtDef.stages.0.baseMoodEffect=12
+|ThoughtDef.stackLimit=5
+|ThoughtDef.stackedEffectMultiplier=0.4
+|ThoughtDef.durationDays=3
+|ThoughtDef.icon=Things/Mote/ThoughtSymbol/Enemy
+|ThoughtDef.showBubble=true
+}}

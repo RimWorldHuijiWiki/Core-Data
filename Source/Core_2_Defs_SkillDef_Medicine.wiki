@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=SkillDef
+|defName=Medicine
+|SkillDef.defName=Medicine
+|SkillDef.label=Medicine
+|SkillDef.label.zh-cn=医疗
+|SkillDef.label.zh-tw=醫療
+|SkillDef.description=Treating wounds and diseases and doing surgery.
+|SkillDef.description.zh-cn=治疗伤口和疾病以及执行医疗手术。
+|SkillDef.description.zh-tw=治療創傷、醫治疾病及操刀手術。
+|SkillDef.skillLabel=Medicine
+|SkillDef.skillLabel.zh-cn=医疗
+|SkillDef.skillLabel.zh-tw=醫療
+}}

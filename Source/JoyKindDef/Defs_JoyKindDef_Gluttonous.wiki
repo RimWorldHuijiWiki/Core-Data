@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=JoyKindDef
-|defName=Gluttonous
-|JoyKindDef.defName=Gluttonous
-|JoyKindDef.label=gluttonous
-|JoyKindDef.label.zh-cn=暴食
-|JoyKindDef.label.zh-tw=嘴饞
-}}

@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=RulePackDef
+|defName=NamerFactionBasePlayerColony
+|RulePackDef.defName=NamerFactionBasePlayerColony
+|RulePackDef.rulePack=Exist
+|RulePackDef.rulePack.rulesStrings="name->Colony","name->殖民地","name->殖民地"
+}}

@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=ScatterableDef
+|defName=DebrisStoneB
+|ScatterableDef.defName=DebrisStoneB
+|ScatterableDef.texturePath=Terrain/Scatter/DebrisStoneB
+|ScatterableDef.minSize=0.4
+|ScatterableDef.maxSize=1.0
+|ScatterableDef.selectionWeight=100
+|ScatterableDef.scatterType=Rocky
+}}

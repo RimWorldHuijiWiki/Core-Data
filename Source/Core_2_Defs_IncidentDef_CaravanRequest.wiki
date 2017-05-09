@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=CaravanRequest
+|IncidentDef.defName=CaravanRequest
+|IncidentDef.label=caravan request
+|IncidentDef.label.zh-cn=远行队请求
+|IncidentDef.label.zh-tw=旅隊請求
+|IncidentDef.workerClass=IncidentWorker_CaravanRequest
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=1
+}}

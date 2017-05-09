@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=LetterDef
+|defName=ItemStashFeeDemand
+|LetterDef.defName=ItemStashFeeDemand
+|LetterDef.letterClass=ChoiceLetter_ItemStashFeeDemand
+|LetterDef.color=(95, 151, 191)
+|LetterDef.flashInterval=-1
+|LetterDef.icon=UI/Letters/CustomChoiceLetter
+}}

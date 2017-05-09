@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=PawnTableDef
+|defName=Assign
+|PawnTableDef.defName=Assign
+|PawnTableDef.columns="Label","HostilityResponse","GapTiny","Outfit","GapSmall","DrugPolicy","RemainingSpace"
+}}

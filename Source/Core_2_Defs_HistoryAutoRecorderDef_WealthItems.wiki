@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HistoryAutoRecorderDef
+|defName=WealthItems
+|HistoryAutoRecorderDef.defName=WealthItems
+|HistoryAutoRecorderDef.label=wealth (items)
+|HistoryAutoRecorderDef.label.zh-cn=资产（物品）
+|HistoryAutoRecorderDef.label.zh-tw=資產(物品)
+|HistoryAutoRecorderDef.workerClass=HistoryAutoRecorderWorker_WealthItems
+|HistoryAutoRecorderDef.recordTicksFrequency=30000
+|HistoryAutoRecorderDef.graphColor=RGBA(0.9, 0.7, 0, 1)
+}}

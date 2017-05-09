@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=Rule_DisallowBuilding
+|ScenPartDef.defName=Rule_DisallowBuilding
+|ScenPartDef.label=disallow building
+|ScenPartDef.label.zh-cn=禁止建造
+|ScenPartDef.label.zh-tw=禁用建設
+|ScenPartDef.category=Rule
+|ScenPartDef.scenPartClass=ScenPart_DisallowBuilding
+|ScenPartDef.summaryPriority=359
+|ScenPartDef.selectionWeight=1.0
+}}

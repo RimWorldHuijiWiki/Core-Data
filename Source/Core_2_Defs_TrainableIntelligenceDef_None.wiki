@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=TrainableIntelligenceDef
+|defName=None
+|TrainableIntelligenceDef.defName=None
+|TrainableIntelligenceDef.intelligenceOrder=0
+}}

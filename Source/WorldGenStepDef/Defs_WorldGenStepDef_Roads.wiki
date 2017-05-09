@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=WorldGenStepDef
-|defName=Roads
-|WorldGenStepDef.defName=Roads
-|WorldGenStepDef.order=600
-|WorldGenStepDef.worldGenStep=
-}}

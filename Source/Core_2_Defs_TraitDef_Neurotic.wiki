@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=Neurotic
+|TraitDef.defName=Neurotic
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=2
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=neurotic
+|TraitDef.degreeDatas.0.label.zh-cn=神经质
+|TraitDef.degreeDatas.0.label.zh-tw=神經質
+|TraitDef.degreeDatas.0.description=NAME likes to have things squared away. HECAP will work harder than most to attain this state of affairs, but HIS nerves can get the better of HIM.
+|TraitDef.degreeDatas.0.description.zh-cn=NAME喜欢把事情都安排妥当。HECAP会为此比一般人更努力地工作，但是HIS的神经质可能会压倒HIM。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME喜歡打理好一切，這使HE比其他人更專注工作，但這種性格卻也使HECAP比一般人更接近崩潰。
+|TraitDef.degreeDatas.0.degree=1
+|TraitDef.degreeDatas.0.statOffsets="WorkSpeedGlobal","0.20";"MentalBreakThreshold","0.08"
+|TraitDef.degreeDatas.1=Exist
+|TraitDef.degreeDatas.1.label=very neurotic
+|TraitDef.degreeDatas.1.label.zh-cn=严重神经质
+|TraitDef.degreeDatas.1.label.zh-tw=強迫症
+|TraitDef.degreeDatas.1.description=NAME feels constantly nervous about everything that has to get done. HECAP will work extremely hard to attain this state of affairs, but HIS nerves can easily get the better of HIM.
+|TraitDef.degreeDatas.1.description.zh-cn=NAME永远都在担心那些未完成的工作。HECAP会为此万分努力地工作，但是HIS的神经质可能会压倒HIM。
+|TraitDef.degreeDatas.1.description.zh-tw=NAME無法忍受一點缺陷，為此HECAP比其他人加倍努力工作，卻也因為這種性格使HECAP比其他人更容易崩潰。
+|TraitDef.degreeDatas.1.degree=2
+|TraitDef.degreeDatas.1.statOffsets="WorkSpeedGlobal","0.40";"MentalBreakThreshold","0.14"
+|TraitDef.commonality=0.5
+}}

@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=SoldMyLovedOne
+|ThoughtDef.defName=SoldMyLovedOne
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=loved one sold
+|ThoughtDef.stages.0.label.zh-cn=爱人被贩卖
+|ThoughtDef.stages.0.label.zh-tw=賣掉我的愛人{0}
+|ThoughtDef.stages.0.labelSocial=sold my loved one
+|ThoughtDef.stages.0.labelSocial.zh-cn=卖了我爱的人
+|ThoughtDef.stages.0.labelSocial.zh-tw=賣掉我的愛人
+|ThoughtDef.stages.0.description=Someone I love was sold to a trader like a piece of meat!
+|ThoughtDef.stages.0.description.zh-cn=我爱的人像一块肉一样被卖给了一个商人！
+|ThoughtDef.stages.0.description.zh-tw=有個傢伙把我的愛人賣給了商人，就好像他是一片肉一樣。
+|ThoughtDef.stages.0.baseMoodEffect=-10
+|ThoughtDef.stages.0.baseOpinionOffset=-10
+|ThoughtDef.stackLimit=10
+|ThoughtDef.durationDays=20.0
+|ThoughtDef.stackLimitPerPawn=2
+}}

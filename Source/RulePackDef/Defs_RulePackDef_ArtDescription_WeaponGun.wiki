@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=RulePackDef
-|defName=ArtDescription_WeaponGun
-|RulePackDef.defName=ArtDescription_WeaponGun
-|RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="physical_description_root->This weapon is engraved with a [depiction] of [image]. [desc_sentence_group]","physical_description_root->This weapon bears a [depiction] of [image]. [desc_sentence_group]","physical_description_root->An engraving on this weapon [depicts] [image]. [desc_sentence_group]","physical_description_root->这件武器雕刻的内容[depiction]了[image]。[desc_sentence_group]","physical_description_root->这件武器雕刻的内容向我们[depiction]了[image]。[desc_sentence_group]","physical_description_root->在这件武器上雕刻的内容[depicts]的是[image]。[desc_sentence_group]","physical_description_root->這把武器刻著一段關於[image]的[depiction]。[desc_sentence_group]","physical_description_root->這把武器上紀錄著一段關於[image]的[depiction]。[desc_sentence_group]","physical_description_root->這把武器上的雕刻[depicts][image]的事件。[desc_sentence_group]"
-}}

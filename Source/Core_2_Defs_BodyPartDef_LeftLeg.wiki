@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=LeftLeg
+|BodyPartDef.defName=LeftLeg
+|BodyPartDef.label=left leg
+|BodyPartDef.label.zh-cn=左腿
+|BodyPartDef.label.zh-tw=左腿
+|BodyPartDef.tags="MovingLimbCore"
+|BodyPartDef.hitPoints=30
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+}}

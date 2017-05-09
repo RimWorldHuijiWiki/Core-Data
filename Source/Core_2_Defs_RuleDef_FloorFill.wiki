@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=RuleDef
+|defName=FloorFill
+|RuleDef.defName=FloorFill
+|RuleDef.symbol=floor
+|RuleDef.resolvers=Exist
+|RuleDef.resolvers.Count=1
+|RuleDef.resolvers.0=Exist
+|RuleDef.resolvers.0.Class=SymbolResolver_FloorFill
+}}

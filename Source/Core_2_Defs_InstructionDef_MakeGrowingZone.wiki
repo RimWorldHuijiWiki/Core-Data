@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=MakeGrowingZone
+|InstructionDef.defName=MakeGrowingZone
+|InstructionDef.instructionClass=Instruction_PlaceGrowingZone
+|InstructionDef.text=The house is being built!<br/><br/>Your colonists will need something to eat, so place a GROWING ZONE as indicated on the map.<br/><br/>This is where your colonists will sow crops.
+|InstructionDef.text.zh-cn=房子造好了！<br/><br/>接下来解决吃饭问题！规划一个「种植区」。<br/><br/>你的殖民者会在这里种植作物。
+|InstructionDef.text.zh-tw=你的房間建造完成了！<br/><br/>你的居民還需要東西吃。依據提示在地圖上劃設一片種植區。<br/><br/>居民們將在這個區域內種植作物。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-BuildHorseshoesPin
+|InstructionDef.eventTagsEnd="Designate-ZoneAdd_Growing"
+|InstructionDef.actionTagsAllowed="MainTab-Architect-Open","SelectDesignator-ZoneAdd_Growing","Designate-ZoneAdd_Growing"
+|InstructionDef.rejectInputMessage=Please make a growing zone on the indicated area.
+|InstructionDef.rejectInputMessage.zh-cn=请在指定的地点规划一个种植区
+|InstructionDef.rejectInputMessage.zh-tw=請將種植區劃設在提示區域內。
+|InstructionDef.highlightTags="MainTab-Architect-Closed","DesignationCategoryButton-Zone-Closed","Designator-ZoneAdd_Growing"
+|InstructionDef.onMapInstruction=Place growing zone here<br/>(drag corner-to-corner)
+|InstructionDef.onMapInstruction.zh-cn=在这里规划种植区<br/>（拖拽对角线来扩大区域）
+|InstructionDef.onMapInstruction.zh-tw=在此劃設種植區。<br/>(由一角拖曳至對角)
+}}

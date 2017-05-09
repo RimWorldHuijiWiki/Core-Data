@@ -1,0 +1,36 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=AccuracyMedium
+|StatDef.defName=AccuracyMedium
+|StatDef.label=Accuracy (medium)
+|StatDef.label.zh-cn=精度（中）
+|StatDef.label.zh-tw=命中率(中距離)
+|StatDef.description=Accuracy multiplier at medium range.
+|StatDef.description.zh-cn=在中等距离范围内的精度乘数。
+|StatDef.description.zh-tw=在中距離下的射擊命中率。
+|StatDef.category=Weapon
+|StatDef.showIfUndefined=false
+|StatDef.displayPriorityInCategory=898
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1
+|StatDef.minValue=0.1
+|StatDef.maxValue=1
+|StatDef.parts=Exist
+|StatDef.parts.Count=2
+|StatDef.parts.0=Exist
+|StatDef.parts.0.Class=StatPart_Quality
+|StatDef.parts.0.factorAwful=0.7
+|StatDef.parts.0.factorShoddy=0.8
+|StatDef.parts.0.factorPoor=0.93
+|StatDef.parts.0.factorNormal=1
+|StatDef.parts.0.factorGood=1.05
+|StatDef.parts.0.factorSuperior=1.1
+|StatDef.parts.0.factorExcellent=1.2
+|StatDef.parts.0.factorMasterwork=1.35
+|StatDef.parts.0.factorLegendary=1.5
+|StatDef.parts.1=Exist
+|StatDef.parts.1.Class=StatPart_Health
+|StatDef.parts.1.curve=Exist
+|StatDef.parts.1.curve.points="(0,0.6)","(1,1)"
+}}

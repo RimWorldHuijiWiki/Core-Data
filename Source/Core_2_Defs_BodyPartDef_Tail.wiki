@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Tail
+|BodyPartDef.defName=Tail
+|BodyPartDef.label=tail
+|BodyPartDef.label.zh-cn=尾
+|BodyPartDef.label.zh-tw=尾巴
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=8
+}}

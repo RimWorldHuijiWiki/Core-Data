@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DesignationDef
-|defName=HarvestPlant
-|DesignationDef.defName=HarvestPlant
-|DesignationDef.texturePath=Designations/HarvestPlant
-|DesignationDef.targetType=Thing
-}}

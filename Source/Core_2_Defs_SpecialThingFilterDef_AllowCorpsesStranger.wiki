@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=SpecialThingFilterDef
+|defName=AllowCorpsesStranger
+|SpecialThingFilterDef.defName=AllowCorpsesStranger
+|SpecialThingFilterDef.label=allow stranger corpses
+|SpecialThingFilterDef.label.zh-cn=允许尸体（陌生人）
+|SpecialThingFilterDef.label.zh-tw=接受非居民屍體
+|SpecialThingFilterDef.description=Allow dead former strangers and enemies.
+|SpecialThingFilterDef.description.zh-cn=允许死亡的陌生人和敌人的尸体。
+|SpecialThingFilterDef.description.zh-tw=接受陌生人和敵人的屍體。
+|SpecialThingFilterDef.parentCategory=CorpsesHumanlike
+|SpecialThingFilterDef.saveKey=allowCorpsesStranger
+|SpecialThingFilterDef.allowedByDefault=false
+|SpecialThingFilterDef.workerClass=SpecialThingFilterWorker_CorpsesStranger
+}}

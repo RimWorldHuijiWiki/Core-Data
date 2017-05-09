@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=PawnCapacityDef
+|defName=Talking
+|PawnCapacityDef.defName=Talking
+|PawnCapacityDef.label=talking
+|PawnCapacityDef.label.zh-cn=语言能力
+|PawnCapacityDef.label.zh-tw=交談
+|PawnCapacityDef.listOrder=40
+|PawnCapacityDef.workerClass=PawnCapacityWorker_Talking
+|PawnCapacityDef.labelMechanoids=Communication
+|PawnCapacityDef.labelMechanoids.zh-cn=通讯能力
+|PawnCapacityDef.labelMechanoids.zh-tw=通聯
+|PawnCapacityDef.showOnAnimals=false
+|PawnCapacityDef.zeroIfCannotBeAwake=true
+}}

@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=LetterDef
+|defName=Good
+|LetterDef.defName=Good
+|LetterDef.color=(120, 176, 216)
+|LetterDef.flashColor=(106, 179, 231)
+|LetterDef.flashInterval=90
+}}

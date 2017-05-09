@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=TimeControls
+|InstructionDef.defName=TimeControls
+|InstructionDef.instructionClass=Instruction_LearnConcept
+|InstructionDef.text=You can also speed up time.<br/><br/>Try controlling time with the {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, and {Key:TimeSpeedSuperfast} keys, or with the time controls in the bottom right.
+|InstructionDef.text.zh-cn=你还可以加速时间流逝。<br/><br/>尝试通过{Key:TimeSpeedNormal}，{Key:TimeSpeedFast}，和{Key:TimeSpeedSuperfast}按键来控制时间，或是点击屏幕右下方的按钮。
+|InstructionDef.text.zh-tw=你還能夠加速時間。<br/><br/>使用{Key:TimeSpeedNormal}、{Key:TimeSpeedFast}及{Key:TimeSpeedSuperfast}，或是畫面右下角的時間控制按鈕來調整時間流速。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-Pause
+|InstructionDef.concept=TimeControls
+|InstructionDef.highlightTags="TimeControls"
+}}

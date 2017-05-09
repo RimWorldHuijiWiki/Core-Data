@@ -1,0 +1,33 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=MiningYield
+|StatDef.defName=MiningYield
+|StatDef.label=mining yield
+|StatDef.label.zh-cn=开采产出
+|StatDef.label.zh-tw=採礦產量倍率
+|StatDef.description=The percentage yield a miner will achieve. This applies to both wall mining and deep drill mining. This doesn't affect the rate of mining rock chunks.
+|StatDef.description.zh-cn=矿工将达到的百分比产出。同时应用于资源块开采和深钻开采。不影响石块开采。
+|StatDef.description.zh-tw=這名角色採礦的產量加成。越高的倍率越能避免產品的浪費。此數值同時作用於地表開採及地下採礦。
+|StatDef.category=PawnWork
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1
+|StatDef.minValue=0
+|StatDef.maxValue=1
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
+|StatDef.skillNeedFactors.0.skill=Mining
+|StatDef.skillNeedFactors.0.factorsPerLevel="0.6","0.7","0.8","0.85","0.9","0.925","0.95","0.975","1","1.01","1.02","1.03","1.04","1.05","1.06","1.07","1.08","1.09","1.10","1.12","1.13"
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Manipulation
+|StatDef.capacityFactors.0.weight=0.3
+|StatDef.capacityFactors.0.max=1
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Sight
+|StatDef.capacityFactors.1.weight=0.2
+|StatDef.capacityFactors.1.max=1
+}}

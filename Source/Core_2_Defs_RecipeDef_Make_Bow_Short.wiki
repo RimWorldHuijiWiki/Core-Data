@@ -1,0 +1,30 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Bow_Short
+|RecipeDef.defName=Make_Bow_Short
+|RecipeDef.label=make short bow
+|RecipeDef.label.zh-cn=制作短弓
+|RecipeDef.label.zh-tw=製造短弓
+|RecipeDef.description=Make short bow.
+|RecipeDef.description.zh-cn=一把简单的短弓，制作技艺精湛，但是科技水平非常原始。
+|RecipeDef.description.zh-tw=製造一把短弓。
+|RecipeDef.jobString=Making short bow.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造短弓。
+|RecipeDef.workAmount=9000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="WoodLog"
+|RecipeDef.ingredients.0.count=30
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="WoodLog"
+|RecipeDef.products="Bow_Short","1"
+|RecipeDef.unfinishedThingDef=UnfinishedWeapon
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smelt
+|RecipeDef.recipeUsers="ElectricSmithy","FueledSmithy","ElectricSmithy","FueledSmithy","CraftingSpot"
+}}

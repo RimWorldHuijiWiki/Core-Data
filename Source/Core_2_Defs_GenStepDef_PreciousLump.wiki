@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=PreciousLump
+|GenStepDef.defName=PreciousLump
+|GenStepDef.linkWithSite=PreciousLump
+|GenStepDef.order=450
+|GenStepDef.genStep=Exist
+|GenStepDef.genStep.Class=GenStep_PreciousLump
+|GenStepDef.genStep.nearMapCenter=true
+|GenStepDef.genStep.mineables="MineableGold","MineableJade"
+|GenStepDef.genStep.totalValueRange=3500 ~ 5000
+}}

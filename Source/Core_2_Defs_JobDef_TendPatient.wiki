@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=TendPatient
+|JobDef.defName=TendPatient
+|JobDef.driverClass=JobDriver_TendPatient
+|JobDef.reportString=tending to TargetA.
+|JobDef.reportString.zh-cn=正在治疗TargetA。
+|JobDef.reportString.zh-tw=治療TargetA。
+|JobDef.casualInterruptible=false
+}}

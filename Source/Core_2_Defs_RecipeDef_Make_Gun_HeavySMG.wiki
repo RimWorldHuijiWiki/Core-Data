@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Gun_HeavySMG
+|RecipeDef.defName=Make_Gun_HeavySMG
+|RecipeDef.label=make heavy SMG
+|RecipeDef.label.zh-cn=制作重型冲锋枪
+|RecipeDef.label.zh-tw=製造重型衝鋒槍
+|RecipeDef.description=Make heavy SMG.
+|RecipeDef.description.zh-cn=一把小巧的、泛口径的枪械。射程很短，但着弹点集中、操作性好。
+|RecipeDef.description.zh-tw=製造一把重型重型衝鋒槍。
+|RecipeDef.jobString=Making heavy SMG.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造重型衝鋒槍。
+|RecipeDef.workAmount=28000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Steel"
+|RecipeDef.ingredients.0.count=75
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs="Component"
+|RecipeDef.ingredients.1.count=4
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Steel","Component"
+|RecipeDef.products="Gun_HeavySMG","1"
+|RecipeDef.unfinishedThingDef=UnfinishedGun
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Smith
+|RecipeDef.recipeUsers="TableMachining"
+}}

@@ -1,0 +1,34 @@
+{{#set:
+|dataType=Def
+|defType=BiomeDef
+|defName=IceSheet
+|BiomeDef.defName=IceSheet
+|BiomeDef.label=ice sheet
+|BiomeDef.label.zh-cn=冰原
+|BiomeDef.label.zh-tw=冰原
+|BiomeDef.description=The surface is covered with sheets of ice which can be kilometers thick. No soil, no plants. The only animals here are migrating to somewhere else - or badly lost. Snow slows down travel, but there are ice sheets that provide smooth walking.
+|BiomeDef.description.zh-cn=这个地区的地表被几千米厚的冰层覆盖着，这里没有土地，没有植物。这里的动物不是迁移到别的地方了就是在恶劣环境下灭绝了。积雪使得出行变得缓慢，但有冰盖可以提供平坦的路面。
+|BiomeDef.description.zh-tw=這個地區的地表被幾千公尺厚的冰層覆蓋著，這裡沒有土地或者岩石，當然也沒有植物。這裡的動物不是遷徙到别的地方了就是在惡劣環境下滅絕了。積雪會減緩行動，但冰蓋提供了平穩的通路。
+|BiomeDef.workerClass=BiomeWorker_IceSheet
+|BiomeDef.allowRoads=false
+|BiomeDef.allowRivers=false
+|BiomeDef.animalDensity=0.1
+|BiomeDef.plantDensity=0
+|BiomeDef.diseaseMtbDays=90
+|BiomeDef.factionBaseSelectionWeight=0.15
+|BiomeDef.hasVirtualPlants=false
+|BiomeDef.pathCost=Exist
+|BiomeDef.pathCost.points="(0, 5500)"
+|BiomeDef.baseWeatherCommonalities="Clear","12";"Fog","0";"Rain","0";"DryThunderstorm","2";"RainyThunderstorm","0";"FoggyRain","0";"SnowGentle","20";"SnowHard","40"
+|BiomeDef.terrainsByFertility="Ice","-999 ~ 999"
+|BiomeDef.soundsAmbient="AmbientWind_Desolate"
+|BiomeDef.terrainPatchMakers=Exist
+|BiomeDef.terrainPatchMakers.Count=1
+|BiomeDef.terrainPatchMakers.0=Exist
+|BiomeDef.terrainPatchMakers.0.thresholds="WaterShallow","0.76 ~ 0.98";"WaterDeep","0.98 ~ 999"
+|BiomeDef.terrainPatchMakers.0.perlinFrequency=0.015
+|BiomeDef.wildAnimals="Snowhare","1";"Muffalo","0.08";"Megasloth","0.003";"PolarBear","0.08";"Lynx","0.01";"WolfArctic","0.02";"FoxArctic","0.02"
+|BiomeDef.diseases="Disease_Flu","100";"Disease_Plague","80";"Disease_FibrousMechanites","30";"Disease_SensoryMechanites","30"
+|BiomeDef.allowedPackAnimals="Muffalo"
+|BiomeDef.texture=World/Biomes/IceSheet
+}}

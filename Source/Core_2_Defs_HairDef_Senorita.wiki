@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=Senorita
+|HairDef.defName=Senorita
+|HairDef.label=senorita
+|HairDef.label.zh-cn=小姐头
+|HairDef.label.zh-tw=仕女
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Senorita
+|HairDef.hairGender=Female
+|HairDef.hairTags="Urban","Rural"
+}}

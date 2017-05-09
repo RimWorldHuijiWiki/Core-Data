@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=MealsCooked
+|RecordDef.defName=MealsCooked
+|RecordDef.label=meals cooked
+|RecordDef.label.zh-cn=烹饪食物数
+|RecordDef.label.zh-tw=料理次數
+|RecordDef.description=The number of meals I have cooked.
+|RecordDef.description.zh-cn=我所烹饪的食物数量。
+|RecordDef.description.zh-tw=我烹調料理的次數。
+|RecordDef.type=Int
+}}

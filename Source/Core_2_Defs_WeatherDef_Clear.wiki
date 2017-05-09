@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=WeatherDef
+|defName=Clear
+|WeatherDef.defName=Clear
+|WeatherDef.label=clear
+|WeatherDef.label.zh-cn=晴
+|WeatherDef.label.zh-tw=晴天
+|WeatherDef.description=A clear day. No penalties or modifiers.
+|WeatherDef.description.zh-cn=天气晴朗，没有任何惩罚或者加成。
+|WeatherDef.description.zh-tw=晴朗的天氣，沒有任何屬性加成。
+|WeatherDef.repeatable=true
+|WeatherDef.favorability=Good
+|WeatherDef.ambientSounds="AmbientWind_Clear"
+|WeatherDef.skyColorsNightMid=Exist
+|WeatherDef.skyColorsNightMid.sky=(0.482,0.603,0.682)
+|WeatherDef.skyColorsNightMid.shadow=(0.85, 0.85, 0.85)
+|WeatherDef.skyColorsNightMid.overlay=(0.6,0.6,0.6)
+|WeatherDef.skyColorsNightMid.saturation=1.25
+|WeatherDef.skyColorsNightEdge=Exist
+|WeatherDef.skyColorsNightEdge.sky=(0.482,0.603,0.682)
+|WeatherDef.skyColorsNightEdge.shadow=(0.92,0.92,0.92)
+|WeatherDef.skyColorsNightEdge.overlay=(0.6,0.6,0.6)
+|WeatherDef.skyColorsNightEdge.saturation=1.25
+|WeatherDef.skyColorsDay=Exist
+|WeatherDef.skyColorsDay.sky=(1,1,1)
+|WeatherDef.skyColorsDay.shadow=(0.718,0.745,0.757)
+|WeatherDef.skyColorsDay.overlay=(1,1,1)
+|WeatherDef.skyColorsDay.saturation=1.25
+|WeatherDef.skyColorsDusk=Exist
+|WeatherDef.skyColorsDusk.sky=(0.858,0.650,0.423)
+|WeatherDef.skyColorsDusk.shadow=(0.955,0.886,0.914)
+|WeatherDef.skyColorsDusk.overlay=(0.8,0.8,0.8)
+|WeatherDef.skyColorsDusk.saturation=1.25
+}}

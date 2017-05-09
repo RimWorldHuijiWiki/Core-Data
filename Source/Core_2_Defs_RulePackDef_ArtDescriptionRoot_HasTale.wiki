@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=RulePackDef
+|defName=ArtDescriptionRoot_HasTale
+|RulePackDef.defName=ArtDescriptionRoot_HasTale
+|RulePackDef.rulePack=Exist
+|RulePackDef.rulePack.rulesStrings="art_description_root->[physical_description_root] [context_sentence]","circumstance_group->[circumstance_phrase]","desc_sentence_group->[desc_sentence] [style_group]","context_sentence->This [depiction] refers to [tale_noun] on [date].","context_sentence->This [depiction] relates to [tale_noun] on [date].","context_sentence->This [depiction] tells the story of [tale_noun] on [date].","art_description_root->[physical_description_root] [context_sentence]","circumstance_group->[circumstance_phrase]","desc_sentence_group->[desc_sentence] [style_group]","context_sentence->[depiction]中所引述的故事是发生在[date]的[tale_noun]。","context_sentence->这件[depiction]描述了发生在[date]的[tale_noun]的故事。","context_sentence->[depiction]记述了发生在[date]的关于[tale_noun]的往事。","art_description_root->[physical_description_root]。[context_sentence]。","circumstance_group->[circumstance_phrase]","desc_sentence_group->[desc_sentence]，[style_group]。","context_sentence->這個[depiction]紀錄的是一件發生在[date]，[tale_noun]的故事。","context_sentence->這個[depiction]記述了一件發生在[date]，有關[tale_noun]的故事。","context_sentence->這個[depiction]述說了一件發生在[date]，[tale_noun]的故事。"
+}}

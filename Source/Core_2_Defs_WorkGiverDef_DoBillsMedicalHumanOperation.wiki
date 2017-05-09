@@ -1,0 +1,22 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoBillsMedicalHumanOperation
+|WorkGiverDef.defName=DoBillsMedicalHumanOperation
+|WorkGiverDef.label=operate on humanlikes
+|WorkGiverDef.label.zh-cn=完成手术
+|WorkGiverDef.label.zh-tw=為病患進行手術
+|WorkGiverDef.giverClass=WorkGiver_DoBill
+|WorkGiverDef.workType=Doctor
+|WorkGiverDef.priorityInType=80
+|WorkGiverDef.verb=operate
+|WorkGiverDef.verb.zh-cn=手术
+|WorkGiverDef.verb.zh-tw=手術
+|WorkGiverDef.gerund=operating on
+|WorkGiverDef.gerund.zh-cn=手术
+|WorkGiverDef.gerund.zh-tw=手術於
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.billGiversAllHumanlikes=true
+|WorkGiverDef.billGiversAllHumanlikesCorpses=true
+}}

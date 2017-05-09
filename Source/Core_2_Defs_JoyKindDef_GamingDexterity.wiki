@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=JoyKindDef
+|defName=GamingDexterity
+|JoyKindDef.defName=GamingDexterity
+|JoyKindDef.label=gaming (dexterity)
+|JoyKindDef.label.zh-cn=游戏（敏捷）
+|JoyKindDef.label.zh-tw=敏捷遊戲
+}}

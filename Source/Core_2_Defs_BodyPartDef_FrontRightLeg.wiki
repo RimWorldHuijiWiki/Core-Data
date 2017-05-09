@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=FrontRightLeg
+|BodyPartDef.defName=FrontRightLeg
+|BodyPartDef.label=front right leg
+|BodyPartDef.label.zh-cn=右前肢
+|BodyPartDef.label.zh-tw=右前肢
+|BodyPartDef.tags="MovingLimbCore"
+|BodyPartDef.hitPoints=30
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+}}

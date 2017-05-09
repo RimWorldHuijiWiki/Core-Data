@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=PawnWithGoodOpinionDied
+|ThoughtDef.defName=PawnWithGoodOpinionDied
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=my friend {0} died
+|ThoughtDef.stages.0.label.zh-cn=朋友{0}死亡
+|ThoughtDef.stages.0.label.zh-tw=我的朋友去世了
+|ThoughtDef.stages.0.description=Such a wonderful person. The universe gets darker every day.
+|ThoughtDef.stages.0.description.zh-cn=多好的一个人啊，少了他的世界无滋无味。
+|ThoughtDef.stages.0.description.zh-tw=多麼好的一個人啊，少了他的世界無滋無味。
+|ThoughtDef.stages.0.baseMoodEffect=-10
+|ThoughtDef.stackLimit=5
+|ThoughtDef.stackedEffectMultiplier=0.25
+|ThoughtDef.durationDays=20
+|ThoughtDef.nullifyingTraits="Psychopath"
+}}

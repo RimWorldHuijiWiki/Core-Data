@@ -1,0 +1,26 @@
+{{#set:
+|dataType=Def
+|defType=PawnKindDef
+|defName=TribalWarrior
+|PawnKindDef.defName=TribalWarrior
+|PawnKindDef.label=warrior
+|PawnKindDef.label.zh-cn=勇士
+|PawnKindDef.label.zh-tw=勇士
+|PawnKindDef.race=Human
+|PawnKindDef.defaultFactionType=Tribe
+|PawnKindDef.backstoryCategory=Tribal
+|PawnKindDef.labelPlural=warriors
+|PawnKindDef.labelPlural.zh-cn=勇士
+|PawnKindDef.labelPlural.zh-tw=warriors
+|PawnKindDef.maxGenerationAge=40
+|PawnKindDef.gearHealthRange=0.5 ~ 1.8
+|PawnKindDef.combatPower=38
+|PawnKindDef.baseRecruitDifficulty=0.65
+|PawnKindDef.apparelMoney=180 ~ 350
+|PawnKindDef.apparelTags="Tribal"
+|PawnKindDef.weaponMoney=60 ~ 400
+|PawnKindDef.weaponTags="NeolithicMelee"
+|PawnKindDef.invNutrition=2.55
+|PawnKindDef.invFoodDef=Pemmican
+|PawnKindDef.chemicalAddictionChance=0.05
+}}

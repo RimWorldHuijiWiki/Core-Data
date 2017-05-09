@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=RulePackDef
+|defName=NamerFactionBasePlayerTribe
+|RulePackDef.defName=NamerFactionBasePlayerTribe
+|RulePackDef.rulePack=Exist
+|RulePackDef.rulePack.rulesStrings="name->Village","name->村镇","name->部落"
+}}

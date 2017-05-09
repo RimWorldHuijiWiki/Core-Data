@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=NewColonyHope
+|ThoughtDef.defName=NewColonyHope
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=new colony hope
+|ThoughtDef.stages.0.label.zh-cn=新殖民地的希望
+|ThoughtDef.stages.0.label.zh-tw=對新殖民地感到有希望
+|ThoughtDef.stages.0.description=I'm getting used to this, but it's still an exciting new situation. I hope this works out...
+|ThoughtDef.stages.0.description.zh-cn=我已经开始习惯这里了，但是依然还有很多令人兴奋的挑战，我希望未来一切顺利……
+|ThoughtDef.stages.0.description.zh-tw=我漸漸習慣這裡了，但這個局面對我來說還是比較新的。希望一切都能順利...
+|ThoughtDef.stages.0.baseMoodEffect=5
+|ThoughtDef.durationDays=5
+}}

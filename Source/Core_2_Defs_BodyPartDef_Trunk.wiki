@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Trunk
+|BodyPartDef.defName=Trunk
+|BodyPartDef.label=trunk
+|BodyPartDef.label.zh-cn=象鼻
+|BodyPartDef.label.zh-tw=象鼻
+|BodyPartDef.tags="ManipulationLimbCore"
+|BodyPartDef.hitPoints=15
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=5
+}}

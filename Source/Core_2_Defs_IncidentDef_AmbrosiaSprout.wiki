@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=AmbrosiaSprout
+|IncidentDef.defName=AmbrosiaSprout
+|IncidentDef.label=ambrosia sprout
+|IncidentDef.label.zh-cn=仙馐树萌芽
+|IncidentDef.label.zh-tw=ambrosia sprout
+|IncidentDef.workerClass=IncidentWorker_AmbrosiaSprout
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=0.35
+|IncidentDef.allowedBiomes="TropicalRainforest","TemperateForest","BorealForest","AridShrubland"
+|IncidentDef.letterText=A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.
+|IncidentDef.letterText.zh-cn=附近有一片神秘的仙馐树发芽了！如果你等这些植物长成，你可以收获美味的、令人愉悦的、成瘾性轻微的果子。
+|IncidentDef.letterText.zh-tw=A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit.
+|IncidentDef.letterLabel=Ambrosia sprout
+|IncidentDef.letterLabel.zh-cn=仙馐树萌芽
+|IncidentDef.letterLabel.zh-tw=Ambrosia sprout
+|IncidentDef.letterDef=Good
+}}

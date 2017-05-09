@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=JoyGiverDef
+|defName=WatchTelevision
+|JoyGiverDef.defName=WatchTelevision
+|JoyGiverDef.giverClass=JoyGiver_WatchBuilding
+|JoyGiverDef.baseChance=2
+|JoyGiverDef.thingDefs="TubeTelevision","FlatscreenTelevision","MegascreenTelevision"
+|JoyGiverDef.jobDef=WatchTelevision
+|JoyGiverDef.joyKind=Passive
+|JoyGiverDef.requiredCapacities="Sight"
+|JoyGiverDef.canDoWhileInBed=true
+}}

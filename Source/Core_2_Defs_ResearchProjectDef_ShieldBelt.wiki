@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=ShieldBelt
+|ResearchProjectDef.defName=ShieldBelt
+|ResearchProjectDef.label=shield belt
+|ResearchProjectDef.label.zh-cn=护盾腰带
+|ResearchProjectDef.label.zh-tw=護盾腰帶
+|ResearchProjectDef.description=Momentum-repulsion field technology allows you to build shield belts, which block ranged attacks coming in or going out.
+|ResearchProjectDef.description.zh-cn=动能排斥立场技术让你能够制作「护盾腰带」，可阻挡远程攻击，包括从外向内和从内向外的。
+|ResearchProjectDef.description.zh-tw=排斥力場技術讓你能夠生產護盾腰帶，可以阻隔來自護盾內外的遠程攻擊。
+|ResearchProjectDef.techLevel=Spacer
+|ResearchProjectDef.baseCost=1500
+|ResearchProjectDef.prerequisites="MultiAnalyzer"
+|ResearchProjectDef.requiredResearchBuilding=HiTechResearchBench
+|ResearchProjectDef.requiredResearchFacilities="MultiAnalyzer"
+|ResearchProjectDef.researchViewX=10
+|ResearchProjectDef.researchViewY=5
+}}

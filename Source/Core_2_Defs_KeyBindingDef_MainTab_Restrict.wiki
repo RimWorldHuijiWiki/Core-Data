@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MainTab_Restrict
+|KeyBindingDef.defName=MainTab_Restrict
+|KeyBindingDef.label=Toggle restrict tab
+|KeyBindingDef.label.zh-cn=开关「管制」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉管制
+|KeyBindingDef.category=MainTabs
+|KeyBindingDef.defaultKeyCodeA=F2
+}}

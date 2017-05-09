@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JoyGiverDef
+|defName=GoForWalk
+|JoyGiverDef.defName=GoForWalk
+|JoyGiverDef.giverClass=JoyGiver_GoForWalk
+|JoyGiverDef.baseChance=1
+|JoyGiverDef.jobDef=GoForWalk
+|JoyGiverDef.joyKind=Meditative
+}}

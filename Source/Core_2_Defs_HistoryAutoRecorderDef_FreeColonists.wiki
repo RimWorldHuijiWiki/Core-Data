@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HistoryAutoRecorderDef
+|defName=FreeColonists
+|HistoryAutoRecorderDef.defName=FreeColonists
+|HistoryAutoRecorderDef.label=free colonists
+|HistoryAutoRecorderDef.label.zh-cn=殖民者
+|HistoryAutoRecorderDef.label.zh-tw=居民
+|HistoryAutoRecorderDef.workerClass=HistoryAutoRecorderWorker_FreeColonists
+|HistoryAutoRecorderDef.recordTicksFrequency=30000
+|HistoryAutoRecorderDef.graphColor=RGBA(0, 1, 0, 1)
+}}

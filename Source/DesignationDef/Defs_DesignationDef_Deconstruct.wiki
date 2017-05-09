@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DesignationDef
-|defName=Deconstruct
-|DesignationDef.defName=Deconstruct
-|DesignationDef.texturePath=Designations/Deconstruct
-|DesignationDef.targetType=Thing
-}}

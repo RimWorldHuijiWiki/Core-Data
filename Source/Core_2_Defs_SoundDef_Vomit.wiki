@@ -1,0 +1,25 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=Vomit
+|SoundDef.defName=Vomit
+|SoundDef.sustain=True
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.maxSimultaneous=4
+|SoundDef.priorityMode=PrioritizeNearest
+|SoundDef.sustainFadeoutTime=0.25
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.muteWhenPaused=True
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
+|SoundDef.subSounds.0.grains.0.clipFolderPath=Pawn/Human/Vomit
+|SoundDef.subSounds.0.volumeRange=11.86047 ~ 11.86047
+|SoundDef.subSounds.0.pitchRange=0.9152174 ~ 1.158843
+|SoundDef.subSounds.0.distRange=0 ~ 51.39535
+|SoundDef.subSounds.0.sustainLoop=False
+}}

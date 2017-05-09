@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=MentalStateDef
+|defName=Berserk
+|MentalStateDef.defName=Berserk
+|MentalStateDef.label=berserk
+|MentalStateDef.label.zh-cn=狂暴
+|MentalStateDef.label.zh-tw=狂暴
+|MentalStateDef.stateClass=MentalState_Berserk
+|MentalStateDef.category=Aggro
+|MentalStateDef.unspawnedCanDo=true
+|MentalStateDef.blockNormalThoughts=true
+|MentalStateDef.stateEffecter=Berserk
+|MentalStateDef.tale=MentalStateBerserk
+|MentalStateDef.recoveryMtbDays=0.3
+|MentalStateDef.minTicksBeforeRecovery=10000
+|MentalStateDef.maxTicksBeforeRecovery=60000
+|MentalStateDef.recoverFromSleep=true
+|MentalStateDef.recoverFromDowned=true
+|MentalStateDef.moodRecoveryThought=Catharsis
+|MentalStateDef.beginLetter={0} has gone berserk!
+|MentalStateDef.beginLetter.zh-cn={0} 已经变得狂暴！
+|MentalStateDef.beginLetter.zh-tw={0}因為心理狀態而抓狂了。
+|MentalStateDef.beginLetterLabel=berserk
+|MentalStateDef.beginLetterLabel.zh-cn=狂暴
+|MentalStateDef.beginLetterLabel.zh-tw=狂暴
+|MentalStateDef.beginLetterDef=BadUrgent
+|MentalStateDef.nameColor=(0.9,0.2,0.5)
+|MentalStateDef.recoveryMessage={0}'s berserk rage has come to an end.
+|MentalStateDef.recoveryMessage.zh-cn={0}的狂暴已经结束。
+|MentalStateDef.recoveryMessage.zh-tw={0}已經恢復理智。
+|MentalStateDef.baseInspectLine=Mental state: Berserk
+|MentalStateDef.baseInspectLine.zh-cn=失控：狂暴
+|MentalStateDef.baseInspectLine.zh-tw=心理狀態：狂暴
+}}

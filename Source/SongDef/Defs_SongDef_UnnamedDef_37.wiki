@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=SongDef
-|defName=UnnamedDef
-|SongDef.clipPath=Songs/Tension/Riding_Out
-|SongDef.volume=0.7
-|SongDef.tense=true
-}}

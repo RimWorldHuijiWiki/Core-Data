@@ -1,0 +1,26 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=PoisonShipPartCrash
+|IncidentDef.defName=PoisonShipPartCrash
+|IncidentDef.label=ship part crash (poison)
+|IncidentDef.label.zh-cn=飞船部件坠毁（毒性）
+|IncidentDef.label.zh-tw=星艦碎片(汙染)
+|IncidentDef.workerClass=IncidentWorker_PoisonShipPartCrash
+|IncidentDef.category=ThreatBig
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=2.0
+|IncidentDef.minRefireDays=15
+|IncidentDef.pointsScaleable=true
+|IncidentDef.minThreatPoints=450
+|IncidentDef.tags="MechanoidShip"
+|IncidentDef.refireCheckTags="MechanoidShip"
+|IncidentDef.letterText=A large piece of an ancient ship has crashed nearby.<br/><br/>It is leaking toxic material and will kill all plants in an expanding circle around itself.<br/><br/>Destroy it as soon as possible.
+|IncidentDef.letterText.zh-cn=一艘古老的飞船在附近坠毁了。<br/><br/>从残骸中蔓延的毒气会毒死附近的植物。<br/><br/>尽可能快地摧毁它。
+|IncidentDef.letterText.zh-tw=一大塊遠古星艦的碎片掉落到了附近。<br/><br/>它會釋出有毒物質，殺死它周圍的所有植物。<br/><br/>盡早摧毀這塊碎片！
+|IncidentDef.letterLabel=Poison ship
+|IncidentDef.letterLabel.zh-cn=有毒飞船
+|IncidentDef.letterLabel.zh-tw=有毒碎片
+|IncidentDef.letterDef=BadNonUrgent
+|IncidentDef.shipPart=CrashedPoisonShipPart
+}}

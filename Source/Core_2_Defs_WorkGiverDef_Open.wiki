@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=Open
+|WorkGiverDef.defName=Open
+|WorkGiverDef.label=open containers
+|WorkGiverDef.label.zh-cn=打开低温休眠舱或棺材
+|WorkGiverDef.label.zh-tw=開啟
+|WorkGiverDef.giverClass=WorkGiver_Open
+|WorkGiverDef.workType=Hauling
+|WorkGiverDef.priorityInType=70
+|WorkGiverDef.verb=open
+|WorkGiverDef.verb.zh-cn=打开
+|WorkGiverDef.verb.zh-tw=開啟
+|WorkGiverDef.gerund=opening
+|WorkGiverDef.gerund.zh-cn=打开
+|WorkGiverDef.gerund.zh-tw=開啟
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

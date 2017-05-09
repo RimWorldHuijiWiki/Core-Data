@@ -1,0 +1,22 @@
+{{#set:
+|dataType=Def
+|defType=RaidStrategyDef
+|defName=StageThenAttack
+|RaidStrategyDef.defName=StageThenAttack
+|RaidStrategyDef.workerClass=RaidStrategyWorker_StageThenAttack
+|RaidStrategyDef.arrivalTextFriendly=They will prepare for a while before moving in to help you.
+|RaidStrategyDef.arrivalTextFriendly.zh-cn=他们会在支援你之前准备一段时间。
+|RaidStrategyDef.arrivalTextFriendly.zh-tw=他們會在幫助你戰鬥之前準備一段時間。
+|RaidStrategyDef.arrivalTextEnemy=They will prepare for a while, then attack.<br/><br/>Prepare a defense or attack them pre-emptively.
+|RaidStrategyDef.arrivalTextEnemy.zh-cn=他们会准备一段时间，然后进攻。<br/><br/>准备好防御或是先发制人去攻击他们。
+|RaidStrategyDef.arrivalTextEnemy.zh-tw=他們會準備一段時間再進攻。<br/><br/>準備好防禦或是先發制人去攻擊他們。
+|RaidStrategyDef.pointsFactor=1.0
+|RaidStrategyDef.selectionChance=1.0
+|RaidStrategyDef.letterLabelEnemy=Raid
+|RaidStrategyDef.letterLabelEnemy.zh-cn=袭击
+|RaidStrategyDef.letterLabelEnemy.zh-tw=襲擊
+|RaidStrategyDef.letterLabelFriendly=Friendlies
+|RaidStrategyDef.letterLabelFriendly.zh-cn=友军
+|RaidStrategyDef.letterLabelFriendly.zh-tw=支援
+|RaidStrategyDef.arriveModes="EdgeDrop","EdgeWalkIn"
+}}

@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=JourneyOffer
+|IncidentDef.defName=JourneyOffer
+|IncidentDef.label=journey offer
+|IncidentDef.label.zh-cn=旅行邀請
+|IncidentDef.label.zh-tw=旅行成本
+|IncidentDef.workerClass=IncidentWorker_JourneyOffer
+|IncidentDef.category=JourneyOffer
+|IncidentDef.targetType=World
+}}

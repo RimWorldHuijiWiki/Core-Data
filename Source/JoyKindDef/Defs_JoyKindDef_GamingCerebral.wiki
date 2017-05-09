@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=JoyKindDef
-|defName=GamingCerebral
-|JoyKindDef.defName=GamingCerebral
-|JoyKindDef.label=gaming (cerebral)
-|JoyKindDef.label.zh-cn=游戏（智力）
-|JoyKindDef.label.zh-tw=腦力激盪
-}}

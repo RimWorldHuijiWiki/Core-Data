@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=BurnApparel
+|RecipeDef.defName=BurnApparel
+|RecipeDef.label=burn apparel
+|RecipeDef.label.zh-cn=烧毁衣物
+|RecipeDef.label.zh-tw=燒毀衣物
+|RecipeDef.description=Burn apparel to completely destroy it.
+|RecipeDef.description.zh-cn=将衣物完全烧毁。
+|RecipeDef.description.zh-tw=將衣物完全燒毀。
+|RecipeDef.jobString=Burning apparel.
+|RecipeDef.jobString.zh-cn=正在烧毁衣物。
+|RecipeDef.jobString.zh-tw=燒毀衣物。
+|RecipeDef.requiredGiverWorkType=Hauling
+|RecipeDef.workAmount=200
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Apparel"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Apparel"
+|RecipeDef.effectWorking=Cremate
+|RecipeDef.soundWorking=Recipe_Cremate
+}}

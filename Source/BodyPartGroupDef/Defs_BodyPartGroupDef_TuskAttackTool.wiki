@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=BodyPartGroupDef
-|defName=TuskAttackTool
-|BodyPartGroupDef.defName=TuskAttackTool
-|BodyPartGroupDef.label=tusks
-|BodyPartGroupDef.label.zh-cn=獠牙
-|BodyPartGroupDef.label.zh-tw=獠牙
-}}

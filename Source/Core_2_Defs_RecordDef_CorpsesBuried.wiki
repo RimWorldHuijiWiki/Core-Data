@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=CorpsesBuried
+|RecordDef.defName=CorpsesBuried
+|RecordDef.label=corpses buried
+|RecordDef.label.zh-cn=埋葬尸体数
+|RecordDef.label.zh-tw=埋葬屍體數
+|RecordDef.description=The number of corpses I have buried.
+|RecordDef.description.zh-cn=我埋葬的尸体数量。
+|RecordDef.description.zh-tw=我埋葬的屍體數。
+|RecordDef.type=Int
+}}

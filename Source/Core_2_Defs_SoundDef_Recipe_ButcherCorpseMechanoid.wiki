@@ -1,0 +1,37 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=Recipe_ButcherCorpseMechanoid
+|SoundDef.defName=Recipe_ButcherCorpseMechanoid
+|SoundDef.sustain=True
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.maxVoices=2
+|SoundDef.priorityMode=PrioritizeNearest
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=2
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.muteWhenPaused=True
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
+|SoundDef.subSounds.0.grains.0.clipFolderPath=Interact/Work/Butcher/Butcher_Mechanoid/Centipede
+|SoundDef.subSounds.0.volumeRange=2 ~ 4
+|SoundDef.subSounds.0.pitchRange=0.9770588 ~ 1.068824
+|SoundDef.subSounds.0.distRange=25 ~ 50
+|SoundDef.subSounds.0.sustainLoop=False
+|SoundDef.subSounds.0.sustainIntervalRange=-0.3076923 ~ -0.3076923
+|SoundDef.subSounds.1=Exist
+|SoundDef.subSounds.1.muteWhenPaused=True
+|SoundDef.subSounds.1.grains=Exist
+|SoundDef.subSounds.1.grains.Count=1
+|SoundDef.subSounds.1.grains.0=Exist
+|SoundDef.subSounds.1.grains.0.Class=AudioGrain_Folder
+|SoundDef.subSounds.1.grains.0.clipFolderPath=Interact/Work/Butcher/Butcher_Mechanoid/Generic
+|SoundDef.subSounds.1.volumeRange=5 ~ 5
+|SoundDef.subSounds.1.pitchRange=0.8529411 ~ 1
+|SoundDef.subSounds.1.distRange=25 ~ 50
+|SoundDef.subSounds.1.sustainLoop=False
+|SoundDef.subSounds.1.sustainIntervalRange=0.5128205 ~ 0.5128205
+}}

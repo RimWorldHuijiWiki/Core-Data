@@ -1,4 +1,4 @@
-﻿Core:Defs_BillRepeatModeDef_Forever,"{{#set:
+Core:Defs_BillRepeatModeDef_Forever,"{{#set:
 |dataType=Def
 |defType=BillRepeatModeDef
 |defName=Forever
@@ -655,62 +655,62 @@ Core:Defs_BodyDef_Human,"{{#set:
 |BodyDef.corePart.parts.1=Exist
 |BodyDef.corePart.parts.1.def=Rib
 |BodyDef.corePart.parts.1.depth=Inside
-|BodyDef.corePart.parts.1.coverage=0.004
+|BodyDef.corePart.parts.1.coverage=0.003
 |BodyDef.corePart.parts.1.groups=""Torso""
 |BodyDef.corePart.parts.2=Exist
 |BodyDef.corePart.parts.2.def=Rib
 |BodyDef.corePart.parts.2.depth=Inside
-|BodyDef.corePart.parts.2.coverage=0.004
+|BodyDef.corePart.parts.2.coverage=0.003
 |BodyDef.corePart.parts.2.groups=""Torso""
 |BodyDef.corePart.parts.3=Exist
 |BodyDef.corePart.parts.3.def=Rib
 |BodyDef.corePart.parts.3.depth=Inside
-|BodyDef.corePart.parts.3.coverage=0.004
+|BodyDef.corePart.parts.3.coverage=0.003
 |BodyDef.corePart.parts.3.groups=""Torso""
 |BodyDef.corePart.parts.4=Exist
 |BodyDef.corePart.parts.4.def=Rib
 |BodyDef.corePart.parts.4.depth=Inside
-|BodyDef.corePart.parts.4.coverage=0.004
+|BodyDef.corePart.parts.4.coverage=0.003
 |BodyDef.corePart.parts.4.groups=""Torso""
 |BodyDef.corePart.parts.5=Exist
 |BodyDef.corePart.parts.5.def=Rib
 |BodyDef.corePart.parts.5.depth=Inside
-|BodyDef.corePart.parts.5.coverage=0.004
+|BodyDef.corePart.parts.5.coverage=0.003
 |BodyDef.corePart.parts.5.groups=""Torso""
 |BodyDef.corePart.parts.6=Exist
 |BodyDef.corePart.parts.6.def=Rib
 |BodyDef.corePart.parts.6.depth=Inside
-|BodyDef.corePart.parts.6.coverage=0.004
+|BodyDef.corePart.parts.6.coverage=0.003
 |BodyDef.corePart.parts.6.groups=""Torso""
 |BodyDef.corePart.parts.7=Exist
 |BodyDef.corePart.parts.7.def=Rib
 |BodyDef.corePart.parts.7.depth=Inside
-|BodyDef.corePart.parts.7.coverage=0.004
+|BodyDef.corePart.parts.7.coverage=0.003
 |BodyDef.corePart.parts.7.groups=""Torso""
 |BodyDef.corePart.parts.8=Exist
 |BodyDef.corePart.parts.8.def=Rib
 |BodyDef.corePart.parts.8.depth=Inside
-|BodyDef.corePart.parts.8.coverage=0.004
+|BodyDef.corePart.parts.8.coverage=0.003
 |BodyDef.corePart.parts.8.groups=""Torso""
 |BodyDef.corePart.parts.9=Exist
 |BodyDef.corePart.parts.9.def=Rib
 |BodyDef.corePart.parts.9.depth=Inside
-|BodyDef.corePart.parts.9.coverage=0.004
+|BodyDef.corePart.parts.9.coverage=0.003
 |BodyDef.corePart.parts.9.groups=""Torso""
 |BodyDef.corePart.parts.10=Exist
 |BodyDef.corePart.parts.10.def=Rib
 |BodyDef.corePart.parts.10.depth=Inside
-|BodyDef.corePart.parts.10.coverage=0.004
+|BodyDef.corePart.parts.10.coverage=0.003
 |BodyDef.corePart.parts.10.groups=""Torso""
 |BodyDef.corePart.parts.11=Exist
 |BodyDef.corePart.parts.11.def=Rib
 |BodyDef.corePart.parts.11.depth=Inside
-|BodyDef.corePart.parts.11.coverage=0.004
+|BodyDef.corePart.parts.11.coverage=0.003
 |BodyDef.corePart.parts.11.groups=""Torso""
 |BodyDef.corePart.parts.12=Exist
 |BodyDef.corePart.parts.12.def=Rib
 |BodyDef.corePart.parts.12.depth=Inside
-|BodyDef.corePart.parts.12.coverage=0.004
+|BodyDef.corePart.parts.12.coverage=0.003
 |BodyDef.corePart.parts.12.groups=""Torso""
 |BodyDef.corePart.parts.13=Exist
 |BodyDef.corePart.parts.13.def=Pelvis
@@ -721,42 +721,42 @@ Core:Defs_BodyDef_Human,"{{#set:
 |BodyDef.corePart.parts.14=Exist
 |BodyDef.corePart.parts.14.def=Spine
 |BodyDef.corePart.parts.14.depth=Inside
-|BodyDef.corePart.parts.14.coverage=0.03
+|BodyDef.corePart.parts.14.coverage=0.02
 |BodyDef.corePart.parts.14.groups=""Torso""
 |BodyDef.corePart.parts.15=Exist
 |BodyDef.corePart.parts.15.def=Stomach
 |BodyDef.corePart.parts.15.depth=Inside
-|BodyDef.corePart.parts.15.coverage=0.04
+|BodyDef.corePart.parts.15.coverage=0.02
 |BodyDef.corePart.parts.15.groups=""Torso""
 |BodyDef.corePart.parts.16=Exist
 |BodyDef.corePart.parts.16.def=Heart
 |BodyDef.corePart.parts.16.depth=Inside
-|BodyDef.corePart.parts.16.coverage=0.03
+|BodyDef.corePart.parts.16.coverage=0.02
 |BodyDef.corePart.parts.16.groups=""Torso""
 |BodyDef.corePart.parts.17=Exist
 |BodyDef.corePart.parts.17.def=LeftLung
 |BodyDef.corePart.parts.17.depth=Inside
-|BodyDef.corePart.parts.17.coverage=0.04
+|BodyDef.corePart.parts.17.coverage=0.02
 |BodyDef.corePart.parts.17.groups=""Torso""
 |BodyDef.corePart.parts.18=Exist
 |BodyDef.corePart.parts.18.def=RightLung
 |BodyDef.corePart.parts.18.depth=Inside
-|BodyDef.corePart.parts.18.coverage=0.04
+|BodyDef.corePart.parts.18.coverage=0.02
 |BodyDef.corePart.parts.18.groups=""Torso""
 |BodyDef.corePart.parts.19=Exist
 |BodyDef.corePart.parts.19.def=LeftKidney
 |BodyDef.corePart.parts.19.depth=Inside
-|BodyDef.corePart.parts.19.coverage=0.03
+|BodyDef.corePart.parts.19.coverage=0.015
 |BodyDef.corePart.parts.19.groups=""Torso""
 |BodyDef.corePart.parts.20=Exist
 |BodyDef.corePart.parts.20.def=RightKidney
 |BodyDef.corePart.parts.20.depth=Inside
-|BodyDef.corePart.parts.20.coverage=0.03
+|BodyDef.corePart.parts.20.coverage=0.015
 |BodyDef.corePart.parts.20.groups=""Torso""
 |BodyDef.corePart.parts.21=Exist
 |BodyDef.corePart.parts.21.def=Liver
 |BodyDef.corePart.parts.21.depth=Inside
-|BodyDef.corePart.parts.21.coverage=0.05
+|BodyDef.corePart.parts.21.coverage=0.025
 |BodyDef.corePart.parts.21.groups=""Torso""
 |BodyDef.corePart.parts.22=Exist
 |BodyDef.corePart.parts.22.def=Neck
@@ -779,23 +779,23 @@ Core:Defs_BodyDef_Human,"{{#set:
 |BodyDef.corePart.parts.22.parts.0.parts.0.groups=""UpperHead"",""FullHead""
 |BodyDef.corePart.parts.22.parts.0.parts.1=Exist
 |BodyDef.corePart.parts.22.parts.0.parts.1.def=LeftEye
-|BodyDef.corePart.parts.22.parts.0.parts.1.coverage=0.1
+|BodyDef.corePart.parts.22.parts.0.parts.1.coverage=0.07
 |BodyDef.corePart.parts.22.parts.0.parts.1.groups=""FullHead"",""Eyes""
 |BodyDef.corePart.parts.22.parts.0.parts.2=Exist
 |BodyDef.corePart.parts.22.parts.0.parts.2.def=RightEye
-|BodyDef.corePart.parts.22.parts.0.parts.2.coverage=0.1
+|BodyDef.corePart.parts.22.parts.0.parts.2.coverage=0.07
 |BodyDef.corePart.parts.22.parts.0.parts.2.groups=""FullHead"",""Eyes""
 |BodyDef.corePart.parts.22.parts.0.parts.3=Exist
 |BodyDef.corePart.parts.22.parts.0.parts.3.def=LeftEar
-|BodyDef.corePart.parts.22.parts.0.parts.3.coverage=0.1
+|BodyDef.corePart.parts.22.parts.0.parts.3.coverage=0.07
 |BodyDef.corePart.parts.22.parts.0.parts.3.groups=""UpperHead"",""FullHead""
 |BodyDef.corePart.parts.22.parts.0.parts.4=Exist
 |BodyDef.corePart.parts.22.parts.0.parts.4.def=RightEar
-|BodyDef.corePart.parts.22.parts.0.parts.4.coverage=0.1
+|BodyDef.corePart.parts.22.parts.0.parts.4.coverage=0.07
 |BodyDef.corePart.parts.22.parts.0.parts.4.groups=""UpperHead"",""FullHead""
 |BodyDef.corePart.parts.22.parts.0.parts.5=Exist
 |BodyDef.corePart.parts.22.parts.0.parts.5.def=Nose
-|BodyDef.corePart.parts.22.parts.0.parts.5.coverage=0.12
+|BodyDef.corePart.parts.22.parts.0.parts.5.coverage=0.10
 |BodyDef.corePart.parts.22.parts.0.parts.5.groups=""FullHead""
 |BodyDef.corePart.parts.22.parts.0.parts.6=Exist
 |BodyDef.corePart.parts.22.parts.0.parts.6.def=Jaw
@@ -804,7 +804,7 @@ Core:Defs_BodyDef_Human,"{{#set:
 |BodyDef.corePart.parts.22.parts.0.coverage=0.72
 |BodyDef.corePart.parts.22.parts.0.groups=""UpperHead"",""FullHead"",""HeadAttackTool""
 |BodyDef.corePart.parts.22.height=Top
-|BodyDef.corePart.parts.22.coverage=0.10
+|BodyDef.corePart.parts.22.coverage=0.08
 |BodyDef.corePart.parts.22.groups=""Neck""
 |BodyDef.corePart.parts.23=Exist
 |BodyDef.corePart.parts.23.def=LeftShoulder
@@ -836,30 +836,30 @@ Core:Defs_BodyDef_Human,"{{#set:
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.Count=5
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.0=Exist
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.0.def=LeftHandPinky
-|BodyDef.corePart.parts.23.parts.1.parts.2.parts.0.coverage=0.11
+|BodyDef.corePart.parts.23.parts.1.parts.2.parts.0.coverage=0.06
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.0.groups=""Hands"",""LeftHand""
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.1=Exist
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.1.def=LeftHandRingFinger
-|BodyDef.corePart.parts.23.parts.1.parts.2.parts.1.coverage=0.13
+|BodyDef.corePart.parts.23.parts.1.parts.2.parts.1.coverage=0.07
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.1.groups=""Hands"",""LeftHand""
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.2=Exist
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.2.def=LeftHandMiddleFinger
-|BodyDef.corePart.parts.23.parts.1.parts.2.parts.2.coverage=0.15
+|BodyDef.corePart.parts.23.parts.1.parts.2.parts.2.coverage=0.08
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.2.groups=""Hands"",""LeftHand""
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.3=Exist
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.3.def=LeftHandIndexFinger
-|BodyDef.corePart.parts.23.parts.1.parts.2.parts.3.coverage=0.14
+|BodyDef.corePart.parts.23.parts.1.parts.2.parts.3.coverage=0.07
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.3.groups=""Hands"",""LeftHand""
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.4=Exist
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.4.def=LeftHandThumb
-|BodyDef.corePart.parts.23.parts.1.parts.2.parts.4.coverage=0.15
+|BodyDef.corePart.parts.23.parts.1.parts.2.parts.4.coverage=0.08
 |BodyDef.corePart.parts.23.parts.1.parts.2.parts.4.groups=""Hands"",""LeftHand""
 |BodyDef.corePart.parts.23.parts.1.parts.2.height=Bottom
-|BodyDef.corePart.parts.23.parts.1.parts.2.coverage=0.25
+|BodyDef.corePart.parts.23.parts.1.parts.2.coverage=0.18
 |BodyDef.corePart.parts.23.parts.1.parts.2.groups=""Hands""
 |BodyDef.corePart.parts.23.parts.1.coverage=0.77
 |BodyDef.corePart.parts.23.parts.1.groups=""Arms""
-|BodyDef.corePart.parts.23.coverage=0.11
+|BodyDef.corePart.parts.23.coverage=0.12
 |BodyDef.corePart.parts.23.groups=""Shoulders""
 |BodyDef.corePart.parts.24=Exist
 |BodyDef.corePart.parts.24.def=RightShoulder
@@ -891,30 +891,30 @@ Core:Defs_BodyDef_Human,"{{#set:
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.Count=5
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.0=Exist
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.0.def=RightHandPinky
-|BodyDef.corePart.parts.24.parts.1.parts.2.parts.0.coverage=0.11
+|BodyDef.corePart.parts.24.parts.1.parts.2.parts.0.coverage=0.06
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.0.groups=""Hands"",""RightHand""
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.1=Exist
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.1.def=RightHandRingFinger
-|BodyDef.corePart.parts.24.parts.1.parts.2.parts.1.coverage=0.13
+|BodyDef.corePart.parts.24.parts.1.parts.2.parts.1.coverage=0.07
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.1.groups=""Hands"",""RightHand""
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.2=Exist
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.2.def=RightHandMiddleFinger
-|BodyDef.corePart.parts.24.parts.1.parts.2.parts.2.coverage=0.15
+|BodyDef.corePart.parts.24.parts.1.parts.2.parts.2.coverage=0.08
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.2.groups=""Hands"",""RightHand""
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.3=Exist
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.3.def=RightHandIndexFinger
-|BodyDef.corePart.parts.24.parts.1.parts.2.parts.3.coverage=0.14
+|BodyDef.corePart.parts.24.parts.1.parts.2.parts.3.coverage=0.07
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.3.groups=""Hands"",""RightHand""
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.4=Exist
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.4.def=RightHandThumb
-|BodyDef.corePart.parts.24.parts.1.parts.2.parts.4.coverage=0.15
+|BodyDef.corePart.parts.24.parts.1.parts.2.parts.4.coverage=0.08
 |BodyDef.corePart.parts.24.parts.1.parts.2.parts.4.groups=""Hands"",""RightHand""
 |BodyDef.corePart.parts.24.parts.1.parts.2.height=Bottom
-|BodyDef.corePart.parts.24.parts.1.parts.2.coverage=0.25
+|BodyDef.corePart.parts.24.parts.1.parts.2.coverage=0.18
 |BodyDef.corePart.parts.24.parts.1.parts.2.groups=""Hands""
 |BodyDef.corePart.parts.24.parts.1.coverage=0.77
 |BodyDef.corePart.parts.24.parts.1.groups=""Arms""
-|BodyDef.corePart.parts.24.coverage=0.11
+|BodyDef.corePart.parts.24.coverage=0.12
 |BodyDef.corePart.parts.24.groups=""Shoulders""
 |BodyDef.corePart.parts.25=Exist
 |BodyDef.corePart.parts.25.def=Waist
@@ -941,28 +941,28 @@ Core:Defs_BodyDef_Human,"{{#set:
 |BodyDef.corePart.parts.26.parts.2.parts.Count=5
 |BodyDef.corePart.parts.26.parts.2.parts.0=Exist
 |BodyDef.corePart.parts.26.parts.2.parts.0.def=LeftFootLittleToe
-|BodyDef.corePart.parts.26.parts.2.parts.0.coverage=0.1
+|BodyDef.corePart.parts.26.parts.2.parts.0.coverage=0.06
 |BodyDef.corePart.parts.26.parts.2.parts.0.groups=""Feet""
 |BodyDef.corePart.parts.26.parts.2.parts.1=Exist
 |BodyDef.corePart.parts.26.parts.2.parts.1.def=LeftFootFourthToe
-|BodyDef.corePart.parts.26.parts.2.parts.1.coverage=0.12
+|BodyDef.corePart.parts.26.parts.2.parts.1.coverage=0.07
 |BodyDef.corePart.parts.26.parts.2.parts.1.groups=""Feet""
 |BodyDef.corePart.parts.26.parts.2.parts.2=Exist
 |BodyDef.corePart.parts.26.parts.2.parts.2.def=LeftFootMiddleToe
-|BodyDef.corePart.parts.26.parts.2.parts.2.coverage=0.14
+|BodyDef.corePart.parts.26.parts.2.parts.2.coverage=0.08
 |BodyDef.corePart.parts.26.parts.2.parts.2.groups=""Feet""
 |BodyDef.corePart.parts.26.parts.2.parts.3=Exist
 |BodyDef.corePart.parts.26.parts.2.parts.3.def=LeftFootSecondToe
-|BodyDef.corePart.parts.26.parts.2.parts.3.coverage=0.15
+|BodyDef.corePart.parts.26.parts.2.parts.3.coverage=0.09
 |BodyDef.corePart.parts.26.parts.2.parts.3.groups=""Feet""
 |BodyDef.corePart.parts.26.parts.2.parts.4=Exist
 |BodyDef.corePart.parts.26.parts.2.parts.4.def=LeftFootBigToe
-|BodyDef.corePart.parts.26.parts.2.parts.4.coverage=0.16
+|BodyDef.corePart.parts.26.parts.2.parts.4.coverage=0.10
 |BodyDef.corePart.parts.26.parts.2.parts.4.groups=""Feet""
-|BodyDef.corePart.parts.26.parts.2.coverage=0.25
+|BodyDef.corePart.parts.26.parts.2.coverage=0.15
 |BodyDef.corePart.parts.26.parts.2.groups=""Feet""
 |BodyDef.corePart.parts.26.height=Bottom
-|BodyDef.corePart.parts.26.coverage=0.1
+|BodyDef.corePart.parts.26.coverage=0.14
 |BodyDef.corePart.parts.26.groups=""Legs""
 |BodyDef.corePart.parts.27=Exist
 |BodyDef.corePart.parts.27.def=RightLeg
@@ -984,28 +984,28 @@ Core:Defs_BodyDef_Human,"{{#set:
 |BodyDef.corePart.parts.27.parts.2.parts.Count=5
 |BodyDef.corePart.parts.27.parts.2.parts.0=Exist
 |BodyDef.corePart.parts.27.parts.2.parts.0.def=RightFootLittleToe
-|BodyDef.corePart.parts.27.parts.2.parts.0.coverage=0.1
+|BodyDef.corePart.parts.27.parts.2.parts.0.coverage=0.06
 |BodyDef.corePart.parts.27.parts.2.parts.0.groups=""Feet""
 |BodyDef.corePart.parts.27.parts.2.parts.1=Exist
 |BodyDef.corePart.parts.27.parts.2.parts.1.def=RightFootFourthToe
-|BodyDef.corePart.parts.27.parts.2.parts.1.coverage=0.12
+|BodyDef.corePart.parts.27.parts.2.parts.1.coverage=0.07
 |BodyDef.corePart.parts.27.parts.2.parts.1.groups=""Feet""
 |BodyDef.corePart.parts.27.parts.2.parts.2=Exist
 |BodyDef.corePart.parts.27.parts.2.parts.2.def=RightFootMiddleToe
-|BodyDef.corePart.parts.27.parts.2.parts.2.coverage=0.14
+|BodyDef.corePart.parts.27.parts.2.parts.2.coverage=0.08
 |BodyDef.corePart.parts.27.parts.2.parts.2.groups=""Feet""
 |BodyDef.corePart.parts.27.parts.2.parts.3=Exist
 |BodyDef.corePart.parts.27.parts.2.parts.3.def=RightFootSecondToe
-|BodyDef.corePart.parts.27.parts.2.parts.3.coverage=0.15
+|BodyDef.corePart.parts.27.parts.2.parts.3.coverage=0.09
 |BodyDef.corePart.parts.27.parts.2.parts.3.groups=""Feet""
 |BodyDef.corePart.parts.27.parts.2.parts.4=Exist
 |BodyDef.corePart.parts.27.parts.2.parts.4.def=RightFootBigToe
-|BodyDef.corePart.parts.27.parts.2.parts.4.coverage=0.16
+|BodyDef.corePart.parts.27.parts.2.parts.4.coverage=0.10
 |BodyDef.corePart.parts.27.parts.2.parts.4.groups=""Feet""
-|BodyDef.corePart.parts.27.parts.2.coverage=0.25
+|BodyDef.corePart.parts.27.parts.2.coverage=0.15
 |BodyDef.corePart.parts.27.parts.2.groups=""Feet""
 |BodyDef.corePart.parts.27.height=Bottom
-|BodyDef.corePart.parts.27.coverage=0.1
+|BodyDef.corePart.parts.27.coverage=0.14
 |BodyDef.corePart.parts.27.groups=""Legs""
 |BodyDef.corePart.height=Middle
 |BodyDef.corePart.depth=Outside
@@ -7146,6 +7146,7 @@ Core:Defs_DifficultyDef_Easy,"{{#set:
 |DifficultyDef.cropYieldFactor=1.20
 |DifficultyDef.diseaseIntervalFactor=1.5
 |DifficultyDef.enemyReproductionRateFactor=0.4
+|DifficultyDef.playerPawnInfectionChanceFactor=0.75
 }}"
 Core:Defs_DifficultyDef_Hard,"{{#set:
 |dataType=Def
@@ -7205,6 +7206,7 @@ Core:Defs_DifficultyDef_Peaceful,"{{#set:
 |DifficultyDef.cropYieldFactor=1.30
 |DifficultyDef.diseaseIntervalFactor=3
 |DifficultyDef.enemyReproductionRateFactor=0.1
+|DifficultyDef.playerPawnInfectionChanceFactor=0.3
 }}"
 Core:Defs_DifficultyDef_VeryEasy,"{{#set:
 |dataType=Def
@@ -7223,6 +7225,7 @@ Core:Defs_DifficultyDef_VeryEasy,"{{#set:
 |DifficultyDef.cropYieldFactor=1.30
 |DifficultyDef.diseaseIntervalFactor=3
 |DifficultyDef.enemyReproductionRateFactor=0.1
+|DifficultyDef.playerPawnInfectionChanceFactor=0.5
 }}"
 Core:Defs_DifficultyDef_VeryHard,"{{#set:
 |dataType=Def
@@ -7242,6 +7245,7 @@ Core:Defs_DifficultyDef_VeryHard,"{{#set:
 |DifficultyDef.cropYieldFactor=0.9
 |DifficultyDef.diseaseIntervalFactor=0.9
 |DifficultyDef.enemyReproductionRateFactor=1
+|DifficultyDef.playerPawnInfectionChanceFactor=1.1
 }}"
 Core:Defs_DrawTargetDef_Main,"{{#set:
 |dataType=Def
@@ -10144,7 +10148,7 @@ Core:Defs_HediffDef_Bite,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.35
+|HediffDef.comps.1.infectionChance=0.25
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=bite scar
@@ -10278,7 +10282,7 @@ Core:Defs_HediffDef_Burn,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.35
+|HediffDef.comps.1.infectionChance=0.25
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=burn scar
@@ -10492,7 +10496,7 @@ Core:Defs_HediffDef_Crush,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.15
+|HediffDef.comps.1.infectionChance=0.10
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=scar
@@ -10567,7 +10571,7 @@ Core:Defs_HediffDef_Cut,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.15
+|HediffDef.comps.1.infectionChance=0.10
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=cut scar
@@ -10798,7 +10802,7 @@ Core:Defs_HediffDef_Flu,"{{#set:
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_TendDuration
 |HediffDef.comps.1.tendDuration=30000
-|HediffDef.comps.1.severityPerDayTended=-0.09
+|HediffDef.comps.1.severityPerDayTended=-0.13
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_Immunizable
 |HediffDef.comps.2.immunityPerDayNotSick=-0.06
@@ -10944,7 +10948,7 @@ Core:Defs_HediffDef_Frostbite,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.35
+|HediffDef.comps.1.infectionChance=0.25
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=frostbite scar
@@ -11114,7 +11118,7 @@ Core:Defs_HediffDef_Gunshot,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.15
+|HediffDef.comps.1.infectionChance=0.10
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=old gunshot
@@ -11614,7 +11618,7 @@ Core:Defs_HediffDef_Malaria,"{{#set:
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_TendDuration
 |HediffDef.comps.1.tendDuration=30000
-|HediffDef.comps.1.severityPerDayTended=-0.1145
+|HediffDef.comps.1.severityPerDayTended=-0.20
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_Immunizable
 |HediffDef.comps.2.immunityPerDayNotSick=-0.03
@@ -11917,7 +11921,7 @@ Core:Defs_HediffDef_Plague,"{{#set:
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_TendDuration
 |HediffDef.comps.1.tendDuration=30000
-|HediffDef.comps.1.severityPerDayTended=-0.30
+|HediffDef.comps.1.severityPerDayTended=-0.38
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_Immunizable
 |HediffDef.comps.2.immunityPerDayNotSick=-0.02
@@ -12217,7 +12221,7 @@ Core:Defs_HediffDef_Scratch,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.15
+|HediffDef.comps.1.infectionChance=0.10
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=scratch scar
@@ -12365,7 +12369,7 @@ Core:Defs_HediffDef_Shredded,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.15
+|HediffDef.comps.1.infectionChance=0.10
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=scar
@@ -12447,7 +12451,7 @@ Core:Defs_HediffDef_SleepingSickness,"{{#set:
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_TendDuration
 |HediffDef.comps.1.tendDuration=80000
-|HediffDef.comps.1.severityPerDayTended=-0.025
+|HediffDef.comps.1.severityPerDayTended=-0.033
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_Immunizable
 |HediffDef.comps.2.immunityPerDayNotSick=-0.02
@@ -12690,7 +12694,7 @@ Core:Defs_HediffDef_Stab,"{{#set:
 |HediffDef.comps.0.labelSolidTendedWell.zh-tw=已固定
 |HediffDef.comps.1=Exist
 |HediffDef.comps.1.Class=HediffCompProperties_Infecter
-|HediffDef.comps.1.infectionChance=0.15
+|HediffDef.comps.1.infectionChance=0.10
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_GetsOld
 |HediffDef.comps.2.oldLabel=stab scar
@@ -13038,9 +13042,9 @@ Core:Defs_HediffDef_WoundInfection,"{{#set:
 |HediffDef.comps.2=Exist
 |HediffDef.comps.2.Class=HediffCompProperties_Immunizable
 |HediffDef.comps.2.immunityPerDayNotSick=-0.4
-|HediffDef.comps.2.immunityPerDaySick=0.62
-|HediffDef.comps.2.severityPerDayNotImmune=0.86
-|HediffDef.comps.2.severityPerDayImmune=-0.667
+|HediffDef.comps.2.immunityPerDaySick=0.66
+|HediffDef.comps.2.severityPerDayNotImmune=0.84
+|HediffDef.comps.2.severityPerDayImmune=-0.7
 |HediffDef.initialSeverity=0.001
 |HediffDef.lethalSeverity=1
 |HediffDef.stages=Exist
@@ -13519,8 +13523,8 @@ Core:Defs_IncidentDef_CropBlight,"{{#set:
 |IncidentDef.workerClass=IncidentWorker_CropBlight
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
-|IncidentDef.baseChance=0.4
-|IncidentDef.minRefireDays=35
+|IncidentDef.baseChance=0.35
+|IncidentDef.minRefireDays=30
 }}"
 Core:Defs_IncidentDef_Disease_FibrousMechanites,"{{#set:
 |dataType=Def
@@ -13920,7 +13924,7 @@ Core:Defs_IncidentDef_QuestItemStash,"{{#set:
 |IncidentDef.baseChance=1.3
 |IncidentDef.minRefireDays=5
 |IncidentDef.letterText={0}, {1} of {2}, has sent us a message.<br/><br/>They've learned that a collection of valuable items have been left for the taking not far from us. The collection consists of:<br/><br/>{3}<br/><br/>Unfortunately, it won’t last - others will take the items in {4} days if we don't.<br/><br/>Valuables tend to attract danger, so beware.<br/><br/>{5}
-|IncidentDef.letterText.zh-cn={2}的{1}，{0}，给我们发送了一条消息。<br/><br/>他们了解到一批贵重物品在离我们不远处被留了下来等待接收。这批物品包含：<br/><br/>{3}遗憾的是，时间并不充裕——如果我们不接收这批物品，其他人会在{4}天后来接收。<br/><br/>机会往往伴随着风险，务必当心。<br/><br/>{5}
+|IncidentDef.letterText.zh-cn={2}的{1}，{0}，给我们发送了一条消息。<br/><br/>他们了解到一批贵重物品在离我们不远处被留了下来等待接收。这批物品包含：<br/><br/>{3}<br/><br/>遗憾的是，时间并不充裕——如果我们不接收这批物品，其他人会在{4}天后来接收。<br/><br/>机会往往伴随着风险，务必当心。<br/><br/>{5}
 |IncidentDef.letterText.zh-tw={0}, {1} of {2}, has sent us a message.<br/><br/>They've learned that a collection of valuable items have been left for the taking not far from us. The collection consists of:<br/><br/>{3}<br/><br/>Unfortunately, it won’t last - others will take the items in {4} days if we don't.<br/><br/>Valuables tend to attract danger, so beware.<br/><br/>{5}
 |IncidentDef.letterLabel=Item stash opportunity
 |IncidentDef.letterLabel.zh-cn=物品藏匿点机会
@@ -34548,12 +34552,12 @@ Core:Defs_ScenarioDef_Crashlanded,"{{#set:
 |ScenarioDef.scenario.parts.4.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.4.def=StartingThing_Defined
 |ScenarioDef.scenario.parts.4.thingDef=MealSurvivalPack
-|ScenarioDef.scenario.parts.4.count=42
+|ScenarioDef.scenario.parts.4.count=44
 |ScenarioDef.scenario.parts.5=Exist
 |ScenarioDef.scenario.parts.5.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.5.def=StartingThing_Defined
 |ScenarioDef.scenario.parts.5.thingDef=Medicine
-|ScenarioDef.scenario.parts.5.count=24
+|ScenarioDef.scenario.parts.5.count=30
 |ScenarioDef.scenario.parts.6=Exist
 |ScenarioDef.scenario.parts.6.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.6.def=StartingThing_Defined
@@ -34667,12 +34671,12 @@ Core:Defs_ScenarioDef_LostTribe,"{{#set:
 |ScenarioDef.scenario.parts.5.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.5.def=StartingThing_Defined
 |ScenarioDef.scenario.parts.5.thingDef=Pemmican
-|ScenarioDef.scenario.parts.5.count=220
+|ScenarioDef.scenario.parts.5.count=340
 |ScenarioDef.scenario.parts.6=Exist
 |ScenarioDef.scenario.parts.6.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.6.def=StartingThing_Defined
 |ScenarioDef.scenario.parts.6.thingDef=HerbalMedicine
-|ScenarioDef.scenario.parts.6.count=12
+|ScenarioDef.scenario.parts.6.count=20
 |ScenarioDef.scenario.parts.7=Exist
 |ScenarioDef.scenario.parts.7.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.7.def=StartingThing_Defined
@@ -34723,18 +34727,18 @@ Core:Defs_ScenarioDef_TheRichExplorer,"{{#set:
 |ScenarioDef.label=The Rich Explorer
 |ScenarioDef.label.zh-cn=富有的探险家
 |ScenarioDef.label.zh-tw=富有冒險家
-|ScenarioDef.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.
-|ScenarioDef.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。
+|ScenarioDef.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.<br/><br/>Note: Since your starting character will lack some skills, this is an especially difficult scenario.
+|ScenarioDef.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。<br/><br/>注意：你的初始角色会缺少部分技能，这是一个特别困难的剧本。
 |ScenarioDef.description.zh-tw=當你離開你閃耀世界的家，人們都認為你瘋了，但你嚮往著天上的星星，渴望真實的冒險，而不是全像模擬的虛假體驗。現在，經過了數十年漫長的宇宙航行，你從休眠艙中甦醒，降落在這片未知的邊緣世界上，冒險正在前方等待著你！
 |ScenarioDef.scenario=Exist
 |ScenarioDef.scenario.name=The Rich Explorer
 |ScenarioDef.scenario.name.zh-cn=富有的探险家
 |ScenarioDef.scenario.name.zh-tw=富有冒險家
-|ScenarioDef.scenario.summary=One rich explorer out to experience the universe.
+|ScenarioDef.scenario.summary=One rich explorer out to experience the universe. Extra difficult.
 |ScenarioDef.scenario.summary.zh-cn=一个富有的探险家在宇宙中前所未有的经历。
 |ScenarioDef.scenario.summary.zh-tw=一名富有探險家的宇宙大冒險。
-|ScenarioDef.scenario.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.
-|ScenarioDef.scenario.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。
+|ScenarioDef.scenario.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.<br/><br/>Note: Since your starting character will lack some skills, this is an especially difficult scenario.
+|ScenarioDef.scenario.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。<br/><br/>注意：你的初始角色会缺少部分技能，这是一个特别困难的剧本。
 |ScenarioDef.scenario.description.zh-tw=當你離開你閃耀世界的家，人們都認為你瘋了，但你嚮往著天上的星星，渴望真實的冒險，而不是全像模擬的虛假體驗。現在，經過了數十年漫長的宇宙航行，你從休眠艙中甦醒，降落在這片未知的邊緣世界上，冒險正在前方等待著你！
 |ScenarioDef.scenario.playerFaction=Exist
 |ScenarioDef.scenario.playerFaction.def=PlayerFaction
@@ -34802,7 +34806,7 @@ Core:Defs_ScenarioDef_TheRichExplorer,"{{#set:
 |ScenarioDef.scenario.parts.12.Class=ScenPart_GameStartDialog
 |ScenarioDef.scenario.parts.12.def=GameStartDialog
 |ScenarioDef.scenario.parts.12.text=The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.<br/><br/>Now, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you.
-|ScenarioDef.scenario.parts.12.text.zh-cn=无论是神经模拟器、全息游戏，还是放纵的酒会都无法满足你，你想要的更多，你想感受人生的坎坷和因果机缘，就像历史书里描述的那样。你希望了解真正的挑战与后果是什么。<br/><br/>而此刻，经过了数十年的低温休眠，你降落在了这片未知的边缘世界上。真实的挑战在等待着你。
+|ScenarioDef.scenario.parts.12.text.zh-cn=无论是神经模拟器、全息游戏，还是放纵的酒会都无法满足你，你想要的更多，你想感受人生的坎坷和因果机缘，就像历史书里描述的那样。你希望了解真正的挑战与后果是什么。<br/><br/>而此刻，经过了数十年的低温休眠，你降落在了这片未知的边缘世界上。真实的挑战正等待着你。
 |ScenarioDef.scenario.parts.12.text.zh-tw=神經模擬、全像遊戲和無盡的宴會從來不能滿足你，你渴望更多關於勇氣與奮鬥的真實生活。如同歷史書所記述的，你希望知道真正的挑戰與奮鬥是什麼感覺。<br/><br/>現在，經過了數十年漫長的宇宙航行，你從休眠艙中甦醒，降落在這片未知的邊緣世界上，冒險正在前方等待著你！
 |ScenarioDef.scenario.parts.12.closeSound=GameStartSting
 }}"
@@ -44177,7 +44181,16 @@ Core:Defs_StatDef_AnimalGatherYield,"{{#set:
 |StatDef.skillNeedFactors.0=Exist
 |StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
 |StatDef.skillNeedFactors.0.skill=Animals
-|StatDef.skillNeedFactors.0.factorsPerLevel=""0.5"",""0.6"",""0.7"",""0.75"",""0.8"",""0.85"",""0.9"",""0.925"",""0.95"",""0.96"",""0.97"",""0.98"",""0.99"",""0.99"",""0.99"",""1"",""1"",""1"",""1"",""1"",""1""
+|StatDef.skillNeedFactors.0.factorsPerLevel=""0.6"",""0.7"",""0.75"",""0.8"",""0.85"",""0.90"",""0.95"",""0.975"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1""
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Manipulation
+|StatDef.capacityFactors.0.weight=0.3
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Sight
+|StatDef.capacityFactors.1.weight=0.2
+|StatDef.capacityFactors.1.max=1
 }}"
 Core:Defs_StatDef_ArmorRating_Blunt,"{{#set:
 |dataType=Def
@@ -44705,7 +44718,7 @@ Core:Defs_StatDef_ConstructionSpeed,"{{#set:
 |StatDef.capacityFactors.0.weight=1
 |StatDef.capacityFactors.1=Exist
 |StatDef.capacityFactors.1.capacity=Sight
-|StatDef.capacityFactors.1.weight=0.5
+|StatDef.capacityFactors.1.weight=0.2
 |StatDef.capacityFactors.1.max=1
 }}"
 Core:Defs_StatDef_ConstructSuccessChance,"{{#set:
@@ -44727,12 +44740,12 @@ Core:Defs_StatDef_ConstructSuccessChance,"{{#set:
 |StatDef.skillNeedFactors.0=Exist
 |StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
 |StatDef.skillNeedFactors.0.skill=Construction
-|StatDef.skillNeedFactors.0.factorsPerLevel=""0.75"",""0.80"",""0.85"",""0.88"",""0.90"",""0.93"",""0.95"",""0.96"",""0.97"",""0.975"",""0.98"",""0.985"",""0.99"",""0.99"",""0.99"",""0.99"",""1"",""1"",""1"",""1"",""1""
+|StatDef.skillNeedFactors.0.factorsPerLevel=""0.75"",""0.80"",""0.85"",""0.875"",""0.90"",""0.925"",""0.95"",""0.975"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1""
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
 |StatDef.capacityFactors.0.capacity=Manipulation
-|StatDef.capacityFactors.0.weight=0.7
+|StatDef.capacityFactors.0.weight=0.3
 |StatDef.capacityFactors.1=Exist
 |StatDef.capacityFactors.1.capacity=Sight
 |StatDef.capacityFactors.1.weight=0.2
@@ -44990,12 +45003,12 @@ Core:Defs_StatDef_FixBrokenDownBuildingSuccessChance,"{{#set:
 |StatDef.skillNeedFactors.0=Exist
 |StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
 |StatDef.skillNeedFactors.0.skill=Construction
-|StatDef.skillNeedFactors.0.factorsPerLevel=""0.75"",""0.80"",""0.85"",""0.88"",""0.90"",""0.93"",""0.95"",""0.96"",""0.97"",""0.975"",""0.98"",""0.985"",""0.99"",""0.99"",""0.99"",""0.99"",""1"",""1"",""1"",""1"",""1""
+|StatDef.skillNeedFactors.0.factorsPerLevel=""0.75"",""0.80"",""0.85"",""0.875"",""0.90"",""0.925"",""0.95"",""0.975"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1""
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
 |StatDef.capacityFactors.0.capacity=Manipulation
-|StatDef.capacityFactors.0.weight=0.7
+|StatDef.capacityFactors.0.weight=0.3
 |StatDef.capacityFactors.1=Exist
 |StatDef.capacityFactors.1.capacity=Sight
 |StatDef.capacityFactors.1.weight=0.2
@@ -45434,8 +45447,8 @@ Core:Defs_StatDef_MedicalSurgerySuccessChance,"{{#set:
 |StatDef.label=medical surgery success chance
 |StatDef.label.zh-cn=医疗手术成功几率
 |StatDef.label.zh-tw=手術成功率
-|StatDef.description=The likelihood that a character will succeed when attempting to perform a medical surgery. Failures can result in simple wasted time and medicine, or catastrophic damage to the patient.
-|StatDef.description.zh-cn=当角色尝试执行医疗手术时成功的可能性。手术出错时，轻则浪费时间和医药，重则给病人带来灾难性的伤害。
+|StatDef.description=The likelihood that a character will succeed when attempting to perform a medical surgery. Failures can result in simple wasted time and medicine, or catastrophic damage to the patient. This base success chance is also affected by the facilities and medicine used in the operation, and the difficulty of the operation.
+|StatDef.description.zh-cn=当角色尝试执行医疗手术时成功的可能性。手术出错时，轻则浪费时间和医药，重则给病人带来灾难性的伤害。此项基础几率还会受到手术中所使用的设备和医药，以及手术难度的影响。
 |StatDef.description.zh-tw=此角色執行手術時的成功機率，輕微的失誤可能只需要花費更多時間與藥即可彌補，但重大的失誤可能帶給病人災難性的傷害。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
@@ -45763,16 +45776,16 @@ Core:Defs_StatDef_MiningYield,"{{#set:
 |StatDef.skillNeedFactors.0=Exist
 |StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
 |StatDef.skillNeedFactors.0.skill=Mining
-|StatDef.skillNeedFactors.0.factorsPerLevel=""0.6"",""0.7"",""0.8"",""0.85"",""0.875"",""0.9"",""0.925"",""0.95"",""0.96"",""0.96"",""0.97"",""0.97"",""0.98"",""0.98"",""0.99"",""0.99"",""1"",""1"",""1"",""1"",""1""
+|StatDef.skillNeedFactors.0.factorsPerLevel=""0.6"",""0.7"",""0.8"",""0.85"",""0.9"",""0.925"",""0.95"",""0.975"",""1"",""1.01"",""1.02"",""1.03"",""1.04"",""1.05"",""1.06"",""1.07"",""1.08"",""1.09"",""1.10"",""1.12"",""1.13""
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
 |StatDef.capacityFactors.0.capacity=Manipulation
-|StatDef.capacityFactors.0.weight=1
+|StatDef.capacityFactors.0.weight=0.3
 |StatDef.capacityFactors.0.max=1
 |StatDef.capacityFactors.1=Exist
 |StatDef.capacityFactors.1.capacity=Sight
-|StatDef.capacityFactors.1.weight=0.1
+|StatDef.capacityFactors.1.weight=0.2
 |StatDef.capacityFactors.1.max=1
 }}"
 Core:Defs_StatDef_MoveSpeed,"{{#set:
@@ -45807,8 +45820,8 @@ Core:Defs_StatDef_PlantHarvestYield,"{{#set:
 |StatDef.label=plant harvest yield
 |StatDef.label.zh-cn=植物收获产出
 |StatDef.label.zh-tw=作物收穫倍率
-|StatDef.description=The yield someone gets when harvesting plants. Low yields give a chance that this person will accidentally destroy the harvest.
-|StatDef.description.zh-cn=收获植物时获取的产出。低产出会导致此人有一定几率意外地毁坏收获物。
+|StatDef.description=The yield someone gets when harvesting plants. Low yields give a chance that this person will accidentally waste the harvest.
+|StatDef.description.zh-cn=收获植物时获取的产出。低产出会导致此人有一定几率意外地浪费收获物。
 |StatDef.description.zh-tw=這名角色收穫作物時的產量加成。效率越低的角色越有可能會收穫失敗而破壞作物。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
@@ -45818,15 +45831,15 @@ Core:Defs_StatDef_PlantHarvestYield,"{{#set:
 |StatDef.skillNeedFactors.0=Exist
 |StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
 |StatDef.skillNeedFactors.0.skill=Growing
-|StatDef.skillNeedFactors.0.factorsPerLevel=""0.50"",""0.60"",""0.70"",""0.75"",""0.80"",""0.85"",""0.875"",""0.90"",""0.925"",""0.95"",""0.96"",""0.97"",""0.98"",""0.99"",""0.99"",""0.99"",""1"",""1"",""1"",""1"",""1""
+|StatDef.skillNeedFactors.0.factorsPerLevel=""0.6"",""0.7"",""0.75"",""0.8"",""0.85"",""0.90"",""0.95"",""0.975"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1"",""1""
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
 |StatDef.capacityFactors.0.capacity=Manipulation
-|StatDef.capacityFactors.0.weight=0.7
+|StatDef.capacityFactors.0.weight=0.3
 |StatDef.capacityFactors.1=Exist
 |StatDef.capacityFactors.1.capacity=Sight
-|StatDef.capacityFactors.1.weight=0.1
+|StatDef.capacityFactors.1.weight=0.2
 |StatDef.capacityFactors.1.max=1
 }}"
 Core:Defs_StatDef_PlantWorkSpeed,"{{#set:
@@ -45858,7 +45871,7 @@ Core:Defs_StatDef_PlantWorkSpeed,"{{#set:
 |StatDef.capacityFactors.0.weight=1
 |StatDef.capacityFactors.1=Exist
 |StatDef.capacityFactors.1.capacity=Sight
-|StatDef.capacityFactors.1.weight=0.5
+|StatDef.capacityFactors.1.weight=0.3
 |StatDef.capacityFactors.1.max=1
 }}"
 Core:Defs_StatDef_PsychicSensitivity,"{{#set:
@@ -45954,7 +45967,7 @@ Core:Defs_StatDef_ResearchSpeed,"{{#set:
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
 |StatDef.capacityFactors.0.capacity=Manipulation
-|StatDef.capacityFactors.0.weight=1
+|StatDef.capacityFactors.0.weight=0.5
 |StatDef.capacityFactors.0.max=1.1
 |StatDef.capacityFactors.1=Exist
 |StatDef.capacityFactors.1.capacity=Sight
@@ -46072,7 +46085,7 @@ Core:Defs_StatDef_ShootingAccuracy,"{{#set:
 |StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
 |StatDef.skillNeedFactors.0.skill=Shooting
 |StatDef.skillNeedFactors.0.reportInverse=true
-|StatDef.skillNeedFactors.0.factorsPerLevel=""0.50"",""0.70"",""0.80"",""0.90"",""0.93"",""0.95"",""0.96"",""0.965"",""0.97"",""0.975"",""0.98"",""0.985"",""0.9875"",""0.99"",""0.991"",""0.992"",""0.993"",""0.994"",""0.995"",""0.996"",""0.997""
+|StatDef.skillNeedFactors.0.factorsPerLevel=""0.00"",""0.05"",""0.10"",""0.15"",""0.20"",""0.25"",""0.30"",""0.35"",""0.40"",""0.45"",""0.50"",""0.55"",""0.60"",""0.65"",""0.70"",""0.75"",""0.80"",""0.85"",""0.90"",""0.95"",""1.00""
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
@@ -46082,7 +46095,7 @@ Core:Defs_StatDef_ShootingAccuracy,"{{#set:
 |StatDef.capacityFactors.1.capacity=Manipulation
 |StatDef.capacityFactors.1.weight=1
 |StatDef.postProcessCurve=Exist
-|StatDef.postProcessCurve.points=""(0,0)"",""(0.2,0.7)"",""(0.5, 0.86)"",""(0.8, 0.93)"",""(0.96,0.96)"",""(1.0,0.98)"",""(1.1,0.985)"",""(1.3,0.99)"",""(1.8,0.995)"",""(10,1)""
+|StatDef.postProcessCurve.points=""(-1.0, 0.70)"",""(-0.5, 0.80)"",""(-0.3, 0.83)"",""(-0.2, 0.85)"",""(-0.1, 0.87)"",""(0.0, 0.89)"",""(0.1, 0.93)"",""(0.2, 0.94)"",""(0.3, 0.95)"",""(0.4, 0.96)"",""(0.5, 0.97)"",""(0.6, 0.975)"",""(0.7, 0.98)"",""(0.8, 0.98333)"",""(0.9, 0.98666)"",""(1.0, 0.99)"",""(1.1, 0.9925)"",""(1.3, 0.995)"",""(1.5, 0.9965)"",""(2.0, 0.998)"",""(3.0, 0.999)""
 }}"
 Core:Defs_StatDef_SmeltingSpeed,"{{#set:
 |dataType=Def
@@ -46529,9 +46542,9 @@ Core:Defs_StorytellerDef_Cassandra,"{{#set:
 |StorytellerDef.comps.1.minDaysPassed=5
 |StorytellerDef.comps.1.mtbDaysThreatSmall=3.75
 |StorytellerDef.comps.1.mtbDaysThreatBig=1.20
-|StorytellerDef.comps.1.threatOffDays=5.8
+|StorytellerDef.comps.1.threatOffDays=6.3
 |StorytellerDef.comps.1.threatOnDays=4.6
-|StorytellerDef.comps.1.minDaysBetweenThreatBigs=1.9
+|StorytellerDef.comps.1.minDaysBetweenThreatBigs=2.1
 |StorytellerDef.comps.2=Exist
 |StorytellerDef.comps.2.Class=StorytellerCompProperties_CategoryMTB
 |StorytellerDef.comps.2.minDaysPassed=5
@@ -46593,9 +46606,9 @@ Core:Defs_StorytellerDef_Phoebe,"{{#set:
 |StorytellerDef.comps.1.minDaysPassed=5
 |StorytellerDef.comps.1.mtbDaysThreatSmall=8
 |StorytellerDef.comps.1.mtbDaysThreatBig=1.25
-|StorytellerDef.comps.1.threatOffDays=8.5
-|StorytellerDef.comps.1.threatOnDays=8.5
-|StorytellerDef.comps.1.minDaysBetweenThreatBigs=12.5
+|StorytellerDef.comps.1.threatOffDays=9.0
+|StorytellerDef.comps.1.threatOnDays=9.0
+|StorytellerDef.comps.1.minDaysBetweenThreatBigs=13.0
 |StorytellerDef.comps.2=Exist
 |StorytellerDef.comps.2.Class=StorytellerCompProperties_CategoryMTB
 |StorytellerDef.comps.2.minDaysPassed=5
@@ -46653,7 +46666,7 @@ Core:Defs_StorytellerDef_Randy,"{{#set:
 |StorytellerDef.comps.0.Class=StorytellerCompProperties_RandomMain
 |StorytellerDef.comps.0.minDaysPassed=1
 |StorytellerDef.comps.0.allowedTargetTypes=MapPlayerHome
-|StorytellerDef.comps.0.mtbDays=1.13
+|StorytellerDef.comps.0.mtbDays=1.14
 |StorytellerDef.comps.0.categoryWeights=""Misc"",""5.5"";""OrbitalVisitor"",""1"";""ThreatBig"",""1"";""ThreatSmall"",""0.9"";""AllyArrival"",""1"";""AllyAssistance"",""0.5"";""ShipChunkDrop"",""0.5""
 |StorytellerDef.comps.0.maxThreatBigIntervalDays=13
 |StorytellerDef.comps.1=Exist
@@ -46859,7 +46872,7 @@ Core:Defs_TaleDef_CraftedArt,"{{#set:
 |TaleDef.type=Volatile
 |TaleDef.taleClass=Tale_SinglePawnAndThing
 |TaleDef.rulePack=Exist
-|TaleDef.rulePack.rulesStrings=""tale_noun->the time [pawn_nameShortDef] crafted [thing_labelIndefinite]"",""image->[pawn_nameFull] crafting [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""image->[pawn_nameFull] completing [pawn_possessive] work on [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""image->[pawn_nameFull] working on [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""image->[pawn_nameFull] making [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""circumstance_phrase->with total concentration"",""circumstance_phrase->with a look of satisfaction on [pawn_possessive] face"",""circumstance_phrase->at [pawn_possessive] work bench"",""circumstance_phrase->with great intensity"",""desc_sentence->There are tools scattered all around."",""desc_sentence->[pawn_pronoun] is scratched and scarred from work injuries."",""desc_sentence->[pawn_pronoun] is covered in sweat."",""desc_sentence->The work area is highly organized, with every tool in its proper place."",""desc_sentence->[pawn_pronoun] is rendered in an exaggerated way to appear more powerful."",""desc_sentence->The size of [thing_labelDefinite] is exaggerated to emphasize its importance."",""desc_sentence->[thing_labelDefinite] has an artistic glow added to it. It seems almost angelic."",""desc_sentence->[pawn_nameShortDef] is faded into the background to emphasize [pawn_possessive] new creation."",""desc_sentence->[quantity_adjphrase] onlookers surround [pawn_objective]."",""desc_sentence->A crowd cheers from the background."",""quality_sentence->[thing_labelDefinite] looks to be of [thing_quality] quality"",""quality_sentence->[thing_labelDefinite] is of [thing_quality] quality"",""quality_sentence->[pawn_nameShortDef]'s work is of [thing_quality] quality"",""title_sentence->[pawn_nameShortDef]'s title for [thing_labelDefinite] is written underneath: [thing_title]"",""title_sentence->[thing_labelDefinite] is emblazoned with its title: [thing_title]"",""title_sentence->The title of [thing_labelDefinite], [thing_title], hangs in the background"",""tale_noun->[pawn_nameShortDef]制作[thing_labelIndefinite]的时光"",""image->[pawn_nameFull]正[circumstance_group]制作[thing_labelIndefinite]。[quality_sentence]。[title_sentence]"",""image->[pawn_nameFull]正[circumstance_group]完成[pawn_possessive][thing_labelIndefinite]的工作。[quality_sentence]。[title_sentence]"",""image->[pawn_nameFull]正[circumstance_group]致力于完成[thing_labelIndefinite]。[quality_sentence]。[title_sentence]"",""image->[pawn_nameFull]正[circumstance_group]做[thing_labelIndefinite]。[quality_sentence]。[title_sentence]"",""circumstance_phrase->全身心投入地"",""circumstance_phrase->一脸满足地"",""circumstance_phrase->在[pawn_possessive]工作台旁"",""circumstance_phrase->极度紧张地"",""desc_sentence->有一些工具散落在周围。"",""desc_sentence->[pawn_pronoun]在工作中受伤了，留下了疤痕。"",""desc_sentence->[pawn_pronoun]大汗淋漓。"",""desc_sentence->工作环境非常整洁，所有工具都放置在合适的位置。"",""desc_sentence->[pawn_pronoun]以夸张的表现方式描绘，显得更有力。"",""desc_sentence->[thing_labelDefinite]夸张的大小强调了其重要性。"",""desc_sentence->[thing_labelDefinite]被添加了艺术性的光辉，看起来如同天使一般。"",""desc_sentence->[pawn_nameShortDef]逐渐淡化到背景中，以强调[pawn_possessive]新作。"",""desc_sentence->[quantity_adjphrase]旁观者们围绕着[pawn_objective]。"",""desc_sentence->一群人在背景中欢呼。"",""quality_sentence->[thing_labelDefinite]看来是[thing_quality]级的品质"",""quality_sentence->[thing_labelDefinite]是[thing_quality]级的品质"",""quality_sentence->[pawn_nameShortDef]的作品是[thing_quality]级的品质"",""title_sentence->[pawn_nameShortDef]给[thing_labelDefinite]起了以下的标题：[thing_title]"",""title_sentence->[thing_labelDefinite]上被纹章装饰着的标题：[thing_title]"",""title_sentence->[thing_labelDefinite]的标题，[thing_title]，悬在背景中"",""tale_noun->the time [pawn_nameShortDef] crafted [thing_labelIndefinite]"",""image->[pawn_nameFull] crafting [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""image->[pawn_nameFull] completing [pawn_possessive] work on [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""image->[pawn_nameFull] working on [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""image->[pawn_nameFull] making [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""circumstance_phrase->with total concentration"",""circumstance_phrase->with a look of satisfaction on [pawn_possessive] face"",""circumstance_phrase->at [pawn_possessive] work bench"",""circumstance_phrase->with great intensity"",""desc_sentence->There are tools scattered all around."",""desc_sentence->[pawn_pronoun] is scratched and scarred from work injuries."",""desc_sentence->[pawn_pronoun] is covered in sweat."",""desc_sentence->The work area is highly organized, with every tool in its proper place."",""desc_sentence->[pawn_pronoun] is rendered in an exaggerated way to appear more powerful."",""desc_sentence->The size of [thing_labelDefinite] is exaggerated to emphasize its importance."",""desc_sentence->[thing_labelDefinite] has an artistic glow added to it. It seems almost angelic."",""desc_sentence->[pawn_nameShortDef] is faded into the background to emphasize [pawn_possessive] new creation."",""desc_sentence->[quantity_adjphrase] onlookers surround [pawn_objective]."",""desc_sentence->A crowd cheers from the background."",""quality_sentence->[thing_labelDefinite] looks to be of [thing_quality] quality"",""quality_sentence->[thing_labelDefinite] is of [thing_quality] quality"",""quality_sentence->[pawn_nameShortDef]'s work is of [thing_quality] quality"",""title_sentence->[pawn_nameShortDef]'s title for [thing_labelDefinite] is written underneath: [thing_title]"",""title_sentence->[thing_labelDefinite] is emblazoned with its title: [thing_title]"",""title_sentence->The title of [thing_labelDefinite], [thing_title], hangs in the background""
+|TaleDef.rulePack.rulesStrings=""tale_noun->the time [pawn_nameShortDef] crafted [thing_labelIndefinite]"",""image->[pawn_nameFull] crafting [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""image->[pawn_nameFull] completing [pawn_possessive] work on [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""image->[pawn_nameFull] working on [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""image->[pawn_nameFull] making [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""circumstance_phrase->with total concentration"",""circumstance_phrase->with a look of satisfaction on [pawn_possessive] face"",""circumstance_phrase->at [pawn_possessive] work bench"",""circumstance_phrase->with great intensity"",""desc_sentence->There are tools scattered all around."",""desc_sentence->[pawn_pronoun] is scratched and scarred from work injuries."",""desc_sentence->[pawn_pronoun] is covered in sweat."",""desc_sentence->The work area is highly organized, with every tool in its proper place."",""desc_sentence->[pawn_pronoun] is rendered in an exaggerated way to appear more powerful."",""desc_sentence->The size of [thing_labelDefinite] is exaggerated to emphasize its importance."",""desc_sentence->[thing_labelDefinite] has an artistic glow added to it. It seems almost angelic."",""desc_sentence->[pawn_nameShortDef] is faded into the background to emphasize [pawn_possessive] new creation."",""desc_sentence->[quantity_adjphrase] onlookers surround [pawn_objective]."",""desc_sentence->A crowd cheers from the background."",""quality_sentence->[thing_labelDefinite] looks to be of [thing_quality] quality"",""quality_sentence->[thing_labelDefinite] is of [thing_quality] quality"",""quality_sentence->[pawn_nameShortDef]'s work is of [thing_quality] quality"",""title_sentence->[pawn_nameShortDef]'s title for [thing_labelDefinite] is written underneath: [thing_title]"",""title_sentence->[thing_labelDefinite] is emblazoned with its title: [thing_title]"",""title_sentence->The title of [thing_labelDefinite], [thing_title], hangs in the background"",""tale_noun->[pawn_nameShortDef]制作[thing_labelIndefinite]的时光"",""image->[pawn_nameFull]正[circumstance_group]制作[thing_labelIndefinite]。[quality_sentence]。[title_sentence]"",""image->[pawn_nameFull]正[circumstance_group]完成[pawn_possessive][thing_labelIndefinite]的工作。[quality_sentence]。[title_sentence]"",""image->[pawn_nameFull]正[circumstance_group]致力于完成[thing_labelIndefinite]。[quality_sentence]。[title_sentence]"",""image->[pawn_nameFull]正[circumstance_group]做[thing_labelIndefinite]。[quality_sentence]。[title_sentence]"",""circumstance_phrase->全身心投入地"",""circumstance_phrase->一脸满足地"",""circumstance_phrase->在[pawn_possessive]工作台旁"",""circumstance_phrase->极度紧张地"",""desc_sentence->有一些工具散落在周围。"",""desc_sentence->[pawn_pronoun]在工作中受伤了，留下了疤痕。"",""desc_sentence->[pawn_pronoun]大汗淋漓。"",""desc_sentence->工作环境非常整洁，所有工具都放置在合适的位置。"",""desc_sentence->[pawn_pronoun]以夸张的表现方式描绘，显得更有力。"",""desc_sentence->[thing_labelDefinite]夸张的大小强调了其重要性。"",""desc_sentence->[thing_labelDefinite]被添加了艺术性的光辉，看起来如同天使一般。"",""desc_sentence->[pawn_nameShortDef]逐渐淡化到背景中，以强调[pawn_possessive]新作。"",""desc_sentence->[quantity_adjphrase]旁观者们围绕着[pawn_objective]。"",""desc_sentence->一群人在背景中欢呼。"",""quality_sentence->[thing_labelDefinite]看来是[thing_quality]级的质量"",""quality_sentence->[thing_labelDefinite]是[thing_quality]级的质量"",""quality_sentence->[pawn_nameShortDef]的作品是[thing_quality]级的质量"",""title_sentence->[pawn_nameShortDef]给[thing_labelDefinite]起了以下的标题：[thing_title]"",""title_sentence->[thing_labelDefinite]上被纹章装饰着的标题：[thing_title]"",""title_sentence->[thing_labelDefinite]的标题，[thing_title]，悬在背景中"",""tale_noun->the time [pawn_nameShortDef] crafted [thing_labelIndefinite]"",""image->[pawn_nameFull] crafting [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""image->[pawn_nameFull] completing [pawn_possessive] work on [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""image->[pawn_nameFull] working on [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""image->[pawn_nameFull] making [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]"",""circumstance_phrase->with total concentration"",""circumstance_phrase->with a look of satisfaction on [pawn_possessive] face"",""circumstance_phrase->at [pawn_possessive] work bench"",""circumstance_phrase->with great intensity"",""desc_sentence->There are tools scattered all around."",""desc_sentence->[pawn_pronoun] is scratched and scarred from work injuries."",""desc_sentence->[pawn_pronoun] is covered in sweat."",""desc_sentence->The work area is highly organized, with every tool in its proper place."",""desc_sentence->[pawn_pronoun] is rendered in an exaggerated way to appear more powerful."",""desc_sentence->The size of [thing_labelDefinite] is exaggerated to emphasize its importance."",""desc_sentence->[thing_labelDefinite] has an artistic glow added to it. It seems almost angelic."",""desc_sentence->[pawn_nameShortDef] is faded into the background to emphasize [pawn_possessive] new creation."",""desc_sentence->[quantity_adjphrase] onlookers surround [pawn_objective]."",""desc_sentence->A crowd cheers from the background."",""quality_sentence->[thing_labelDefinite] looks to be of [thing_quality] quality"",""quality_sentence->[thing_labelDefinite] is of [thing_quality] quality"",""quality_sentence->[pawn_nameShortDef]'s work is of [thing_quality] quality"",""title_sentence->[pawn_nameShortDef]'s title for [thing_labelDefinite] is written underneath: [thing_title]"",""title_sentence->[thing_labelDefinite] is emblazoned with its title: [thing_title]"",""title_sentence->The title of [thing_labelDefinite], [thing_title], hangs in the background""
 |TaleDef.baseInterest=1
 }}"
 Core:Defs_TaleDef_DidSurgery,"{{#set:
@@ -80763,7 +80776,7 @@ Core:Defs_ThoughtDef_LowExpectations,"{{#set:
 |ThoughtDef.stages.0.description=This place isn't quite rich. I can't expect to be totally pampered.
 |ThoughtDef.stages.0.description.zh-cn=这个地方并不富裕。我也不能指望凡事都被惯着。
 |ThoughtDef.stages.0.description.zh-tw=這地方真是糟透了，我不敢期待在這裡生活會有多舒適。
-|ThoughtDef.stages.0.baseMoodEffect=5
+|ThoughtDef.stages.0.baseMoodEffect=6
 |ThoughtDef.stages.1=Exist
 |ThoughtDef.stages.1.label=low expectations
 |ThoughtDef.stages.1.label.zh-cn=较低的期望
@@ -80771,7 +80784,7 @@ Core:Defs_ThoughtDef_LowExpectations,"{{#set:
 |ThoughtDef.stages.1.description=This place doesn't have the wealth for many luxuries. I need to keep myself strong.
 |ThoughtDef.stages.1.description.zh-cn=这个地方有点穷，我需要学的坚强一些。
 |ThoughtDef.stages.1.description.zh-tw=這裡真是個不毛之地，我得要堅強才能活下去。
-|ThoughtDef.stages.1.baseMoodEffect=10
+|ThoughtDef.stages.1.baseMoodEffect=12
 |ThoughtDef.stages.2=Exist
 |ThoughtDef.stages.2.label=very low expectations
 |ThoughtDef.stages.2.label.zh-cn=很低的期望
@@ -80779,7 +80792,7 @@ Core:Defs_ThoughtDef_LowExpectations,"{{#set:
 |ThoughtDef.stages.2.description=This place is poverty-stricken. I can't expect any comfort here; I need to keep myself strong.
 |ThoughtDef.stages.2.description.zh-cn=这个地方非常贫穷。我不指望能过得很舒适；我要使自己坚强起来。
 |ThoughtDef.stages.2.description.zh-tw=這裡簡直是個貧困災區，我不敢期待在這裡能有一點舒適，我得要堅強才能活下去。
-|ThoughtDef.stages.2.baseMoodEffect=15
+|ThoughtDef.stages.2.baseMoodEffect=18
 |ThoughtDef.stages.3=Exist
 |ThoughtDef.stages.3.label=extremely low expectations
 |ThoughtDef.stages.3.label.zh-cn=极低的期望
@@ -80787,7 +80800,7 @@ Core:Defs_ThoughtDef_LowExpectations,"{{#set:
 |ThoughtDef.stages.3.description=I'm out here with little to no shelter. I'd better steel myself to survive.
 |ThoughtDef.stages.3.description.zh-cn=这个地方连个遮风挡雨的棚子都没有，我必须如钢铁般坚强才能活下去。
 |ThoughtDef.stages.3.description.zh-tw=這個地方的所有資源只夠勉強維持生存，我最好再更堅強才能生存下來。
-|ThoughtDef.stages.3.baseMoodEffect=20
+|ThoughtDef.stages.3.baseMoodEffect=25
 |ThoughtDef.validWhileDespawned=true
 }}"
 Core:Defs_ThoughtDef_Man,"{{#set:
@@ -84961,7 +84974,7 @@ Core:Defs_TraitDef_ShootingAccuracy,"{{#set:
 |TraitDef.degreeDatas.0.description.zh-cn=NAME的枪法还不错，但HE需要花更多的事件来瞄准HIS目标。
 |TraitDef.degreeDatas.0.description.zh-tw=NAME是個相當優秀的射手，但HE需要多一些時間來瞄準HIS目標。
 |TraitDef.degreeDatas.0.degree=1
-|TraitDef.degreeDatas.0.statOffsets=""AimingDelayFactor"",""0.25"";""ShootingAccuracy"",""0.50""
+|TraitDef.degreeDatas.0.statOffsets=""AimingDelayFactor"",""0.25"";""ShootingAccuracy"",""0.25""
 |TraitDef.degreeDatas.0.commonality=0.4
 |TraitDef.degreeDatas.0.skillGains=""Shooting"",""3""
 |TraitDef.degreeDatas.1=Exist
@@ -84972,7 +84985,7 @@ Core:Defs_TraitDef_ShootingAccuracy,"{{#set:
 |TraitDef.degreeDatas.1.description.zh-cn=砰！砰！砰！NAME的枪法很烂，但HE从不在意，因为开枪的感觉太棒了！
 |TraitDef.degreeDatas.1.description.zh-tw=乓！乓！乓！NAME是個糟糕的射手，但HE毫不在意，因為槍實在太好玩了！
 |TraitDef.degreeDatas.1.degree=-1
-|TraitDef.degreeDatas.1.statOffsets=""AimingDelayFactor"",""-0.5"";""ShootingAccuracy"",""-0.5""
+|TraitDef.degreeDatas.1.statOffsets=""AimingDelayFactor"",""-0.5"";""ShootingAccuracy"",""-0.25""
 |TraitDef.degreeDatas.1.commonality=0.5
 |TraitDef.degreeDatas.1.skillGains=""Shooting"",""-2""
 |TraitDef.conflictingTraits=""Brawler""
@@ -85107,7 +85120,7 @@ Core:Defs_TransferableSorterDef_Quality,"{{#set:
 |defName=Quality
 |TransferableSorterDef.defName=Quality
 |TransferableSorterDef.label=quality
-|TransferableSorterDef.label.zh-cn=品质
+|TransferableSorterDef.label.zh-cn=质量
 |TransferableSorterDef.label.zh-tw=quality
 |TransferableSorterDef.comparerClass=TransferableComparer_Quality
 }}"

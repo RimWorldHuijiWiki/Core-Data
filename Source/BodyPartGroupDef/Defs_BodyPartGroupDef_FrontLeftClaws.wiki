@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=BodyPartGroupDef
-|defName=FrontLeftClaws
-|BodyPartGroupDef.defName=FrontLeftClaws
-|BodyPartGroupDef.label=front left claws
-|BodyPartGroupDef.label.zh-cn=左前爪
-|BodyPartGroupDef.label.zh-tw=左前爪
-}}

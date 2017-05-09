@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=Artifacts
+|ThingCategoryDef.defName=Artifacts
+|ThingCategoryDef.label=artifacts
+|ThingCategoryDef.label.zh-cn=神器
+|ThingCategoryDef.label.zh-tw=神器
+|ThingCategoryDef.parent=Items
+}}

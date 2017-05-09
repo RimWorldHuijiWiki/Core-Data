@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=EggsUnfertilized
+|ThingCategoryDef.defName=EggsUnfertilized
+|ThingCategoryDef.label=eggs (unfert.)
+|ThingCategoryDef.label.zh-cn=卵（未受精）
+|ThingCategoryDef.label.zh-tw=蛋
+|ThingCategoryDef.parent=AnimalProductRaw
+|ThingCategoryDef.iconPath=UI/Icons/ThingCategories/EggsUnfertilized
+}}

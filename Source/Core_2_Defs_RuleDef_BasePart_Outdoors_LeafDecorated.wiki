@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=RuleDef
+|defName=BasePart_Outdoors_LeafDecorated
+|RuleDef.defName=BasePart_Outdoors_LeafDecorated
+|RuleDef.symbol=basePart_outdoors_leafDecorated
+|RuleDef.resolvers=Exist
+|RuleDef.resolvers.Count=2
+|RuleDef.resolvers.0=Exist
+|RuleDef.resolvers.0.Class=SymbolResolver_BasePart_Outdoors_LeafDecorated_EdgeStreet
+|RuleDef.resolvers.0.minRectSize=(3, 3)
+|RuleDef.resolvers.1=Exist
+|RuleDef.resolvers.1.Class=SymbolResolver_BasePart_Outdoors_LeafDecorated_RandomInnerRect
+|RuleDef.resolvers.1.minRectSize=(3, 3)
+}}

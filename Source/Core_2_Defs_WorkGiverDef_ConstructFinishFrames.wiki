@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=ConstructFinishFrames
+|WorkGiverDef.defName=ConstructFinishFrames
+|WorkGiverDef.label=construct placed frames
+|WorkGiverDef.label.zh-cn=建造放置的框架
+|WorkGiverDef.label.zh-tw=建造
+|WorkGiverDef.giverClass=WorkGiver_ConstructFinishFrames
+|WorkGiverDef.workType=Construction
+|WorkGiverDef.priorityInType=50
+|WorkGiverDef.verb=construct
+|WorkGiverDef.verb.zh-cn=建造
+|WorkGiverDef.verb.zh-tw=建造
+|WorkGiverDef.gerund=constructing
+|WorkGiverDef.gerund.zh-cn=建造
+|WorkGiverDef.gerund.zh-tw=建造
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.canBeDoneByNonColonists=true
+}}

@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=CarpetCream
+|TerrainDef.defName=CarpetCream
+|TerrainDef.label=cream carpet
+|TerrainDef.label.zh-cn=奶油地毯
+|TerrainDef.label.zh-tw=奶油色地毯
+|TerrainDef.description=Inviting cream-colored carpet.
+|TerrainDef.description.zh-cn=诱人的奶油色地毯。
+|TerrainDef.description.zh-tw=誘人的奶油色地毯。
+|TerrainDef.statBases="Beauty","2";"Flammability","0.32";"WorkToBuild","135"
+|TerrainDef.fertility=0
+|TerrainDef.costList="Cloth","7"
+|TerrainDef.terrainAffordanceNeeded=Light
+|TerrainDef.researchPrerequisites="CarpetMaking"
+|TerrainDef.constructEffect=ConstructDirt
+|TerrainDef.designationCategory=Floors
+|TerrainDef.designationHotKey=Misc11
+|TerrainDef.texturePath=Terrain/Surfaces/Carpet
+|TerrainDef.renderPrecedence=197
+|TerrainDef.affordances="Light","Heavy","SmoothHard"
+|TerrainDef.layerable=true
+|TerrainDef.color=(195,192,176)
+|TerrainDef.burnedDef=BurnedCarpet
+|TerrainDef.acceptTerrainSourceFilth=True
+}}

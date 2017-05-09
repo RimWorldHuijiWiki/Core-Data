@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=Painstopper
+|HediffDef.defName=Painstopper
+|HediffDef.label=painstopper
+|HediffDef.label.zh-cn=止痛芯片
+|HediffDef.label.zh-tw=痛覺阻斷晶片
+|HediffDef.hediffClass=Hediff_Implant
+|HediffDef.stages=Exist
+|HediffDef.stages.Count=1
+|HediffDef.stages.0=Exist
+|HediffDef.stages.0.painFactor=0
+|HediffDef.isBad=false
+|HediffDef.spawnThingOnRemoved=Painstopper
+|HediffDef.defaultLabelColor=(0.65, 0.3, 0.9)
+}}

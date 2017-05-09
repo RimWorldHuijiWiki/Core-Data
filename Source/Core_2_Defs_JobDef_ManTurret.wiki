@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=ManTurret
+|JobDef.defName=ManTurret
+|JobDef.driverClass=JobDriver_ManTurret
+|JobDef.reportString=operating turret.
+|JobDef.reportString.zh-cn=操作炮塔。
+|JobDef.reportString.zh-tw=操作武器。
+|JobDef.casualInterruptible=false
+}}

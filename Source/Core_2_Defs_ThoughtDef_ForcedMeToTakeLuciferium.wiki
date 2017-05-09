@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=ForcedMeToTakeLuciferium
+|ThoughtDef.defName=ForcedMeToTakeLuciferium
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=forced me to take luciferium
+|ThoughtDef.stages.0.label.zh-cn=强迫我服用路西法合剂
+|ThoughtDef.stages.0.label.zh-tw=強迫我服用路西法強化劑
+|ThoughtDef.stages.0.baseOpinionOffset=-30
+|ThoughtDef.stackLimit=10
+|ThoughtDef.durationDays=6.0
+|ThoughtDef.thoughtToMake=ForcedMeToTakeLuciferiumMood
+|ThoughtDef.stackLimitPerPawn=1
+}}

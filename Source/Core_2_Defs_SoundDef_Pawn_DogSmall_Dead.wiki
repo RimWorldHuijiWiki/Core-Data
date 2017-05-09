@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=Pawn_DogSmall_Dead
+|SoundDef.defName=Pawn_DogSmall_Dead
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
+|SoundDef.subSounds.0.grains.0.clipFolderPath=Pawn/Animal/DogSmall/DogSmall_Dead
+|SoundDef.subSounds.0.volumeRange=32 ~ 32
+|SoundDef.subSounds.0.pitchRange=1.504706 ~ 1.596471
+|SoundDef.subSounds.0.distRange=0 ~ 70
+}}

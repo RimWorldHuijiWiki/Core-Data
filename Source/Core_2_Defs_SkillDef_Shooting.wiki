@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=SkillDef
+|defName=Shooting
+|SkillDef.defName=Shooting
+|SkillDef.label=Shooting
+|SkillDef.label.zh-cn=射击
+|SkillDef.label.zh-tw=射擊
+|SkillDef.description=Use of all kinds of ranged weapons.
+|SkillDef.description.zh-cn=使用各种类型的远程武器。
+|SkillDef.description.zh-tw=各種射擊及投擲武器的應用。
+|SkillDef.skillLabel=Shooting
+|SkillDef.skillLabel.zh-cn=射击
+|SkillDef.skillLabel.zh-tw=射擊
+}}

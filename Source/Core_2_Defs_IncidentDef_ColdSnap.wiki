@@ -1,0 +1,23 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=ColdSnap
+|IncidentDef.defName=ColdSnap
+|IncidentDef.label=cold snap
+|IncidentDef.label.zh-cn=寒流
+|IncidentDef.label.zh-tw=寒流
+|IncidentDef.workerClass=IncidentWorker_ColdSnap
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=3
+|IncidentDef.minRefireDays=15
+|IncidentDef.letterText=An unusual cold snap has set in. Watch out for hypothermia and dying crops.
+|IncidentDef.letterText.zh-cn=一场罕见的寒流开始了。小心体温过低和作物死亡。
+|IncidentDef.letterText.zh-tw=一波不尋常的寒流正在凍結這個地區，注意保暖，並且注意作物的狀況。
+|IncidentDef.letterLabel=Cold snap
+|IncidentDef.letterLabel.zh-cn=寒流
+|IncidentDef.letterLabel.zh-tw=寒流
+|IncidentDef.letterDef=BadNonUrgent
+|IncidentDef.gameCondition=ColdSnap
+|IncidentDef.durationDays=1.5 ~ 3.5
+}}

@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=Mohawk
+|HairDef.defName=Mohawk
+|HairDef.label=mohawk
+|HairDef.label.zh-cn=莫霍克
+|HairDef.label.zh-tw=莫霍克
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Mohawk
+|HairDef.hairGender=MaleUsually
+|HairDef.hairTags="Urban","Punk"
+}}

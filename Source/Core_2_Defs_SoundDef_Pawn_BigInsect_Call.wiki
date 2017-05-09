@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=Pawn_BigInsect_Call
+|SoundDef.defName=Pawn_BigInsect_Call
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
+|SoundDef.subSounds.0.grains.0.clipFolderPath=Pawn/Animal/BigInsect/BigInsect_Call
+|SoundDef.subSounds.0.volumeRange=22 ~ 22
+|SoundDef.subSounds.0.pitchRange=0.90 ~ 1.1
+|SoundDef.subSounds.0.distRange=0 ~ 50
+}}

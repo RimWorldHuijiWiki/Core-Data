@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=LeftAntenna
+|BodyPartDef.defName=LeftAntenna
+|BodyPartDef.label=left antenna
+|BodyPartDef.label.zh-cn=左触角
+|BodyPartDef.label.zh-tw=左觸角
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.bleedingRateMultiplier=0.3
+|BodyPartDef.skinCovered=false
+|BodyPartDef.frostbiteVulnerability=10
+|BodyPartDef.isAlive=false
+}}

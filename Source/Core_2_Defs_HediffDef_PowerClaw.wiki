@@ -1,0 +1,29 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=PowerClaw
+|HediffDef.defName=PowerClaw
+|HediffDef.label=power claw
+|HediffDef.label.zh-cn=动力爪
+|HediffDef.label.zh-tw=動力爪
+|HediffDef.hediffClass=Hediff_AddedPart
+|HediffDef.comps=Exist
+|HediffDef.comps.Count=1
+|HediffDef.comps.0=Exist
+|HediffDef.comps.0.Class=HediffCompProperties_VerbGiver
+|HediffDef.comps.0.verbs=Exist
+|HediffDef.comps.0.verbs.Count=1
+|HediffDef.comps.0.verbs.0=Exist
+|HediffDef.comps.0.verbs.0.verbClass=Verb_MeleeAttack
+|HediffDef.comps.0.verbs.0.defaultCooldownTime=1.2
+|HediffDef.comps.0.verbs.0.meleeDamageDef=Scratch
+|HediffDef.comps.0.verbs.0.meleeDamageBaseAmount=15
+|HediffDef.isBad=false
+|HediffDef.spawnThingOnRemoved=PowerClaw
+|HediffDef.defaultLabelColor=(0.5, 0.5, 0.9)
+|HediffDef.addedPartProps=Exist
+|HediffDef.addedPartProps.partEfficiency=0.92
+|HediffDef.addedPartProps.isBionic=true
+|HediffDef.addedPartProps.isSolid=true
+|HediffDef.addedPartProps.isGoodWeapon=true
+}}

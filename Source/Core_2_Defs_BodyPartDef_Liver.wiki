@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Liver
+|BodyPartDef.defName=Liver
+|BodyPartDef.label=liver
+|BodyPartDef.label.zh-cn=肝脏
+|BodyPartDef.label.zh-tw=肝臟
+|BodyPartDef.tags="BloodFiltrationLiver"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=false
+|BodyPartDef.spawnThingOnRemoved=Liver
+|BodyPartDef.dontSuggestAmputation=true
+}}

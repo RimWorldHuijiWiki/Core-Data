@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=RuleDef
+|defName=Brewery
+|RuleDef.defName=Brewery
+|RuleDef.symbol=brewery
+|RuleDef.resolvers=Exist
+|RuleDef.resolvers.Count=1
+|RuleDef.resolvers.0=Exist
+|RuleDef.resolvers.0.Class=SymbolResolver_Brewery
+|RuleDef.resolvers.0.minRectSize=(4, 4)
+}}

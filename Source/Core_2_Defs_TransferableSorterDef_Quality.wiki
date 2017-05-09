@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=TransferableSorterDef
+|defName=Quality
+|TransferableSorterDef.defName=Quality
+|TransferableSorterDef.label=quality
+|TransferableSorterDef.label.zh-cn=质量
+|TransferableSorterDef.label.zh-tw=quality
+|TransferableSorterDef.comparerClass=TransferableComparer_Quality
+}}

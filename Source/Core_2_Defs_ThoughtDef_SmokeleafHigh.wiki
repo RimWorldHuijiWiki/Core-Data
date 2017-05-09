@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=SmokeleafHigh
+|ThoughtDef.defName=SmokeleafHigh
+|ThoughtDef.workerClass=ThoughtWorker_Hediff
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=high on smokeleaf
+|ThoughtDef.stages.0.label.zh-cn=大麻亢奋
+|ThoughtDef.stages.0.label.zh-tw=high on smokeleaf
+|ThoughtDef.stages.0.description=I'm, like, stoned, man.
+|ThoughtDef.stages.0.description.zh-cn=嗯，感觉不错，你说什么？
+|ThoughtDef.stages.0.description.zh-tw=I'm, like, stoned, man.
+|ThoughtDef.stages.0.baseMoodEffect=15
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.hediff=SmokeleafHigh
+}}

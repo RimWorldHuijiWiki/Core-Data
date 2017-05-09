@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=AnimalTaming
+|ConceptDef.defName=AnimalTaming
+|ConceptDef.label=Animal taming
+|ConceptDef.label.zh-cn=动物驯服
+|ConceptDef.label.zh-tw=馴養動物
+|ConceptDef.priority=10.1
+|ConceptDef.helpText=You can assign colonists to tame a wild animal with the TAME designator.<br/><br/>Colonists will offer the animal food and attempt to tame it.<br/><br/>Beware: some animals can respond violently to failed taming attempts.
+|ConceptDef.helpText.zh-cn=你可以通过「驯服」命令指派殖民者驯服野生动物。<br/><br/>殖民者会为动物提供食物，然后尝试驯服它们。<br/><br/>当心：有些动物在被驯服时会变得暴躁，攻击你的殖民者。
+|ConceptDef.helpText.zh-tw=你可以派遣居民前去馴養野生動物。<br/><br/>馴養員會提供食物給動物，藉此馴服他們。<br/><br/>注意：有些動物在馴服失敗時會轉為凶暴，反咬居民一口。
+|ConceptDef.highlightTags="MainTab-Architect-Closed","DesignationCategoryButton-Orders-Closed","Designator-Tame"
+}}

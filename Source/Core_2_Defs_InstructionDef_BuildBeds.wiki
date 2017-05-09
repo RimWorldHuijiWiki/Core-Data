@@ -1,0 +1,22 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=BuildBeds
+|InstructionDef.defName=BuildBeds
+|InstructionDef.instructionClass=Instruction_BuildInRoom
+|InstructionDef.text=Your colonists will now build the room!<br/><br/>Now they need somewhere to sleep. Place three BEDS inside the room.<br/><br/>Find them in the FURNITURE category.
+|InstructionDef.text.zh-cn=你的殖民者们已经有房间了！<br/><br/>他们需要休息，在房间里放三张床吧。<br/><br/>你可以在「家具」菜单里找到「单人床」。
+|InstructionDef.text.zh-tw=你的居民馬上會著手建造房間！<br/><br/>現在，他們需要一個睡覺的地方，在房間中放置三張床。<br/><br/>在建築選單的「家具」中找到床的建造項目。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-BuildRoomDoor
+|InstructionDef.actionTagsAllowed="MainTab-Architect-Open","SelectDesignator-Bed","SelectStuff-Bed-WoodLog","Designate-Bed"
+|InstructionDef.rejectInputMessage=Please build wooden beds inside the room.
+|InstructionDef.rejectInputMessage.zh-cn=请在房间里造木床。
+|InstructionDef.rejectInputMessage.zh-tw=請將床放置在房間內。
+|InstructionDef.highlightTags="MainTab-Architect-Closed","DesignationCategoryButton-Furniture-Closed","Designator-Build-Bed","SelectStuff-Bed-WoodLog"
+|InstructionDef.onMapInstruction=Build three beds inside the room
+|InstructionDef.onMapInstruction.zh-cn=需要建造三张木床。
+|InstructionDef.onMapInstruction.zh-tw=將床建造在房間內
+|InstructionDef.targetCount=3
+|InstructionDef.thingDef=Bed
+|InstructionDef.resetBuildDesignatorStuffs=true
+}}

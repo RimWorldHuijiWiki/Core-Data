@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=Weapons
+|ThingCategoryDef.defName=Weapons
+|ThingCategoryDef.label=weapons
+|ThingCategoryDef.label.zh-cn=武器
+|ThingCategoryDef.label.zh-tw=武器
+|ThingCategoryDef.parent=Root
+}}

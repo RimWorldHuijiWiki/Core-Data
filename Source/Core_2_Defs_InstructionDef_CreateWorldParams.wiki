@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=CreateWorldParams
+|InstructionDef.defName=CreateWorldParams
+|InstructionDef.text=Welcome to RimWorld! This tutorial will teach you how to play the game.<br/><br/>The first step is to generate a world to play in.<br/><br/>This page configures how your world should be generated.<br/><br/>The default settings here are good - go ahead and click GENERATE!
+|InstructionDef.text.zh-cn=欢迎来到Rimworld！这篇教程将指引你逐步熟悉了解游戏的基本操作。<br/><br/>首先我们需要生成一个游戏世界。<br/><br/>教程所使用的默认设置对新手非常友善，无需调整。请点击「生成世界」！
+|InstructionDef.text.zh-tw=歡迎來到RimWorld！本教學將會教你如何遊玩本遊戲。<br/><br/>第一步是要創造一個世界(星球)。<br/><br/>在這個畫面，世界是依據你設定的種子碼生成的。<br/><br/>這裡已經有預設的種子碼，點擊「創造世界」即可生成世界！
+|InstructionDef.startCentered=true
+|InstructionDef.eventTagInitiate=PageStart-CreateWorldParams
+|InstructionDef.eventTagsEnd="PageClosed"
+|InstructionDef.actionTagsAllowed="GotoPrevPage","GotoNextPage"
+|InstructionDef.highlightTags="NextPage"
+}}

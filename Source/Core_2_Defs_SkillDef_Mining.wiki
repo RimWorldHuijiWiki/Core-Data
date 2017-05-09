@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=SkillDef
+|defName=Mining
+|SkillDef.defName=Mining
+|SkillDef.label=Mining
+|SkillDef.label.zh-cn=采矿
+|SkillDef.label.zh-tw=採礦
+|SkillDef.description=Digging tunnels and extracting mineral or buried resources.
+|SkillDef.description.zh-cn=挖掘隧道，开采矿产或埋藏资源。
+|SkillDef.description.zh-tw=挖掘隧道、探採礦物與各種被埋藏的資源。
+|SkillDef.skillLabel=Mining
+|SkillDef.skillLabel.zh-cn=采矿
+|SkillDef.skillLabel.zh-tw=採礦
+}}

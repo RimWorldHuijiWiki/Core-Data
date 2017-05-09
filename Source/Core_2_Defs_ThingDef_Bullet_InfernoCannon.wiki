@@ -1,0 +1,26 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Bullet_InfernoCannon
+|ThingDef.defName=Bullet_InfernoCannon
+|ThingDef.label=inferno cannon shell
+|ThingDef.label.zh-cn=地狱火炮弹
+|ThingDef.label.zh-tw=炮彈(燃燒炮)
+|ThingDef.altitudeLayer=Projectile
+|ThingDef.thingClass=Projectile_Explosive
+|ThingDef.category=Projectile
+|ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=False
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Projectile/InfernoCannonShot
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.shaderType=TransparentPostLight
+|ThingDef.neverMultiSelect=True
+|ThingDef.projectile=Exist
+|ThingDef.projectile.speed=45
+|ThingDef.projectile.damageDef=Flame
+|ThingDef.projectile.damageAmountBase=13
+|ThingDef.projectile.explosionRadius=2.4
+|ThingDef.projectile.preExplosionSpawnThingDef=FilthFuel
+|ThingDef.projectile.explosionSpawnChance=0.27
+}}

@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=MentalBreakDef
-|defName=GiveUpExit
-|MentalBreakDef.defName=GiveUpExit
-|MentalBreakDef.mentalState=GiveUpExit
-|MentalBreakDef.baseCommonality=0
-|MentalBreakDef.intensity=Extreme
-}}

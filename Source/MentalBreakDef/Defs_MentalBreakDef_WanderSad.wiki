@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=MentalBreakDef
-|defName=WanderSad
-|MentalBreakDef.defName=WanderSad
-|MentalBreakDef.mentalState=WanderSad
-|MentalBreakDef.baseCommonality=0.75
-|MentalBreakDef.intensity=Minor
-}}

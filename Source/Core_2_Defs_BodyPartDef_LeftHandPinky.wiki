@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=LeftHandPinky
+|BodyPartDef.defName=LeftHandPinky
+|BodyPartDef.label=left pinky
+|BodyPartDef.label.zh-cn=左小指
+|BodyPartDef.label.zh-tw=左小指
+|BodyPartDef.tags="ManipulationLimbDigit"
+|BodyPartDef.hitPoints=7
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.amputateIfGeneratedInjuredChance=0.3
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=8
+}}

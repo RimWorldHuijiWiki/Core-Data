@@ -1,6 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=StuffAppearanceDef
-|defName=Smooth
-|StuffAppearanceDef.defName=Smooth
-}}

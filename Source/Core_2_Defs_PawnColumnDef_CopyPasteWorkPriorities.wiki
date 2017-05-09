@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=PawnColumnDef
+|defName=CopyPasteWorkPriorities
+|PawnColumnDef.defName=CopyPasteWorkPriorities
+|PawnColumnDef.workerClass=PawnColumnWorker_CopyPasteWorkPriorities
+}}

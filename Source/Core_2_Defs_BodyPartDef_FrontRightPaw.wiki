@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=FrontRightPaw
+|BodyPartDef.defName=FrontRightPaw
+|BodyPartDef.label=front right paw
+|BodyPartDef.label.zh-cn=右前掌
+|BodyPartDef.label.zh-tw=右前掌
+|BodyPartDef.tags="MovingLimbSegment"
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=6
+}}

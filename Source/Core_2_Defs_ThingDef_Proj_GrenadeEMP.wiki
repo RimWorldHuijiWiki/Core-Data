@@ -1,0 +1,26 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Proj_GrenadeEMP
+|ThingDef.defName=Proj_GrenadeEMP
+|ThingDef.label=EMP grenade
+|ThingDef.label.zh-cn=EMP手榴弹
+|ThingDef.label.zh-tw=電磁脈衝炸彈
+|ThingDef.altitudeLayer=Projectile
+|ThingDef.thingClass=Projectile_Explosive
+|ThingDef.category=Projectile
+|ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=False
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Projectile/GrenadeEMP
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.shaderType=Transparent
+|ThingDef.neverMultiSelect=True
+|ThingDef.projectile=Exist
+|ThingDef.projectile.speed=12
+|ThingDef.projectile.flyOverhead=false
+|ThingDef.projectile.damageDef=EMP
+|ThingDef.projectile.damageAmountBase=80
+|ThingDef.projectile.explosionRadius=3.5
+|ThingDef.projectile.explosionDelay=100
+}}

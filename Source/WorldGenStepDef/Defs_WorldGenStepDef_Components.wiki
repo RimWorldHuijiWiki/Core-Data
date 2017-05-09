@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=WorldGenStepDef
-|defName=Components
-|WorldGenStepDef.defName=Components
-|WorldGenStepDef.order=100
-|WorldGenStepDef.worldGenStep=
-}}

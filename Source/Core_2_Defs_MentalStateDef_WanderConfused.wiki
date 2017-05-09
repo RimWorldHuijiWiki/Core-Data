@@ -1,0 +1,29 @@
+{{#set:
+|dataType=Def
+|defType=MentalStateDef
+|defName=WanderConfused
+|MentalStateDef.defName=WanderConfused
+|MentalStateDef.label=confused wandering
+|MentalStateDef.label.zh-cn=迷茫徘徊
+|MentalStateDef.label.zh-tw=茫然徘徊
+|MentalStateDef.stateClass=MentalState_WanderConfused
+|MentalStateDef.category=Sad
+|MentalStateDef.unspawnedCanDo=true
+|MentalStateDef.blockNormalThoughts=true
+|MentalStateDef.recoveryMtbDays=0.2
+|MentalStateDef.minTicksBeforeRecovery=3500
+|MentalStateDef.beginLetter={0} has broken down and is wandering around confused.
+|MentalStateDef.beginLetter.zh-cn={0}开始迷茫地四处徘徊。
+|MentalStateDef.beginLetter.zh-tw={0}陷入茫然地徘徊中。
+|MentalStateDef.beginLetterLabel=confusion
+|MentalStateDef.beginLetterLabel.zh-cn=迷茫
+|MentalStateDef.beginLetterLabel.zh-tw=茫然
+|MentalStateDef.beginLetterDef=BadNonUrgent
+|MentalStateDef.nameColor=(0.65, 0.9, 0.93)
+|MentalStateDef.recoveryMessage={0} is no longer confused.
+|MentalStateDef.recoveryMessage.zh-cn={0}不再迷茫徘徊了。
+|MentalStateDef.recoveryMessage.zh-tw={0}已經從茫然中清醒。
+|MentalStateDef.baseInspectLine=Mental state: Confused and wandering
+|MentalStateDef.baseInspectLine.zh-cn=失控：迷茫徘徊
+|MentalStateDef.baseInspectLine.zh-tw=心理狀態：茫然徘徊
+}}

@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=BodyPartGroupDef
-|defName=LeftBlade
-|BodyPartGroupDef.defName=LeftBlade
-|BodyPartGroupDef.label=left blade
-|BodyPartGroupDef.label.zh-cn=左镰刃
-|BodyPartGroupDef.label.zh-tw=左突刃部
-}}

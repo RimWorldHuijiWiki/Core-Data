@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=RangedWeapon_Cooldown
+|StatDef.defName=RangedWeapon_Cooldown
+|StatDef.label=ranged cooldown
+|StatDef.label.zh-cn=远程冷却时间
+|StatDef.label.zh-tw=冷卻時間
+|StatDef.description=How long it takes to recover after firing this weapon.
+|StatDef.description.zh-cn=在每次射击之后所需要的恢复时间。
+|StatDef.description.zh-tw=此遠程武器每次攻擊之間的冷卻時間。
+|StatDef.category=Weapon
+|StatDef.showIfUndefined=false
+|StatDef.displayPriorityInCategory=500
+|StatDef.toStringStyle=FloatTwo
+|StatDef.formatString={0} s
+|StatDef.formatString.zh-cn={0} 秒
+|StatDef.formatString.zh-tw={0}秒
+|StatDef.defaultBaseValue=1
+|StatDef.minValue=0.01
+}}

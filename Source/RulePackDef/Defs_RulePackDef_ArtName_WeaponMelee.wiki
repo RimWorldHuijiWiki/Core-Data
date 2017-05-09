@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=RulePackDef
-|defName=ArtName_WeaponMelee
-|RulePackDef.defName=ArtName_WeaponMelee
-|RulePackDef.include="ArtName_Weapon"
-}}

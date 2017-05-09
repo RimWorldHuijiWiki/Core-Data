@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=VitalsMonitor
+|ResearchProjectDef.defName=VitalsMonitor
+|ResearchProjectDef.label=vitals monitor
+|ResearchProjectDef.label.zh-cn=生命体征监测仪
+|ResearchProjectDef.label.zh-tw=生命體徵檢測器
+|ResearchProjectDef.description=Allows colonists to build vitals monitors which increase patients treatment quality if placed next to medical beds.
+|ResearchProjectDef.description.zh-cn=解锁建造「生命体征监测仪」，将其放在医疗床旁，提高病人的治疗质量。
+|ResearchProjectDef.description.zh-tw=解鎖建造生命體徵檢測器，可增加醫療效果，必須安裝在醫療床旁邊。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=1600
+|ResearchProjectDef.prerequisites="MultiAnalyzer","HospitalBed"
+|ResearchProjectDef.requiredResearchBuilding=HiTechResearchBench
+|ResearchProjectDef.requiredResearchFacilities="MultiAnalyzer"
+|ResearchProjectDef.researchViewX=9
+|ResearchProjectDef.researchViewY=0
+}}

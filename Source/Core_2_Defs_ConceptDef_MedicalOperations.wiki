@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=MedicalOperations
+|ConceptDef.defName=MedicalOperations
+|ConceptDef.label=Medical operations
+|ConceptDef.label.zh-cn=医疗手术
+|ConceptDef.label.zh-tw=醫療手術
+|ConceptDef.priority=4
+|ConceptDef.helpText=To assign a medical operation, like organ harvesting or prosthetics installation, open a colonist's HEALTH tab, then switch to the OPERATIONS sub-tab.
+|ConceptDef.helpText.zh-cn=要进行一次手术，例如器官摘取或者安装假肢，可以打开殖民者的「健康」标签，然后切换至「手术」子标签。
+|ConceptDef.helpText.zh-tw=想要指定一項醫療手術，如器官摘除或義肢安裝，請開啟居民的「健康」面板，並切換至「手術」分頁。
+}}

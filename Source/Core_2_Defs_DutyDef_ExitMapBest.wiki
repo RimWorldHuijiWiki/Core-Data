@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=DutyDef
+|defName=ExitMapBest
+|DutyDef.defName=ExitMapBest
+|DutyDef.thinkNode=Exist
+|DutyDef.thinkNode.Class=JobGiver_ExitMapBest
+|DutyDef.thinkNode.defaultLocomotion=Walk
+}}

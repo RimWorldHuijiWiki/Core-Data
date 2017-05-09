@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=PackagedSurvivalMeal
+|ResearchProjectDef.defName=PackagedSurvivalMeal
+|ResearchProjectDef.label=packaged survival meal
+|ResearchProjectDef.label.zh-cn=包装生存食品
+|ResearchProjectDef.label.zh-tw=packaged survival meal
+|ResearchProjectDef.description=Learn to produce packaged survival meals, a preserved and sealed food that never goes bad. Great for traveling.
+|ResearchProjectDef.description.zh-cn=解锁生产「包装生存食品」，密封储存且不会变质的食品。非常适合用于旅行中。
+|ResearchProjectDef.description.zh-tw=Learn to produce packaged survival meals, a preserved and sealed food that never goes bad. Great for traveling.
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=2000
+|ResearchProjectDef.prerequisites="NutrientPaste"
+|ResearchProjectDef.researchViewX=6
+|ResearchProjectDef.researchViewY=0.5
+}}

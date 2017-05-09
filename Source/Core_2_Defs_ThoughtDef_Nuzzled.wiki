@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=Nuzzled
+|ThoughtDef.defName=Nuzzled
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=nuzzled
+|ThoughtDef.stages.0.label.zh-cn=被亲昵
+|ThoughtDef.stages.0.label.zh-tw=動物撒嬌
+|ThoughtDef.stages.0.description=A cute animal nuzzled me.
+|ThoughtDef.stages.0.description.zh-cn=一只可爱的动物刚才过来蹭了蹭我。
+|ThoughtDef.stages.0.description.zh-tw=一隻可愛的動物對我撒嬌。
+|ThoughtDef.stages.0.baseMoodEffect=4
+|ThoughtDef.stackLimit=10
+|ThoughtDef.stackedEffectMultiplier=0.95
+|ThoughtDef.durationDays=0.5
+|ThoughtDef.nullifyingTraits="Psychopath"
+}}

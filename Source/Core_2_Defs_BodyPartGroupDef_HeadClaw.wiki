@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartGroupDef
+|defName=HeadClaw
+|BodyPartGroupDef.defName=HeadClaw
+|BodyPartGroupDef.label=claw
+|BodyPartGroupDef.label.zh-cn=利爪
+|BodyPartGroupDef.label.zh-tw=爪
+}}

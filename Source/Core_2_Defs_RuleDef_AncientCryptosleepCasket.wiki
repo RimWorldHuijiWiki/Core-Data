@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=RuleDef
+|defName=AncientCryptosleepCasket
+|RuleDef.defName=AncientCryptosleepCasket
+|RuleDef.symbol=ancientCryptosleepCasket
+|RuleDef.resolvers=Exist
+|RuleDef.resolvers.Count=1
+|RuleDef.resolvers.0=Exist
+|RuleDef.resolvers.0.Class=SymbolResolver_AncientCryptosleepCasket
+}}

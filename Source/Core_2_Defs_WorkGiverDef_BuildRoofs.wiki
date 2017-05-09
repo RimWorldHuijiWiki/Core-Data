@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=BuildRoofs
+|WorkGiverDef.defName=BuildRoofs
+|WorkGiverDef.label=build roofs
+|WorkGiverDef.label.zh-cn=建造屋顶
+|WorkGiverDef.label.zh-tw=搭建屋頂
+|WorkGiverDef.giverClass=WorkGiver_BuildRoof
+|WorkGiverDef.workType=Construction
+|WorkGiverDef.priorityInType=70
+|WorkGiverDef.verb=build roof
+|WorkGiverDef.verb.zh-cn=建造屋顶
+|WorkGiverDef.verb.zh-tw=搭建屋頂
+|WorkGiverDef.gerund=building roof
+|WorkGiverDef.gerund.zh-cn=建造屋顶
+|WorkGiverDef.gerund.zh-tw=屋頂搭建
+|WorkGiverDef.scanThings=false
+|WorkGiverDef.scanCells=true
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

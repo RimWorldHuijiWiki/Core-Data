@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=WorkToMake
+|StatDef.defName=WorkToMake
+|StatDef.label=work to make
+|StatDef.label.zh-cn=工作量（制作）
+|StatDef.label.zh-tw=製造工作量
+|StatDef.description=The base amount of work it takes to make this, once all materials and tools are gathered.
+|StatDef.description.zh-cn=所有材料和工具齐全后制作这个物品所需要的工作量。
+|StatDef.description.zh-tw=當所有的工具與素材齊全之後，製造這個物件所需的基本製造工作量。
+|StatDef.category=BasicsNonPawn
+|StatDef.showIfUndefined=false
+|StatDef.toStringStyle=WorkAmount
+|StatDef.defaultBaseValue=1
+|StatDef.minValue=0
+|StatDef.roundToFiveOver=300
+}}

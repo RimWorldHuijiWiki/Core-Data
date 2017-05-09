@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=MeatAmount
+|StatDef.defName=MeatAmount
+|StatDef.label=meat amount
+|StatDef.label.zh-cn=可获肉量
+|StatDef.label.zh-tw=肉類產量
+|StatDef.description=The amount of meat you will get from butchering this creature.
+|StatDef.description.zh-cn=屠宰这种生物可获得肉的数量。
+|StatDef.description.zh-tw=屠宰此生物時可獲得的生肉數量。
+|StatDef.category=BasicsPawn
+|StatDef.showOnMechanoids=false
+|StatDef.toStringStyle=Integer
+|StatDef.defaultBaseValue=90
+|StatDef.postProcessCurve=Exist
+|StatDef.postProcessCurve.points="(0,0)","(5,14)","(40,40)","(100000,100000)"
+|StatDef.parts=Exist
+|StatDef.parts.Count=2
+|StatDef.parts.0=Exist
+|StatDef.parts.0.Class=StatPart_BodySize
+|StatDef.parts.1=Exist
+|StatDef.parts.1.Class=StatPart_NaturalNotMissingBodyPartsCoverage
+}}

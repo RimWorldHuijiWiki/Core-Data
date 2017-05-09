@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DesignationDef
-|defName=Hunt
-|DesignationDef.defName=Hunt
-|DesignationDef.texturePath=Designations/Hunt
-|DesignationDef.targetType=Thing
-}}

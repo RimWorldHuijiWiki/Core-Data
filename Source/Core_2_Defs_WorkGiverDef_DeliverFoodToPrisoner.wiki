@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DeliverFoodToPrisoner
+|WorkGiverDef.defName=DeliverFoodToPrisoner
+|WorkGiverDef.label=deliver food to prisoners
+|WorkGiverDef.label.zh-cn=给囚犯送餐
+|WorkGiverDef.label.zh-tw=替俘虜送餐
+|WorkGiverDef.giverClass=WorkGiver_Warden_DeliverFood
+|WorkGiverDef.workType=Warden
+|WorkGiverDef.priorityInType=70
+|WorkGiverDef.verb=deliver food for
+|WorkGiverDef.verb.zh-cn=送餐给
+|WorkGiverDef.verb.zh-tw=替俘虜送餐
+|WorkGiverDef.gerund=delivering food for
+|WorkGiverDef.gerund.zh-cn=送餐给
+|WorkGiverDef.gerund.zh-tw=送餐
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

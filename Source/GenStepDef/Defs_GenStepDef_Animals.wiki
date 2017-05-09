@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=GenStepDef
-|defName=Animals
-|GenStepDef.defName=Animals
-|GenStepDef.linkWithMapGenerator=BasicMap
-|GenStepDef.order=1000
-|GenStepDef.genStep=
-}}

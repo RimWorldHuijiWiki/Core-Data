@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DesignationDef
-|defName=RemoveFloor
-|DesignationDef.defName=RemoveFloor
-|DesignationDef.texturePath=Designations/RemoveFloor
-|DesignationDef.targetType=Cell
-}}

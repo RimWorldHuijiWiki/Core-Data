@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=PawnColumnDef
-|defName=RemainingSpace
-|PawnColumnDef.defName=RemainingSpace
-|PawnColumnDef.workerClass=PawnColumnWorker_RemainingSpace
-|PawnColumnDef.ignoreWhenCalculatingOptimalTableSize=true
-|PawnColumnDef.widthPriority=-1000
-}}

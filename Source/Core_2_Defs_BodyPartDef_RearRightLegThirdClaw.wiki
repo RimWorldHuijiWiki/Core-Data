@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RearRightLegThirdClaw
+|BodyPartDef.defName=RearRightLegThirdClaw
+|BodyPartDef.label=rear right leg third claw
+|BodyPartDef.label.zh-cn=右后肢第三爪
+|BodyPartDef.label.zh-tw=右後肢中爪
+|BodyPartDef.tags="MovingLimbDigit"
+|BodyPartDef.hitPoints=7
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.frostbiteVulnerability=10
+|BodyPartDef.isAlive=false
+}}

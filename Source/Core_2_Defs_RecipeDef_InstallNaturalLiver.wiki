@@ -1,0 +1,36 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=InstallNaturalLiver
+|RecipeDef.defName=InstallNaturalLiver
+|RecipeDef.label=install liver
+|RecipeDef.label.zh-cn=植入肝脏
+|RecipeDef.label.zh-tw=移植肝臟
+|RecipeDef.description=Installs liver.
+|RecipeDef.description.zh-cn=将肝脏植入身体。
+|RecipeDef.description.zh-tw=移植肝臟。
+|RecipeDef.workerClass=Recipe_InstallNaturalBodyPart
+|RecipeDef.jobString=Installing liver.
+|RecipeDef.jobString.zh-cn=正在植入肝脏。
+|RecipeDef.jobString.zh-tw=移植肝臟。
+|RecipeDef.workAmount=2000
+|RecipeDef.workSpeedStat=MedicalOperationSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Medicine"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs="Liver"
+|RecipeDef.ingredients.1.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Liver"
+|RecipeDef.fixedIngredientFilter.categories="Medicine"
+|RecipeDef.workSkill=Medicine
+|RecipeDef.workSkillLearnFactor=16
+|RecipeDef.effectWorking=Surgery
+|RecipeDef.soundWorking=Recipe_Surgery
+|RecipeDef.appliedOnFixedBodyParts="Liver"
+}}

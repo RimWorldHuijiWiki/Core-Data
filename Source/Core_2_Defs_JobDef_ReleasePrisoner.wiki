@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=ReleasePrisoner
+|JobDef.defName=ReleasePrisoner
+|JobDef.driverClass=JobDriver_ReleasePrisoner
+|JobDef.reportString=releasing TargetA.
+|JobDef.reportString.zh-cn=正在释放TargetA。
+|JobDef.reportString.zh-tw=釋放TargetA。
+|JobDef.alwaysShowWeapon=true
+}}

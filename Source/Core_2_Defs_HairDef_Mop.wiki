@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=Mop
+|HairDef.defName=Mop
+|HairDef.label=mop
+|HairDef.label.zh-cn=蓬松
+|HairDef.label.zh-tw=蓬鬆
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Mop
+|HairDef.hairGender=MaleUsually
+|HairDef.hairTags="Urban","Rural"
+}}

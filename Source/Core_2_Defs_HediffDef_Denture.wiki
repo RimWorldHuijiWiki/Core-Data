@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=Denture
+|HediffDef.defName=Denture
+|HediffDef.label=denture
+|HediffDef.label.zh-cn=义齿
+|HediffDef.label.zh-tw=義齒
+|HediffDef.hediffClass=Hediff_AddedPart
+|HediffDef.isBad=false
+|HediffDef.defaultLabelColor=(0.5, 0.5, 0.9)
+|HediffDef.addedPartProps=Exist
+|HediffDef.addedPartProps.partEfficiency=0.8
+|HediffDef.addedPartProps.isSolid=true
+}}

@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=Mining
+|ConceptDef.defName=Mining
+|ConceptDef.label=Mining
+|ConceptDef.label.zh-cn=采矿
+|ConceptDef.label.zh-tw=開採
+|ConceptDef.priority=25
+|ConceptDef.helpText=You can designate where to mine by opening the ARCHITECT menu and selecting the ORDERS tab.<br/><br/>Some mineable blocks yield STEEL, GOLD, PLASTEEL, and other useful materials.
+|ConceptDef.helpText.zh-cn=你可以通过「建筑规划」面板中「命令」选项里安排在何处开采岩石。<br/><br/>你可能会开采到「钢铁」、「黄金」、「玻璃钢」或者其他有用的原料。
+|ConceptDef.helpText.zh-tw=你可以使用建設選單裡的「開採」命令指定要開採的地區。<br/><br/>開採礦物可以獲取鋼鐵、金屬、塑鋼與其他有用的材料。
+|ConceptDef.highlightTags="MainTab-Architect-Closed","DesignationCategoryButton-Orders-Closed","Designator-Mine"
+}}

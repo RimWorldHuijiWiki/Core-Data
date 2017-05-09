@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartGroupDef
+|defName=Shoulders
+|BodyPartGroupDef.defName=Shoulders
+|BodyPartGroupDef.label=shoulders
+|BodyPartGroupDef.label.zh-cn=肩部
+|BodyPartGroupDef.label.zh-tw=肩膀
+|BodyPartGroupDef.listOrder=85
+}}

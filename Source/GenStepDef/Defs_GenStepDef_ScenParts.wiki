@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=GenStepDef
-|defName=ScenParts
-|GenStepDef.defName=ScenParts
-|GenStepDef.linkWithMapGenerator=BasicMap
-|GenStepDef.order=700
-|GenStepDef.genStep=
-}}

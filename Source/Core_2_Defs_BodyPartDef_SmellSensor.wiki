@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=SmellSensor
+|BodyPartDef.defName=SmellSensor
+|BodyPartDef.label=smell sensor
+|BodyPartDef.label.zh-cn=嗅觉传感器
+|BodyPartDef.label.zh-tw=嗅覺傳感器
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.frostbiteVulnerability=2
+|BodyPartDef.isAlive=false
+}}

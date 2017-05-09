@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Capture
+|JobDef.defName=Capture
+|JobDef.driverClass=JobDriver_TakeToBed
+|JobDef.reportString=capturing TargetA.
+|JobDef.reportString.zh-cn=正在俘虏TargetA。
+|JobDef.reportString.zh-tw=俘虜TargetA。
+|JobDef.alwaysShowWeapon=true
+|JobDef.casualInterruptible=false
+|JobDef.makeTargetPrisoner=true
+}}

@@ -1,0 +1,32 @@
+{{#set:
+|dataType=Def
+|defType=BiomeDef
+|defName=TemperateForest
+|BiomeDef.defName=TemperateForest
+|BiomeDef.label=temperate forest
+|BiomeDef.label.zh-cn=温带森林
+|BiomeDef.label.zh-tw=溫帶森林
+|BiomeDef.description=Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around in the trees and on the plains. Because of snow, it is slow to travel in winter.
+|BiomeDef.description.zh-cn=散布着肥沃的土壤落叶乔木林。丛林里和平原上游荡着多种多样的动物群落。冬季的积雪会导致出行变得缓慢。
+|BiomeDef.description.zh-tw=一個由森林和肥沃土地統領的地區。在這裡的樹叢和平原中生活著各種奇特的動物。冬季的降雪會減緩通行此地的速度。
+|BiomeDef.workerClass=BiomeWorker_TemperateForest
+|BiomeDef.animalDensity=2.8
+|BiomeDef.plantDensity=0.55
+|BiomeDef.diseaseMtbDays=45
+|BiomeDef.factionBaseSelectionWeight=1
+|BiomeDef.pathCost=Exist
+|BiomeDef.pathCost.points="(0, 5500)","(0.03, 1650)","(0.63, 1650)","(0.83, 27500)","(1, 5500)"
+|BiomeDef.baseWeatherCommonalities="Clear","18";"Fog","1";"Rain","2";"DryThunderstorm","1";"RainyThunderstorm","1";"FoggyRain","1";"SnowGentle","4";"SnowHard","4"
+|BiomeDef.terrainsByFertility="Soil","-999 ~ 0.87";"SoilRich","0.87 ~ 999"
+|BiomeDef.soundsAmbient="AmbientNightInsects_Standard"
+|BiomeDef.terrainPatchMakers=Exist
+|BiomeDef.terrainPatchMakers.Count=1
+|BiomeDef.terrainPatchMakers.0=Exist
+|BiomeDef.terrainPatchMakers.0.thresholds="SoilRich","0.73 ~ 0.80";"Mud","0.80 ~ 0.93";"WaterShallow","0.93 ~ 1.06";"WaterDeep","1.06 ~ 999"
+|BiomeDef.terrainPatchMakers.0.perlinFrequency=0.015
+|BiomeDef.wildPlants="PlantGrass","8.0";"PlantDandelion","0.8";"PlantBush","0.7";"PlantTreeOak","0.5";"PlantTreePoplar","0.5";"PlantRaspberry","0.1";"PlantWildHealroot","0.05"
+|BiomeDef.wildAnimals="Gazelle","0.05";"Ibex","0.3";"Deer","0.5";"Muffalo","0.2";"Alpaca","0.1";"Squirrel","1";"WildBoar","0.5";"Boomrat","0.25";"Tortoise","0.4";"Hare","1";"Boomalope","0.2";"Emu","0.1";"Turkey","0.5";"Ostrich","0.1";"Rat","0.8";"Raccoon","0.4";"Megasloth","0.04";"Warg","0.03";"GrizzlyBear","0.06";"Cougar","0.02";"Lynx","0.01";"WolfTimber","0.09";"FoxRed","0.06"
+|BiomeDef.diseases="Disease_Flu","100";"Disease_Plague","100";"Disease_Malaria","100";"Disease_FibrousMechanites","30";"Disease_SensoryMechanites","30";"Disease_GutWorms","50";"Disease_MuscleParasites","50"
+|BiomeDef.allowedPackAnimals="Muffalo"
+|BiomeDef.texture=World/Biomes/TemperateForest
+}}

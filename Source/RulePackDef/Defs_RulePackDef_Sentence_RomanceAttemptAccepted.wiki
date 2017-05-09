@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=RulePackDef
-|defName=Sentence_RomanceAttemptAccepted
-|RulePackDef.defName=Sentence_RomanceAttemptAccepted
-|RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="sent->[recipient_nameShortDef] agreed and is now [initiator_nameShortDef]'s lover.","sent->[recipient_nameShortDef]接受了表白并成为[initiator_nameShortDef]的情人。","sent->[recipient_nameShortDef]接受了[initiator_nameShortDef]的告白，他們現在是情侶了。"
-}}

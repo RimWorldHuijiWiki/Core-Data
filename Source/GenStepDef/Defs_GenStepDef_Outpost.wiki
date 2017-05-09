@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=GenStepDef
-|defName=Outpost
-|GenStepDef.defName=Outpost
-|GenStepDef.linkWithSite=Outpost
-|GenStepDef.order=450
-|GenStepDef.genStep=
-}}

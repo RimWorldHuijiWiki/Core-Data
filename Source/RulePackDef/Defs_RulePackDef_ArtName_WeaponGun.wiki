@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=RulePackDef
-|defName=ArtName_WeaponGun
-|RulePackDef.defName=ArtName_WeaponGun
-|RulePackDef.include="ArtName_Weapon"
-}}

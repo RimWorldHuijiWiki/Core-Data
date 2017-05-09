@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=PawnKindDef
+|defName=Centipede
+|PawnKindDef.defName=Centipede
+|PawnKindDef.label=centipede
+|PawnKindDef.label.zh-cn=机械蜈蚣
+|PawnKindDef.label.zh-tw=蜈蚣機甲
+|PawnKindDef.race=Mechanoid_Centipede
+|PawnKindDef.defaultFactionType=Mechanoid
+|PawnKindDef.labelPlural=centipedes
+|PawnKindDef.labelPlural.zh-cn=机械蜈蚣
+|PawnKindDef.labelPlural.zh-tw=centipedes
+|PawnKindDef.lifeStages=Exist
+|PawnKindDef.lifeStages.Count=1
+|PawnKindDef.lifeStages.0=Exist
+|PawnKindDef.lifeStages.0.bodyGraphicData=Exist
+|PawnKindDef.lifeStages.0.bodyGraphicData.texPath=Things/Pawn/Mechanoid/Centipede
+|PawnKindDef.lifeStages.0.bodyGraphicData.graphicClass=Graphic_Multi
+|PawnKindDef.lifeStages.0.bodyGraphicData.drawSize=3
+|PawnKindDef.lifeStages.0.bodyGraphicData.shadowData=Exist
+|PawnKindDef.lifeStages.0.bodyGraphicData.shadowData.volume=(0.6, 0.8, 0.6)
+|PawnKindDef.combatPower=290
+|PawnKindDef.aiAvoidCover=true
+|PawnKindDef.weaponMoney=8000 ~ 8000
+|PawnKindDef.weaponTags="MechanoidGunHeavy"
+}}

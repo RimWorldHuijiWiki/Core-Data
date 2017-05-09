@@ -1,0 +1,30 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=TradePriceImprovement
+|StatDef.defName=TradePriceImprovement
+|StatDef.label=trade price improvement
+|StatDef.label.zh-cn=交易价格改善
+|StatDef.label.zh-tw=交易價格影響力
+|StatDef.description=When this person negotiates prices, buy and sell prices are improved by this percentage.
+|StatDef.description.zh-cn=当此人在商议价格时，买卖价格改善的百分数。
+|StatDef.description.zh-tw=當該角色議價時，購買或售出貨品的價格將受到這個倍率影響。
+|StatDef.category=PawnSocial
+|StatDef.toStringStyle=PercentTwo
+|StatDef.defaultBaseValue=1
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
+|StatDef.skillNeedFactors.0.skill=Social
+|StatDef.skillNeedFactors.0.baseFactor=0
+|StatDef.skillNeedFactors.0.bonusFactor=0.015
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Talking
+|StatDef.capacityFactors.0.weight=0.3
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Hearing
+|StatDef.capacityFactors.1.weight=0.3
+}}

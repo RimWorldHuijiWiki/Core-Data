@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=MentalBreakDef
+|defName=BingingFood
+|MentalBreakDef.defName=BingingFood
+|MentalBreakDef.mentalState=BingingFood
+|MentalBreakDef.baseCommonality=1
+|MentalBreakDef.intensity=Minor
+}}

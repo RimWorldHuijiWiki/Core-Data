@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=PlayerFaction
+|ScenPartDef.defName=PlayerFaction
+|ScenPartDef.label=Player faction
+|ScenPartDef.label.zh-cn=玩家派系
+|ScenPartDef.label.zh-tw=玩家陣營
+|ScenPartDef.category=Fixed
+|ScenPartDef.scenPartClass=ScenPart_PlayerFaction
+|ScenPartDef.summaryPriority=1000
+}}

@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=ChatWithPrisoner
+|WorkGiverDef.defName=ChatWithPrisoner
+|WorkGiverDef.label=chat with prisoners
+|WorkGiverDef.label.zh-cn=和囚犯聊天
+|WorkGiverDef.label.zh-tw=和俘虜交談
+|WorkGiverDef.giverClass=WorkGiver_Warden_Chat
+|WorkGiverDef.workType=Warden
+|WorkGiverDef.priorityInType=60
+|WorkGiverDef.verb=chat with
+|WorkGiverDef.verb.zh-cn=聊天
+|WorkGiverDef.verb.zh-tw=交談
+|WorkGiverDef.gerund=chatting with
+|WorkGiverDef.gerund.zh-cn=聊天
+|WorkGiverDef.gerund.zh-tw=交談
+|WorkGiverDef.requiredCapacities="Talking"
+}}

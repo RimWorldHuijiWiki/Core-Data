@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=ShutDownMechanoid
+|RecipeDef.defName=ShutDownMechanoid
+|RecipeDef.label=shut down
+|RecipeDef.label.zh-cn=关机
+|RecipeDef.label.zh-tw=停機
+|RecipeDef.description=Shuts down a mechanoid.
+|RecipeDef.description.zh-cn=将机械体永久关闭。
+|RecipeDef.description.zh-tw=完全關閉機器人的系統。
+|RecipeDef.workerClass=Recipe_ShutDown
+|RecipeDef.jobString=Shutting down mechanoid.
+|RecipeDef.jobString.zh-cn=正在关机。
+|RecipeDef.jobString.zh-tw=關閉系統。
+|RecipeDef.workAmount=500
+|RecipeDef.effectWorking=Repair
+|RecipeDef.addsHediff=ShutDown
+|RecipeDef.hideBodyPartNames=true
+|RecipeDef.isViolation=true
+}}

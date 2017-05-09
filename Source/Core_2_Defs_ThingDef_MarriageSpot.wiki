@@ -1,0 +1,37 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=MarriageSpot
+|ThingDef.defName=MarriageSpot
+|ThingDef.label=marriage spot
+|ThingDef.label.zh-cn=婚礼举办点
+|ThingDef.label.zh-tw=結婚點
+|ThingDef.description=Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.
+|ThingDef.description.zh-cn=指定一个举行结婚仪式的位置。观众可以在任何方向上观看婚礼。
+|ThingDef.description.zh-tw=指定一個固定的結婚儀式舉行地點，觀禮者可以從兩側的任一側觀看典禮進行。
+|ThingDef.statBases="WorkToBuild","0"
+|ThingDef.passability=Standable
+|ThingDef.terrainAffordanceNeeded=Light
+|ThingDef.repairEffect=Repair
+|ThingDef.altitudeLayer=FloorEmplacement
+|ThingDef.designationCategory=Misc
+|ThingDef.designationHotKey=Misc10
+|ThingDef.thingClass=Building_MarriageSpot
+|ThingDef.category=Building
+|ThingDef.size=(2,1)
+|ThingDef.useHitPoints=False
+|ThingDef.leaveResourcesWhenKilled=true
+|ThingDef.filthLeaving=BuildingRubble
+|ThingDef.scatterableOnMapGen=false
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Building/Misc/MarriageSpot
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.drawSize=(2,1)
+|ThingDef.drawerType=MapMeshAndRealTime
+|ThingDef.selectable=true
+|ThingDef.soundImpactDefault=BulletImpactMetal
+|ThingDef.building=Exist
+|ThingDef.building.canPlaceOverImpassablePlant=false
+|ThingDef.building.ai_chillDestination=false
+|ThingDef.building.sowTag=SupportPlantsOnly
+}}

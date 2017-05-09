@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Spine
+|BodyPartDef.defName=Spine
+|BodyPartDef.label=spine
+|BodyPartDef.label.zh-cn=脊椎
+|BodyPartDef.label.zh-tw=脊椎
+|BodyPartDef.tags="Spine"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+}}

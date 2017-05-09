@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=SimpleProstheticArm
+|HediffDef.defName=SimpleProstheticArm
+|HediffDef.label=simple prosthetic arm
+|HediffDef.label.zh-cn=简易的假臂
+|HediffDef.label.zh-tw=手臂義肢
+|HediffDef.hediffClass=Hediff_AddedPart
+|HediffDef.isBad=false
+|HediffDef.spawnThingOnRemoved=SimpleProstheticArm
+|HediffDef.defaultLabelColor=(0.5, 0.5, 0.9)
+|HediffDef.addedPartProps=Exist
+|HediffDef.addedPartProps.partEfficiency=0.5
+|HediffDef.addedPartProps.isSolid=true
+}}

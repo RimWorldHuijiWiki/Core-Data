@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=PawnCapacityDef
+|defName=Moving
+|PawnCapacityDef.defName=Moving
+|PawnCapacityDef.label=moving
+|PawnCapacityDef.label.zh-cn=移动能力
+|PawnCapacityDef.label.zh-tw=移動
+|PawnCapacityDef.listOrder=20
+|PawnCapacityDef.workerClass=PawnCapacityWorker_Moving
+|PawnCapacityDef.minForCapable=0.15
+|PawnCapacityDef.zeroIfCannotBeAwake=true
+|PawnCapacityDef.showOnCaravanHealthTab=true
+}}

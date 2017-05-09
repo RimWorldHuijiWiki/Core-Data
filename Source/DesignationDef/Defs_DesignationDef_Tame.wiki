@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DesignationDef
-|defName=Tame
-|DesignationDef.defName=Tame
-|DesignationDef.texturePath=Designations/Tame
-|DesignationDef.targetType=Thing
-}}

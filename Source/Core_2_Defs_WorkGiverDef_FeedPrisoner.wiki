@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=FeedPrisoner
+|WorkGiverDef.defName=FeedPrisoner
+|WorkGiverDef.label=feed prisoners
+|WorkGiverDef.label.zh-cn=给囚犯喂食
+|WorkGiverDef.label.zh-tw=餵食俘虜
+|WorkGiverDef.giverClass=WorkGiver_Warden_Feed
+|WorkGiverDef.workType=Warden
+|WorkGiverDef.priorityInType=80
+|WorkGiverDef.verb=feed
+|WorkGiverDef.verb.zh-cn=喂食
+|WorkGiverDef.verb.zh-tw=餵食俘虜
+|WorkGiverDef.gerund=feeding
+|WorkGiverDef.gerund.zh-cn=喂食
+|WorkGiverDef.gerund.zh-tw=餵食
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

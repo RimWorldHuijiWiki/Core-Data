@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=PawnRelationDef
+|defName=GreatGrandchild
+|PawnRelationDef.defName=GreatGrandchild
+|PawnRelationDef.label=great grandson
+|PawnRelationDef.label.zh-cn=曾孙子
+|PawnRelationDef.label.zh-tw=曾孫
+|PawnRelationDef.workerClass=PawnRelationWorker_GreatGrandchild
+|PawnRelationDef.labelFemale=great granddaughter
+|PawnRelationDef.labelFemale.zh-cn=曾孙女
+|PawnRelationDef.labelFemale.zh-tw=曾孫女
+|PawnRelationDef.importance=115
+|PawnRelationDef.implied=true
+|PawnRelationDef.opinionOffset=5
+|PawnRelationDef.attractionFactor=0.5
+|PawnRelationDef.familyByBloodRelation=true
+|PawnRelationDef.diedThought=MyKinDied
+|PawnRelationDef.killedThought=KilledMyKin
+}}

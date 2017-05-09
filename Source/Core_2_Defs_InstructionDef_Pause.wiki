@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=Pause
+|InstructionDef.defName=Pause
+|InstructionDef.instructionClass=Instruction_LearnConcept
+|InstructionDef.text=You can pause time.<br/><br/>This means you never need to rush. You can always pause and take your time to issue orders.<br/><br/>Try pausing with the {Key:TogglePause} key, or by using the time controls in the bottom right.
+|InstructionDef.text.zh-cn=你可以暂停时间！<br/><br/>点击{Key:TogglePause}来暂停/继续游戏。<br/><br/>当你忙得不可开交时，按{Key:TogglePause}就对了！
+|InstructionDef.text.zh-tw=你可以隨時暫停時間。<br/><br/>這表示你永遠不必慌忙地下指令，暫停時間讓你有充足的時間可以應對。<br/><br/>按下{Key:TogglePause}或點擊畫面右下角的時間控制按鈕暫停時間。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-MapCameraZoom
+|InstructionDef.concept=Pause
+|InstructionDef.highlightTags="TimeControls"
+}}

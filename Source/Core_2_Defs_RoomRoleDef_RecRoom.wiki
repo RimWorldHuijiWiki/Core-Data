@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=RoomRoleDef
+|defName=RecRoom
+|RoomRoleDef.defName=RecRoom
+|RoomRoleDef.label=rec room
+|RoomRoleDef.label.zh-cn=娱乐室
+|RoomRoleDef.label.zh-tw=娛樂室
+|RoomRoleDef.workerClass=RoomRoleWorker_RecRoom
+|RoomRoleDef.relatedStats="Beauty","Cleanliness","Wealth","Space","Impressiveness"
+}}

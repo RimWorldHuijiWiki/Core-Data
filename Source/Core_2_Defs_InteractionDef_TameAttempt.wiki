@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=InteractionDef
+|defName=TameAttempt
+|InteractionDef.defName=TameAttempt
+|InteractionDef.label=tame attempt
+|InteractionDef.label.zh-cn=尝试驯服
+|InteractionDef.label.zh-tw=嘗試馴服
+|InteractionDef.workerClass=InteractionWorker_RecruitAttempt
+|InteractionDef.initiatorXpGainSkill=Animals
+|InteractionDef.initiatorXpGainAmount=90
+|InteractionDef.symbol=Things/Mote/SpeechSymbols/PrisonerRecruit
+|InteractionDef.logRulesInitiator=Exist
+|InteractionDef.logRulesInitiator.rulesStrings="logentry->Attempted to tame [other_nameShortIndef].","logentry->尝试去驯服[other_nameShortIndef]。","logentry->試圖馴服[other_nameShortIndef]。"
+|InteractionDef.logRulesRecipient=Exist
+|InteractionDef.logRulesRecipient.rulesStrings="logentry->Watches [other_nameShortIndef] attempt to tame me.","logentry->观察[other_nameShortIndef]驯服自己。","logentry->看著[other_nameShortIndef]嘗試馴服自己。"
+}}

@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=ShotChargeBlaster
+|SoundDef.defName=ShotChargeBlaster
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.maxSimultaneous=1
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
+|SoundDef.subSounds.0.grains.0.clipPath=Weapon/ChargeShotA
+|SoundDef.subSounds.0.pitchRange=1.4 ~ 1.6
+}}

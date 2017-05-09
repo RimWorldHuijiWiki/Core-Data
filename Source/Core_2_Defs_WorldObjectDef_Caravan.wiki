@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=WorldObjectDef
+|defName=Caravan
+|WorldObjectDef.defName=Caravan
+|WorldObjectDef.label=caravan
+|WorldObjectDef.label.zh-cn=远行队
+|WorldObjectDef.label.zh-tw=旅隊
+|WorldObjectDef.description=A group of traveling people.
+|WorldObjectDef.description.zh-cn=一队旅行者。
+|WorldObjectDef.description.zh-tw=一群旅行中的人。
+|WorldObjectDef.worldObjectClass=Caravan
+|WorldObjectDef.allowCaravanIncidentsWhichGenerateMap=true
+|WorldObjectDef.inspectorTabs="WITab_Caravan_Health","WITab_Caravan_Needs","WITab_Caravan_Gear","WITab_Caravan_Social","WITab_Caravan_Items"
+|WorldObjectDef.useDynamicDrawer=true
+|WorldObjectDef.expandingIcon=true
+|WorldObjectDef.expandingIconTexture=World/WorldObjects/Expanding/Caravan
+|WorldObjectDef.expandingIconPriority=100
+|WorldObjectDef.texture=World/WorldObjects/Caravan
+}}

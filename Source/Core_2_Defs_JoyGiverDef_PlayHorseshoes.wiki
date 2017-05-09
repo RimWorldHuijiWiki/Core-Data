@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=JoyGiverDef
+|defName=PlayHorseshoes
+|JoyGiverDef.defName=PlayHorseshoes
+|JoyGiverDef.giverClass=JoyGiver_WatchBuilding
+|JoyGiverDef.baseChance=2.3
+|JoyGiverDef.thingDefs="HorseshoesPin"
+|JoyGiverDef.jobDef=PlayHorseshoes
+|JoyGiverDef.desireSit=false
+|JoyGiverDef.joyKind=GamingDexterity
+|JoyGiverDef.requiredCapacities="Sight","Manipulation"
+}}

@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=GunTurrets
+|ResearchProjectDef.defName=GunTurrets
+|ResearchProjectDef.label=gun turrets
+|ResearchProjectDef.label.zh-cn=自动机枪塔
+|ResearchProjectDef.label.zh-tw=自動機槍塔
+|ResearchProjectDef.description=Allows the production of automated gun turrets.
+|ResearchProjectDef.description.zh-cn=解锁建造「自动机枪塔」。
+|ResearchProjectDef.description.zh-tw=解鎖建造自動機槍塔。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=800
+|ResearchProjectDef.prerequisites="MicroelectronicsBasics"
+|ResearchProjectDef.researchViewX=8
+|ResearchProjectDef.researchViewY=5
+}}

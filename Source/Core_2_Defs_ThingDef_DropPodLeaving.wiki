@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=DropPodLeaving
+|ThingDef.defName=DropPodLeaving
+|ThingDef.label=drop pod (leaving)
+|ThingDef.label.zh-cn=空投舱（发射中）
+|ThingDef.label.zh-tw=運輸艙(飛離中)
+|ThingDef.altitudeLayer=MetaOverlays
+|ThingDef.thingClass=DropPodLeaving
+|ThingDef.category=Skyfaller
+|ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=false
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Special/DropPod
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.shaderType=CutoutFlying
+|ThingDef.graphicData.drawSize=1.9
+|ThingDef.drawOffscreen=true
+}}

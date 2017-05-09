@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=PsychicSensitivity
+|StatDef.defName=PsychicSensitivity
+|StatDef.label=psychic sensitivity
+|StatDef.label.zh-cn=心灵敏感度
+|StatDef.label.zh-tw=心靈敏感度
+|StatDef.description=Multiplier on the impact of psychic phenomena affecting this person.
+|StatDef.description.zh-cn=各类心灵事件对此人心情的影响的乘数。
+|StatDef.description.zh-tw=干擾電波對該角色影響程度倍率。
+|StatDef.category=BasicsPawn
+|StatDef.hideAtValue=1
+|StatDef.showOnAnimals=false
+|StatDef.displayPriorityInCategory=75
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1
+}}

@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=MapGeneratorDef
-|defName=MainMap
-|MapGeneratorDef.defName=MainMap
-|MapGeneratorDef.parent=BasicMap
-}}

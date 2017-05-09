@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Gun_MachinePistol
+|RecipeDef.defName=Make_Gun_MachinePistol
+|RecipeDef.label=make machine pistol
+|RecipeDef.label.zh-cn=制作冲锋手枪
+|RecipeDef.label.zh-tw=製造輕型衝鋒槍
+|RecipeDef.description=Make machine pistol.
+|RecipeDef.description.zh-cn=一种微型冲锋枪。射程短，威力低，但是射速很高。瞄准和开火都非常迅速敏捷。
+|RecipeDef.description.zh-tw=製造一把輕型衝鋒槍。
+|RecipeDef.jobString=Making machine pistol.
+|RecipeDef.jobString.zh-cn=正在制作冲锋手枪。
+|RecipeDef.jobString.zh-tw=製造輕型衝鋒槍。
+|RecipeDef.workAmount=25000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Steel"
+|RecipeDef.ingredients.0.count=45
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs="Component"
+|RecipeDef.ingredients.1.count=3
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Steel","Component"
+|RecipeDef.products="Gun_MachinePistol","1"
+|RecipeDef.unfinishedThingDef=UnfinishedGun
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Smith
+|RecipeDef.recipeUsers="TableMachining"
+}}

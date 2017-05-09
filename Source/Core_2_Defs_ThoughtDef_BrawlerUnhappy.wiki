@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=BrawlerUnhappy
+|ThoughtDef.defName=BrawlerUnhappy
+|ThoughtDef.workerClass=ThoughtWorker_IsCarryingRangedWeapon
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=brawler has ranged weapon
+|ThoughtDef.stages.0.label.zh-cn=格斗者持有远程武器
+|ThoughtDef.stages.0.label.zh-tw=持有遠距離武器
+|ThoughtDef.stages.0.description=I hate shooting from a distance. I want to get up close and personal!
+|ThoughtDef.stages.0.description.zh-cn=我可讨厌远程攻击敌人了。我想和敌人正面单挑！
+|ThoughtDef.stages.0.description.zh-tw=噁...我討厭拿著會射出東西的武器，我要一把肉搏武器！
+|ThoughtDef.stages.0.baseMoodEffect=-20
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.requiredTraits="Brawler"
+}}

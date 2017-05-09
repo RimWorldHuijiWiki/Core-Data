@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=MechanicalCentipedeBodyFirstRing
+|BodyPartDef.defName=MechanicalCentipedeBodyFirstRing
+|BodyPartDef.label=first body ring
+|BodyPartDef.label.zh-cn=第一身节
+|BodyPartDef.label.zh-tw=第一身節
+|BodyPartDef.tags="MovingLimbCore","ManipulationLimbCore"
+|BodyPartDef.hitPoints=100
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.isAlive=false
+}}

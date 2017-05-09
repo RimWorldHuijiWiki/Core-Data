@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=AnimalsDontAttackDoors
+|ConceptDef.defName=AnimalsDontAttackDoors
+|ConceptDef.label=Animals don't attack doors
+|ConceptDef.label.zh-cn=猎杀人类的动物
+|ConceptDef.label.zh-tw=獸群襲擊
+|ConceptDef.priority=50
+|ConceptDef.needsOpportunity=True
+|ConceptDef.helpText=Manhunting animals generally won't attack doors or inactive turrets.<br/><br/>You can escape them by getting inside or behind a wall. But they'll wait for you.
+|ConceptDef.helpText.zh-cn=猎杀人类的动物通常不会攻击门或者未启用的炮塔，你可以通过躲进屋内来躲避它们。但是它们会等你出来。
+|ConceptDef.helpText.zh-tw=獵殺人類的動物通常不會攻擊門或未啟用的機槍塔。<br/><br/>你可以進到室內躲避獸群攻擊，但牠們會在門外等著你踏出門的那一刻。
+}}

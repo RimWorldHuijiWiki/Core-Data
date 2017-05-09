@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=RulePackDef
-|defName=ArtDescription_Sculpture
-|RulePackDef.defName=ArtDescription_Sculpture
-|RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="physical_description_root->This [sculpture] [depicts] [image]. [desc_sentence_group]","physical_description_root->This [sculpture] bears a [depiction] of [image]. [desc_sentence_group]","physical_description_root->On this [sculpture] is a [depiction] of [image]. [desc_sentence_group]","sculpture->sculpture","sculpture->work","sculpture->piece","sculpture->carving","physical_description_root->这件[sculpture][depicts]的是[image]。[desc_sentence_group]","physical_description_root->这件[sculpture]向我们[depiction]了[image]。[desc_sentence_group]","physical_description_root->在这件[sculpture]上[depiction]了[image]。[desc_sentence_group]","sculpture->雕塑","sculpture->作品","sculpture->艺术品","sculpture->雕像","physical_description_root->這個[sculpture][depicts][image]。[desc_sentence_group]","physical_description_root->這個[sculpture][depicts][image]。[desc_sentence_group]","physical_description_root->這個[sculpture][depicts][image]的事件。[desc_sentence_group]","sculpture->雕像","sculpture->作品","sculpture->雕塑","sculpture->雕刻"
-}}

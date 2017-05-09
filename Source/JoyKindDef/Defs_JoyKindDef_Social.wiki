@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=JoyKindDef
-|defName=Social
-|JoyKindDef.defName=Social
-|JoyKindDef.label=social
-|JoyKindDef.label.zh-cn=社交
-|JoyKindDef.label.zh-tw=社交
-}}

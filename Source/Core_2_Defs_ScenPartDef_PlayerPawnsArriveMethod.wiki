@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=PlayerPawnsArriveMethod
+|ScenPartDef.defName=PlayerPawnsArriveMethod
+|ScenPartDef.label=arrival method
+|ScenPartDef.label.zh-cn=抵达方式
+|ScenPartDef.label.zh-tw=抵達方式
+|ScenPartDef.category=Fixed
+|ScenPartDef.scenPartClass=ScenPart_PlayerPawnsArriveMethod
+|ScenPartDef.summaryPriority=470
+}}

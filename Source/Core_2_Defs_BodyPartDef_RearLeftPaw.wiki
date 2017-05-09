@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RearLeftPaw
+|BodyPartDef.defName=RearLeftPaw
+|BodyPartDef.label=rear left paw
+|BodyPartDef.label.zh-cn=左后掌
+|BodyPartDef.label.zh-tw=左後掌
+|BodyPartDef.tags="MovingLimbSegment"
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=6
+}}

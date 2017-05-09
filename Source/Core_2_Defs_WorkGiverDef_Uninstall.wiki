@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=Uninstall
+|WorkGiverDef.defName=Uninstall
+|WorkGiverDef.label=uninstall structures
+|WorkGiverDef.label.zh-cn=卸载建筑
+|WorkGiverDef.label.zh-tw=打包
+|WorkGiverDef.giverClass=WorkGiver_Uninstall
+|WorkGiverDef.workType=Construction
+|WorkGiverDef.priorityInType=19
+|WorkGiverDef.verb=uninstall
+|WorkGiverDef.verb.zh-cn=卸载
+|WorkGiverDef.verb.zh-tw=打包
+|WorkGiverDef.gerund=uninstalling
+|WorkGiverDef.gerund.zh-cn=卸载
+|WorkGiverDef.gerund.zh-tw=打包
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

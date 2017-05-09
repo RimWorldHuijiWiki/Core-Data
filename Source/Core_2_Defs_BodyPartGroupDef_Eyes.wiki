@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartGroupDef
+|defName=Eyes
+|BodyPartGroupDef.defName=Eyes
+|BodyPartGroupDef.label=eyes
+|BodyPartGroupDef.label.zh-cn=眼睛
+|BodyPartGroupDef.label.zh-tw=眼睛
+|BodyPartGroupDef.listOrder=198
+}}

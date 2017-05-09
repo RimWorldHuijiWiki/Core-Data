@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=MainButtonDef
+|defName=Inspect
+|MainButtonDef.defName=Inspect
+|MainButtonDef.label=inspect
+|MainButtonDef.label.zh-cn=查看
+|MainButtonDef.label.zh-tw=確認
+|MainButtonDef.tabWindowClass=MainTabWindow_Inspect
+|MainButtonDef.buttonVisible=false
+}}

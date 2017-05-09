@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=NextColonist
+|KeyBindingDef.defName=NextColonist
+|KeyBindingDef.label=next colonist
+|KeyBindingDef.label.zh-cn=下一位殖民者
+|KeyBindingDef.label.zh-tw=下一名居民
+|KeyBindingDef.category=Game
+|KeyBindingDef.defaultKeyCodeA=Period
+}}

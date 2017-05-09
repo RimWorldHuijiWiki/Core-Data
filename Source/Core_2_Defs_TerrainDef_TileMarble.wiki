@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=TileMarble
+|TerrainDef.defName=TileMarble
+|TerrainDef.label=marble tile
+|TerrainDef.label.zh-cn=大理石地砖
+|TerrainDef.label.zh-tw=大理石地磚
+|TerrainDef.description=Refined, carefully-cut stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.
+|TerrainDef.description.zh-cn=坚固的石质地砖给人以城堡一样的感觉。看起来很漂亮，就是铺设速度较慢。
+|TerrainDef.description.zh-tw=擁有城堡感覺的石質地磚，外觀看起來還不錯，但鋪設相當耗時。
+|TerrainDef.statBases="WorkToBuild","1100";"Beauty","1"
+|TerrainDef.fertility=0
+|TerrainDef.costList="BlocksMarble","4"
+|TerrainDef.terrainAffordanceNeeded=Light
+|TerrainDef.constructEffect=ConstructDirt
+|TerrainDef.designationCategory=Floors
+|TerrainDef.texturePath=Terrain/Surfaces/TileStone
+|TerrainDef.renderPrecedence=220
+|TerrainDef.affordances="Light","Heavy","SmoothHard"
+|TerrainDef.layerable=true
+|TerrainDef.color=(132,135,132)
+|TerrainDef.acceptTerrainSourceFilth=True
+}}

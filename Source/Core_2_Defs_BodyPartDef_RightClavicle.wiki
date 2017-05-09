@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RightClavicle
+|BodyPartDef.defName=RightClavicle
+|BodyPartDef.label=right clavicle
+|BodyPartDef.label.zh-cn=右锁骨
+|BodyPartDef.label.zh-tw=右鎖骨
+|BodyPartDef.tags="ManipulationLimbSegment"
+|BodyPartDef.hitPoints=25
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+}}

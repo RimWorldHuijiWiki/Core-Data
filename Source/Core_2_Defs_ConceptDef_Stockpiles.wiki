@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=Stockpiles
+|ConceptDef.defName=Stockpiles
+|ConceptDef.label=Stockpiles
+|ConceptDef.label.zh-cn=储存区
+|ConceptDef.label.zh-tw=劃設儲存區
+|ConceptDef.priority=40
+|ConceptDef.helpText=Your colonists need somewhere to store items. Designate a STOCKPILE for them to store things.<br/><br/>Find the stockpile in the ZONES section of the ARCHITECT menu in the lower-left.
+|ConceptDef.helpText.zh-cn=你的殖民者们需要一块地方来储存物品，规划一片「储存区」来存放物资吧。<br/><br/>你可以在「建筑规划」的面板中找到「区域」——「储存区」来设置。
+|ConceptDef.helpText.zh-tw=你的居民需要一些儲存區才能存放資源，替他們設置一些儲存區以存放資源。<br/><br/>從畫面左下處「建設」選單中的「區域」子選單中找到「儲存區」項目。
+|ConceptDef.highlightTags="MainTab-Architect-Closed","DesignationCategoryButton-Zone-Closed","Designator-ZoneAddStockpile_Resources"
+}}

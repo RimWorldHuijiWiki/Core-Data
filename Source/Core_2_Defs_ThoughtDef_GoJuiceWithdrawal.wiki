@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=GoJuiceWithdrawal
+|ThoughtDef.defName=GoJuiceWithdrawal
+|ThoughtDef.workerClass=ThoughtWorker_Hediff
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=2
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.visible=false
+|ThoughtDef.stages.1=Exist
+|ThoughtDef.stages.1.label=go-juice withdrawal
+|ThoughtDef.stages.1.label.zh-cn=活力水戒断
+|ThoughtDef.stages.1.label.zh-tw=果汁戒斷
+|ThoughtDef.stages.1.description=I'm all fuzzy and can't think straight. My limbs feel heavy, I'm tired and hungry, everything hurts. And why won't my eyes focus properly?
+|ThoughtDef.stages.1.description.zh-cn=简直昏头了，无法正常思考，我的腿变得好沉重，浑身上下都疼痛难忍，为什么我的眼睛什么也看不清？
+|ThoughtDef.stages.1.description.zh-tw=我的腦袋一片混亂，完全不能好好思考。四肢無力，又累又餓、全身痠痛。為什麼我的視線就是無法對焦！
+|ThoughtDef.stages.1.baseMoodEffect=-35
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.hediff=GoJuiceAddiction
+}}

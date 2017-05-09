@@ -1,6 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=SectionLayerPhaseDef
-|defName=WaterGeneration
-|SectionLayerPhaseDef.defName=WaterGeneration
-}}

@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=Plants
+|GenStepDef.defName=Plants
+|GenStepDef.linkWithMapGenerator=BasicMap
+|GenStepDef.order=800
+|GenStepDef.genStep=
+}}

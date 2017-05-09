@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=Disease_Plague
+|IncidentDef.defName=Disease_Plague
+|IncidentDef.label=plague
+|IncidentDef.label.zh-cn=瘟疫
+|IncidentDef.label.zh-tw=瘟疫
+|IncidentDef.workerClass=IncidentWorker_Disease
+|IncidentDef.category=Disease
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.diseaseIncident=Plague
+|IncidentDef.diseaseVictimFractionRange=0.2 ~ 0.5
+}}

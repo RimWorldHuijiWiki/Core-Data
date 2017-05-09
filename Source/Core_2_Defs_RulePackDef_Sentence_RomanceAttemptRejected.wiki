@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=RulePackDef
+|defName=Sentence_RomanceAttemptRejected
+|RulePackDef.defName=Sentence_RomanceAttemptRejected
+|RulePackDef.rulePack=Exist
+|RulePackDef.rulePack.rulesStrings="sent->[recipient_nameShortDef] rejected the advance.","sent->[recipient_nameShortDef]拒绝了表白。","sent->[recipient_nameShortDef]拒絕了[initiator_nameShortDef]的告白。"
+}}

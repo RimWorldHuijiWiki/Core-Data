@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=MeleeHit_Metal_Sharp
+|SoundDef.defName=MeleeHit_Metal_Sharp
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.maxSimultaneous=2
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
+|SoundDef.subSounds.0.grains.0.clipFolderPath=Impact/MeleeHit_Metal_Sharp
+|SoundDef.subSounds.0.volumeRange=25.81395 ~ 25.81395
+|SoundDef.subSounds.0.pitchRange=1 ~ 1.14837
+|SoundDef.subSounds.0.distRange=0 ~ 70
+}}

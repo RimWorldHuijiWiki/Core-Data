@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=KindWordsMood
+|ThoughtDef.defName=KindWordsMood
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=kind words
+|ThoughtDef.stages.0.label.zh-cn=言语关怀
+|ThoughtDef.stages.0.label.zh-tw=美言
+|ThoughtDef.stages.0.description=I've been bestowed with kind words! What a nice person!
+|ThoughtDef.stages.0.description.zh-cn=有人对我说了一些关怀的话！这人真好！
+|ThoughtDef.stages.0.description.zh-tw=我被稱讚了，他人真好。
+|ThoughtDef.stages.0.baseMoodEffect=5
+|ThoughtDef.stackLimit=10
+|ThoughtDef.stackedEffectMultiplier=0.9
+|ThoughtDef.durationDays=2
+}}

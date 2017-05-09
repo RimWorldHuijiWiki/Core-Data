@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=TrainableDef
+|defName=Release
+|TrainableDef.defName=Release
+|TrainableDef.label=release
+|TrainableDef.label.zh-cn=出击
+|TrainableDef.label.zh-tw=出擊
+|TrainableDef.description=The animal can be released to attack distant targets instead of just defending the master.
+|TrainableDef.description.zh-cn=动物可以主动出击，攻击远处的目标，而不是仅仅保护主人。
+|TrainableDef.description.zh-tw=動物將可前往攻擊遠處的目標，而不只是護衛主人。
+|TrainableDef.difficulty=100
+|TrainableDef.prerequisites="Obedience"
+|TrainableDef.tags="Combat"
+|TrainableDef.defaultTrainable=true
+|TrainableDef.requiredTrainableIntelligence=Intermediate
+|TrainableDef.steps=2
+|TrainableDef.listPriority=800
+|TrainableDef.icon=UI/Icons/Trainables/Release
+}}

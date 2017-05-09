@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=TimeCleaning
+|RecordDef.defName=TimeCleaning
+|RecordDef.label=time cleaning
+|RecordDef.label.zh-cn=清洁时间
+|RecordDef.label.zh-tw=清潔工作
+|RecordDef.description=Total time spent cleaning.
+|RecordDef.description.zh-cn=清洁花费的总时间。
+|RecordDef.description.zh-tw=進行清潔工作的時間。
+|RecordDef.type=Time
+|RecordDef.measuredTimeJobs="Clean"
+}}

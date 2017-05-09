@@ -1,0 +1,32 @@
+{{#set:
+|dataType=Def
+|defType=MentalStateDef
+|defName=GiveUpExit
+|MentalStateDef.defName=GiveUpExit
+|MentalStateDef.label=giving up and leaving
+|MentalStateDef.label.zh-cn=放弃离开
+|MentalStateDef.label.zh-tw=萬念俱灰
+|MentalStateDef.stateClass=MentalState_GiveUpExit
+|MentalStateDef.category=Sad
+|MentalStateDef.prisonersCanDo=false
+|MentalStateDef.blockNormalThoughts=true
+|MentalStateDef.tale=MentalStateGaveUp
+|MentalStateDef.allowBeatfire=true
+|MentalStateDef.recoveryMtbDays=0.3
+|MentalStateDef.minTicksBeforeRecovery=10000
+|MentalStateDef.moodRecoveryThought=Catharsis
+|MentalStateDef.beginLetter={0} is leaving the colony.
+|MentalStateDef.beginLetter.zh-cn={0} 已经放弃并离开殖民地。
+|MentalStateDef.beginLetter.zh-tw={0}打算離開這個傷心地。
+|MentalStateDef.beginLetterLabel=gave up
+|MentalStateDef.beginLetterLabel.zh-cn=放弃
+|MentalStateDef.beginLetterLabel.zh-tw=萬念俱灰
+|MentalStateDef.beginLetterDef=BadNonUrgent
+|MentalStateDef.nameColor=(0.65, 0.9, 0.93)
+|MentalStateDef.recoveryMessage={0} has had a change of heart and is coming back to the colony.
+|MentalStateDef.recoveryMessage.zh-cn={0}改变心意，并返回殖民地。
+|MentalStateDef.recoveryMessage.zh-tw={0}心想或許還有一絲希望。
+|MentalStateDef.baseInspectLine=Mental state: Given up and leaving
+|MentalStateDef.baseInspectLine.zh-cn=失控：放弃离开
+|MentalStateDef.baseInspectLine.zh-tw=心理狀態：萬念俱灰
+}}

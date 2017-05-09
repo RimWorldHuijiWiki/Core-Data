@@ -1,0 +1,6 @@
+{{#set:
+|dataType=Def
+|defType=SongDef
+|defName=UnnamedDef
+|SongDef.clipPath=Songs/Relax/Noodles_Mirage/Noodle_Mirage_c
+}}

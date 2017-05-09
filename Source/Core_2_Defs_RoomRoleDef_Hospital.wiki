@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=RoomRoleDef
+|defName=Hospital
+|RoomRoleDef.defName=Hospital
+|RoomRoleDef.label=hospital
+|RoomRoleDef.label.zh-cn=医务室
+|RoomRoleDef.label.zh-tw=醫院
+|RoomRoleDef.workerClass=RoomRoleWorker_Hospital
+|RoomRoleDef.relatedStats="Beauty","Cleanliness","Space"
+}}

@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=TimeGettingFood
+|RecordDef.defName=TimeGettingFood
+|RecordDef.label=time finding food and eating
+|RecordDef.label.zh-cn=寻找食物和吃饭时间
+|RecordDef.label.zh-tw=覓食與進食
+|RecordDef.description=Total time spent on finding food and eating.
+|RecordDef.description.zh-cn=寻找食物和吃饭的总时间。
+|RecordDef.description.zh-tw=覓食與進食的時間。
+|RecordDef.type=Time
+|RecordDef.measuredTimeJobs="Ingest","PredatorHunt"
+}}

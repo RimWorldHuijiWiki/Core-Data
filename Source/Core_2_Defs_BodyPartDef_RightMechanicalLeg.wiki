@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RightMechanicalLeg
+|BodyPartDef.defName=RightMechanicalLeg
+|BodyPartDef.label=right leg
+|BodyPartDef.label.zh-cn=右腿
+|BodyPartDef.label.zh-tw=右腿
+|BodyPartDef.tags="MovingLimbCore"
+|BodyPartDef.hitPoints=30
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.isAlive=false
+}}

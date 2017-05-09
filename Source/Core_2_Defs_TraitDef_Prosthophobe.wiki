@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=Prosthophobe
+|TraitDef.defName=Prosthophobe
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=prosthophobe
+|TraitDef.degreeDatas.0.label.zh-cn=仿生学恐惧
+|TraitDef.degreeDatas.0.label.zh-tw=仿生排斥者
+|TraitDef.degreeDatas.0.description=NAME believes the human body is limited for a reason. To HIM, bionic body parts are unethical.
+|TraitDef.degreeDatas.0.description.zh-cn=NAME觉得人的能力有限是有原因的，对于HIM来说仿生部件是违反伦理道德的。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME相信，因為某種因素，人類身體存在某種界限，對HIM來說，仿生科技是不道德的。
+|TraitDef.conflictingTraits="Prosthophile"
+|TraitDef.commonality=0.3
+}}

@@ -1,0 +1,32 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=MakeStoneBlocksMarble
+|RecipeDef.defName=MakeStoneBlocksMarble
+|RecipeDef.label=make marble blocks
+|RecipeDef.label.zh-cn=制作大理石砖
+|RecipeDef.label.zh-tw=製造大理石石材
+|RecipeDef.description=Cuts marble chunks into usable blocks.
+|RecipeDef.description.zh-cn=将大理石块切割成可用的砖块。
+|RecipeDef.description.zh-tw=將石塊製成大理石石材。
+|RecipeDef.jobString=Cutting stone blocks from chunk.
+|RecipeDef.jobString.zh-cn=正在切割石材。
+|RecipeDef.jobString.zh-tw=生產大理石石材。
+|RecipeDef.workAmount=1600
+|RecipeDef.workSpeedStat=StonecuttingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="ChunkMarble"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="ChunkMarble"
+|RecipeDef.products="BlocksMarble","20"
+|RecipeDef.targetCountAdjustment=20
+|RecipeDef.workSkill=Construction
+|RecipeDef.workSkillLearnFactor=0.3
+|RecipeDef.effectWorking=CutStone
+|RecipeDef.soundWorking=Recipe_MakeStoneBlocks
+|RecipeDef.recipeUsers="TableStonecutter"
+}}

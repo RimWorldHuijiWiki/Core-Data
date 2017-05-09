@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_SculptureSmall
+|RecipeDef.defName=Make_SculptureSmall
+|RecipeDef.label=make small sculpture
+|RecipeDef.label.zh-cn=制作小雕塑
+|RecipeDef.label.zh-tw=雕塑小型雕像
+|RecipeDef.description=Make small sculpture.
+|RecipeDef.description.zh-cn=由一块躯干大小的材料塑造而成的艺术品。
+|RecipeDef.description.zh-tw=製作一個小型雕像。
+|RecipeDef.jobString=Making small sculpture.
+|RecipeDef.jobString.zh-cn=雕塑中。
+|RecipeDef.jobString.zh-tw=製作小型雕像。
+|RecipeDef.workAmount=18000
+|RecipeDef.workSpeedStat=SculptingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Metallic","Woody","Stony"
+|RecipeDef.ingredients.0.count=70
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Metallic","Woody","Stony"
+|RecipeDef.defaultIngredientFilter=Exist
+|RecipeDef.defaultIngredientFilter.categories="Root"
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs="Gold","Silver","Plasteel","Jade","Uranium"
+|RecipeDef.products="SculptureSmall","1"
+|RecipeDef.productHasIngredientStuff=true
+|RecipeDef.unfinishedThingDef=UnfinishedSculpture
+|RecipeDef.workSkill=Artistic
+|RecipeDef.effectWorking=Sculpt
+|RecipeDef.soundWorking=Recipe_Sculpt
+|RecipeDef.recipeUsers="TableSculpting"
+}}

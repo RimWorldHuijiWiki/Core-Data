@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=AnimalsTamed
+|RecordDef.defName=AnimalsTamed
+|RecordDef.label=animals tamed
+|RecordDef.label.zh-cn=驯服动物数
+|RecordDef.label.zh-tw=馴服次數
+|RecordDef.description=The number of animals I have tamed.
+|RecordDef.description.zh-cn=我所驯服的动物数量。
+|RecordDef.description.zh-tw=我馴服的動物數。
+|RecordDef.type=Int
+}}

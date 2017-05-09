@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=SimpleProstheticLeg
+|HediffDef.defName=SimpleProstheticLeg
+|HediffDef.label=simple prosthetic leg
+|HediffDef.label.zh-cn=简易的假腿
+|HediffDef.label.zh-tw=腿部義肢
+|HediffDef.hediffClass=Hediff_AddedPart
+|HediffDef.isBad=false
+|HediffDef.spawnThingOnRemoved=SimpleProstheticLeg
+|HediffDef.defaultLabelColor=(0.5, 0.5, 0.9)
+|HediffDef.addedPartProps=Exist
+|HediffDef.addedPartProps.partEfficiency=0.85
+|HediffDef.addedPartProps.isSolid=true
+}}

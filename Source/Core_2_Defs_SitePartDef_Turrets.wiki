@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=SitePartDef
+|defName=Turrets
+|SitePartDef.defName=Turrets
+|SitePartDef.label=turrets
+|SitePartDef.label.zh-cn=炮塔
+|SitePartDef.label.zh-tw=自動機槍塔
+|SitePartDef.siteTexture=World/WorldObjects/Sites/Outpost
+|SitePartDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Turrets
+|SitePartDef.applyFactionColorToSiteTexture=true
+|SitePartDef.showFactionInInspectString=true
+|SitePartDef.knownDanger=true
+|SitePartDef.requiresFaction=true
+|SitePartDef.minFactionTechLevel=Industrial
+}}

@@ -1,0 +1,22 @@
+{{#set:
+|dataType=Def
+|defType=RulePackDef
+|defName=NamerWorld
+|RulePackDef.defName=NamerWorld
+|RulePackDef.rulePack=Exist
+|RulePackDef.rulePack.rulesStrings="name->[celestialname]","name->[celestialprefix] [celestialname]","name->[celestialname] [romannumeral]","name->[celestialname] [celestialname]","name->[celestialname] [celestialsuffix]","name->[celestialname]","name->[celestialprefix][celestialname]","name->[celestialname][romannumeral]","name->[celestialname][celestialname]","name->[celestialname][celestialsuffix]","name->[celestialname]","name->[celestialprefix][celestialname]","name->[celestialname][romannumeral]","name->[celestialname][celestialname]","name->[celestialname][celestialsuffix]"
+|RulePackDef.rulePack.rulesRaw=Exist
+|RulePackDef.rulePack.rulesRaw.Count=3
+|RulePackDef.rulePack.rulesRaw.0=Exist
+|RulePackDef.rulePack.rulesRaw.0.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.0.keyword=celestialname
+|RulePackDef.rulePack.rulesRaw.0.path=Names/Celestial
+|RulePackDef.rulePack.rulesRaw.1=Exist
+|RulePackDef.rulePack.rulesRaw.1.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.1.keyword=celestialsuffix
+|RulePackDef.rulePack.rulesRaw.1.path=Names/CelestialSuffix
+|RulePackDef.rulePack.rulesRaw.2=Exist
+|RulePackDef.rulePack.rulesRaw.2.Class=Rule_File
+|RulePackDef.rulePack.rulesRaw.2.keyword=celestialprefix
+|RulePackDef.rulePack.rulesRaw.2.path=Names/CelestialPrefix
+}}

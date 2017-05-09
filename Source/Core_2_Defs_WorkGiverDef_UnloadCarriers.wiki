@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=UnloadCarriers
+|WorkGiverDef.defName=UnloadCarriers
+|WorkGiverDef.label=unload carriers
+|WorkGiverDef.label.zh-cn=卸下货物
+|WorkGiverDef.label.zh-tw=卸貨
+|WorkGiverDef.giverClass=WorkGiver_UnloadCarriers
+|WorkGiverDef.workType=Hauling
+|WorkGiverDef.priorityInType=120
+|WorkGiverDef.verb=unload
+|WorkGiverDef.verb.zh-cn=卸货
+|WorkGiverDef.verb.zh-tw=卸貨
+|WorkGiverDef.gerund=unloading
+|WorkGiverDef.gerund.zh-cn=卸货
+|WorkGiverDef.gerund.zh-tw=卸貨
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

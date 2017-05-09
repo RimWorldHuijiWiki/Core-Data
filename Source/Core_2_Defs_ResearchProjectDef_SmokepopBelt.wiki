@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=SmokepopBelt
+|ResearchProjectDef.defName=SmokepopBelt
+|ResearchProjectDef.label=smokepop belts
+|ResearchProjectDef.label.zh-cn=烟罐腰带
+|ResearchProjectDef.label.zh-tw=煙霧腰帶
+|ResearchProjectDef.description=Learn to build smokepop belts which can provide an automatic defensive smokescreen.
+|ResearchProjectDef.description.zh-cn=解锁制作「烟罐腰带」，可提供自动防御烟幕。
+|ResearchProjectDef.description.zh-tw=解鎖煙霧腰帶，能夠自動產生一道煙霧障壁保護使用者。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=1000
+|ResearchProjectDef.prerequisites="Machining","Refining"
+|ResearchProjectDef.researchViewX=5
+|ResearchProjectDef.researchViewY=4
+}}

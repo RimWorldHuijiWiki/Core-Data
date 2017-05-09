@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=LeftLung
+|BodyPartDef.defName=LeftLung
+|BodyPartDef.label=left lung
+|BodyPartDef.label.zh-cn=左肺
+|BodyPartDef.label.zh-tw=左肺
+|BodyPartDef.tags="BreathingSource"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=false
+|BodyPartDef.spawnThingOnRemoved=Lung
+}}

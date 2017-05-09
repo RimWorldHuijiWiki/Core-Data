@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JoyGiverDef
+|defName=Skygaze
+|JoyGiverDef.defName=Skygaze
+|JoyGiverDef.giverClass=JoyGiver_Skygaze
+|JoyGiverDef.baseChance=1
+|JoyGiverDef.jobDef=Skygaze
+|JoyGiverDef.joyKind=Meditative
+|JoyGiverDef.requiredCapacities="Sight"
+}}

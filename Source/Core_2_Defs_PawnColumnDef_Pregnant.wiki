@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=PawnColumnDef
+|defName=Pregnant
+|PawnColumnDef.defName=Pregnant
+|PawnColumnDef.workerClass=PawnColumnWorker_Pregnant
+|PawnColumnDef.sortable=true
+}}

@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=KilledMyMother
+|ThoughtDef.defName=KilledMyMother
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=killed my mother
+|ThoughtDef.stages.0.label.zh-cn=杀了我的母亲
+|ThoughtDef.stages.0.label.zh-tw=殺了我的母親
+|ThoughtDef.stages.0.baseOpinionOffset=-80
+|ThoughtDef.stackLimit=300
+|ThoughtDef.durationDays=80.0
+|ThoughtDef.stackLimitPerPawn=10
+}}

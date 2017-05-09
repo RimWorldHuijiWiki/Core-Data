@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=Apparel
+|ThingCategoryDef.defName=Apparel
+|ThingCategoryDef.label=apparel
+|ThingCategoryDef.label.zh-cn=衣着
+|ThingCategoryDef.label.zh-tw=衣著
+|ThingCategoryDef.parent=Root
+}}

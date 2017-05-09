@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DesignationDef
-|defName=Flick
-|DesignationDef.defName=Flick
-|DesignationDef.texturePath=Designations/Flick
-|DesignationDef.targetType=Thing
-|DesignationDef.designateCancelable=false
-}}

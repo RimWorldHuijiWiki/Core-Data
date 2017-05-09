@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_MeleeWeapon_Mace
+|RecipeDef.defName=Make_MeleeWeapon_Mace
+|RecipeDef.label=make mace
+|RecipeDef.label.zh-cn=制作钉头锤
+|RecipeDef.label.zh-tw=製造錘子
+|RecipeDef.description=Make mace.
+|RecipeDef.description.zh-cn=一根精致的棍棒，在挥舞和杀伤上有特别的设计。
+|RecipeDef.description.zh-tw=製造一把錘子。
+|RecipeDef.jobString=Making mace.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造錘子。
+|RecipeDef.workAmount=10000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Metallic","Woody"
+|RecipeDef.ingredients.0.count=75
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Metallic","Woody"
+|RecipeDef.defaultIngredientFilter=Exist
+|RecipeDef.defaultIngredientFilter.categories="Root"
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs="Silver","Gold"
+|RecipeDef.products="MeleeWeapon_Mace","1"
+|RecipeDef.productHasIngredientStuff=true
+|RecipeDef.unfinishedThingDef=UnfinishedWeapon
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Smith
+|RecipeDef.recipeUsers="ElectricSmithy","FueledSmithy"
+}}

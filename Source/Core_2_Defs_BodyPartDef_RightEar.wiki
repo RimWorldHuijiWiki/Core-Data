@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RightEar
+|BodyPartDef.defName=RightEar
+|BodyPartDef.label=right ear
+|BodyPartDef.label.zh-cn=右耳
+|BodyPartDef.label.zh-tw=右耳
+|BodyPartDef.tags="HearingSource"
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=5
+|BodyPartDef.beautyRelated=true
+}}

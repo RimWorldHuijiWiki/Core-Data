@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RearLeftLegFifthClaw
+|BodyPartDef.defName=RearLeftLegFifthClaw
+|BodyPartDef.label=rear left leg fifth claw
+|BodyPartDef.label.zh-cn=左后肢第五爪
+|BodyPartDef.label.zh-tw=左後肢末爪
+|BodyPartDef.tags="MovingLimbDigit"
+|BodyPartDef.hitPoints=7
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.frostbiteVulnerability=10
+|BodyPartDef.isAlive=false
+}}

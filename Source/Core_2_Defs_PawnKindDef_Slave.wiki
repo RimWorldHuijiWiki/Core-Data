@@ -1,0 +1,29 @@
+{{#set:
+|dataType=Def
+|defType=PawnKindDef
+|defName=Slave
+|PawnKindDef.defName=Slave
+|PawnKindDef.label=slave
+|PawnKindDef.label.zh-cn=奴隶
+|PawnKindDef.label.zh-tw=奴隸
+|PawnKindDef.race=Human
+|PawnKindDef.defaultFactionType=Outlander
+|PawnKindDef.backstoryCategory=Slave
+|PawnKindDef.labelPlural=slaves
+|PawnKindDef.labelPlural.zh-cn=奴隶
+|PawnKindDef.labelPlural.zh-tw=slaves
+|PawnKindDef.backstoryCryptosleepCommonality=0.2
+|PawnKindDef.gearHealthRange=0.2 ~ 0.8
+|PawnKindDef.isFighter=false
+|PawnKindDef.combatPower=25
+|PawnKindDef.baseRecruitDifficulty=0.60
+|PawnKindDef.apparelMoney=150 ~ 300
+|PawnKindDef.apparelTags="Outlander"
+|PawnKindDef.apparelAllowHeadwearChance=0
+|PawnKindDef.apparelIgnoreSeasons=true
+|PawnKindDef.techHediffsMoney=0 ~ 35
+|PawnKindDef.techHediffsTags="Poor"
+|PawnKindDef.techHediffsChance=0.01
+|PawnKindDef.itemQuality=Shoddy
+|PawnKindDef.chemicalAddictionChance=0.05
+}}

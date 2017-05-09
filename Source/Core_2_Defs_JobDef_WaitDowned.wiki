@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=WaitDowned
+|JobDef.defName=WaitDowned
+|JobDef.driverClass=JobDriver_Wait
+|JobDef.reportString=downed.
+|JobDef.reportString.zh-cn=倒地不起。
+|JobDef.reportString.zh-tw=倒著。
+}}

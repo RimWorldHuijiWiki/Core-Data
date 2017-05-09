@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=ClothedNudist
+|ThoughtDef.defName=ClothedNudist
+|ThoughtDef.workerClass=ThoughtWorker_NudistNude
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=constraining clothes
+|ThoughtDef.stages.0.label.zh-cn=衣物束缚
+|ThoughtDef.stages.0.label.zh-tw=裸體主義者穿著衣物
+|ThoughtDef.stages.0.description=I'm a nudist but I have to wear these clothes. It's not unbearable - but I still feel constrained and uncomfortable.
+|ThoughtDef.stages.0.description.zh-cn=我崇尚裸体主义，但是我却不得不穿着衣服。虽然能勉强忍受，但我就是觉得浑身难受也不自由。
+|ThoughtDef.stages.0.description.zh-tw=我是個裸體主義者，但我竟然得穿著衣服。雖然不是無法忍受，但我仍感覺綁手綁腳而且十分不舒服。
+|ThoughtDef.stages.0.baseMoodEffect=-3
+|ThoughtDef.invert=true
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.requiredTraits="Nudist"
+}}

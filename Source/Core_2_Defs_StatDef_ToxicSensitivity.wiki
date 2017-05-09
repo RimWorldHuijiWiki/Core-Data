@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=ToxicSensitivity
+|StatDef.defName=ToxicSensitivity
+|StatDef.label=toxic sensitivity
+|StatDef.label.zh-cn=毒物敏感度
+|StatDef.label.zh-tw=毒素敏感度
+|StatDef.description=Multiplier on the impact of toxic buildup on this character.
+|StatDef.description.zh-cn=有毒尘埃对此人造成影响的乘数。
+|StatDef.description.zh-tw=這名角色遭受毒素影響的速度倍率。
+|StatDef.category=BasicsPawn
+|StatDef.hideAtValue=1.0
+|StatDef.displayPriorityInCategory=75
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1.0
+}}

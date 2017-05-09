@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=RuleDef
+|defName=FillWithThings
+|RuleDef.defName=FillWithThings
+|RuleDef.symbol=fillWithThings
+|RuleDef.resolvers=Exist
+|RuleDef.resolvers.Count=1
+|RuleDef.resolvers.0=Exist
+|RuleDef.resolvers.0.Class=SymbolResolver_FillWithThings
+}}

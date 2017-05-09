@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=RuleDef
+|defName=Interior_Barracks
+|RuleDef.defName=Interior_Barracks
+|RuleDef.symbol=interior_barracks
+|RuleDef.resolvers=Exist
+|RuleDef.resolvers.Count=1
+|RuleDef.resolvers.0=Exist
+|RuleDef.resolvers.0.Class=SymbolResolver_Interior_Barracks
+|RuleDef.resolvers.0.minRectSize=(2, 2)
+}}

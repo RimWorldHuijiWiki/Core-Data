@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=BodyPartGroupDef
-|defName=FrontRightPaw
-|BodyPartGroupDef.defName=FrontRightPaw
-|BodyPartGroupDef.label=front right paw
-|BodyPartGroupDef.label.zh-cn=右前掌
-|BodyPartGroupDef.label.zh-tw=右爪
-}}

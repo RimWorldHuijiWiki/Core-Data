@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=Flick
+|WorkGiverDef.defName=Flick
+|WorkGiverDef.label=flick switches
+|WorkGiverDef.label.zh-cn=开关
+|WorkGiverDef.label.zh-tw=開關電源
+|WorkGiverDef.giverClass=WorkGiver_Flick
+|WorkGiverDef.workType=Flicker
+|WorkGiverDef.priorityInType=500
+|WorkGiverDef.verb=flick switch on
+|WorkGiverDef.verb.zh-cn=开关
+|WorkGiverDef.verb.zh-tw=開關電源
+|WorkGiverDef.gerund=flicking switch on
+|WorkGiverDef.gerund.zh-cn=开关
+|WorkGiverDef.gerund.zh-tw=開關電源
+}}

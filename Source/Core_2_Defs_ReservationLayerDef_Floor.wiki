@@ -1,0 +1,6 @@
+{{#set:
+|dataType=Def
+|defType=ReservationLayerDef
+|defName=Floor
+|ReservationLayerDef.defName=Floor
+}}

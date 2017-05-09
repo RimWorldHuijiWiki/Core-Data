@@ -1,0 +1,33 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=NeedSpace
+|ThoughtDef.defName=NeedSpace
+|ThoughtDef.workerClass=ThoughtWorker_NeedSpace
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=3
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=very cramped interior
+|ThoughtDef.stages.0.label.zh-cn=非常狭窄的环境
+|ThoughtDef.stages.0.label.zh-tw=非常擁擠的環境
+|ThoughtDef.stages.0.description=I feel like a rat in a tiny cage.
+|ThoughtDef.stages.0.description.zh-cn=这个地方简直会引发幽闭恐惧症，我都没地落脚，感觉就像一只被关在小笼子里的老鼠。
+|ThoughtDef.stages.0.description.zh-tw=我覺得我就像一隻困在小籠子裡的老鼠。
+|ThoughtDef.stages.0.baseMoodEffect=-10
+|ThoughtDef.stages.1=Exist
+|ThoughtDef.stages.1.label=cramped interior
+|ThoughtDef.stages.1.label.zh-cn=狭窄的环境
+|ThoughtDef.stages.1.label.zh-tw=擁擠的環境
+|ThoughtDef.stages.1.description=I wish I had more space to move around and breathe.
+|ThoughtDef.stages.1.description.zh-cn=这个地方好挤，感觉快喘不过气来了。
+|ThoughtDef.stages.1.description.zh-tw=我真希望能有一點能夠活動跟呼吸的空間。
+|ThoughtDef.stages.1.baseMoodEffect=-5
+|ThoughtDef.stages.2=Exist
+|ThoughtDef.stages.2.label=spacious interior
+|ThoughtDef.stages.2.label.zh-cn=宽敞的环境
+|ThoughtDef.stages.2.label.zh-tw=寬敞的空間
+|ThoughtDef.stages.2.description=This is a really comfortably open indoor space.
+|ThoughtDef.stages.2.description.zh-cn=这真是一间让人感到舒服的大房间。
+|ThoughtDef.stages.2.description.zh-tw=這個寬敞的室內空間真讓人感到舒適。
+|ThoughtDef.stages.2.baseMoodEffect=5
+}}

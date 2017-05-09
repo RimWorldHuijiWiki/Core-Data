@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=PsychicDrone
+|IncidentDef.defName=PsychicDrone
+|IncidentDef.label=psychic drone
+|IncidentDef.label.zh-cn=心灵低语
+|IncidentDef.label.zh-tw=干擾電波
+|IncidentDef.workerClass=IncidentWorker_PsychicDrone
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=1.0
+|IncidentDef.minRefireDays=15
+|IncidentDef.gameCondition=PsychicDrone
+|IncidentDef.durationDays=0.75 ~ 1.75
+}}

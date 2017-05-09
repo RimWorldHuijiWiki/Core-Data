@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=PawnRelationDef
+|defName=SecondCousin
+|PawnRelationDef.defName=SecondCousin
+|PawnRelationDef.label=second cousin
+|PawnRelationDef.label.zh-cn=远房表亲
+|PawnRelationDef.label.zh-tw=隔代堂表兄弟
+|PawnRelationDef.workerClass=PawnRelationWorker_SecondCousin
+|PawnRelationDef.labelFemale=second cousin
+|PawnRelationDef.labelFemale.zh-cn=远房表亲
+|PawnRelationDef.labelFemale.zh-tw=隔代堂表姊妹
+|PawnRelationDef.importance=95
+|PawnRelationDef.implied=true
+|PawnRelationDef.opinionOffset=5
+|PawnRelationDef.attractionFactor=0.5
+|PawnRelationDef.familyByBloodRelation=true
+|PawnRelationDef.diedThought=MyKinDied
+|PawnRelationDef.killedThought=KilledMyKin
+}}

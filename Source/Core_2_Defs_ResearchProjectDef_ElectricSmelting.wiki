@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=ElectricSmelting
+|ResearchProjectDef.defName=ElectricSmelting
+|ResearchProjectDef.label=electric smelting
+|ResearchProjectDef.label.zh-cn=电力熔炼
+|ResearchProjectDef.label.zh-tw=金屬提煉
+|ResearchProjectDef.description=Build electric smithy and smelters.<br/><br/>The electric smithy allows smithing items without fuel. The electric smelters uses heat and strong electromagnets to extract useful metal from slag chunks and other items.
+|ResearchProjectDef.description.zh-cn=解锁建造「电力锻造台」和「电熔炼器」。<br/><br/>电力锻造台不需要燃料。电熔炼器用高温和强磁从钢块渣和其他物品中提炼有用的金属。
+|ResearchProjectDef.description.zh-tw=解鎖建造金屬提煉器。金屬提煉器可以透過高溫和電磁鐵將金屬碎片中有用的金屬提煉出來。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=1700
+|ResearchProjectDef.prerequisites="Electricity"
+|ResearchProjectDef.researchViewX=5
+|ResearchProjectDef.researchViewY=1.25
+}}

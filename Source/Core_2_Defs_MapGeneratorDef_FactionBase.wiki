@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=MapGeneratorDef
+|defName=FactionBase
+|MapGeneratorDef.defName=FactionBase
+|MapGeneratorDef.parent=BasicMap
+|MapGeneratorDef.selectionWeight=0
+}}

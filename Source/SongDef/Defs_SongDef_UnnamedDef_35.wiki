@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=SongDef
-|defName=UnnamedDef
-|SongDef.clipPath=Songs/Tension/Here_It_Comes
-|SongDef.volume=1.0
-|SongDef.tense=true
-}}

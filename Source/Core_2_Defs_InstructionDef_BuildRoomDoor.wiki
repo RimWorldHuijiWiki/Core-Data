@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=BuildRoomDoor
+|InstructionDef.defName=BuildRoomDoor
+|InstructionDef.instructionClass=Instruction_BuildRoomDoor
+|InstructionDef.text=Now just place a DOOR over any one of the room walls.<br/><br/>DOOR is right beside WALL in the ARCHITECT menu.
+|InstructionDef.text.zh-cn=在墙的中间放一扇门即可。<br/><br/>门就在墙的菜单栏旁边。
+|InstructionDef.text.zh-tw=現在，在牆的任意位置放置一扇門。<br/><br/>門的建築選項就在牆的隔壁。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-BuildRoomWalls
+|InstructionDef.actionTagsAllowed="MainTab-Architect-Open","SelectDesignator-Door","SelectStuff-Door-WoodLog","Designate-Door"
+|InstructionDef.rejectInputMessage=Please build a wooden door over one of your room walls.
+|InstructionDef.rejectInputMessage.zh-cn=请在墙上建立一个木门
+|InstructionDef.rejectInputMessage.zh-tw=請將木門放置在先前規劃的其中一個牆壁位置上。
+|InstructionDef.highlightTags="MainTab-Architect-Closed","DesignationCategoryButton-Structure-Closed","Designator-Build-Door","SelectStuff-Door-WoodLog"
+|InstructionDef.onMapInstruction=Build a door over one wall
+|InstructionDef.onMapInstruction.zh-cn=在墙上建个门
+|InstructionDef.onMapInstruction.zh-tw=將木門建造在<br/>房間牆壁位置上
+|InstructionDef.resetBuildDesignatorStuffs=true
+}}

@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=JoyKindDef
-|defName=Work
-|JoyKindDef.defName=Work
-|JoyKindDef.label=work
-|JoyKindDef.label.zh-cn=工作
-|JoyKindDef.label.zh-tw=工作
-}}

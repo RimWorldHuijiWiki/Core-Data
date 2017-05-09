@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=WitnessedDeathFamily
+|ThoughtDef.defName=WitnessedDeathFamily
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=witnessed family member's death
+|ThoughtDef.stages.0.label.zh-cn=目睹家人死亡
+|ThoughtDef.stages.0.label.zh-tw=witnessed family member's death
+|ThoughtDef.stages.0.description=I saw a member of my family die. My own flesh and blood...
+|ThoughtDef.stages.0.description.zh-cn=我眼睁睁地看着我的家人死掉了……
+|ThoughtDef.stages.0.description.zh-tw=I saw a member of my family die. My own flesh and blood...
+|ThoughtDef.stages.0.baseMoodEffect=-7
+|ThoughtDef.stackLimit=1
+|ThoughtDef.durationDays=1
+|ThoughtDef.nullifyingTraits="Psychopath","Bloodlust"
+|ThoughtDef.icon=Things/Mote/ThoughtSymbol/Skull
+|ThoughtDef.showBubble=true
+}}

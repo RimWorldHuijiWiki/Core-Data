@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=ForcedMeToTakeDrugs
+|ThoughtDef.defName=ForcedMeToTakeDrugs
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=forced me to take drugs
+|ThoughtDef.stages.0.label.zh-cn=强迫我服用成瘾品
+|ThoughtDef.stages.0.label.zh-tw=強迫我拿毒品
+|ThoughtDef.stages.0.baseOpinionOffset=-30
+|ThoughtDef.stackLimit=10
+|ThoughtDef.durationDays=6.0
+|ThoughtDef.thoughtToMake=ForcedMeToTakeDrugsMood
+|ThoughtDef.stackLimitPerPawn=1
+}}

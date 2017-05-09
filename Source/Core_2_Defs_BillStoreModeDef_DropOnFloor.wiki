@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=BillStoreModeDef
+|defName=DropOnFloor
+|BillStoreModeDef.defName=DropOnFloor
+|BillStoreModeDef.listOrder=0
+}}

@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=SpoilageAndFreezers
+|ConceptDef.defName=SpoilageAndFreezers
+|ConceptDef.label=Spoilage and freezers
+|ConceptDef.label.zh-cn=腐烂和冷藏
+|ConceptDef.label.zh-tw=腐敗及冷凍
+|ConceptDef.priority=6.5
+|ConceptDef.helpText=Most foodstuffs will spoil after a relatively short time.<br/><br/>To prevent this, you can build a walk-in freezer.<br/><br/>To build a freezer, construct a closed room, and put one or two coolers into the wall. Set the coolers to a negative target temperature.<br/><br/>Frozen foods won't ever spoil.
+|ConceptDef.helpText.zh-cn=大部分的食物在短时期后就会过期腐烂。<br/><br/>你可以将一间房间做成冷藏室来避免这种情况发生。<br/><br/>在一个房间中安装一到两台制冷机，再将目标温度设置为零下即可。<br/><br/>被冷冻的食物不会腐烂。
+|ConceptDef.helpText.zh-tw=大多數食物在短時間內會腐敗，這就是你需要一個冷凍庫(冰箱)的原因。<br/><br/>要建立一個冷凍庫，首先要準備一個密閉非露天的房間，在牆上設置一台或多台冷氣，並將目標溫度調至零下。<br/><br/>冷凍狀態的食物永遠不會腐敗。
+}}

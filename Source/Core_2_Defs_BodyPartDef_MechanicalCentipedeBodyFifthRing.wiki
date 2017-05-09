@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=MechanicalCentipedeBodyFifthRing
+|BodyPartDef.defName=MechanicalCentipedeBodyFifthRing
+|BodyPartDef.label=fifth body ring
+|BodyPartDef.label.zh-cn=第五身节
+|BodyPartDef.label.zh-tw=第五身節
+|BodyPartDef.tags="MovingLimbSegment","ManipulationLimbSegment"
+|BodyPartDef.hitPoints=40
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.isAlive=false
+}}

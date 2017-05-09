@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DamageArmorCategoryDef
-|defName=Heat
-|DamageArmorCategoryDef.defName=Heat
-|DamageArmorCategoryDef.deflectionStat=ArmorRating_Heat
-}}

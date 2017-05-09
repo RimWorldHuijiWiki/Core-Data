@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=ScatterableDef
+|defName=GraySmearB
+|ScatterableDef.defName=GraySmearB
+|ScatterableDef.texturePath=Terrain/Scatter/GraySmearB
+|ScatterableDef.minSize=1.5
+|ScatterableDef.maxSize=7.0
+|ScatterableDef.selectionWeight=40
+|ScatterableDef.scatterType=SoftGray
+}}

@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Bullet_ChargeLance
+|ThingDef.defName=Bullet_ChargeLance
+|ThingDef.label=charge lance shot
+|ThingDef.label.zh-cn=电荷标枪弹
+|ThingDef.label.zh-tw=光束標槍
+|ThingDef.altitudeLayer=Projectile
+|ThingDef.thingClass=Bullet
+|ThingDef.category=Projectile
+|ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=False
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Projectile/ChargeLanceShot
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.shaderType=TransparentPostLight
+|ThingDef.graphicData.drawSize=(3,3)
+|ThingDef.neverMultiSelect=True
+|ThingDef.projectile=Exist
+|ThingDef.projectile.speed=120
+|ThingDef.projectile.damageDef=Bullet
+|ThingDef.projectile.damageAmountBase=27
+}}

@@ -1,0 +1,31 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Yayo
+|RecipeDef.defName=Make_Yayo
+|RecipeDef.label=make yayo
+|RecipeDef.label.zh-cn=制作呀呦粉
+|RecipeDef.label.zh-tw=製造Y他命
+|RecipeDef.description=Make yayo.
+|RecipeDef.description.zh-cn=一种精细的白色粉末，用鼻子吸入后可以使人高度兴奋，服用者会精神倍增并且能够抑制疼痛。但是却极易成瘾。
+|RecipeDef.description.zh-tw=製造Y他命。
+|RecipeDef.jobString=Making yayo.
+|RecipeDef.jobString.zh-cn=正在制作呀呦粉。
+|RecipeDef.jobString.zh-tw=製造Y他命。
+|RecipeDef.workAmount=600
+|RecipeDef.workSpeedStat=DrugProductionSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="PsychoidLeaves"
+|RecipeDef.ingredients.0.count=8
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="PsychoidLeaves"
+|RecipeDef.products="Yayo","1"
+|RecipeDef.workSkill=Intellectual
+|RecipeDef.effectWorking=Cook
+|RecipeDef.soundWorking=Recipe_CookMeal
+|RecipeDef.recipeUsers="DrugLab"
+|RecipeDef.researchPrerequisite=PsychiteRefining
+}}

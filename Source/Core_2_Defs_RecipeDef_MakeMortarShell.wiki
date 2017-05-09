@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=MakeMortarShell
+|RecipeDef.defName=MakeMortarShell
+|RecipeDef.label=make mortar shell
+|RecipeDef.label.zh-cn=制作迫击炮炮弹
+|RecipeDef.label.zh-tw=製造砲彈
+|RecipeDef.description=Craft a mortar shell.
+|RecipeDef.description.zh-cn=手工制作迫击炮炮弹。
+|RecipeDef.description.zh-tw=生產迫擊砲專用的砲彈。
+|RecipeDef.jobString=Making mortar shell.
+|RecipeDef.jobString.zh-cn=制作制作迫击炮炮弹。
+|RecipeDef.jobString.zh-tw=製造砲彈。
+|RecipeDef.workAmount=800
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Steel"
+|RecipeDef.ingredients.0.count=5
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs="Chemfuel"
+|RecipeDef.ingredients.1.count=10
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Steel","Chemfuel"
+|RecipeDef.allowMixingIngredients=true
+|RecipeDef.products="MortarShell","1"
+|RecipeDef.targetCountAdjustment=5
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Cook
+|RecipeDef.soundWorking=Recipe_Machining
+}}

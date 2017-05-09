@@ -1,0 +1,37 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=InstallBionicArm
+|RecipeDef.defName=InstallBionicArm
+|RecipeDef.label=install bionic arm
+|RecipeDef.label.zh-cn=安装仿生臂
+|RecipeDef.label.zh-tw=安裝仿生手臂
+|RecipeDef.description=Installs bionic arm.
+|RecipeDef.description.zh-cn=安装仿生臂。
+|RecipeDef.description.zh-tw=安裝仿生手臂。
+|RecipeDef.workerClass=Recipe_InstallArtificialBodyPart
+|RecipeDef.jobString=Installing bionic arm.
+|RecipeDef.jobString.zh-cn=正在安装仿生臂。
+|RecipeDef.jobString.zh-tw=安裝仿生手臂。
+|RecipeDef.workAmount=2000
+|RecipeDef.workSpeedStat=MedicalOperationSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Medicine"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs="BionicArm"
+|RecipeDef.ingredients.1.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="BionicArm"
+|RecipeDef.fixedIngredientFilter.categories="Medicine"
+|RecipeDef.workSkill=Medicine
+|RecipeDef.workSkillLearnFactor=16
+|RecipeDef.effectWorking=Surgery
+|RecipeDef.soundWorking=Recipe_Surgery
+|RecipeDef.appliedOnFixedBodyParts="LeftShoulder","RightShoulder"
+|RecipeDef.addsHediff=BionicArm
+}}

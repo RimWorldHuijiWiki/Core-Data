@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=WorldGenStepDef
+|defName=Terrain
+|WorldGenStepDef.defName=Terrain
+|WorldGenStepDef.order=0
+|WorldGenStepDef.worldGenStep=
+}}

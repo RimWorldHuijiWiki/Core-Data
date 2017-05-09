@@ -1,0 +1,32 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=EnergyShieldEnergyMax
+|StatDef.defName=EnergyShieldEnergyMax
+|StatDef.label=Shield max energy
+|StatDef.label.zh-cn=护盾能量上限
+|StatDef.label.zh-tw=護盾腰帶能量最大值
+|StatDef.description=The maximum energy a shield belt can have at one time. More energy can absorb more damage.
+|StatDef.description.zh-cn=护盾腰带所能拥有的能量最大值。更多的能量可以吸收更多的伤害。
+|StatDef.description.zh-tw=護盾腰帶能維持的最大能量值，越多的能量能夠抵禦更多的傷害。
+|StatDef.category=Apparel
+|StatDef.showIfUndefined=false
+|StatDef.toStringStyle=PercentZero
+|StatDef.parts=Exist
+|StatDef.parts.Count=2
+|StatDef.parts.0=Exist
+|StatDef.parts.0.Class=StatPart_Quality
+|StatDef.parts.0.factorAwful=0.7
+|StatDef.parts.0.factorShoddy=0.8
+|StatDef.parts.0.factorPoor=0.9
+|StatDef.parts.0.factorNormal=1
+|StatDef.parts.0.factorGood=1.1
+|StatDef.parts.0.factorSuperior=1.25
+|StatDef.parts.0.factorExcellent=1.4
+|StatDef.parts.0.factorMasterwork=1.6
+|StatDef.parts.0.factorLegendary=1.85
+|StatDef.parts.1=Exist
+|StatDef.parts.1.Class=StatPart_Health
+|StatDef.parts.1.curve=Exist
+|StatDef.parts.1.curve.points="(0,0.5)","(0.7,1)"
+}}

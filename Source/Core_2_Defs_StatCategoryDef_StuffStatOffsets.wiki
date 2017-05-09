@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=StatCategoryDef
+|defName=StuffStatOffsets
+|StatCategoryDef.defName=StuffStatOffsets
+|StatCategoryDef.label=Offsets when made of this
+|StatCategoryDef.label.zh-cn=以此材料制作时属性偏移量
+|StatCategoryDef.label.zh-tw=此素材的加成效果
+|StatCategoryDef.displayOrder=77
+|StatCategoryDef.displayAllByDefault=true
+}}

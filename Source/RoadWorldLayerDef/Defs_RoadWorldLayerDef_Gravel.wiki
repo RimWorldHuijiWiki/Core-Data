@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=RoadWorldLayerDef
-|defName=Gravel
-|RoadWorldLayerDef.defName=Gravel
-|RoadWorldLayerDef.order=300
-|RoadWorldLayerDef.color=(0.5, 0.5, 0.5)
-}}

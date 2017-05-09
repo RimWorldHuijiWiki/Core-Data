@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=RoadWorldLayerDef
-|defName=Asphalt
-|RoadWorldLayerDef.defName=Asphalt
-|RoadWorldLayerDef.order=400
-|RoadWorldLayerDef.color=(0.3, 0.3, 0.3)
-}}

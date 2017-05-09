@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=CheatedOnMe
+|ThoughtDef.defName=CheatedOnMe
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=cheated on me
+|ThoughtDef.stages.0.label.zh-cn=背叛我
+|ThoughtDef.stages.0.label.zh-tw=背叛我
+|ThoughtDef.stages.0.baseOpinionOffset=-70
+|ThoughtDef.stackLimit=300
+|ThoughtDef.durationDays=70.0
+|ThoughtDef.thoughtToMake=CheatedOnMeMood
+|ThoughtDef.stackLimitPerPawn=1
+}}

@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=HaulGeneral
+|WorkGiverDef.defName=HaulGeneral
+|WorkGiverDef.label=haul general things
+|WorkGiverDef.label.zh-cn=搬运物品
+|WorkGiverDef.label.zh-tw=搬運物品
+|WorkGiverDef.giverClass=WorkGiver_HaulGeneral
+|WorkGiverDef.workType=Hauling
+|WorkGiverDef.priorityInType=10
+|WorkGiverDef.verb=haul
+|WorkGiverDef.verb.zh-cn=搬运
+|WorkGiverDef.verb.zh-tw=搬運
+|WorkGiverDef.gerund=hauling
+|WorkGiverDef.gerund.zh-cn=搬运
+|WorkGiverDef.gerund.zh-tw=搬運
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

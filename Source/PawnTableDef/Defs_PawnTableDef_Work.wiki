@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=PawnTableDef
-|defName=Work
-|PawnTableDef.defName=Work
-|PawnTableDef.columns="Label","CopyPasteWorkPriorities","RemainingSpace"
-}}

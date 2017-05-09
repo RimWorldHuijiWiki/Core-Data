@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoBillsMakeApparel
+|WorkGiverDef.defName=DoBillsMakeApparel
+|WorkGiverDef.label=tailor apparel
+|WorkGiverDef.label.zh-cn=缝制衣物
+|WorkGiverDef.label.zh-tw=裁縫
+|WorkGiverDef.giverClass=WorkGiver_DoBill
+|WorkGiverDef.workType=Tailoring
+|WorkGiverDef.priorityInType=110
+|WorkGiverDef.verb=tailor
+|WorkGiverDef.verb.zh-cn=缝制
+|WorkGiverDef.verb.zh-tw=裁縫
+|WorkGiverDef.gerund=tailoring at
+|WorkGiverDef.gerund.zh-cn=缝制于
+|WorkGiverDef.gerund.zh-tw=工作於
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.fixedBillGiverDefs="ElectricTailoringBench","HandTailoringBench"
+}}

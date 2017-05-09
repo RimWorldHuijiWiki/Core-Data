@@ -1,0 +1,22 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=ManhunterAmbush
+|IncidentDef.defName=ManhunterAmbush
+|IncidentDef.label=manhunter ambush
+|IncidentDef.label.zh-cn=猎杀人类伏击
+|IncidentDef.label.zh-tw=獸群埋伏
+|IncidentDef.workerClass=IncidentWorker_Ambush_ManhunterPack
+|IncidentDef.category=CaravanTarget
+|IncidentDef.targetType=Caravan, MapTempIncident
+|IncidentDef.minRefireDays=0.17
+|IncidentDef.pointsScaleable=true
+|IncidentDef.letterText=Your caravan has been ambushed by manhunting {0}!
+|IncidentDef.letterText.zh-cn=你的远行队被猎杀人类的{0}伏击了!
+|IncidentDef.letterText.zh-tw=你的旅隊被一大群{0}偷襲了！
+|IncidentDef.letterLabel=Caravan ambushed (manhunters)
+|IncidentDef.letterLabel.zh-cn=远行队遭遇伏击（猎杀人类）
+|IncidentDef.letterLabel.zh-tw=旅隊遇襲
+|IncidentDef.letterDef=BadUrgent
+|IncidentDef.mtbDaysByBiome="TemperateForest","20";"BorealForest","20";"TropicalRainforest","20";"AridShrubland","20";"Desert","30";"Tundra","30";"ExtremeDesert","35";"IceSheet","40";"SeaIce","60"
+}}

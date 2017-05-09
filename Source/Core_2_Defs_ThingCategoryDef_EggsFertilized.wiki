@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=EggsFertilized
+|ThingCategoryDef.defName=EggsFertilized
+|ThingCategoryDef.label=eggs (fert.)
+|ThingCategoryDef.label.zh-cn=卵（已受精）
+|ThingCategoryDef.label.zh-tw=受精蛋
+|ThingCategoryDef.parent=AnimalProductRaw
+|ThingCategoryDef.iconPath=UI/Icons/ThingCategories/EggsFertilized
+}}

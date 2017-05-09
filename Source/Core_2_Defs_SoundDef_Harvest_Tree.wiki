@@ -1,0 +1,23 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=Harvest_Tree
+|SoundDef.defName=Harvest_Tree
+|SoundDef.sustain=True
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.priorityMode=PrioritizeNearest
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.muteWhenPaused=True
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
+|SoundDef.subSounds.0.grains.0.clipFolderPath=Interact/Work/Construct/Trees/Tree_Chop
+|SoundDef.subSounds.0.volumeRange=10 ~ 10
+|SoundDef.subSounds.0.pitchRange=0.9408336 ~ 1.207082
+|SoundDef.subSounds.0.repeatMode=NeverTwice
+|SoundDef.subSounds.0.sustainLoop=False
+}}

@@ -1,0 +1,23 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=ComfyTemperatureMin
+|StatDef.defName=ComfyTemperatureMin
+|StatDef.label=Minimum comfortable temperature
+|StatDef.label.zh-cn=最低舒适温度
+|StatDef.label.zh-tw=可忍受的最低溫度
+|StatDef.description=Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die.
+|StatDef.description.zh-cn=低于这个温度，角色会不开心。大幅低于这个温度时，角色会得低温症、冻伤甚至死亡。
+|StatDef.description.zh-tw=當溫度低於此標準，角色的心情值將會降低。若氣溫遠低於此標準，會導致角色體溫過低、凍傷，甚至死亡。
+|StatDef.category=BasicsPawn
+|StatDef.displayPriorityInCategory=50
+|StatDef.toStringStyle=Temperature
+|StatDef.defaultBaseValue=0
+|StatDef.minValue=-2000
+|StatDef.maxValue=2000
+|StatDef.parts=Exist
+|StatDef.parts.Count=1
+|StatDef.parts.0=Exist
+|StatDef.parts.0.Class=StatPart_ApparelStatOffset
+|StatDef.parts.0.apparelStat=Insulation_Cold
+}}

@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=NightOwl
+|TraitDef.defName=NightOwl
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=night owl
+|TraitDef.degreeDatas.0.label.zh-cn=夜猫子
+|TraitDef.degreeDatas.0.label.zh-tw=夜貓子
+|TraitDef.degreeDatas.0.description=NAME likes to be up during the night, and sleep during the day.<br/><br/>HECAP gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).
+|TraitDef.degreeDatas.0.description.zh-cn=NAME喜欢在夜间工作。HECAP在夜间（23时-6时）心情不错而白天（11时-18时）会有点低落。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME喜歡在夜間活動。HE在夜間會得到心情加成，反之在白天會感到不悅。
+|TraitDef.commonality=0.35
+}}

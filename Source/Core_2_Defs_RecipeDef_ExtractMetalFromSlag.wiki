@@ -1,0 +1,28 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=ExtractMetalFromSlag
+|RecipeDef.defName=ExtractMetalFromSlag
+|RecipeDef.label=smelt metal from slag
+|RecipeDef.label.zh-cn=熔炼钢渣块
+|RecipeDef.label.zh-tw=從金屬碎片中提煉金屬
+|RecipeDef.description=Use heat and strong electromagnets to separate useful metal from slag chunks.
+|RecipeDef.description.zh-cn=用强热和电磁铁从钢渣块中提炼出有用的金属。
+|RecipeDef.description.zh-tw=利用高溫和電磁鐵將有用的金屬從金屬碎片中提煉出来。
+|RecipeDef.jobString=Smelting metal from slag.
+|RecipeDef.jobString.zh-cn=正在熔炼钢渣块。
+|RecipeDef.jobString.zh-tw=從金屬碎片中提煉金屬。
+|RecipeDef.workAmount=1600
+|RecipeDef.workSpeedStat=SmeltingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="ChunkSlagSteel"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="ChunkSlagSteel"
+|RecipeDef.products="Steel","10"
+|RecipeDef.effectWorking=Smelt
+|RecipeDef.soundWorking=Recipe_Smelt
+}}

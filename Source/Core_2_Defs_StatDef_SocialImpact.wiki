@@ -1,0 +1,28 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=SocialImpact
+|StatDef.defName=SocialImpact
+|StatDef.label=social chat impact
+|StatDef.label.zh-cn=社交效果
+|StatDef.label.zh-tw=社交影響力
+|StatDef.description=When this person interacts socially, this is how much the other person is affected.
+|StatDef.description.zh-cn=当此人在进行社交时，其他角色所受到的影响程度。
+|StatDef.description.zh-tw=當該角色發揮社交能力時對其他人所造成的影響程度倍率。
+|StatDef.category=PawnSocial
+|StatDef.toStringStyle=PercentTwo
+|StatDef.defaultBaseValue=1
+|StatDef.minValue=0.2
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
+|StatDef.skillNeedFactors.0.skill=Social
+|StatDef.skillNeedFactors.0.baseFactor=0.82
+|StatDef.skillNeedFactors.0.bonusFactor=0.0275
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=1
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Talking
+|StatDef.capacityFactors.0.weight=0.9
+}}

@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JoyGiverDef
+|defName=ViewArt
+|JoyGiverDef.defName=ViewArt
+|JoyGiverDef.giverClass=JoyGiver_ViewArt
+|JoyGiverDef.baseChance=1
+|JoyGiverDef.jobDef=ViewArt
+|JoyGiverDef.joyKind=Meditative
+|JoyGiverDef.canDoWhileInBed=true
+}}

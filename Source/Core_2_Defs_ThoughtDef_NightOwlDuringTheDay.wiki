@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=NightOwlDuringTheDay
+|ThoughtDef.defName=NightOwlDuringTheDay
+|ThoughtDef.workerClass=ThoughtWorker_IsDayForNightOwl
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=night owl in daytime
+|ThoughtDef.stages.0.label.zh-cn=夜猫子（白天）
+|ThoughtDef.stages.0.label.zh-tw=夜貓子在白天
+|ThoughtDef.stages.0.description=I don't like working during the day.
+|ThoughtDef.stages.0.description.zh-cn=我不喜欢在白天干活。
+|ThoughtDef.stages.0.description.zh-tw=我不喜歡在白天工作。
+|ThoughtDef.stages.0.baseMoodEffect=-10
+|ThoughtDef.requiredTraits="NightOwl"
+}}

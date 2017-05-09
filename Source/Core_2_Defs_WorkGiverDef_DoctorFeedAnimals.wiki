@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoctorFeedAnimals
+|WorkGiverDef.defName=DoctorFeedAnimals
+|WorkGiverDef.label=feed animals
+|WorkGiverDef.label.zh-cn=喂食动物
+|WorkGiverDef.label.zh-tw=餵食動物
+|WorkGiverDef.giverClass=WorkGiver_FeedPatient
+|WorkGiverDef.workType=Doctor
+|WorkGiverDef.priorityInType=30
+|WorkGiverDef.verb=feed
+|WorkGiverDef.verb.zh-cn=喂食
+|WorkGiverDef.verb.zh-tw=餵食
+|WorkGiverDef.gerund=feeding
+|WorkGiverDef.gerund.zh-cn=喂食
+|WorkGiverDef.gerund.zh-tw=餵食
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.feedAnimalsOnly=true
+}}

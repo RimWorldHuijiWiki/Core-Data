@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=ChemicalDamageSevere
+|HediffDef.defName=ChemicalDamageSevere
+|HediffDef.label=chemical damage
+|HediffDef.label.zh-cn=化学性损伤
+|HediffDef.label.zh-tw=化學傷害
+|HediffDef.hediffClass=HediffWithComps
+|HediffDef.initialSeverity=0.001
+|HediffDef.stages=Exist
+|HediffDef.stages.Count=1
+|HediffDef.stages.0=Exist
+|HediffDef.stages.0.partEfficiencyOffset=-0.8
+|HediffDef.defaultLabelColor=(0.8, 0.8, 0.35)
+}}

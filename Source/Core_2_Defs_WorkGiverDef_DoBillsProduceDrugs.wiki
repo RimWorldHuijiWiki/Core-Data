@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoBillsProduceDrugs
+|WorkGiverDef.defName=DoBillsProduceDrugs
+|WorkGiverDef.label=produce drugs
+|WorkGiverDef.label.zh-cn=制作成瘾品
+|WorkGiverDef.label.zh-tw=製作藥物
+|WorkGiverDef.giverClass=WorkGiver_DoBill
+|WorkGiverDef.workType=Crafting
+|WorkGiverDef.priorityInType=95
+|WorkGiverDef.verb=produce drugs
+|WorkGiverDef.verb.zh-cn=制作
+|WorkGiverDef.verb.zh-tw=藥物製作
+|WorkGiverDef.gerund=producing drugs at
+|WorkGiverDef.gerund.zh-cn=制作于
+|WorkGiverDef.gerund.zh-tw=製作藥物於
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.fixedBillGiverDefs="DrugLab"
+}}

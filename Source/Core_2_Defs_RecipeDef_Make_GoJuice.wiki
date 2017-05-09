@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_GoJuice
+|RecipeDef.defName=Make_GoJuice
+|RecipeDef.label=make go-juice
+|RecipeDef.label.zh-cn=制作活力水
+|RecipeDef.label.zh-tw=製造能量果飲
+|RecipeDef.description=Make go-juice.
+|RecipeDef.description.zh-cn=一种合成的作战用药剂，研制用于在早期的行星间战斗中提供给太空陆战队员服用。活力水能够屏蔽服用者的痛觉同时能够提升近战和射击技能。它还能够提升移动速度<br/><br/>但是发明它的军事化学家们却无法消除它的成瘾性。有些人认为这是个缺点，而有些人却认为这是个优点。
+|RecipeDef.description.zh-tw=製造能量果飲。
+|RecipeDef.jobString=Making go-juice.
+|RecipeDef.jobString.zh-cn=正在制作活力水。
+|RecipeDef.jobString.zh-tw=製造能量果飲。
+|RecipeDef.workAmount=600
+|RecipeDef.workSpeedStat=DrugProductionSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Neutroamine"
+|RecipeDef.ingredients.0.count=2
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs="Yayo"
+|RecipeDef.ingredients.1.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Neutroamine","Yayo"
+|RecipeDef.products="GoJuice","1"
+|RecipeDef.workSkill=Intellectual
+|RecipeDef.effectWorking=Cook
+|RecipeDef.soundWorking=Recipe_CookMeal
+|RecipeDef.recipeUsers="DrugLab"
+|RecipeDef.researchPrerequisite=GoJuiceProduction
+}}

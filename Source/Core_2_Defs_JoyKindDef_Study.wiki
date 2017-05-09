@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=JoyKindDef
+|defName=Study
+|JoyKindDef.defName=Study
+|JoyKindDef.label=study
+|JoyKindDef.label.zh-cn=学习
+|JoyKindDef.label.zh-tw=學習
+}}

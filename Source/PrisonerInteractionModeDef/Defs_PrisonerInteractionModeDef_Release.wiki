@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=PrisonerInteractionModeDef
-|defName=Release
-|PrisonerInteractionModeDef.defName=Release
-|PrisonerInteractionModeDef.listOrder=30
-}}

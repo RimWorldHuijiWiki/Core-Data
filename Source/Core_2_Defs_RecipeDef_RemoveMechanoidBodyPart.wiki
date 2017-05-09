@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=RemoveMechanoidBodyPart
+|RecipeDef.defName=RemoveMechanoidBodyPart
+|RecipeDef.label=remove part
+|RecipeDef.label.zh-cn=移除机械身体部件
+|RecipeDef.label.zh-tw=拆下機械部件
+|RecipeDef.description=Removes body part.
+|RecipeDef.description.zh-cn=移除机械身体部件。
+|RecipeDef.description.zh-tw=拆下機器人的組成部位。
+|RecipeDef.workerClass=Recipe_RemoveBodyPart
+|RecipeDef.jobString=Removing body part.
+|RecipeDef.jobString.zh-cn=正在移除机械身体部件。
+|RecipeDef.jobString.zh-tw=拆下機械部件。
+|RecipeDef.workAmount=2000
+|RecipeDef.workSpeedStat=ButcheryMechanoidSpeed
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Repair
+}}

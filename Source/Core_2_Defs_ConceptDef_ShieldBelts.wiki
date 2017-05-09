@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=ShieldBelts
+|ConceptDef.defName=ShieldBelts
+|ConceptDef.label=Shield belts
+|ConceptDef.label.zh-cn=护盾腰带
+|ConceptDef.label.zh-tw=Shield belts
+|ConceptDef.priority=50
+|ConceptDef.needsOpportunity=True
+|ConceptDef.helpText=Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.<br/><br/>To fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand.
+|ConceptDef.helpText.zh-cn=护盾腰带能够阻止远程伤害，但是对近战攻击不起效果。<br/><br/>面对装备有护盾腰带的敌人时，可以选择用火力压制或是肉搏。
+|ConceptDef.helpText.zh-tw=Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.<br/><br/>To fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand.
+}}

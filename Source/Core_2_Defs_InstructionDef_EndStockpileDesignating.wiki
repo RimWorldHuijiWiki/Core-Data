@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=EndStockpileDesignating
+|InstructionDef.defName=EndStockpileDesignating
+|InstructionDef.text=Right-click to get out of stockpile designating mode.
+|InstructionDef.text.zh-cn=点击右键退出规划模式。
+|InstructionDef.text.zh-tw=點擊滑鼠右鍵退出劃設儲存區狀態。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-MakeStockpile
+|InstructionDef.eventTagsEnd="ClearDesignatorSelection"
+}}

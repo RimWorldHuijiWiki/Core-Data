@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RoomStatDef
+|defName=SurgerySuccessChanceFactor
+|RoomStatDef.defName=SurgerySuccessChanceFactor
+|RoomStatDef.label=surgery success chance factor
+|RoomStatDef.label.zh-cn=手术成功几率系数
+|RoomStatDef.label.zh-tw=手術成功倍率
+|RoomStatDef.workerClass=RoomStatWorker_SurgerySuccessChanceFactor
+|RoomStatDef.updatePriority=0
+|RoomStatDef.isHidden=true
+|RoomStatDef.defaultScore=0.6
+}}

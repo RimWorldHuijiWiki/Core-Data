@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=DifficultyDef
+|defName=VeryEasy
+|DifficultyDef.defName=VeryEasy
+|DifficultyDef.label=Base builder
+|DifficultyDef.label.zh-cn=基地建造者
+|DifficultyDef.label.zh-tw=非常簡單
+|DifficultyDef.description=For those who want to build a colony with a taste of danger.<br/><br/>Major threats appear, but they're weakened. Some of the extremely dangerous events are disabled.
+|DifficultyDef.description.zh-cn=类似沙盒模式环境下专注于殖民地建设的休闲难度。<br/><br/>会触发大威胁事件，但被削弱。一些危险的随机事件已经被禁用。
+|DifficultyDef.description.zh-tw=提供給單純想在沙盒世界中建造基地的玩家，只有相當微弱的襲擊，某些危險的隨機事件將被隱藏。
+|DifficultyDef.difficulty=1
+|DifficultyDef.threatScale=0.10
+|DifficultyDef.colonistMoodOffset=10
+|DifficultyDef.cropYieldFactor=1.30
+|DifficultyDef.diseaseIntervalFactor=3
+|DifficultyDef.enemyReproductionRateFactor=0.1
+|DifficultyDef.playerPawnInfectionChanceFactor=0.5
+}}

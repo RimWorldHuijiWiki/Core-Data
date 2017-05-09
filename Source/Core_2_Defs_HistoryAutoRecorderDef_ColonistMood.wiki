@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HistoryAutoRecorderDef
+|defName=ColonistMood
+|HistoryAutoRecorderDef.defName=ColonistMood
+|HistoryAutoRecorderDef.label=mood
+|HistoryAutoRecorderDef.label.zh-cn=殖民者心情
+|HistoryAutoRecorderDef.label.zh-tw=居民情緒
+|HistoryAutoRecorderDef.workerClass=HistoryAutoRecorderWorker_ColonistMood
+|HistoryAutoRecorderDef.recordTicksFrequency=30000
+|HistoryAutoRecorderDef.graphColor=RGBA(0, 1, 0, 1)
+}}

@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RightHandRingFinger
+|BodyPartDef.defName=RightHandRingFinger
+|BodyPartDef.label=right ring finger
+|BodyPartDef.label.zh-cn=右无名指
+|BodyPartDef.label.zh-tw=右無名指
+|BodyPartDef.tags="ManipulationLimbDigit"
+|BodyPartDef.hitPoints=7
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.amputateIfGeneratedInjuredChance=0.3
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=8
+}}

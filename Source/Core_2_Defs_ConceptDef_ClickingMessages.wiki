@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=ClickingMessages
+|ConceptDef.defName=ClickingMessages
+|ConceptDef.label=Clicking messages
+|ConceptDef.label.zh-cn=点击通知
+|ConceptDef.label.zh-tw=點擊訊息
+|ConceptDef.priority=1
+|ConceptDef.helpText=You can click on the notifications in the top-left of the screen to instantly center the camera on their subject.
+|ConceptDef.helpText.zh-cn=你可以通过点击出现在屏幕左上方的通知信息来快速切换到目标区域查看详情。
+|ConceptDef.helpText.zh-tw=你可以點擊出現在畫面左上方的通知訊息來快速移動畫面至事件發生地。
+|ConceptDef.highlightTags="Messages"
+}}

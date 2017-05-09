@@ -1,0 +1,23 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=HeatWave
+|IncidentDef.defName=HeatWave
+|IncidentDef.label=heat wave
+|IncidentDef.label.zh-cn=热浪
+|IncidentDef.label.zh-tw=熱浪
+|IncidentDef.workerClass=IncidentWorker_HeatWave
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=3
+|IncidentDef.minRefireDays=15
+|IncidentDef.letterText=An unusual heat wave has begun. Watch out for heat stroke.
+|IncidentDef.letterText.zh-cn=一场罕见的热浪开始了。小心中暑。
+|IncidentDef.letterText.zh-tw=一波極端酷熱的熱浪正在烤熟這片地區，小心別中暑了。
+|IncidentDef.letterLabel=Heat wave
+|IncidentDef.letterLabel.zh-cn=热浪
+|IncidentDef.letterLabel.zh-tw=熱浪
+|IncidentDef.letterDef=BadNonUrgent
+|IncidentDef.gameCondition=HeatWave
+|IncidentDef.durationDays=1.5 ~ 3.5
+}}

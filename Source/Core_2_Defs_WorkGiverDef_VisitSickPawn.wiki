@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=VisitSickPawn
+|WorkGiverDef.defName=VisitSickPawn
+|WorkGiverDef.label=visit sick people
+|WorkGiverDef.label.zh-cn=看望病人
+|WorkGiverDef.label.zh-tw=探視病患
+|WorkGiverDef.giverClass=WorkGiver_VisitSickPawn
+|WorkGiverDef.workType=Doctor
+|WorkGiverDef.priorityInType=3
+|WorkGiverDef.verb=visit
+|WorkGiverDef.verb.zh-cn=看望
+|WorkGiverDef.verb.zh-tw=探視
+|WorkGiverDef.gerund=visiting
+|WorkGiverDef.gerund.zh-cn=看望
+|WorkGiverDef.gerund.zh-tw=探視
+}}

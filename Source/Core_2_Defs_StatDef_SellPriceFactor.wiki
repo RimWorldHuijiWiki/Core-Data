@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=SellPriceFactor
+|StatDef.defName=SellPriceFactor
+|StatDef.label=sell price multiplier
+|StatDef.label.zh-cn=出售价格乘数
+|StatDef.label.zh-tw=售價倍率
+|StatDef.description=A multiplier on the price at which you can sell items.
+|StatDef.description.zh-cn=你出售该物品时的价格乘数。
+|StatDef.description.zh-tw=出售此物件時的售價倍率。
+|StatDef.category=BasicsNonPawn
+|StatDef.showIfUndefined=false
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1
+}}

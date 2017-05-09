@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=LeftFootSecondToe
+|BodyPartDef.defName=LeftFootSecondToe
+|BodyPartDef.label=left second toe
+|BodyPartDef.label.zh-cn=左二趾
+|BodyPartDef.label.zh-tw=左二趾
+|BodyPartDef.tags="MovingLimbDigit"
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.amputateIfGeneratedInjuredChance=0.3
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=10
+}}

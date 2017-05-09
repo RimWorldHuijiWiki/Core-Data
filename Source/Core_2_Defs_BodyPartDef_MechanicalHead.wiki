@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=MechanicalHead
+|BodyPartDef.defName=MechanicalHead
+|BodyPartDef.label=head
+|BodyPartDef.label.zh-cn=头
+|BodyPartDef.label.zh-tw=頭部
+|BodyPartDef.hitPoints=30
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.isAlive=false
+}}

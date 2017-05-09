@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Refuel
+|JobDef.defName=Refuel
+|JobDef.driverClass=JobDriver_Refuel
+|JobDef.reportString=refueling TargetA.
+|JobDef.reportString.zh-cn=给TargetA加燃料。
+|JobDef.reportString.zh-tw=替TargetA添加燃料。
+}}

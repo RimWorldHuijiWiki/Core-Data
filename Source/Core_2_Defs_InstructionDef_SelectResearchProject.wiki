@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=SelectResearchProject
+|InstructionDef.defName=SelectResearchProject
+|InstructionDef.text=Now just choose whatever you want to be researched first.<br/><br/>You might have to wait for the research bench to be constructed, or for trees to be chopped for wood.<br/><br/>If it's taking too long, use the WORK tab to assign more colonists to Construct.
+|InstructionDef.text.zh-cn=现在先选择你想要最先研究的项目。<br/><br/>你可能需要等待研究台建造完成，你可以砍一些原木来建造。<br/><br/>如果花费的时间太长，你可以打开「工作」标签，指派更多的人参与建造。
+|InstructionDef.text.zh-tw=選擇一項你想研究的科技。<br/><br/>你可能得等待研究桌完工。<br/><br/>如果建造研究桌的進度緩慢或停滯，使用工作面板將建造工作分配給更多人。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-OpenMainTabResearch
+|InstructionDef.eventTagsEnd="StartResearchProject"
+|InstructionDef.actionTagsAllowed="MainTab-Research-Open","MainTab-Work-Open"
+|InstructionDef.rejectInputMessage=Please choose a research project.
+|InstructionDef.rejectInputMessage.zh-cn=请指定一项研究项目
+|InstructionDef.rejectInputMessage.zh-tw=選擇一個研究項目
+|InstructionDef.highlightTags="MainTab-Research-Closed"
+}}

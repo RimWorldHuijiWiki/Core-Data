@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=SongDef
-|defName=UnnamedDef
-|SongDef.clipPath=Songs/Tension/Close_The_Gates
-|SongDef.volume=1.0
-|SongDef.tense=true
-}}

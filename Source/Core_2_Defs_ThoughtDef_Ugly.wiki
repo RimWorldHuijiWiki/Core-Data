@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=Ugly
+|ThoughtDef.defName=Ugly
+|ThoughtDef.thoughtClass=Thought_SituationalSocial
+|ThoughtDef.workerClass=ThoughtWorker_Ugly
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=2
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=ugly
+|ThoughtDef.stages.0.label.zh-cn=丑陋
+|ThoughtDef.stages.0.label.zh-tw=醜陋
+|ThoughtDef.stages.0.baseOpinionOffset=-20
+|ThoughtDef.stages.1=Exist
+|ThoughtDef.stages.1.label=staggeringly ugly
+|ThoughtDef.stages.1.label.zh-cn=丑绝人寰
+|ThoughtDef.stages.1.label.zh-tw=豬八戒坐飛機
+|ThoughtDef.stages.1.baseOpinionOffset=-40
+|ThoughtDef.validWhileDespawned=true
+}}

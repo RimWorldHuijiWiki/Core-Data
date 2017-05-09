@@ -1,0 +1,36 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Gun_Minigun
+|RecipeDef.defName=Make_Gun_Minigun
+|RecipeDef.label=make minigun
+|RecipeDef.label.zh-cn=制作速射机枪
+|RecipeDef.label.zh-tw=製造滾筒式機槍
+|RecipeDef.description=Make minigun.
+|RecipeDef.description.zh-cn=一种多管机枪，极其高的射速。由机械族制作，设计时就没考虑到让人类手持射击。
+|RecipeDef.description.zh-tw=製造一把滾筒式機槍。
+|RecipeDef.jobString=Making minigun.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造滾筒式機槍。
+|RecipeDef.workAmount=100000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="Steel"
+|RecipeDef.ingredients.0.count=160
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs="Component"
+|RecipeDef.ingredients.1.count=20
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Steel","Component"
+|RecipeDef.products="Gun_Minigun","1"
+|RecipeDef.unfinishedThingDef=UnfinishedGun
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Smith
+|RecipeDef.recipeUsers="TableMachining"
+|RecipeDef.researchPrerequisite=MultibarrelWeapons
+}}

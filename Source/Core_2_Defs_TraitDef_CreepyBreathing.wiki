@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=CreepyBreathing
+|TraitDef.defName=CreepyBreathing
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=creepy breathing
+|TraitDef.degreeDatas.0.label.zh-cn=恶心的呼吸声
+|TraitDef.degreeDatas.0.label.zh-tw=噁心的呼吸聲
+|TraitDef.degreeDatas.0.description=NAME breathes heavily all the time, and sweats constantly. People find it creepy.
+|TraitDef.degreeDatas.0.description.zh-cn=NAME呼吸很粗重，而且发出像是擤鼻涕的声音。让人恶心。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME的呼吸聲十分沉重，不斷發出像是擤鼻涕的聲音，真是噁心。
+|TraitDef.commonality=0.05
+}}

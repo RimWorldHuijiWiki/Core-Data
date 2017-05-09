@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=GoJuiceProduction
+|ResearchProjectDef.defName=GoJuiceProduction
+|ResearchProjectDef.label=go-juice production
+|ResearchProjectDef.label.zh-cn=活力水制作
+|ResearchProjectDef.label.zh-tw=能量果飲生產
+|ResearchProjectDef.description=Learn to produce the synthetic combat-performance-enhancing drug go-juice.
+|ResearchProjectDef.description.zh-cn=学会制作这种名为「活力水」的合成的战斗增强兴奋剂。
+|ResearchProjectDef.description.zh-tw=研究如何製造複合型戰鬥能力強化藥物。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=1000
+|ResearchProjectDef.prerequisites="DrugProduction"
+|ResearchProjectDef.researchViewX=2
+|ResearchProjectDef.researchViewY=2
+}}

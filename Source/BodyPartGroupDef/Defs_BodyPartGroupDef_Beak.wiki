@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=BodyPartGroupDef
-|defName=Beak
-|BodyPartGroupDef.defName=Beak
-|BodyPartGroupDef.label=beak
-|BodyPartGroupDef.label.zh-cn=鸟喙
-|BodyPartGroupDef.label.zh-tw=喙
-}}

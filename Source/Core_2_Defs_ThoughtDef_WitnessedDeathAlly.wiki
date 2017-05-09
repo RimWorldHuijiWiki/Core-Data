@@ -1,0 +1,22 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=WitnessedDeathAlly
+|ThoughtDef.defName=WitnessedDeathAlly
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=witnessed ally's death
+|ThoughtDef.stages.0.label.zh-cn=目睹同伴死亡
+|ThoughtDef.stages.0.label.zh-tw=看見同盟死亡
+|ThoughtDef.stages.0.description=I saw one of my people die. They were alive one moment, and dead the next.
+|ThoughtDef.stages.0.description.zh-cn=我看见我们有人死了，他们前一刻还活着，然后就死了。
+|ThoughtDef.stages.0.description.zh-tw=我看見我們有人死了，他們剛才還好好的，然後就倒下了。
+|ThoughtDef.stages.0.baseMoodEffect=-5
+|ThoughtDef.stackLimit=5
+|ThoughtDef.stackedEffectMultiplier=0.4
+|ThoughtDef.durationDays=1.5
+|ThoughtDef.nullifyingTraits="Psychopath","Bloodlust"
+|ThoughtDef.icon=Things/Mote/ThoughtSymbol/Skull
+|ThoughtDef.showBubble=true
+}}

@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_MeleeWeapon_Knife
+|RecipeDef.defName=Make_MeleeWeapon_Knife
+|RecipeDef.label=make knife
+|RecipeDef.label.zh-cn=制作匕首
+|RecipeDef.label.zh-tw=製造小刀
+|RecipeDef.description=Make knife.
+|RecipeDef.description.zh-cn=人类最古老的武器之一，匕首既是日常工具也是致命武器。
+|RecipeDef.description.zh-tw=製造一把小刀。
+|RecipeDef.jobString=Making knife.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造小刀。
+|RecipeDef.workAmount=4000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Metallic"
+|RecipeDef.ingredients.0.count=40
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Metallic"
+|RecipeDef.defaultIngredientFilter=Exist
+|RecipeDef.defaultIngredientFilter.categories="Root"
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs="Silver","Gold","WoodLog"
+|RecipeDef.products="MeleeWeapon_Knife","1"
+|RecipeDef.productHasIngredientStuff=true
+|RecipeDef.unfinishedThingDef=UnfinishedWeapon
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Smith
+|RecipeDef.recipeUsers="ElectricSmithy","FueledSmithy"
+}}

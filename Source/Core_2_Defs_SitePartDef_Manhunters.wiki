@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=SitePartDef
+|defName=Manhunters
+|SitePartDef.defName=Manhunters
+|SitePartDef.label=manhunter pack
+|SitePartDef.label.zh-cn=猎杀人类
+|SitePartDef.label.zh-tw=獵人獸群
+|SitePartDef.siteTexture=World/WorldObjects/Sites/GenericSite
+|SitePartDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Manhunters
+|SitePartDef.knownDanger=true
+}}

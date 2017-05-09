@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Tame
+|JobDef.defName=Tame
+|JobDef.driverClass=JobDriver_Tame
+|JobDef.reportString=taming TargetA.
+|JobDef.reportString.zh-cn=正在尝试驯服TargetA。
+|JobDef.reportString.zh-tw=嘗試馴服TargetA。
+}}

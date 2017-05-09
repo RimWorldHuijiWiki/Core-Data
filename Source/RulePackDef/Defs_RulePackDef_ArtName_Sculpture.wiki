@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=RulePackDef
-|defName=ArtName_Sculpture
-|RulePackDef.defName=ArtName_Sculpture
-|RulePackDef.include="ArtNameUtility"
-|RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="art_name->[anyPawn_nameShort]'s [artname]","art_name->[anyPawn_nameShort] [trans] [color]","art_name->[artname] [trans] [anyPawn_nameShort]","art_name->[artname] [trans] [concept]","art_name->[artname] [romannumeral]","art_name->[concept] [trans] [anyPawn_nameShort]","art_name->[concept] [trans] [anyPawn_nameShort]","art_name->[concept]","art_name->[color] [concept]","art_name->[color] [artname]","art_name->[color] [terrainfeature]","art_name->A [art_adjective] [concept]","art_name->[concept] No. [digit]","art_name->[artname] No. [digit]","art_name->[artname] No. [digit][digit]","art_name->[digit] [trans] [anyPawn_nameShort]","art_name->[anyPawn_nameShort]之[artname]","art_name->[anyPawn_nameShort][trans][color]","art_name->[artname][trans][anyPawn_nameShort]","art_name->[artname][trans][concept]","art_name->[artname][romannumeral]","art_name->[concept][trans][anyPawn_nameShort]","art_name->[concept][trans][anyPawn_nameShort]","art_name->[concept]","art_name->[color]色[concept]","art_name->[color]色[artname]","art_name->[color]色[terrainfeature]","art_name->[art_adjective]之[concept]","art_name->[concept] No.[digit]","art_name->[artname] No.[digit]","art_name->[artname] No.[digit][digit]","art_name->[digit][trans][anyPawn_nameShort]","art_name->[anyPawn_nameShort] [artname]","art_name->[color]色[anyPawn_nameShort]","art_name->[artname]","art_name->[artname]","art_name->[artname] [romannumeral]","art_name->[artname]","art_name->[artname]","art_name->[artname]","art_name->[color]色","art_name->[color]色[artname]","art_name->[artname]","art_name->[artname]","art_name->[artname] No.[digit]","art_name->[artname] No.[digit]","art_name->[artname] No.[digit][digit]","art_name->[digit]號[anyPawn_nameShort]"
-}}

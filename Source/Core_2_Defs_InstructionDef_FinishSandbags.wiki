@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=FinishSandbags
+|InstructionDef.defName=FinishSandbags
+|InstructionDef.instructionClass=Instruction_FinishConstruction
+|InstructionDef.text=Let's just wait for all your constructions to be built.<br/><br/>Consider using the WORK tab to assign more colonists to Construct.<br/><br/>Also, you can speed up time to shorten the wait.<br/><br/>Once everything's built, I'll send an attacker to test your defenses!
+|InstructionDef.text.zh-cn=让我们先等所有的工作做完吧。<br/><br/>你可以考虑用「工作」标签页中分配更多的殖民者进行建造任务。<br/><br/>你还可以通过加速时间流逝来节约时间。<br/><br/>一旦建造完毕，一波敌人会来考验你的工作成果！
+|InstructionDef.text.zh-tw=讓我們稍等直到建造完成。<br/><br/>你可以用工作面板將建造工作分配給更多居民。<br/><br/>別忘了可以加快遊戲速度縮短等待時間。<br/><br/>當一切建造工作完成，我會送出一名襲擊者來測試你的防衛。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-BuildSandbags
+|InstructionDef.actionTagsAllowed="MainTab-Work-Open","ITab-Health-Open","ITab-Gear-Open","ITab-Needs-Open","ITab-Social-Open","ITab-Character-Open"
+|InstructionDef.rejectInputMessage=Please wait for your colonists to finish building the sandbags.
+|InstructionDef.rejectInputMessage.zh-cn=请等待殖民者将沙包建造完毕
+|InstructionDef.rejectInputMessage.zh-tw=請等待居民建成沙包
+}}

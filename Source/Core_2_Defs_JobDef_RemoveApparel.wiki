@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=RemoveApparel
+|JobDef.defName=RemoveApparel
+|JobDef.driverClass=JobDriver_RemoveApparel
+|JobDef.reportString=removing TargetA.
+|JobDef.reportString.zh-cn=脱下TargetA。
+|JobDef.reportString.zh-tw=脫下TargetA。
+}}

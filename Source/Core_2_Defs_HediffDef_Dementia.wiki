@@ -1,0 +1,25 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=Dementia
+|HediffDef.defName=Dementia
+|HediffDef.label=dementia
+|HediffDef.label.zh-cn=痴呆
+|HediffDef.label.zh-tw=老年癡呆
+|HediffDef.hediffClass=HediffWithComps
+|HediffDef.initialSeverity=0.001
+|HediffDef.stages=Exist
+|HediffDef.stages.Count=1
+|HediffDef.stages.0=Exist
+|HediffDef.stages.0.capMods=Exist
+|HediffDef.stages.0.capMods.Count=2
+|HediffDef.stages.0.capMods.0=Exist
+|HediffDef.stages.0.capMods.0.capacity=Talking
+|HediffDef.stages.0.capMods.0.offset=-0.25
+|HediffDef.stages.0.capMods.1=Exist
+|HediffDef.stages.0.capMods.1.capacity=Hearing
+|HediffDef.stages.0.capMods.1.offset=-0.25
+|HediffDef.stages.0.mentalStateGivers="WanderConfused","5"
+|HediffDef.stages.0.partEfficiencyOffset=-0.15
+|HediffDef.defaultLabelColor=(0.8, 0.8, 0.35)
+}}

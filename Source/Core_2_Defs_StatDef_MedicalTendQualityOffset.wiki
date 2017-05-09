@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=MedicalTendQualityOffset
+|StatDef.defName=MedicalTendQualityOffset
+|StatDef.label=medical tend quality offset
+|StatDef.label.zh-cn=医疗治疗质量偏移量
+|StatDef.label.zh-tw=醫療效果倍率
+|StatDef.description=Medical tend quality is offset by this value.
+|StatDef.description.zh-cn=医疗治疗质量根据此项的值偏移。
+|StatDef.description.zh-tw=進行醫療行為時的效果倍率。
+|StatDef.category=Building
+|StatDef.hideAtValue=0
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=0
+|StatDef.minValue=0
+}}

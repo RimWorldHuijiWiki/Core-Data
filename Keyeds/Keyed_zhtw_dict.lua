@@ -1826,6 +1826,7 @@ return {
     TextMote_FixBrokenDownBuildingFail = "修理失敗",
     TextMote_ConstructionFail = "建造失敗",
     TextMote_Dodge = "閃避",
+    TextMote_Tended = "{0} tended",
     Home = "生活區",
     BuildRoof = "搭建屋頂",
     NoRoof = "露天",

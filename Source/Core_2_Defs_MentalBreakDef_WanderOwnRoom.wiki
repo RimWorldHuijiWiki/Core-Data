@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=MentalBreakDef
+|defName=WanderOwnRoom
+|MentalBreakDef.defName=WanderOwnRoom
+|MentalBreakDef.mentalState=WanderOwnRoom
+|MentalBreakDef.baseCommonality=0.75
+|MentalBreakDef.intensity=Minor
+}}

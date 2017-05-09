@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=TimeWardening
+|RecordDef.defName=TimeWardening
+|RecordDef.label=time wardening
+|RecordDef.label.zh-cn=监管时间
+|RecordDef.label.zh-tw=監管工作
+|RecordDef.description=Total time spent wardening.
+|RecordDef.description.zh-cn=监管花费的总时间。
+|RecordDef.description.zh-tw=進行監管工作的時間。
+|RecordDef.type=Time
+|RecordDef.measuredTimeJobs="PrisonerFriendlyChat","PrisonerAttemptRecruit","PrisonerExecution","TakeWoundedPrisonerToBed","EscortPrisonerToBed","ReleasePrisoner"
+}}

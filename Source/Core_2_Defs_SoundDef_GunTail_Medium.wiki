@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=GunTail_Medium
+|SoundDef.defName=GunTail_Medium
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.maxVoices=2
+|SoundDef.maxSimultaneous=1
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.onCamera=True
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
+|SoundDef.subSounds.0.grains.0.clipFolderPath=Weapon/Tails/Medium
+|SoundDef.subSounds.0.volumeRange=24.11765 ~ 30
+|SoundDef.subSounds.0.pitchRange=0.8852941 ~ 1.114706
+}}

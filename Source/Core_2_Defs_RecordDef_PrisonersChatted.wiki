@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=PrisonersChatted
+|RecordDef.defName=PrisonersChatted
+|RecordDef.label=prisoners chatted
+|RecordDef.label.zh-cn=囚犯交流次数
+|RecordDef.label.zh-tw=與俘虜交談次數
+|RecordDef.description=How many times I have chatted with a prisoner.
+|RecordDef.description.zh-cn=我和囚犯聊天的次数。
+|RecordDef.description.zh-tw=我與俘虜交談的次數。
+|RecordDef.type=Int
+}}

@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=FactionDef
+|defName=PlayerColony
+|FactionDef.defName=PlayerColony
+|FactionDef.label=New Arrivals
+|FactionDef.label.zh-cn=新移民
+|FactionDef.label.zh-tw=殖民地
+|FactionDef.description=Your own community.
+|FactionDef.description.zh-cn=这是你自己的社区团体。
+|FactionDef.description.zh-tw=屬於你的陣營。
+|FactionDef.isPlayer=true
+|FactionDef.baseNameMaker=NamerFactionBasePlayerColony
+|FactionDef.basicMemberKind=Colonist
+|FactionDef.startingResearchTags="ClassicStart"
+|FactionDef.pawnsPlural=colonists
+|FactionDef.pawnsPlural.zh-cn=殖民者
+|FactionDef.pawnsPlural.zh-tw=居民
+|FactionDef.techLevel=Industrial
+|FactionDef.backstoryCategory=Civil
+|FactionDef.hairTags="Urban"
+|FactionDef.apparelStuffFilter=Exist
+|FactionDef.apparelStuffFilter.thingDefs="Synthread"
+|FactionDef.homeIconPath=World/WorldObjects/DefaultFactionBase
+|FactionDef.expandingIconTexture=World/WorldObjects/Expanding/Town
+|FactionDef.colorSpectrum="(0, 0.737, 0.847)"
+}}

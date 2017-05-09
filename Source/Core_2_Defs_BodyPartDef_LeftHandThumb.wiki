@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=LeftHandThumb
+|BodyPartDef.defName=LeftHandThumb
+|BodyPartDef.label=left thumb
+|BodyPartDef.label.zh-cn=左拇指
+|BodyPartDef.label.zh-tw=左拇指
+|BodyPartDef.tags="ManipulationLimbDigit"
+|BodyPartDef.hitPoints=7
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.amputateIfGeneratedInjuredChance=0.3
+|BodyPartDef.skinCovered=true
+|BodyPartDef.frostbiteVulnerability=8
+}}

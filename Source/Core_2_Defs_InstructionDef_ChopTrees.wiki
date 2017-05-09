@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=ChopTrees
+|InstructionDef.defName=ChopTrees
+|InstructionDef.instructionClass=Instruction_ChopWood
+|InstructionDef.text=You'll want to harvest some wood. Designate some trees to be chopped.<br/><br/>Select the CHOP WOOD designator and designate 10 trees to be chopped down.<br/><br/>(Pro tip: You can drag a box over trees to designate several at once.)
+|InstructionDef.text.zh-cn=你需要采集一些木材，规划一些需要砍伐的树木吧<br/><br/>选择「砍伐」命令然后规划10颗需要砍伐的树木<br/><br/>提示：你可以直接框选10棵树而不必一个一个去点
+|InstructionDef.text.zh-tw=如果你想砍些木頭用，指定一些要砍伐的樹木。<br/><br/>使用「砍伐」工具指定10顆樹木。<br/><br/>(小技巧：你可以一次劃過大範圍來指定多棵樹木。)
+|InstructionDef.eventTagInitiate=InstructionDeactivated-MineSteel
+|InstructionDef.actionTagsAllowed="MainTab-Architect-Open","SelectDesignator-PlantsHarvestWood","Designate-PlantsHarvestWood"
+|InstructionDef.rejectInputMessage=Please drag the 'chop wood' designator over some trees.
+|InstructionDef.rejectInputMessage.zh-cn=请对树木使用砍伐命令
+|InstructionDef.rejectInputMessage.zh-tw=請使用「砍伐」工具指定10顆樹木。
+|InstructionDef.highlightTags="MainTab-Architect-Closed","DesignationCategoryButton-Orders-Closed","Designator-PlantsHarvestWood"
+|InstructionDef.targetCount=10
+}}

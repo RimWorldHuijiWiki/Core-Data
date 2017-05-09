@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=MainButtonDef
+|defName=Research
+|MainButtonDef.defName=Research
+|MainButtonDef.label=research
+|MainButtonDef.label.zh-cn=研究
+|MainButtonDef.label.zh-tw=研究
+|MainButtonDef.description=Examine and decide on research projects.
+|MainButtonDef.description.zh-cn=查看并选择研究项目。
+|MainButtonDef.description.zh-tw=檢視及指定研究項目。
+|MainButtonDef.workerClass=MainButtonWorker_ToggleResearchTab
+|MainButtonDef.tabWindowClass=MainTabWindow_Research
+|MainButtonDef.order=50
+}}

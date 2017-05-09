@@ -1,0 +1,30 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=MechanoidOperationSuccessChance
+|StatDef.defName=MechanoidOperationSuccessChance
+|StatDef.label=mechanoid operation success chance
+|StatDef.label.zh-cn=机械体改装成功几率
+|StatDef.label.zh-tw=機械拆解成功率
+|StatDef.description=The likelihood that a character will succeed when attempting to perform an operation on a mechanoid. Failures can result in simple wasted time, or catastrophic damage to the subject.
+|StatDef.description.zh-cn=当角色尝试对机械体执行改装时成功的可能性。改装出错时，轻则浪费时间，重则给对象带来灾难性的伤害。
+|StatDef.description.zh-tw=這名角色拆解機械時的成功率，拆解失敗的結果輕則白費時間，嚴重則可能使對象受到嚴重損害。
+|StatDef.category=PawnWork
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1.00
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
+|StatDef.skillNeedFactors.0.skill=Crafting
+|StatDef.skillNeedFactors.0.factorsPerLevel="0.05","0.25","0.40","0.50","0.60","0.70","0.80","0.85","0.90","0.92","0.93","0.94","0.95","0.955","0.96","0.965","0.97","0.975","0.98","0.985","0.99"
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Sight
+|StatDef.capacityFactors.0.weight=0.4
+|StatDef.capacityFactors.0.max=1
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Manipulation
+|StatDef.capacityFactors.1.weight=1
+}}

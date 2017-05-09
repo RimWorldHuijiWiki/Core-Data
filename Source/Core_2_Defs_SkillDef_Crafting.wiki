@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=SkillDef
+|defName=Crafting
+|SkillDef.defName=Crafting
+|SkillDef.label=Crafting
+|SkillDef.label.zh-cn=手工
+|SkillDef.label.zh-tw=手工
+|SkillDef.description=Crafting general items including weapons and tools.
+|SkillDef.description.zh-cn=制作一般物品，包括武器和工具。
+|SkillDef.description.zh-tw=打造武器、裁縫衣物、加工石材。
+|SkillDef.skillLabel=Crafting
+|SkillDef.skillLabel.zh-cn=手工
+|SkillDef.skillLabel.zh-tw=手工
+}}

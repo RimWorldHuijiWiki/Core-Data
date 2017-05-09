@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RoofDef
+|defName=RoofRockThin
+|RoofDef.defName=RoofRockThin
+|RoofDef.label=rock roof (thin)
+|RoofDef.label.zh-cn=山岩顶（薄）
+|RoofDef.label.zh-tw=岩石頂(薄)
+|RoofDef.isNatural=true
+|RoofDef.isThickRoof=false
+|RoofDef.filthLeaving=RockRubble
+|RoofDef.soundPunchThrough=RoofCollapse
+}}

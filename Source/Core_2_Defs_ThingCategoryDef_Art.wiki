@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=Art
+|ThingCategoryDef.defName=Art
+|ThingCategoryDef.label=art
+|ThingCategoryDef.label.zh-cn=艺术
+|ThingCategoryDef.label.zh-tw=藝術品
+|ThingCategoryDef.parent=Items
+}}

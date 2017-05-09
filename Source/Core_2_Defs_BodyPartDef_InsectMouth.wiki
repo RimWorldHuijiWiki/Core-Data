@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=InsectMouth
+|BodyPartDef.defName=InsectMouth
+|BodyPartDef.label=mouth
+|BodyPartDef.label.zh-cn=口器
+|BodyPartDef.label.zh-tw=蟲口
+|BodyPartDef.tags="EatingSource","ManipulationLimbCore"
+|BodyPartDef.hitPoints=10
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+}}

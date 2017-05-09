@@ -1,0 +1,26 @@
+{{#set:
+|dataType=Def
+|defType=PawnKindDef
+|defName=TribalArcher
+|PawnKindDef.defName=TribalArcher
+|PawnKindDef.label=archer
+|PawnKindDef.label.zh-cn=弓箭手
+|PawnKindDef.label.zh-tw=弓箭手
+|PawnKindDef.race=Human
+|PawnKindDef.defaultFactionType=Tribe
+|PawnKindDef.backstoryCategory=Tribal
+|PawnKindDef.labelPlural=archers
+|PawnKindDef.labelPlural.zh-cn=弓箭手
+|PawnKindDef.labelPlural.zh-tw=archers
+|PawnKindDef.maxGenerationAge=40
+|PawnKindDef.gearHealthRange=0.5 ~ 1.8
+|PawnKindDef.combatPower=48
+|PawnKindDef.baseRecruitDifficulty=0.65
+|PawnKindDef.apparelMoney=180 ~ 350
+|PawnKindDef.apparelTags="Tribal"
+|PawnKindDef.weaponMoney=400 ~ 400
+|PawnKindDef.weaponTags="NeolithicRanged"
+|PawnKindDef.invNutrition=2.55
+|PawnKindDef.invFoodDef=Pemmican
+|PawnKindDef.chemicalAddictionChance=0.05
+}}

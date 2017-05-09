@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=TurretsPower
+|GenStepDef.defName=TurretsPower
+|GenStepDef.linkWithSite=Turrets
+|GenStepDef.order=471
+|GenStepDef.genStep=
+}}

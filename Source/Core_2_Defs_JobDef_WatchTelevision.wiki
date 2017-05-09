@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=WatchTelevision
+|JobDef.defName=WatchTelevision
+|JobDef.driverClass=JobDriver_WatchTelevision
+|JobDef.reportString=watching television.
+|JobDef.reportString.zh-cn=看电视。
+|JobDef.reportString.zh-tw=看電視
+|JobDef.joyDuration=4000
+|JobDef.joyMaxParticipants=8
+|JobDef.joyGainRate=1.2
+|JobDef.joyKind=Passive
+}}

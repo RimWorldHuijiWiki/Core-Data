@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=LeftKidney
+|BodyPartDef.defName=LeftKidney
+|BodyPartDef.label=left kidney
+|BodyPartDef.label.zh-cn=左肾
+|BodyPartDef.label.zh-tw=左腎
+|BodyPartDef.tags="BloodFiltrationKidney"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.skinCovered=false
+|BodyPartDef.spawnThingOnRemoved=Kidney
+}}

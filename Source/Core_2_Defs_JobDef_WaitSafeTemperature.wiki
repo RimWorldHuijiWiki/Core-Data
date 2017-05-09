@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=WaitSafeTemperature
+|JobDef.defName=WaitSafeTemperature
+|JobDef.driverClass=JobDriver_Wait
+|JobDef.reportString=waiting in safe temperature.
+|JobDef.reportString.zh-cn=待在温度安全的地方。
+|JobDef.reportString.zh-tw=尋找溫度安全的地方。
+}}

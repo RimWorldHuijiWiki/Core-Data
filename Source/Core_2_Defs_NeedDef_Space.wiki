@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=NeedDef
+|defName=Space
+|NeedDef.defName=Space
+|NeedDef.label=space
+|NeedDef.label.zh-cn=空间
+|NeedDef.label.zh-tw=寬敞度
+|NeedDef.description=Space reflects a sense of being physically free and able to move around. It is harmed by spending extended periods in cramped rooms.
+|NeedDef.description.zh-cn=空间表示了所处环境所能够四处走动的自由程度。长时间在狭小的房间里会严重影响心情。建议你加宽走廊，扩大餐厅和工作室。
+|NeedDef.description.zh-tw=寬敞度反映了周遭環境是否寬敞通暢。
+|NeedDef.needClass=Need_Space
+|NeedDef.minIntelligence=Humanlike
+|NeedDef.colonistAndPrisonersOnly=true
+|NeedDef.listPriority=100
+|NeedDef.seekerRisePerHour=0.90
+|NeedDef.seekerFallPerHour=0.90
+}}

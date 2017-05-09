@@ -1,0 +1,37 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=InstallJoywire
+|RecipeDef.defName=InstallJoywire
+|RecipeDef.label=install joywire
+|RecipeDef.label.zh-cn=安装乐丝芯片
+|RecipeDef.label.zh-tw=安裝樂絲晶片
+|RecipeDef.description=Installs joywire.
+|RecipeDef.description.zh-cn=安装乐丝芯片。
+|RecipeDef.description.zh-tw=安裝樂絲晶片。
+|RecipeDef.workerClass=Recipe_InstallImplant
+|RecipeDef.jobString=Installing joywire.
+|RecipeDef.jobString.zh-cn=正在安装乐丝芯片。
+|RecipeDef.jobString.zh-tw=安裝樂絲晶片。
+|RecipeDef.workAmount=2000
+|RecipeDef.workSpeedStat=MedicalOperationSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Medicine"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs="Joywire"
+|RecipeDef.ingredients.1.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="Joywire"
+|RecipeDef.fixedIngredientFilter.categories="Medicine"
+|RecipeDef.workSkill=Medicine
+|RecipeDef.workSkillLearnFactor=16
+|RecipeDef.effectWorking=Surgery
+|RecipeDef.soundWorking=Recipe_Surgery
+|RecipeDef.appliedOnFixedBodyParts="Brain"
+|RecipeDef.addsHediff=Joywire
+}}

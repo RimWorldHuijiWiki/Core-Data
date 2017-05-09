@@ -1,0 +1,27 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=Interact_Repair
+|SoundDef.defName=Interact_Repair
+|SoundDef.sustain=True
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.maxSimultaneous=1
+|SoundDef.priorityMode=PrioritizeNearest
+|SoundDef.sustainStartSound=Interact_Repair_Start
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.muteWhenPaused=True
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
+|SoundDef.subSounds.0.grains.0.clipPath=Interact/Work/Repair/WeldLoop
+|SoundDef.subSounds.0.volumeRange=17.17392 ~ 17.17392
+|SoundDef.subSounds.0.pitchRange=0.8304347 ~ 1.169566
+|SoundDef.subSounds.0.sustainLoopDurationRange=2.391304 ~ 0.9782609
+|SoundDef.subSounds.0.sustainIntervalRange=-0.3294118 ~ -0.3294118
+|SoundDef.subSounds.0.sustainAttack=0.05882355
+|SoundDef.subSounds.0.sustainRelease=0.4823529
+}}

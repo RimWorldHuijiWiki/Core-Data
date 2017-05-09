@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DesignationDef
-|defName=SmoothFloor
-|DesignationDef.defName=SmoothFloor
-|DesignationDef.texturePath=Designations/SmoothFloor
-|DesignationDef.targetType=Cell
-}}

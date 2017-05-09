@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=PawnColumnDef
+|defName=Timetable
+|PawnColumnDef.defName=Timetable
+|PawnColumnDef.workerClass=PawnColumnWorker_Timetable
+|PawnColumnDef.sortable=true
+}}

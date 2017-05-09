@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=RulePackDef
+|defName=Sentence_MarriageProposalRejectedBrokeUp
+|RulePackDef.defName=Sentence_MarriageProposalRejectedBrokeUp
+|RulePackDef.rulePack=Exist
+|RulePackDef.rulePack.rulesStrings="sent->It was too much for the relationship to continue, and the two have now broken up.","sent->两人的关系难以为继，感情破裂了。","sent->太多摩擦使得這個關係難以維繫，他們分手了。"
+}}

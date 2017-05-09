@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DamageArmorCategoryDef
-|defName=Blunt
-|DamageArmorCategoryDef.defName=Blunt
-|DamageArmorCategoryDef.multStat=BluntDamageMultiplier
-|DamageArmorCategoryDef.deflectionStat=ArmorRating_Blunt
-}}

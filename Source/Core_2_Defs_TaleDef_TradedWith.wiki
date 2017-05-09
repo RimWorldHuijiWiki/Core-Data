@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=TaleDef
+|defName=TradedWith
+|TaleDef.defName=TradedWith
+|TaleDef.label=traded with someone
+|TaleDef.label.zh-cn=进行交易
+|TaleDef.label.zh-tw=traded with someone
+|TaleDef.type=Volatile
+|TaleDef.taleClass=Tale_DoublePawn
+|TaleDef.rulePack=Exist
+|TaleDef.rulePack.rulesStrings="tale_noun->a trade between [seller_nameFull] and [buyer_nameFull]","image->[buyer_nameFull] buying goods from [seller_nameFull] [circumstance_group]","image->[seller_nameFull] selling goods to [buyer_nameFull] [circumstance_group]","circumstance_phrase->with greedy intent","circumstance_phrase->while [seller_nameShortDef] smirks at [buyer_shortNameDef]","desc_sentence->[buyer_nameShortDef] is examining [seller_nameShortDef]'s wares.","desc_sentence->[seller_nameShortDef] considers an item.","desc_sentence->[seller_nameShortDef] starts haggling.","desc_sentence->[buyer_nameShortDef] argues with [seller_nameShortDef].","desc_sentence->[seller_nameShortDef] and [buyer_nameShortDef] agree on a price.","desc_sentence->[buyer_nameShortDef] pays for the item.","desc_sentence->[seller_nameShortDef] is counting [seller_possessive] money.","desc_sentence->[buyer_nameShortDef] is taking [buyer_possessive] goods.","tale_noun->[seller_nameFull]与[seller_nameFull]之间的交易","image->[buyer_nameFull]从[seller_nameFull]出购买了一些东西，[circumstance_group]","image->[seller_nameFull]向[buyer_nameFull]卖了一些商品，[circumstance_group]","circumstance_phrase->要价很是苛刻","circumstance_phrase->[seller_nameShortDef]正朝着[buyer_shortNameDef]假笑","desc_sentence->[buyer_nameShortDef]正在仔细的查看[seller_nameShortDef]的商品。","desc_sentence->[seller_nameShortDef]正在考虑价格。","desc_sentence->[seller_nameShortDef]在讨价还价。","desc_sentence->[buyer_nameShortDef]与[seller_nameShortDef]在争吵。","desc_sentence->[seller_nameShortDef]与[buyer_nameShortDef]就价格达成了一致。","desc_sentence->[buyer_nameShortDef]正在付钱。","desc_sentence->[seller_nameShortDef]正在数钱。","desc_sentence->[buyer_nameShortDef]正在验货。","tale_noun->a trade between [seller_nameFull] and [buyer_nameFull]","image->[buyer_nameFull] buying goods from [seller_nameFull] [circumstance_group]","image->[seller_nameFull] selling goods to [buyer_nameFull] [circumstance_group]","circumstance_phrase->with greedy intent","circumstance_phrase->while [seller_nameShortDef] smirks at [buyer_shortNameDef]","desc_sentence->[buyer_nameShortDef] is examining [seller_nameShortDef]'s wares.","desc_sentence->[seller_nameShortDef] considers an item.","desc_sentence->[seller_nameShortDef] starts haggling.","desc_sentence->[buyer_nameShortDef] argues with [seller_nameShortDef].","desc_sentence->[seller_nameShortDef] and [buyer_nameShortDef] agree on a price.","desc_sentence->[buyer_nameShortDef] pays for the item.","desc_sentence->[seller_nameShortDef] is counting [seller_possessive] money.","desc_sentence->[buyer_nameShortDef] is taking [buyer_possessive] goods."
+|TaleDef.firstPawnSymbol=buyer
+|TaleDef.secondPawnSymbol=seller
+|TaleDef.baseInterest=1
+}}

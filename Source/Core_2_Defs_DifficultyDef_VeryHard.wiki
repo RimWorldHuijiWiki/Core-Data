@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=DifficultyDef
+|defName=VeryHard
+|DifficultyDef.defName=VeryHard
+|DifficultyDef.label=Extreme
+|DifficultyDef.label.zh-cn=极端挑战模式
+|DifficultyDef.label.zh-tw=極端
+|DifficultyDef.description=As hard as a diamond-bladed dagger.<br/><br/>Enemies are numerous, prices are poor, food is scarce, and colonists are grumpy. For those who enjoy digital suffering.
+|DifficultyDef.description.zh-cn=刀山火海的难度。<br/><br/>敌人很强大、物资售卖价格低、食物匮乏，并且殖民者脾气暴躁。为喜欢被电脑折磨的受虐狂所准备。
+|DifficultyDef.description.zh-tw=如同一把鑽石匕首般的堅韌，敵人十分強大、物價非常嚴苛、食物相當匱乏、居民們悶悶不樂。推薦給喜愛極端生存的玩家。
+|DifficultyDef.difficulty=5
+|DifficultyDef.threatScale=1.3
+|DifficultyDef.colonistMoodOffset=-8
+|DifficultyDef.tradePriceFactorLoss=0.20
+|DifficultyDef.cropYieldFactor=0.9
+|DifficultyDef.diseaseIntervalFactor=0.9
+|DifficultyDef.enemyReproductionRateFactor=1
+|DifficultyDef.playerPawnInfectionChanceFactor=1.1
+}}

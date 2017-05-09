@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=StoneBlocks
+|ThingCategoryDef.defName=StoneBlocks
+|ThingCategoryDef.label=stone blocks
+|ThingCategoryDef.label.zh-cn=石砖
+|ThingCategoryDef.label.zh-tw=石材
+|ThingCategoryDef.parent=ResourcesRaw
+|ThingCategoryDef.iconPath=UI/Icons/ThingCategories/StoneBlocks
+|ThingCategoryDef.resourceReadoutRoot=true
+}}

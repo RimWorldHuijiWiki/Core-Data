@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=GrowerSow
+|WorkGiverDef.defName=GrowerSow
+|WorkGiverDef.label=sow crops
+|WorkGiverDef.label.zh-cn=播种作物
+|WorkGiverDef.label.zh-tw=播種
+|WorkGiverDef.giverClass=WorkGiver_GrowerSow
+|WorkGiverDef.workType=Growing
+|WorkGiverDef.priorityInType=50
+|WorkGiverDef.verb=sow
+|WorkGiverDef.verb.zh-cn=播种
+|WorkGiverDef.verb.zh-tw=播種
+|WorkGiverDef.gerund=sowing
+|WorkGiverDef.gerund.zh-cn=播种
+|WorkGiverDef.gerund.zh-tw=播種
+|WorkGiverDef.scanThings=false
+|WorkGiverDef.scanCells=true
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}

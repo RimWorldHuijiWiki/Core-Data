@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=PrisonerInteractionModeDef
+|defName=Chat
+|PrisonerInteractionModeDef.defName=Chat
+|PrisonerInteractionModeDef.listOrder=10
+}}

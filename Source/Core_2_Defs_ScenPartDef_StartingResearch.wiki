@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=StartingResearch
+|ScenPartDef.defName=StartingResearch
+|ScenPartDef.label=start with research
+|ScenPartDef.label.zh-cn=开局科技
+|ScenPartDef.label.zh-tw=預設科技
+|ScenPartDef.category=StartingImportant
+|ScenPartDef.scenPartClass=ScenPart_StartingResearch
+|ScenPartDef.summaryPriority=400
+|ScenPartDef.selectionWeight=0.2
+}}

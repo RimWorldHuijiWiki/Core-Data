@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoBillsMachiningTable
+|WorkGiverDef.defName=DoBillsMachiningTable
+|WorkGiverDef.label=do bills at machining table
+|WorkGiverDef.label.zh-cn=完成机械加工台的清单
+|WorkGiverDef.label.zh-tw=在機械加工桌工作
+|WorkGiverDef.giverClass=WorkGiver_DoBill
+|WorkGiverDef.workType=Smithing
+|WorkGiverDef.priorityInType=75
+|WorkGiverDef.verb=work
+|WorkGiverDef.verb.zh-cn=加工
+|WorkGiverDef.verb.zh-tw=工作
+|WorkGiverDef.gerund=working at
+|WorkGiverDef.gerund.zh-cn=加工于
+|WorkGiverDef.gerund.zh-tw=工作於
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.fixedBillGiverDefs="TableMachining"
+}}

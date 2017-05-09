@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Pronotum
+|BodyPartDef.defName=Pronotum
+|BodyPartDef.label=pronotum
+|BodyPartDef.label.zh-cn=前胸背板
+|BodyPartDef.label.zh-tw=前胸
+|BodyPartDef.tags="BreathingPathway","EatingPathway","TalkingPathway"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+}}

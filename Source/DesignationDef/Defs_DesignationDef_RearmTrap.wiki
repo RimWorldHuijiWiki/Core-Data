@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DesignationDef
-|defName=RearmTrap
-|DesignationDef.defName=RearmTrap
-|DesignationDef.texturePath=Designations/RearmTrap
-|DesignationDef.targetType=Thing
-}}

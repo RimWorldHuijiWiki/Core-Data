@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=HoneymoonPhase
+|ThoughtDef.defName=HoneymoonPhase
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=honeymoon phase
+|ThoughtDef.stages.0.label.zh-cn=蜜月期
+|ThoughtDef.stages.0.label.zh-tw=蜜月期
+|ThoughtDef.stages.0.labelSocial=honeymoon phase
+|ThoughtDef.stages.0.labelSocial.zh-cn=蜜月期
+|ThoughtDef.stages.0.labelSocial.zh-tw=蜜月期
+|ThoughtDef.stages.0.description=It's so wonderful to be starting a new life together!
+|ThoughtDef.stages.0.description.zh-cn=能一起开始一段新的生活真的是太棒了！
+|ThoughtDef.stages.0.description.zh-tw=真高興我們能夠一起生活。
+|ThoughtDef.stages.0.baseMoodEffect=20
+|ThoughtDef.stages.0.baseOpinionOffset=40
+|ThoughtDef.stackLimit=300
+|ThoughtDef.durationDays=30.0
+|ThoughtDef.stackLimitPerPawn=1
+}}

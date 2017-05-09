@@ -1,0 +1,34 @@
+{{#set:
+|dataType=Def
+|defType=MentalStateDef
+|defName=FireStartingSpree
+|MentalStateDef.defName=FireStartingSpree
+|MentalStateDef.label=fire starting spree
+|MentalStateDef.label.zh-cn=纵火
+|MentalStateDef.label.zh-tw=縱火
+|MentalStateDef.stateClass=MentalState_FireStartingSpree
+|MentalStateDef.category=Indulgent
+|MentalStateDef.prisonersCanDo=false
+|MentalStateDef.unspawnedCanDo=true
+|MentalStateDef.colonistsOnly=true
+|MentalStateDef.recoveryMtbDays=0.1
+|MentalStateDef.minTicksBeforeRecovery=4000
+|MentalStateDef.maxTicksBeforeRecovery=15000
+|MentalStateDef.recoverFromSleep=true
+|MentalStateDef.recoverFromDowned=true
+|MentalStateDef.moodRecoveryThought=Catharsis
+|MentalStateDef.beginLetter={0} is on a fire starting spree.
+|MentalStateDef.beginLetter.zh-cn={0}正在四处纵火！
+|MentalStateDef.beginLetter.zh-tw={0}打算縱火以發洩壓力。
+|MentalStateDef.beginLetterLabel=fire starting spree
+|MentalStateDef.beginLetterLabel.zh-cn=纵火
+|MentalStateDef.beginLetterLabel.zh-tw=縱火
+|MentalStateDef.beginLetterDef=BadUrgent
+|MentalStateDef.nameColor=(0.5, 0.9, 0.5)
+|MentalStateDef.recoveryMessage={0} is no longer on a fire starting spree.
+|MentalStateDef.recoveryMessage.zh-cn={0}停止纵火了。
+|MentalStateDef.recoveryMessage.zh-tw={0}已經恢復理智。
+|MentalStateDef.baseInspectLine=Mental state: Fire starting spree
+|MentalStateDef.baseInspectLine.zh-cn=失控：纵火
+|MentalStateDef.baseInspectLine.zh-tw=心理狀態：縱火
+}}

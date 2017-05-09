@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=Shaved
+|HairDef.defName=Shaved
+|HairDef.label=shaved
+|HairDef.label.zh-cn=光头
+|HairDef.label.zh-tw=光頭
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Shaved
+|HairDef.hairGender=MaleUsually
+|HairDef.hairTags="Urban","Punk","Rural","Tribal"
+}}

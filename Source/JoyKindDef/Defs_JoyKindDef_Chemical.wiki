@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=JoyKindDef
-|defName=Chemical
-|JoyKindDef.defName=Chemical
-|JoyKindDef.label=chemical
-|JoyKindDef.label.zh-cn=化学品
-|JoyKindDef.label.zh-tw=化學
-}}

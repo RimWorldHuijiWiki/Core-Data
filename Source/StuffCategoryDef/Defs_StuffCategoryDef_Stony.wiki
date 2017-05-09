@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=StuffCategoryDef
-|defName=Stony
-|StuffCategoryDef.defName=Stony
-|StuffCategoryDef.label=stony
-|StuffCategoryDef.label.zh-cn=岩石
-|StuffCategoryDef.label.zh-tw=石質
-}}

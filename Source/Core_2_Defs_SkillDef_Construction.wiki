@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=SkillDef
+|defName=Construction
+|SkillDef.defName=Construction
+|SkillDef.label=Construction
+|SkillDef.label.zh-cn=建造
+|SkillDef.label.zh-tw=建造
+|SkillDef.description=Better constructors build structures and furniture faster and of higher quality.
+|SkillDef.description.zh-cn=更好更快的建造结构和家具。
+|SkillDef.description.zh-tw=能力越高的建築工能更快速的完成工作並達成更佳的品質。
+|SkillDef.skillLabel=Construction
+|SkillDef.skillLabel.zh-cn=建造
+|SkillDef.skillLabel.zh-tw=建造
+}}

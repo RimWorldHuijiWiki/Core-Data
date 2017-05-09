@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=JoyKindDef
-|defName=Passive
-|JoyKindDef.defName=Passive
-|JoyKindDef.label=passive
-|JoyKindDef.label.zh-cn=被动
-|JoyKindDef.label.zh-tw=消極
-}}

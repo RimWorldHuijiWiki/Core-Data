@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=Forbidding
+|ConceptDef.defName=Forbidding
+|ConceptDef.label=Forbid and unforbid
+|ConceptDef.label.zh-cn=禁用和解禁
+|ConceptDef.label.zh-tw=禁止互動
+|ConceptDef.priority=40
+|ConceptDef.helpText=Colonists will not interact with items marked FORBIDDEN.<br/><br/>Forbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to UNFORBID it.
+|ConceptDef.helpText.zh-cn=殖民者不能对被标记为「禁用」的物品进行操作。<br/><br/>禁用的物品上会有一个红色的小X，选择禁用物品后，在下方的控制栏内可以「解禁」物品。
+|ConceptDef.helpText.zh-tw=居民們不會和被標記為「已禁止」的物件互動。<br/><br/>選擇帶有小紅X的物件並按F或底部的按鈕以取消禁止狀態。
+|ConceptDef.highlightTags="ToggleForbidden"
+}}

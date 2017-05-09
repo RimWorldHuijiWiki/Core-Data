@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=Slate_Rough
+|TerrainDef.defName=Slate_Rough
+|TerrainDef.label=rough slate
+|TerrainDef.label.zh-cn=粗糙的板岩地面
+|TerrainDef.label.zh-tw=崎嶇板岩地
+|TerrainDef.description=Rough, natural slate ground.
+|TerrainDef.description.zh-cn=粗糙的天然板岩地面。
+|TerrainDef.description.zh-tw=崎嶇的天然板岩地面。
+|TerrainDef.statBases="Beauty","-1"
+|TerrainDef.pathCost=1
+|TerrainDef.fertility=0
+|TerrainDef.texturePath=Terrain/Surfaces/RoughStone
+|TerrainDef.edgeType=FadeRough
+|TerrainDef.renderPrecedence=190
+|TerrainDef.affordances="Light","Heavy","SmoothableStone"
+|TerrainDef.scatterType=Rocky
+|TerrainDef.smoothedTerrain=Slate_Smooth
+|TerrainDef.color=(70,70,70)
+|TerrainDef.acceptTerrainSourceFilth=false
+|TerrainDef.acceptFilth=true
+}}

@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=PawnGroupKindDef
+|defName=Normal
+|PawnGroupKindDef.defName=Normal
+|PawnGroupKindDef.workerClass=PawnGroupKindWorker_Normal
+}}

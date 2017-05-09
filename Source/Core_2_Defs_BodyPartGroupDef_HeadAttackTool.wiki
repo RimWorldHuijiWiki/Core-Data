@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartGroupDef
+|defName=HeadAttackTool
+|BodyPartGroupDef.defName=HeadAttackTool
+|BodyPartGroupDef.label=head
+|BodyPartGroupDef.label.zh-cn=头部
+|BodyPartGroupDef.label.zh-tw=頭頂
+}}

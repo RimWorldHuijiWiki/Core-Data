@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=PrisonerInteractionModeDef
+|defName=NoInteraction
+|PrisonerInteractionModeDef.defName=NoInteraction
+|PrisonerInteractionModeDef.listOrder=0
+}}

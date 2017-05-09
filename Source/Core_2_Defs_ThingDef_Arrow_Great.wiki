@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Arrow_Great
+|ThingDef.defName=Arrow_Great
+|ThingDef.label=greatbow arrow
+|ThingDef.label.zh-cn=长弓箭矢
+|ThingDef.label.zh-tw=長弓箭矢
+|ThingDef.altitudeLayer=Projectile
+|ThingDef.thingClass=Bullet
+|ThingDef.category=Projectile
+|ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=False
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Projectile/Arrow_Small
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.shaderType=Transparent
+|ThingDef.neverMultiSelect=True
+|ThingDef.projectile=Exist
+|ThingDef.projectile.speed=49
+|ThingDef.projectile.flyOverhead=false
+|ThingDef.projectile.damageDef=Arrow
+|ThingDef.projectile.damageAmountBase=18
+}}

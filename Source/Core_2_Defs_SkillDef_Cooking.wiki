@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=SkillDef
+|defName=Cooking
+|SkillDef.defName=Cooking
+|SkillDef.label=Cooking
+|SkillDef.label.zh-cn=烹饪
+|SkillDef.label.zh-tw=烹調
+|SkillDef.description=Creating meals from raw ingredients.
+|SkillDef.description.zh-cn=用原料烹饪食物。
+|SkillDef.description.zh-tw=將生食烹調為料理。
+|SkillDef.skillLabel=Cooking
+|SkillDef.skillLabel.zh-cn=烹饪
+|SkillDef.skillLabel.zh-tw=烹調
+}}

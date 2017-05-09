@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=Recipe_Smelt
+|SoundDef.defName=Recipe_Smelt
+|SoundDef.sustain=True
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.priorityMode=PrioritizeNearest
+|SoundDef.sustainStartSound=Smelt_Start
+|SoundDef.sustainStopSound=Smelt_Stop
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.muteWhenPaused=True
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
+|SoundDef.subSounds.0.grains.0.clipPath=Interact/Work/Smelt/ElectricSmelter/Loop/ElectricSmelterLoop_1a
+|SoundDef.subSounds.0.volumeRange=11.68263 ~ 11.68263
+|SoundDef.subSounds.0.pitchRange=1 ~ 1.013529
+|SoundDef.subSounds.0.distRange=10 ~ 38
+}}

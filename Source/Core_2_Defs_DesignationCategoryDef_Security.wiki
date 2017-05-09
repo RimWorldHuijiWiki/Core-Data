@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=DesignationCategoryDef
+|defName=Security
+|DesignationCategoryDef.defName=Security
+|DesignationCategoryDef.label=security
+|DesignationCategoryDef.label.zh-cn=防卫
+|DesignationCategoryDef.label.zh-tw=防衛
+|DesignationCategoryDef.description=Security and combat-oriented constructions.
+|DesignationCategoryDef.description.zh-cn=防卫和战斗相关的工事、设施。
+|DesignationCategoryDef.description.zh-tw=防衛以及戰鬥相關的建設。
+|DesignationCategoryDef.specialDesignatorClasses="Designator_Cancel","Designator_Deconstruct"
+|DesignationCategoryDef.order=300
+}}

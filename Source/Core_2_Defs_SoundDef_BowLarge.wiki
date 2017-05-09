@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=BowLarge
+|SoundDef.defName=BowLarge
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
+|SoundDef.subSounds.0.grains.0.clipPath=Weapon/BowA
+|SoundDef.subSounds.0.volumeRange=60.70111 ~ 77.30627
+|SoundDef.subSounds.0.pitchRange=0.6976015 ~ 0.7769372
+}}

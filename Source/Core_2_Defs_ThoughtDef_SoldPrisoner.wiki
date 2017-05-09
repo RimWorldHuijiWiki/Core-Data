@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=SoldPrisoner
+|ThoughtDef.defName=SoldPrisoner
+|ThoughtDef.thoughtClass=Thought_Tale
+|ThoughtDef.workerClass=ThoughtWorker_Tale
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=sold prisoner to slavery
+|ThoughtDef.stages.0.label.zh-cn=贩卖过囚犯
+|ThoughtDef.stages.0.label.zh-tw=有俘虜被賣掉了
+|ThoughtDef.stages.0.baseOpinionOffset=-15
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.nullifiedIfNotColonist=true
+|ThoughtDef.taleDef=SoldPrisoner
+}}

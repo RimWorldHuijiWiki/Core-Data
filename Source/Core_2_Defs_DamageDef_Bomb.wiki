@@ -1,0 +1,29 @@
+{{#set:
+|dataType=Def
+|defType=DamageDef
+|defName=Bomb
+|DamageDef.defName=Bomb
+|DamageDef.label=bomb
+|DamageDef.label.zh-cn=炸伤
+|DamageDef.label.zh-tw=炸傷
+|DamageDef.workerClass=DamageWorker_AddInjury
+|DamageDef.externalViolence=true
+|DamageDef.deathMessage={0} has died in an explosion.
+|DamageDef.deathMessage.zh-cn={0}被炸死了。
+|DamageDef.deathMessage.zh-tw={0}被炸死了。
+|DamageDef.impactSoundType=Blunt
+|DamageDef.armorCategory=Blunt
+|DamageDef.spreadOut=true
+|DamageDef.isExplosive=true
+|DamageDef.explosionDamage=50
+|DamageDef.explosionBuildingDamageFactor=2
+|DamageDef.explosionAffectOutsidePartsOnly=false
+|DamageDef.explosionCellMote=Mote_BlastDry
+|DamageDef.explosionColorCenter=(1, 0.55, 0.3)
+|DamageDef.explosionColorEdge=(0.6, 0.55, 0.4)
+|DamageDef.explosionHeatEnergyPerCell=5
+|DamageDef.soundExplosion=Explosion_Bomb
+|DamageDef.harmAllLayersUntilOutside=true
+|DamageDef.hediff=Shredded
+|DamageDef.hediffSolid=Crack
+}}

@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=MentalBreakDef
+|defName=BingingDrugMajor
+|MentalBreakDef.defName=BingingDrugMajor
+|MentalBreakDef.workerClass=MentalBreakWorker_BingingDrug
+|MentalBreakDef.mentalState=BingingDrugMajor
+|MentalBreakDef.baseCommonality=1
+|MentalBreakDef.intensity=Major
+}}

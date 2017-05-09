@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=ThingsConstructed
+|RecordDef.defName=ThingsConstructed
+|RecordDef.label=things constructed
+|RecordDef.label.zh-cn=建造物品数
+|RecordDef.label.zh-tw=建築次數
+|RecordDef.description=The number of things I have constructed.
+|RecordDef.description.zh-cn=我所建造的物品数量。
+|RecordDef.description.zh-tw=我建造東西的數量。
+|RecordDef.type=Int
+}}

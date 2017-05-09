@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=DislikesWomen
+|TraitDef.defName=DislikesWomen
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=misogynist
+|TraitDef.degreeDatas.0.label.zh-cn=厌恶女性
+|TraitDef.degreeDatas.0.label.zh-tw=討厭女性
+|TraitDef.degreeDatas.0.description=NAME really dislikes and distrusts women.
+|TraitDef.degreeDatas.0.description.zh-cn=NAME十分讨厌女人，认为所有女人都不能信任。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME非常討厭且不信任女性。
+|TraitDef.commonality=0.2
+|TraitDef.commonalityFemale=0.02
+}}

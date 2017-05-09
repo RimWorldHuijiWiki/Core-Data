@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=BodyPartGroupDef
-|defName=FrontLeftLeg
-|BodyPartGroupDef.defName=FrontLeftLeg
-|BodyPartGroupDef.label=front left leg
-|BodyPartGroupDef.label.zh-cn=左前肢
-|BodyPartGroupDef.label.zh-tw=左前腳
-}}

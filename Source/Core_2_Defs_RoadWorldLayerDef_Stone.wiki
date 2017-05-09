@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=RoadWorldLayerDef
+|defName=Stone
+|RoadWorldLayerDef.defName=Stone
+|RoadWorldLayerDef.order=200
+|RoadWorldLayerDef.color=(0.4, 0.4, 0.4)
+}}

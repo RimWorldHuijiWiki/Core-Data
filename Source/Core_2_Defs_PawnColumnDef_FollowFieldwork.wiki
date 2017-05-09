@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=PawnColumnDef
+|defName=FollowFieldwork
+|PawnColumnDef.defName=FollowFieldwork
+|PawnColumnDef.workerClass=PawnColumnWorker_FollowFieldwork
+|PawnColumnDef.sortable=true
+|PawnColumnDef.headerIcon=UI/Icons/Animal/FollowFieldwork
+|PawnColumnDef.headerTip=Follow master while the master is doing field work (hunting or taming animals).
+|PawnColumnDef.headerTip.zh-cn=当主人从事野外活动（狩猎或驯服动物）时跟随主人。
+|PawnColumnDef.headerTip.zh-tw=Follow master while the master is doing field work (hunting or taming animals).
+}}

@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=ConstructDeliverResourcesToFrames
+|WorkGiverDef.defName=ConstructDeliverResourcesToFrames
+|WorkGiverDef.label=deliver resources to frames
+|WorkGiverDef.label.zh-cn=搬运材料至框架
+|WorkGiverDef.label.zh-tw=運送材料至工程處
+|WorkGiverDef.giverClass=WorkGiver_ConstructDeliverResourcesToFrames
+|WorkGiverDef.workType=Construction
+|WorkGiverDef.priorityInType=40
+|WorkGiverDef.verb=work on
+|WorkGiverDef.verb.zh-cn=建造
+|WorkGiverDef.verb.zh-tw=運送材料
+|WorkGiverDef.gerund=working on
+|WorkGiverDef.gerund.zh-cn=建造
+|WorkGiverDef.gerund.zh-tw=運送材料至
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+|WorkGiverDef.canBeDoneByNonColonists=true
+}}

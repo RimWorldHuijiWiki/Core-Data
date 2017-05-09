@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=LifeStageDef
+|defName=HumanlikeAdult
+|LifeStageDef.defName=HumanlikeAdult
+|LifeStageDef.label=adult
+|LifeStageDef.label.zh-cn=成人
+|LifeStageDef.label.zh-tw=成人
+|LifeStageDef.visible=false
+|LifeStageDef.reproductive=true
+}}

@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Ingest
+|JobDef.defName=Ingest
+|JobDef.driverClass=JobDriver_Ingest
+|JobDef.reportString=consuming TargetA.
+|JobDef.reportString.zh-cn=享用TargetA。
+|JobDef.reportString.zh-tw=食用TargetA。
+}}

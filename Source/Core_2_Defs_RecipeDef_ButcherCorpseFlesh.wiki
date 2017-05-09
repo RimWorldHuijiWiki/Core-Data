@@ -1,0 +1,34 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=ButcherCorpseFlesh
+|RecipeDef.defName=ButcherCorpseFlesh
+|RecipeDef.label=butcher creature
+|RecipeDef.label.zh-cn=屠宰尸体
+|RecipeDef.label.zh-tw=屠宰動物
+|RecipeDef.description=Butchers a creature to obtain its meat in usable form.
+|RecipeDef.description.zh-cn=屠宰尸体以获取可用的肉。
+|RecipeDef.description.zh-tw=屠宰一個動物以獲取可食用的肉與毛皮。
+|RecipeDef.jobString=Butchering.
+|RecipeDef.jobString.zh-cn=正在屠宰。
+|RecipeDef.jobString.zh-tw=屠宰。
+|RecipeDef.workAmount=450
+|RecipeDef.workSpeedStat=ButcheryFleshSpeed
+|RecipeDef.efficiencyStat=ButcheryFleshEfficiency
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Corpses"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Corpses"
+|RecipeDef.fixedIngredientFilter.exceptedCategories="CorpsesMechanoid"
+|RecipeDef.fixedIngredientFilter.specialFiltersToDisallow="AllowRotten"
+|RecipeDef.defaultIngredientFilter=Exist
+|RecipeDef.defaultIngredientFilter.categories="CorpsesAnimal"
+|RecipeDef.specialProducts="Butchery"
+|RecipeDef.workSkill=Cooking
+|RecipeDef.effectWorking=ButcherFlesh
+|RecipeDef.soundWorking=Recipe_ButcherCorpseFlesh
+}}

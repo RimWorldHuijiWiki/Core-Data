@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=CommandItemForbid
+|KeyBindingDef.defName=CommandItemForbid
+|KeyBindingDef.label=toggle forbidden
+|KeyBindingDef.label.zh-cn=禁用/解禁
+|KeyBindingDef.label.zh-tw=允許/解除物件互動限制
+|KeyBindingDef.category=SelectionSpecial
+|KeyBindingDef.defaultKeyCodeA=F
+}}

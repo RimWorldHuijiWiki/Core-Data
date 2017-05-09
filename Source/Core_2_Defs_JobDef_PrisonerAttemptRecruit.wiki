@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=PrisonerAttemptRecruit
+|JobDef.defName=PrisonerAttemptRecruit
+|JobDef.driverClass=JobDriver_ChatWithPrisoner
+|JobDef.reportString=attempting to recruit TargetA.
+|JobDef.reportString.zh-cn=正在尝试招募TargetA。
+|JobDef.reportString.zh-tw=嘗試招募TargetA。
+}}

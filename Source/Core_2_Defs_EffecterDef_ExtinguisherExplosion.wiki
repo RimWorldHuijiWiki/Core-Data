@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=EffecterDef
+|defName=ExtinguisherExplosion
+|EffecterDef.defName=ExtinguisherExplosion
+|EffecterDef.children=Exist
+|EffecterDef.children.Count=1
+|EffecterDef.children.0=Exist
+|EffecterDef.children.0.subEffecterClass=SubEffecter_SprayerTriggered
+|EffecterDef.children.0.burstCount=10 ~ 15
+|EffecterDef.children.0.positionRadius=0.2
+|EffecterDef.children.0.moteDef=Mote_ExtinguisherPuff
+|EffecterDef.children.0.speed=4.8 ~ 8.4
+|EffecterDef.children.0.scale=4 ~ 5
+}}

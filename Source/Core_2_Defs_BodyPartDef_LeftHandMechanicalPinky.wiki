@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=LeftHandMechanicalPinky
+|BodyPartDef.defName=LeftHandMechanicalPinky
+|BodyPartDef.label=left pinky
+|BodyPartDef.label.zh-cn=左小指
+|BodyPartDef.label.zh-tw=左小指
+|BodyPartDef.tags="ManipulationLimbDigit"
+|BodyPartDef.hitPoints=7
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.frostbiteVulnerability=10
+|BodyPartDef.isAlive=false
+}}

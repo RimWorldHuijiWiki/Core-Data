@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=RulePackDef
+|defName=Sentence_RecruitAttemptRejected
+|RulePackDef.defName=Sentence_RecruitAttemptRejected
+|RulePackDef.rulePack=Exist
+|RulePackDef.rulePack.rulesStrings="sent->[recipient_nameShortDef] rejected the offer.","sent->[recipient_nameShortDef]拒绝了提议。","sent->[recipient_nameShortDef]拒絕了提議。"
+}}

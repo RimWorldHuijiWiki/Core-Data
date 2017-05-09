@@ -1,0 +1,25 @@
+{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=MetalTile
+|TerrainDef.defName=MetalTile
+|TerrainDef.label=metal tile
+|TerrainDef.label.zh-cn=金属地砖
+|TerrainDef.label.zh-tw=金屬地磚
+|TerrainDef.description=Metal tiles, for that spaceship look. Pretty, but labor and material-intensive.
+|TerrainDef.description.zh-cn=金属的地砖，拥有宇宙飞船般的外表。看起来很好看，就是铺设时的工作量和所用材料有点多。
+|TerrainDef.description.zh-tw=金屬的地磚，擁有星艦般的外觀。
+|TerrainDef.statBases="WorkToBuild","700";"Beauty","1"
+|TerrainDef.fertility=0
+|TerrainDef.costList="Steel","7"
+|TerrainDef.terrainAffordanceNeeded=Light
+|TerrainDef.constructEffect=ConstructMetal
+|TerrainDef.designationCategory=Floors
+|TerrainDef.designationHotKey=Misc1
+|TerrainDef.texturePath=Terrain/Surfaces/GenericFloorTile
+|TerrainDef.renderPrecedence=240
+|TerrainDef.affordances="Light","Heavy","SmoothHard"
+|TerrainDef.layerable=true
+|TerrainDef.color=(0.369, 0.369, 0.369)
+|TerrainDef.acceptTerrainSourceFilth=True
+}}

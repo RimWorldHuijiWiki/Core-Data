@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=TaleDef
+|defName=KilledColonist
+|TaleDef.defName=KilledColonist
+|TaleDef.label=colonist killed
+|TaleDef.label.zh-cn=殖民者被杀害
+|TaleDef.label.zh-tw=colonist killed
+|TaleDef.type=Expirable
+|TaleDef.taleClass=Tale_DoublePawn
+|TaleDef.usableForArt=false
+|TaleDef.maxPerPawn=1
+|TaleDef.expireDays=50
+|TaleDef.firstPawnSymbol=killer
+|TaleDef.secondPawnSymbol=colonist
+}}

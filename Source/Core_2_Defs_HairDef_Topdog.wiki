@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=Topdog
+|HairDef.defName=Topdog
+|HairDef.label=topdog
+|HairDef.label.zh-cn=平顶头
+|HairDef.label.zh-tw=王牌
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Topdog
+|HairDef.hairGender=Male
+|HairDef.hairTags="Urban","Punk"
+}}

@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=Refining
+|ResearchProjectDef.defName=Refining
+|ResearchProjectDef.label=refining
+|ResearchProjectDef.label.zh-cn=精炼
+|ResearchProjectDef.label.zh-tw=化合燃料提煉
+|ResearchProjectDef.description=Build refineries to make chemfuel from wood.
+|ResearchProjectDef.description.zh-cn=建造精炼设备用于从木材提炼「化合燃料」。
+|ResearchProjectDef.description.zh-tw=解鎖建造煉油器，可從木頭中提煉化合燃料。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=1200
+|ResearchProjectDef.prerequisites="Electricity"
+|ResearchProjectDef.researchViewX=4
+|ResearchProjectDef.researchViewY=4
+}}

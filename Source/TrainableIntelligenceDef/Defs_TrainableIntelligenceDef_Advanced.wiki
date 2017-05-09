@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=TrainableIntelligenceDef
-|defName=Advanced
-|TrainableIntelligenceDef.defName=Advanced
-|TrainableIntelligenceDef.intelligenceOrder=30
-}}

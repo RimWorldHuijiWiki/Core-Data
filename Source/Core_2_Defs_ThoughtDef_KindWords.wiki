@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=KindWords
+|ThoughtDef.defName=KindWords
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=kind words
+|ThoughtDef.stages.0.label.zh-cn=言语关怀
+|ThoughtDef.stages.0.label.zh-tw=美言
+|ThoughtDef.stages.0.baseOpinionOffset=15
+|ThoughtDef.stackLimit=300
+|ThoughtDef.stackedEffectMultiplier=0.88
+|ThoughtDef.durationDays=20
+|ThoughtDef.thoughtToMake=KindWordsMood
+|ThoughtDef.showBubble=true
+|ThoughtDef.stackLimitPerPawn=10
+}}

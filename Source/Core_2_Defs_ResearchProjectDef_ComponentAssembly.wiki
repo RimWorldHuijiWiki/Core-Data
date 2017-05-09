@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=ComponentAssembly
+|ResearchProjectDef.defName=ComponentAssembly
+|ResearchProjectDef.label=component assembly
+|ResearchProjectDef.label.zh-cn=零部件装配
+|ResearchProjectDef.label.zh-tw=電子零件組裝
+|ResearchProjectDef.description=Allows you to build the Component Assembly Bench, where colonists can make components from simple materials.
+|ResearchProjectDef.description.zh-cn=解锁建造「零部件装配台」，用于将简单的材料加工成零部件。
+|ResearchProjectDef.description.zh-tw=解鎖建造電子零件生產台，讓居民只需要簡單的原料就能夠生產電子零件。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=3000
+|ResearchProjectDef.prerequisites="MultiAnalyzer"
+|ResearchProjectDef.requiredResearchBuilding=HiTechResearchBench
+|ResearchProjectDef.requiredResearchFacilities="MultiAnalyzer"
+|ResearchProjectDef.researchViewX=10
+|ResearchProjectDef.researchViewY=3
+}}

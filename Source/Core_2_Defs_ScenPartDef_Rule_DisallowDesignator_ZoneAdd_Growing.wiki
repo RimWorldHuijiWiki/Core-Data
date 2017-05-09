@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=Rule_DisallowDesignator_ZoneAdd_Growing
+|ScenPartDef.defName=Rule_DisallowDesignator_ZoneAdd_Growing
+|ScenPartDef.label=cannot sow
+|ScenPartDef.label.zh-cn=禁止种植
+|ScenPartDef.label.zh-tw=禁止種植
+|ScenPartDef.description=Cannot sow plants on the ground.
+|ScenPartDef.description.zh-cn=无法在土地上种植。
+|ScenPartDef.description.zh-tw=禁止在土壤中種植植物。.
+|ScenPartDef.category=Rule
+|ScenPartDef.scenPartClass=ScenPart_Rule_DisallowDesignator
+|ScenPartDef.summaryPriority=380
+|ScenPartDef.selectionWeight=0.25
+|ScenPartDef.maxUses=1
+|ScenPartDef.designatorType=Designator_ZoneAdd_Growing
+}}

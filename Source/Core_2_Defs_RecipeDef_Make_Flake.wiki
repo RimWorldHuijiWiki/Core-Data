@@ -1,0 +1,31 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Flake
+|RecipeDef.defName=Make_Flake
+|RecipeDef.label=make flake
+|RecipeDef.label.zh-cn=制作薄片
+|RecipeDef.label.zh-tw=製造薄片
+|RecipeDef.description=Make flake.
+|RecipeDef.description.zh-cn=一种薄薄的原料，抽起来会让人精神愉悦，这种东西非常便于制作，有着极强的成瘾性。
+|RecipeDef.description.zh-tw=製造薄片。
+|RecipeDef.jobString=Making flake.
+|RecipeDef.jobString.zh-cn=正在制作薄片。
+|RecipeDef.jobString.zh-tw=製造薄片。
+|RecipeDef.workAmount=500
+|RecipeDef.workSpeedStat=DrugProductionSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="PsychoidLeaves"
+|RecipeDef.ingredients.0.count=4
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="PsychoidLeaves"
+|RecipeDef.products="Flake","1"
+|RecipeDef.workSkill=Intellectual
+|RecipeDef.effectWorking=Cook
+|RecipeDef.soundWorking=Recipe_CookMeal
+|RecipeDef.recipeUsers="DrugLab"
+|RecipeDef.researchPrerequisite=PsychiteRefining
+}}

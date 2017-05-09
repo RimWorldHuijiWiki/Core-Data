@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=BodyPartGroupDef
-|defName=TurtleBeakAttackTool
-|BodyPartGroupDef.defName=TurtleBeakAttackTool
-|BodyPartGroupDef.label=beak
-|BodyPartGroupDef.label.zh-cn=龟喙
-|BodyPartGroupDef.label.zh-tw=尖嘴
-}}

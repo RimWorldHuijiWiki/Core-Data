@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=LetterDef
+|defName=BadUrgent
+|LetterDef.defName=BadUrgent
+|LetterDef.color=(204, 115, 115)
+|LetterDef.flashColor=(255, 85, 85)
+|LetterDef.flashInterval=16
+|LetterDef.bounce=true
+|LetterDef.arriveSound=LetterArriveBadUrgent
+}}

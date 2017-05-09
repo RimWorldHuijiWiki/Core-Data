@@ -1,0 +1,25 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=ToxicFallout
+|IncidentDef.defName=ToxicFallout
+|IncidentDef.label=toxic fallout
+|IncidentDef.label.zh-cn=有毒尘埃
+|IncidentDef.label.zh-tw=輻射塵
+|IncidentDef.workerClass=IncidentWorker_MakeGameCondition
+|IncidentDef.category=Misc
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=0.15
+|IncidentDef.earliestDay=20
+|IncidentDef.minRefireDays=90
+|IncidentDef.minDifficulty=2
+|IncidentDef.letterText=A distant chemical fire has released a plume of poison over this entire region.<br/><br/>Any person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.<br/><br/>It will last for anywhere between a few days to over a season.
+|IncidentDef.letterText.zh-cn=遥远地方的一起化学品火灾释放的有毒尘埃弥漫了整个地区。<br/><br/>不在屋顶下的人类和动物都会慢慢被有空气中的有毒粉尘致病。<br/><br/>毒雾会持续在几天或超过一个月。
+|IncidentDef.letterText.zh-tw=遠方一場激烈的化學作用釋放出危險的毒素到這個區域。<br/><br/>任何暴露在露天之下的人類與生物將會被毒素緩慢侵蝕。<br/><br/>有毒的大氣至少會瀰漫在整個區域數日，甚至長達一個月以上。
+|IncidentDef.letterLabel=Toxic fallout
+|IncidentDef.letterLabel.zh-cn=有毒尘埃
+|IncidentDef.letterLabel.zh-tw=輻射塵
+|IncidentDef.letterDef=BadNonUrgent
+|IncidentDef.gameCondition=ToxicFallout
+|IncidentDef.durationDays=2.5 ~ 10.5
+}}

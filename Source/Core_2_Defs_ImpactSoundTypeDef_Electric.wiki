@@ -1,0 +1,6 @@
+{{#set:
+|dataType=Def
+|defType=ImpactSoundTypeDef
+|defName=Electric
+|ImpactSoundTypeDef.defName=Electric
+}}

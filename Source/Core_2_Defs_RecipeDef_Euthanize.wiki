@@ -1,0 +1,33 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Euthanize
+|RecipeDef.defName=Euthanize
+|RecipeDef.label=euthanize by cut
+|RecipeDef.label.zh-cn=安乐死
+|RecipeDef.label.zh-tw=安樂死
+|RecipeDef.description=Euthanizes a creature by cutting.
+|RecipeDef.description.zh-cn=执行安乐死。
+|RecipeDef.description.zh-tw=給予患者安樂死。
+|RecipeDef.workerClass=Recipe_ExecuteByCut
+|RecipeDef.jobString=Euthanizing by cutting.
+|RecipeDef.jobString.zh-cn=正在执行安乐死。
+|RecipeDef.jobString.zh-tw=安樂死。
+|RecipeDef.workAmount=500
+|RecipeDef.workSpeedStat=MedicalOperationSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Medicine"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Medicine"
+|RecipeDef.workSkill=Medicine
+|RecipeDef.workSkillLearnFactor=16
+|RecipeDef.effectWorking=Surgery
+|RecipeDef.soundWorking=Recipe_Surgery
+|RecipeDef.hideBodyPartNames=true
+|RecipeDef.isViolation=true
+|RecipeDef.targetsBodyPart=false
+}}

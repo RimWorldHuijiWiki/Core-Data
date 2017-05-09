@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=GreasySwoop
+|HairDef.defName=GreasySwoop
+|HairDef.label=greasy swoop
+|HairDef.label.zh-cn=油脂头
+|HairDef.label.zh-tw=龐巴杜
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/GreasySwoop
+|HairDef.hairGender=Male
+|HairDef.hairTags="Urban"
+}}

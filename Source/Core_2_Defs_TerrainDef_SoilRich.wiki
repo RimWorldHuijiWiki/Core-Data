@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=SoilRich
+|TerrainDef.defName=SoilRich
+|TerrainDef.label=rich soil
+|TerrainDef.label.zh-cn=肥沃的土地
+|TerrainDef.label.zh-tw=沃土
+|TerrainDef.statBases="Beauty","-1";"Cleanliness","-1"
+|TerrainDef.pathCost=2
+|TerrainDef.fertility=1.4
+|TerrainDef.texturePath=Terrain/Surfaces/SoilRich
+|TerrainDef.edgeType=FadeRough
+|TerrainDef.renderPrecedence=335
+|TerrainDef.affordances="Light","Heavy","GrowSoil","Diggable"
+|TerrainDef.takeFootprints=True
+|TerrainDef.terrainFilthDef=FilthDirt
+}}

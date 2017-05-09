@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=Heart
+|BodyPartDef.defName=Heart
+|BodyPartDef.label=heart
+|BodyPartDef.label.zh-cn=心脏
+|BodyPartDef.label.zh-tw=心臟
+|BodyPartDef.tags="BloodPumpingSource"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0.08
+|BodyPartDef.bleedingRateMultiplier=5
+|BodyPartDef.skinCovered=false
+|BodyPartDef.spawnThingOnRemoved=Heart
+|BodyPartDef.dontSuggestAmputation=true
+}}

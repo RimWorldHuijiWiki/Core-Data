@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=Marble_Smooth
+|TerrainDef.defName=Marble_Smooth
+|TerrainDef.label=smooth marble
+|TerrainDef.label.zh-cn=光滑的大理石地面
+|TerrainDef.label.zh-tw=光滑大理石地
+|TerrainDef.description=Smoothed natural marble floor.
+|TerrainDef.description.zh-cn=打磨光滑的天然大理石地面。
+|TerrainDef.description.zh-tw=經打磨的光滑大理石地面。
+|TerrainDef.statBases="Beauty","3"
+|TerrainDef.pathCost=1
+|TerrainDef.fertility=0
+|TerrainDef.texturePath=Terrain/Surfaces/SmoothStone
+|TerrainDef.edgeType=FadeRough
+|TerrainDef.renderPrecedence=140
+|TerrainDef.affordances="Light","Heavy","SmoothHard"
+|TerrainDef.scatterType=Rocky
+|TerrainDef.smoothedTerrain=
+|TerrainDef.color=(132,135,132)
+|TerrainDef.acceptTerrainSourceFilth=true
+|TerrainDef.acceptFilth=true
+}}

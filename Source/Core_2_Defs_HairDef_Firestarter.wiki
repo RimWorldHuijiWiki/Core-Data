@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=Firestarter
+|HairDef.defName=Firestarter
+|HairDef.label=firestarter
+|HairDef.label.zh-cn=牛角头
+|HairDef.label.zh-tw=火焰
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Firestarter
+|HairDef.hairGender=MaleUsually
+|HairDef.hairTags="Punk"
+}}

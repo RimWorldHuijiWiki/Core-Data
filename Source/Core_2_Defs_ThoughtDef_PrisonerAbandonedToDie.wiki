@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=PrisonerAbandonedToDie
+|ThoughtDef.defName=PrisonerAbandonedToDie
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=prisoner abandoned to die
+|ThoughtDef.stages.0.label.zh-cn=囚犯被抛弃等死
+|ThoughtDef.stages.0.label.zh-tw=拋棄俘虜於死地
+|ThoughtDef.stages.0.description=We left a prisoner behind in such a way that there's almost no way they'll survive.
+|ThoughtDef.stages.0.description.zh-cn=我们刚刚就这样把囚犯抛下了，他们几乎不可能活下来。
+|ThoughtDef.stages.0.description.zh-tw=我們在幾乎沒有生還可能的情況下拋棄了俘虜，他們幾乎不可能活下來。
+|ThoughtDef.stages.0.baseMoodEffect=-4
+|ThoughtDef.stackLimit=5
+|ThoughtDef.stackedEffectMultiplier=0.25
+|ThoughtDef.durationDays=6
+|ThoughtDef.nullifyingTraits="Psychopath"
+|ThoughtDef.showBubble=true
+}}

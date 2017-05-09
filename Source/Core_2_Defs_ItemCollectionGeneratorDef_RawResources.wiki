@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ItemCollectionGeneratorDef
+|defName=RawResources
+|ItemCollectionGeneratorDef.defName=RawResources
+|ItemCollectionGeneratorDef.label=raw resources
+|ItemCollectionGeneratorDef.label.zh-cn=原材料
+|ItemCollectionGeneratorDef.label.zh-tw=raw resources
+|ItemCollectionGeneratorDef.workerClass=ItemCollectionGenerator_RawResources
+}}

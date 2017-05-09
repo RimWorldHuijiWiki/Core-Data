@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=RulePackDef
-|defName=Sentence_MarriageProposalAccepted
-|RulePackDef.defName=Sentence_MarriageProposalAccepted
-|RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings="sent->[recipient_nameShortDef] agreed and the two are now engaged.","sent->[recipient_nameShortDef]接受了求婚。","sent->[recipient_nameShortDef]接受了求婚，現在他們訂婚了。"
-}}

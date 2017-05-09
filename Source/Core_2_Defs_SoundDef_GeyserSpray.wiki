@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=GeyserSpray
+|SoundDef.defName=GeyserSpray
+|SoundDef.sustain=True
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.priorityMode=PrioritizeNearest
+|SoundDef.sustainFadeoutTime=1
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Clip
+|SoundDef.subSounds.0.grains.0.clipPath=Misc/Steam_Geyser/SteamGeyser_Venting
+|SoundDef.subSounds.0.volumeRange=5 ~ 6
+|SoundDef.subSounds.0.pitchRange=0.9088235 ~ 1
+|SoundDef.subSounds.0.distRange=10 ~ 34
+|SoundDef.subSounds.0.sustainAttack=2
+|SoundDef.subSounds.0.sustainSkipFirstAttack=False
+}}

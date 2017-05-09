@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=KilledMajorColonyEnemy
+|ThoughtDef.defName=KilledMajorColonyEnemy
+|ThoughtDef.thoughtClass=Thought_Tale
+|ThoughtDef.workerClass=ThoughtWorker_Tale
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=killed major enemy
+|ThoughtDef.stages.0.label.zh-cn=杀死过殖民地大敌
+|ThoughtDef.stages.0.label.zh-tw=殺死大量敵人
+|ThoughtDef.stages.0.baseOpinionOffset=10
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.nullifiedIfNotColonist=true
+|ThoughtDef.taleDef=KilledMajorColonyEnemy
+}}

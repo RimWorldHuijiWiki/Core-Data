@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=PawnKindDef
+|defName=Tribesperson
+|PawnKindDef.defName=Tribesperson
+|PawnKindDef.label=member
+|PawnKindDef.label.zh-cn=部众
+|PawnKindDef.label.zh-tw=部落民
+|PawnKindDef.race=Human
+|PawnKindDef.defaultFactionType=PlayerTribe
+|PawnKindDef.backstoryCategory=Tribal
+|PawnKindDef.labelPlural=members
+|PawnKindDef.labelPlural.zh-cn=部众
+|PawnKindDef.labelPlural.zh-tw=members
+|PawnKindDef.backstoryCryptosleepCommonality=0
+|PawnKindDef.forceNormalGearQuality=true
+|PawnKindDef.isFighter=false
+|PawnKindDef.combatPower=30
+|PawnKindDef.baseRecruitDifficulty=0.60
+|PawnKindDef.apparelMoney=200 ~ 400
+|PawnKindDef.apparelTags="Tribal"
+|PawnKindDef.apparelIgnoreSeasons=true
+|PawnKindDef.chemicalAddictionChance=0.05
+}}

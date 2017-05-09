@@ -1,0 +1,33 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Apparel_Duster
+|RecipeDef.defName=Make_Apparel_Duster
+|RecipeDef.label=make duster
+|RecipeDef.label.zh-cn=缝制防尘大衣
+|RecipeDef.label.zh-tw=製作風衣
+|RecipeDef.description=Make duster.
+|RecipeDef.description.zh-cn=一件长型的防尘大衣，用于沙漠中阻隔阳光、炎热和沙尘。
+|RecipeDef.description.zh-tw=製作一件風衣。
+|RecipeDef.jobString=Making duster.
+|RecipeDef.jobString.zh-cn=缝制中。
+|RecipeDef.jobString.zh-tw=製作風衣。
+|RecipeDef.workAmount=22000
+|RecipeDef.workSpeedStat=TailoringSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Fabric","Leathery"
+|RecipeDef.ingredients.0.count=80
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Fabric","Leathery"
+|RecipeDef.products="Apparel_Duster","1"
+|RecipeDef.productHasIngredientStuff=true
+|RecipeDef.unfinishedThingDef=UnfinishedApparel
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Tailor
+|RecipeDef.soundWorking=Recipe_Tailor
+|RecipeDef.recipeUsers="ElectricTailoringBench","HandTailoringBench"
+|RecipeDef.researchPrerequisite=ComplexClothing
+}}

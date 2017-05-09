@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=Explosion_Bomb
+|SoundDef.defName=Explosion_Bomb
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.maxSimultaneous=1
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
+|SoundDef.subSounds.0.grains.0.clipFolderPath=Weapon/Artillery/Mortar_Explode_Dry
+|SoundDef.subSounds.0.volumeRange=80 ~ 80
+|SoundDef.subSounds.0.pitchRange=0.8516304 ~ 1.254348
+}}

@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JoyGiverDef
+|defName=VisitSickPawn
+|JoyGiverDef.defName=VisitSickPawn
+|JoyGiverDef.giverClass=JoyGiver_VisitSickPawn
+|JoyGiverDef.baseChance=3
+|JoyGiverDef.jobDef=VisitSickPawn
+|JoyGiverDef.joyKind=Social
+}}

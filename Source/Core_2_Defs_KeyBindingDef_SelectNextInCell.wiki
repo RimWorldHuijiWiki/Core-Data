@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=SelectNextInCell
+|KeyBindingDef.defName=SelectNextInCell
+|KeyBindingDef.label=select next in cell
+|KeyBindingDef.label.zh-cn=循环选择同一格中的下一个物体
+|KeyBindingDef.label.zh-tw=選取同一方格的下一個物件。
+|KeyBindingDef.category=Game
+|KeyBindingDef.defaultKeyCodeA=KeypadMultiply
+}}

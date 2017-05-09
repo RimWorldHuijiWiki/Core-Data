@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=InteractionDef
+|defName=AnimalChat
+|InteractionDef.defName=AnimalChat
+|InteractionDef.label=animal chat
+|InteractionDef.label.zh-cn=与动物交流
+|InteractionDef.label.zh-tw=與動物交流
+|InteractionDef.initiatorXpGainSkill=Animals
+|InteractionDef.initiatorXpGainAmount=90
+|InteractionDef.symbol=Things/Mote/SpeechSymbols/AnimalChat
+|InteractionDef.logRulesInitiator=Exist
+|InteractionDef.logRulesInitiator.rulesStrings="logentry->Communicated with [other_nameShortIndef], attempting to build rapport.","logentry->与[other_nameShortIndef]沟通试图建立亲密关系。","logentry->向[other_nameShortIndef]釋出善意，嘗試引起牠的注意。"
+|InteractionDef.logRulesRecipient=Exist
+|InteractionDef.logRulesRecipient.rulesStrings="logentry->Responded to [other_nameShortIndef]'s friendly communication.","logentry->回应[other_nameShortIndef]的友好沟通。","logentry->回應了[other_nameShortIndef]的善意。"
+}}

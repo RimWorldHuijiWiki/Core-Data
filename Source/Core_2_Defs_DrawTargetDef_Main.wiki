@@ -1,0 +1,6 @@
+{{#set:
+|dataType=Def
+|defType=DrawTargetDef
+|defName=Main
+|DrawTargetDef.defName=Main
+}}

@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=RoadWorldLayerDef
+|defName=Outline
+|RoadWorldLayerDef.defName=Outline
+|RoadWorldLayerDef.order=0
+|RoadWorldLayerDef.color=(0.1, 0.1, 0.1)
+}}

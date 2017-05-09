@@ -1,0 +1,15 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RightElytra
+|BodyPartDef.defName=RightElytra
+|BodyPartDef.label=right elytra
+|BodyPartDef.label.zh-cn=右鞘翅
+|BodyPartDef.label.zh-tw=右翅鞘
+|BodyPartDef.hitPoints=30
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.bleedingRateMultiplier=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.frostbiteVulnerability=0.5
+|BodyPartDef.isAlive=false
+}}

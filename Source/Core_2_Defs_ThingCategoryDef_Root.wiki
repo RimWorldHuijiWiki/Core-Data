@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=Root
+|ThingCategoryDef.defName=Root
+|ThingCategoryDef.label=root
+|ThingCategoryDef.label.zh-cn=根目录
+|ThingCategoryDef.label.zh-tw=根目錄
+}}

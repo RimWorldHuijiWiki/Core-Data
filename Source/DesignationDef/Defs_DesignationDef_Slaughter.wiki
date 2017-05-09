@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DesignationDef
-|defName=Slaughter
-|DesignationDef.defName=Slaughter
-|DesignationDef.texturePath=Designations/Slaughter
-|DesignationDef.targetType=Thing
-}}

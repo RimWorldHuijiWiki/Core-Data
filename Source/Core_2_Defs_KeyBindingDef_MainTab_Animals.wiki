@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=MainTab_Animals
+|KeyBindingDef.defName=MainTab_Animals
+|KeyBindingDef.label=Toggle animals tab
+|KeyBindingDef.label.zh-cn=开关「动物」标签
+|KeyBindingDef.label.zh-tw=開啟/關閉動物
+|KeyBindingDef.category=MainTabs
+|KeyBindingDef.defaultKeyCodeA=F4
+}}

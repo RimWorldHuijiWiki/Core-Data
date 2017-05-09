@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DesignationDef
-|defName=Plan
-|DesignationDef.defName=Plan
-|DesignationDef.texturePath=Designations/Plan
-|DesignationDef.targetType=Cell
-|DesignationDef.removeIfBuildingDespawned=true
-}}

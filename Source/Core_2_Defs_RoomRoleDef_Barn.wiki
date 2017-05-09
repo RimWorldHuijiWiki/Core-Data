@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=RoomRoleDef
+|defName=Barn
+|RoomRoleDef.defName=Barn
+|RoomRoleDef.label=barn
+|RoomRoleDef.label.zh-cn=畜棚
+|RoomRoleDef.label.zh-tw=農舍
+|RoomRoleDef.workerClass=RoomRoleWorker_Barn
+}}

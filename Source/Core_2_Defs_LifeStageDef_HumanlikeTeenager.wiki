@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=LifeStageDef
+|defName=HumanlikeTeenager
+|LifeStageDef.defName=HumanlikeTeenager
+|LifeStageDef.label=teenager
+|LifeStageDef.label.zh-cn=少年
+|LifeStageDef.label.zh-tw=青少年
+|LifeStageDef.adjective=teenage
+|LifeStageDef.adjective.zh-cn=少年
+|LifeStageDef.adjective.zh-tw=青少年
+|LifeStageDef.reproductive=true
+|LifeStageDef.statFactors="MoveSpeed","0.95"
+|LifeStageDef.bodySizeFactor=0.85
+|LifeStageDef.healthScaleFactor=0.90
+}}

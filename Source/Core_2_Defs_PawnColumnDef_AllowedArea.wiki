@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=PawnColumnDef
+|defName=AllowedArea
+|PawnColumnDef.defName=AllowedArea
+|PawnColumnDef.label=allowed area
+|PawnColumnDef.label.zh-cn=允许活动区域
+|PawnColumnDef.label.zh-tw=allowed area
+|PawnColumnDef.workerClass=PawnColumnWorker_AllowedArea
+|PawnColumnDef.sortable=true
+}}

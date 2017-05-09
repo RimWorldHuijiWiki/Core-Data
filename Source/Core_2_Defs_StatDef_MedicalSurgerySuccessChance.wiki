@@ -1,0 +1,30 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=MedicalSurgerySuccessChance
+|StatDef.defName=MedicalSurgerySuccessChance
+|StatDef.label=medical surgery success chance
+|StatDef.label.zh-cn=医疗手术成功几率
+|StatDef.label.zh-tw=手術成功率
+|StatDef.description=The likelihood that a character will succeed when attempting to perform a medical surgery. Failures can result in simple wasted time and medicine, or catastrophic damage to the patient. This base success chance is also affected by the facilities and medicine used in the operation, and the difficulty of the operation.
+|StatDef.description.zh-cn=当角色尝试执行医疗手术时成功的可能性。手术出错时，轻则浪费时间和医药，重则给病人带来灾难性的伤害。此项基础几率还会受到手术中所使用的设备和医药，以及手术难度的影响。
+|StatDef.description.zh-tw=此角色執行手術時的成功機率，輕微的失誤可能只需要花費更多時間與藥即可彌補，但重大的失誤可能帶給病人災難性的傷害。
+|StatDef.category=PawnWork
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1.00
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
+|StatDef.skillNeedFactors.0.skill=Medicine
+|StatDef.skillNeedFactors.0.factorsPerLevel="0.05","0.25","0.40","0.50","0.60","0.70","0.80","0.85","0.90","0.92","0.93","0.94","0.95","0.955","0.96","0.965","0.97","0.975","0.98","0.985","0.99"
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Sight
+|StatDef.capacityFactors.0.weight=0.4
+|StatDef.capacityFactors.0.max=1
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Manipulation
+|StatDef.capacityFactors.1.weight=1
+}}

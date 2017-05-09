@@ -1,0 +1,36 @@
+{{#set:
+|dataType=Def
+|defType=HediffDef
+|defName=MuscleParasites
+|HediffDef.defName=MuscleParasites
+|HediffDef.label=muscle parasites
+|HediffDef.label.zh-cn=肌肉寄生虫
+|HediffDef.label.zh-tw=肌肉寄生蟲
+|HediffDef.hediffClass=HediffWithComps
+|HediffDef.comps=Exist
+|HediffDef.comps.Count=2
+|HediffDef.comps.0=Exist
+|HediffDef.comps.0.Class=HediffCompProperties_Discoverable
+|HediffDef.comps.0.sendLetterWhenDiscovered=true
+|HediffDef.comps.1=Exist
+|HediffDef.comps.1.Class=HediffCompProperties_TendDuration
+|HediffDef.comps.1.tendDuration=120000
+|HediffDef.comps.1.disappearsAtTendedCount=5
+|HediffDef.initialSeverity=0.001
+|HediffDef.stages=Exist
+|HediffDef.stages.Count=1
+|HediffDef.stages.0=Exist
+|HediffDef.stages.0.painOffset=0.2
+|HediffDef.stages.0.restFallFactor=2
+|HediffDef.stages.0.capMods=Exist
+|HediffDef.stages.0.capMods.Count=2
+|HediffDef.stages.0.capMods.0=Exist
+|HediffDef.stages.0.capMods.0.capacity=Manipulation
+|HediffDef.stages.0.capMods.0.offset=-0.3
+|HediffDef.stages.0.capMods.1=Exist
+|HediffDef.stages.0.capMods.1.capacity=Moving
+|HediffDef.stages.0.capMods.1.offset=-0.3
+|HediffDef.tendable=true
+|HediffDef.makesSickThought=true
+|HediffDef.defaultLabelColor=(0.8, 0.8, 0.35)
+}}

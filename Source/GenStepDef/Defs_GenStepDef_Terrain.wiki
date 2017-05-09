@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=GenStepDef
-|defName=Terrain
-|GenStepDef.defName=Terrain
-|GenStepDef.linkWithMapGenerator=BasicMap
-|GenStepDef.order=210
-|GenStepDef.genStep=
-}}

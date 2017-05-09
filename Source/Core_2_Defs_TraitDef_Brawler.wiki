@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=TraitDef
+|defName=Brawler
+|TraitDef.defName=Brawler
+|TraitDef.degreeDatas=Exist
+|TraitDef.degreeDatas.Count=1
+|TraitDef.degreeDatas.0=Exist
+|TraitDef.degreeDatas.0.label=brawler
+|TraitDef.degreeDatas.0.label.zh-cn=格斗者
+|TraitDef.degreeDatas.0.label.zh-tw=格鬥愛好者
+|TraitDef.degreeDatas.0.description=NAME likes to fight up close and personal. HISCAP accuracy is greatly increased in melee combat, but HE'll be very unhappy if asked to carry a ranged weapon.
+|TraitDef.degreeDatas.0.description.zh-cn=NAME喜欢近身格斗，HISCAP的近战命中率比一般人要高得多，但用起远程武器来就会很不开心。
+|TraitDef.degreeDatas.0.description.zh-tw=NAME喜愛近身搏鬥，HISCAP近身攻擊命中率大大的增加，但當你想讓牠帶上遠距離的武器，HE可是會非常不悅。
+|TraitDef.degreeDatas.0.statFactors="MeleeHitChance","1.30"
+|TraitDef.degreeDatas.0.skillGains="Melee","4";"Shooting","-4"
+|TraitDef.conflictingTraits="ShootingAccuracy"
+|TraitDef.requiredWorkTags="Violent"
+|TraitDef.commonality=0.5
+}}

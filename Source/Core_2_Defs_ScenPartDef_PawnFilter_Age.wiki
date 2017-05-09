@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=PawnFilter_Age
+|ScenPartDef.defName=PawnFilter_Age
+|ScenPartDef.label=allowed age range
+|ScenPartDef.label.zh-cn=年龄范围
+|ScenPartDef.label.zh-tw=年齡範圍
+|ScenPartDef.category=PlayerPawnFilter
+|ScenPartDef.scenPartClass=ScenPart_PawnFilter_Age
+|ScenPartDef.summaryPriority=475
+|ScenPartDef.selectionWeight=1.0
+|ScenPartDef.maxUses=1
+}}

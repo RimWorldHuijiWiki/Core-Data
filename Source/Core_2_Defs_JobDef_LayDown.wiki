@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=LayDown
+|JobDef.defName=LayDown
+|JobDef.driverClass=JobDriver_LayDown
+|JobDef.reportString=lying down.
+|JobDef.reportString.zh-cn=躺着。
+|JobDef.reportString.zh-tw=躺著。
+|JobDef.casualInterruptible=false
+}}

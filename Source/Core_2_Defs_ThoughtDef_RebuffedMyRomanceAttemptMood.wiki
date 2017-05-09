@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=RebuffedMyRomanceAttemptMood
+|ThoughtDef.defName=RebuffedMyRomanceAttemptMood
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=rebuffed by {0}
+|ThoughtDef.stages.0.label.zh-cn=被{0}拒绝
+|ThoughtDef.stages.0.label.zh-tw=被{0}拒絕
+|ThoughtDef.stages.0.description=I attempted to create a romance, but I got the cold shoulder. Feels bad man.
+|ThoughtDef.stages.0.description.zh-cn=我想谈次恋爱，却被冷淡对待，真是让我难过。
+|ThoughtDef.stages.0.description.zh-tw=我嘗試告白了，卻被一口拒絕，這感覺不是很好。
+|ThoughtDef.stages.0.baseMoodEffect=-5
+|ThoughtDef.stackLimit=5
+|ThoughtDef.stackedEffectMultiplier=0.8
+|ThoughtDef.durationDays=3.0
+}}

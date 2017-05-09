@@ -1,0 +1,35 @@
+{{#set:
+|dataType=Def
+|defType=BiomeDef
+|defName=TropicalRainforest
+|BiomeDef.defName=TropicalRainforest
+|BiomeDef.label=tropical rainforest
+|BiomeDef.label.zh-cn=热带雨林
+|BiomeDef.label.zh-tw=熱帶雨林
+|BiomeDef.description=A thick, moist jungle. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant disease are why some explorers call this the "green hell".
+|BiomeDef.description.zh-cn=茂密潮湿的丛林。尽管如此美丽多姿，却实际上是个非常危险的生态区。繁茂到闭塞的植被，富有攻击性的动物，以及阴魂不散的疾病，这就是为什么有些探险者将之称为「绿色地狱」。
+|BiomeDef.description.zh-tw=一個樹木茂密又潮濕的地區，雖然視覺上非常美麗，但這裡是非常危險的生態系。極度茂密生長的植物、侵略性的生物和不斷侵襲的疾病是熱帶雨林被探險家們稱為「綠色地獄」的原因。
+|BiomeDef.workerClass=BiomeWorker_TropicalRainforest
+|BiomeDef.animalDensity=4.0
+|BiomeDef.plantDensity=0.85
+|BiomeDef.diseaseMtbDays=30
+|BiomeDef.factionBaseSelectionWeight=0.7
+|BiomeDef.pathCost=Exist
+|BiomeDef.pathCost.points="(0, 11000)"
+|BiomeDef.baseWeatherCommonalities="Clear","18";"Fog","1";"Rain","2";"DryThunderstorm","0.3";"RainyThunderstorm","1.7";"FoggyRain","1";"SnowGentle","4";"SnowHard","4"
+|BiomeDef.terrainsByFertility="Soil","-999 ~ 0.87";"SoilRich","0.87 ~ 999"
+|BiomeDef.soundsAmbient="AmbientNightInsects_Jungle","AmbientDayInsects_Jungle"
+|BiomeDef.terrainPatchMakers=Exist
+|BiomeDef.terrainPatchMakers.Count=2
+|BiomeDef.terrainPatchMakers.0=Exist
+|BiomeDef.terrainPatchMakers.0.thresholds="MarshyTerrain","0.7 ~ 999"
+|BiomeDef.terrainPatchMakers.0.perlinFrequency=0.04
+|BiomeDef.terrainPatchMakers.1=Exist
+|BiomeDef.terrainPatchMakers.1.thresholds="MarshyTerrain","0.64 ~ 0.87";"Marsh","0.87 ~ 999"
+|BiomeDef.terrainPatchMakers.1.perlinFrequency=0.035
+|BiomeDef.wildPlants="PlantTallGrass","7.0";"PlantDandelion","0.8";"PlantBush","0.7";"PlantTreeCecropia","0.6";"PlantTreeTeak","0.3";"PlantRaspberry","0.1"
+|BiomeDef.wildAnimals="Elephant","0.05";"Monkey","0.5";"WildBoar","0.5";"Tortoise","0.3";"Chinchilla","0.3";"Boomalope","0.35";"Capybara","0.35";"Alpaca","0.25";"Cassowary","0.35";"Turkey","0.1";"Emu","0.1";"Rat","0.5";"Cobra","0.12";"Panther","0.085"
+|BiomeDef.diseases="Disease_Flu","100";"Disease_Plague","100";"Disease_Malaria","160";"Disease_SleepingSickness","140";"Disease_FibrousMechanites","30";"Disease_SensoryMechanites","30";"Disease_GutWorms","80";"Disease_MuscleParasites","80"
+|BiomeDef.allowedPackAnimals="Muffalo"
+|BiomeDef.texture=World/Biomes/TropicalRainforest
+}}

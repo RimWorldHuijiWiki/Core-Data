@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=AnimalInsanitySingle
+|IncidentDef.defName=AnimalInsanitySingle
+|IncidentDef.label=single animal insanity
+|IncidentDef.label.zh-cn=动物发狂
+|IncidentDef.label.zh-tw=狂暴動物
+|IncidentDef.workerClass=IncidentWorker_AnimalInsanitySingle
+|IncidentDef.category=ThreatSmall
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=5
+|IncidentDef.minRefireDays=2
+}}

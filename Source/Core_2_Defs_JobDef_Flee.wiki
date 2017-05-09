@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Flee
+|JobDef.defName=Flee
+|JobDef.driverClass=JobDriver_Flee
+|JobDef.reportString=fleeing.
+|JobDef.reportString.zh-cn=逃跑中。
+|JobDef.reportString.zh-tw=逃跑。
+|JobDef.checkOverrideOnDamage=OnlyIfInstigatorNotJobTarget
+}}

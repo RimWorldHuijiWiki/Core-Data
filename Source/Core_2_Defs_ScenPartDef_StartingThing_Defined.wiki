@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=ScenPartDef
+|defName=StartingThing_Defined
+|ScenPartDef.defName=StartingThing_Defined
+|ScenPartDef.label=start with
+|ScenPartDef.label.zh-cn=开局资源
+|ScenPartDef.label.zh-tw=預設
+|ScenPartDef.category=StartingItem
+|ScenPartDef.scenPartClass=ScenPart_StartingThing_Defined
+|ScenPartDef.summaryPriority=300
+|ScenPartDef.selectionWeight=1.0
+}}

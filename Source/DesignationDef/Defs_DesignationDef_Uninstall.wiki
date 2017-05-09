@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DesignationDef
-|defName=Uninstall
-|DesignationDef.defName=Uninstall
-|DesignationDef.texturePath=Designations/Uninstall
-|DesignationDef.targetType=Thing
-}}

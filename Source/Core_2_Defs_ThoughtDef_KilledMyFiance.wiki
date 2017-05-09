@@ -1,0 +1,17 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=KilledMyFiance
+|ThoughtDef.defName=KilledMyFiance
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=killed my fiance
+|ThoughtDef.stages.0.label.zh-cn=杀了我的未婚夫/妻
+|ThoughtDef.stages.0.label.zh-tw=殺了我的未婚妻(夫)
+|ThoughtDef.stages.0.baseOpinionOffset=-65
+|ThoughtDef.stackLimit=300
+|ThoughtDef.durationDays=80.0
+|ThoughtDef.stackLimitPerPawn=10
+}}

@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=FrontRightLegFirstClaw
+|BodyPartDef.defName=FrontRightLegFirstClaw
+|BodyPartDef.label=front right leg first claw
+|BodyPartDef.label.zh-cn=右前肢第一爪
+|BodyPartDef.label.zh-tw=右前肢首爪
+|BodyPartDef.tags="MovingLimbDigit","ManipulationLimbDigit"
+|BodyPartDef.hitPoints=7
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.frostbiteVulnerability=10
+|BodyPartDef.isAlive=false
+}}

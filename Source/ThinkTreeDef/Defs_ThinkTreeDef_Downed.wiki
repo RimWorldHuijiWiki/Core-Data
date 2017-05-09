@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=ThinkTreeDef
-|defName=Downed
-|ThinkTreeDef.defName=Downed
-|ThinkTreeDef.thinkRoot=Exist
-|ThinkTreeDef.thinkRoot.Class=ThinkNode_ConditionalDowned
-|ThinkTreeDef.thinkRoot.subNodes=""
-}}

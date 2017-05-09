@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=ItemStash
+|GenStepDef.defName=ItemStash
+|GenStepDef.linkWithSite=ItemStash
+|GenStepDef.order=460
+|GenStepDef.genStep=Exist
+|GenStepDef.genStep.Class=GenStep_ItemStash
+|GenStepDef.genStep.count=1
+|GenStepDef.genStep.nearMapCenter=true
+|GenStepDef.genStep.itemCollectionGeneratorDefs="RawResources","Apparel","Weapons"
+|GenStepDef.genStep.totalValueRange=2500 ~ 3200
+}}

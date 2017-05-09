@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=ExecutedPrisoner
+|ThoughtDef.defName=ExecutedPrisoner
+|ThoughtDef.thoughtClass=Thought_Tale
+|ThoughtDef.workerClass=ThoughtWorker_Tale
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=executed prisoner
+|ThoughtDef.stages.0.label.zh-cn=处决过囚犯
+|ThoughtDef.stages.0.label.zh-tw=有俘虜被處決了
+|ThoughtDef.stages.0.baseOpinionOffset=-8
+|ThoughtDef.validWhileDespawned=true
+|ThoughtDef.nullifiedIfNotColonist=true
+|ThoughtDef.taleDef=ExecutedPrisoner
+}}

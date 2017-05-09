@@ -1,0 +1,26 @@
+{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=Ingest_Beer
+|SoundDef.defName=Ingest_Beer
+|SoundDef.sustain=True
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.maxSimultaneous=1
+|SoundDef.priorityMode=PrioritizeNearest
+|SoundDef.sustainStartSound=Ingest_Beer_Start
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.muteWhenPaused=True
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
+|SoundDef.subSounds.0.grains.0.clipFolderPath=Pawn/Human/Drinking/Ingest_Beer/Loop
+|SoundDef.subSounds.0.volumeRange=17 ~ 13
+|SoundDef.subSounds.0.pitchRange=0.8 ~ 1.2
+|SoundDef.subSounds.0.distRange=0 ~ 49.53489
+|SoundDef.subSounds.0.sustainLoop=False
+|SoundDef.subSounds.0.sustainIntervalRange=0.1 ~ 0.5
+}}

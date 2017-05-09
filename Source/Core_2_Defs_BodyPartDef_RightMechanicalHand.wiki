@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartDef
+|defName=RightMechanicalHand
+|BodyPartDef.defName=RightMechanicalHand
+|BodyPartDef.label=right hand
+|BodyPartDef.label.zh-cn=右手
+|BodyPartDef.label.zh-tw=右掌
+|BodyPartDef.tags="ManipulationLimbSegment"
+|BodyPartDef.hitPoints=20
+|BodyPartDef.oldInjuryBaseChance=0
+|BodyPartDef.skinCovered=false
+|BodyPartDef.isSolid=true
+|BodyPartDef.frostbiteVulnerability=2
+|BodyPartDef.isAlive=false
+}}

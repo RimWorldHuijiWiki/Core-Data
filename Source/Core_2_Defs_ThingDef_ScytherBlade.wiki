@@ -1,0 +1,33 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=ScytherBlade
+|ThingDef.defName=ScytherBlade
+|ThingDef.label=scyther blade
+|ThingDef.label.zh-cn=飞螳镰刃
+|ThingDef.label.zh-tw=鐮刀機械鎧
+|ThingDef.description=Hand replacement with a telescoping blade. Scavenged from a dead scyther mechanoid. Not very comfortable, but quite effective as a close-range weapon.
+|ThingDef.description.zh-cn=嵌有镰刃的手部替代品。从机械飞螳上拆下来的。不是很舒服但确实是非常致命的近战武器。
+|ThingDef.description.zh-tw=用刀片取代手臂，並非非常舒適，但作為一個近戰武器是相當有效的。
+|ThingDef.statBases="MarketValue","2000";"Mass","4";"DeteriorationRate","2.0";"MaxHitPoints","50";"Flammability","1.0";"Beauty","-4"
+|ThingDef.pathCost=10
+|ThingDef.altitudeLayer=Item
+|ThingDef.thingClass=ThingWithComps
+|ThingDef.category=Item
+|ThingDef.tickerType=Never
+|ThingDef.useHitPoints=true
+|ThingDef.comps=Exist
+|ThingDef.comps.Count=1
+|ThingDef.comps.0=Exist
+|ThingDef.comps.0.Class=CompProperties_Forbiddable
+|ThingDef.isBodyPartOrImplant=true
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Item/BodyPart/ArtificialOrgan
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.selectable=true
+|ThingDef.alwaysHaulable=true
+|ThingDef.thingCategories="BodyPartsArtificial"
+|ThingDef.tradeability=Sellable
+|ThingDef.tradeTags="BodyPartOrImplant"
+|ThingDef.techHediffsTags="SpecialWeapon"
+}}

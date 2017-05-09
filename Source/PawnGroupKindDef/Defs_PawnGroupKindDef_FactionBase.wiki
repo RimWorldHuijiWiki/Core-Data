@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=PawnGroupKindDef
-|defName=FactionBase
-|PawnGroupKindDef.defName=FactionBase
-|PawnGroupKindDef.workerClass=PawnGroupKindWorker_Normal
-}}

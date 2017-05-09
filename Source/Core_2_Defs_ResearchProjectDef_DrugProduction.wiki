@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=DrugProduction
+|ResearchProjectDef.defName=DrugProduction
+|ResearchProjectDef.label=drug production
+|ResearchProjectDef.label.zh-cn=成瘾品生产
+|ResearchProjectDef.label.zh-tw=製藥
+|ResearchProjectDef.description=The basics of drug preparation and synthesis. Allows creation of the drug lab. Further research is required to make specific drugs.
+|ResearchProjectDef.description.zh-cn=成瘾品制备与合成的基础技术。允许建造药物实验台。需要进一步研究以制作特定的成瘾品。
+|ResearchProjectDef.description.zh-tw=製造藥物的前提科技，解鎖建造藥物合成台，需要進一步研究才能實際製造藥物。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=500
+|ResearchProjectDef.researchViewX=1
+|ResearchProjectDef.researchViewY=0
+}}

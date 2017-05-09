@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=BillRepeatModeDef
-|defName=RepeatCount
-|BillRepeatModeDef.defName=RepeatCount
-|BillRepeatModeDef.listOrder=0
-}}

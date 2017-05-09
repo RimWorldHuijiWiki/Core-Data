@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=LayEgg
+|JobDef.defName=LayEgg
+|JobDef.driverClass=JobDriver_LayEgg
+|JobDef.reportString=laying egg.
+|JobDef.reportString.zh-cn=产卵。
+|JobDef.reportString.zh-tw=產卵。
+|JobDef.casualInterruptible=false
+}}

@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=ThingCategoryDef
+|defName=BodyPartsNatural
+|ThingCategoryDef.defName=BodyPartsNatural
+|ThingCategoryDef.label=natural
+|ThingCategoryDef.label.zh-cn=自然
+|ThingCategoryDef.label.zh-tw=天然
+|ThingCategoryDef.parent=BodyParts
+}}

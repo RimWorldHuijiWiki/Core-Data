@@ -1,0 +1,34 @@
+{{#set:
+|dataType=Def
+|defType=PawnKindDef
+|defName=TownGuard
+|PawnKindDef.defName=TownGuard
+|PawnKindDef.label=town guard
+|PawnKindDef.label.zh-cn=城镇守卫
+|PawnKindDef.label.zh-tw=城鎮衛兵
+|PawnKindDef.race=Human
+|PawnKindDef.defaultFactionType=Outlander
+|PawnKindDef.backstoryCategory=Civil
+|PawnKindDef.labelPlural=town guards
+|PawnKindDef.labelPlural.zh-cn=城镇守卫
+|PawnKindDef.labelPlural.zh-tw=城鎮衛兵
+|PawnKindDef.backstoryCryptosleepCommonality=0.04
+|PawnKindDef.maxGenerationAge=65
+|PawnKindDef.gearHealthRange=0.5 ~ 1.8
+|PawnKindDef.combatPower=50
+|PawnKindDef.baseRecruitDifficulty=0.60
+|PawnKindDef.apparelMoney=300 ~ 900
+|PawnKindDef.apparelTags="Outlander"
+|PawnKindDef.apparelAllowHeadwearChance=0.4
+|PawnKindDef.weaponMoney=200 ~ 600
+|PawnKindDef.weaponTags="Gun"
+|PawnKindDef.techHediffsMoney=200 ~ 300
+|PawnKindDef.techHediffsTags="Simple"
+|PawnKindDef.techHediffsChance=0.001
+|PawnKindDef.inventoryOptions=Exist
+|PawnKindDef.inventoryOptions.thingDef=Silver
+|PawnKindDef.inventoryOptions.countRange=30 ~ 100
+|PawnKindDef.inventoryOptions.skipChance=0.95
+|PawnKindDef.invNutrition=2.55
+|PawnKindDef.chemicalAddictionChance=0.045
+}}

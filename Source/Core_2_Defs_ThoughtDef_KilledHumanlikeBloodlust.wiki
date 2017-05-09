@@ -1,0 +1,22 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=KilledHumanlikeBloodlust
+|ThoughtDef.defName=KilledHumanlikeBloodlust
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=killed someone
+|ThoughtDef.stages.0.label.zh-cn=杀了人
+|ThoughtDef.stages.0.label.zh-tw=殺死了别人
+|ThoughtDef.stages.0.description=I killed someone! What a rush!
+|ThoughtDef.stages.0.description.zh-cn=我亲手杀了一个人！爽爆了！
+|ThoughtDef.stages.0.description.zh-tw=我剛剛殺了人，這實在是太爽了！
+|ThoughtDef.stages.0.baseMoodEffect=13
+|ThoughtDef.stackLimit=5
+|ThoughtDef.stackedEffectMultiplier=0.4
+|ThoughtDef.durationDays=3
+|ThoughtDef.requiredTraits="Bloodlust"
+|ThoughtDef.icon=Things/Mote/ThoughtSymbol/Skull
+|ThoughtDef.showBubble=true
+}}

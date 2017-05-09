@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=ResearchTabDef
-|defName=Main
-|ResearchTabDef.defName=Main
-|ResearchTabDef.label=Main
-|ResearchTabDef.label.zh-cn=主要
-|ResearchTabDef.label.zh-tw=主面板
-}}

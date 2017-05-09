@@ -1,0 +1,31 @@
+{{#set:
+|dataType=Def
+|defType=PawnKindDef
+|defName=SpaceSoldier
+|PawnKindDef.defName=SpaceSoldier
+|PawnKindDef.label=space soldier
+|PawnKindDef.label.zh-cn=星际战士
+|PawnKindDef.label.zh-tw=星際武士
+|PawnKindDef.race=Human
+|PawnKindDef.defaultFactionType=SpacerHostile
+|PawnKindDef.backstoryCategory=Civil
+|PawnKindDef.labelPlural=space soldiers
+|PawnKindDef.labelPlural.zh-cn=星际战士
+|PawnKindDef.labelPlural.zh-tw=space soldiers
+|PawnKindDef.backstoryCryptosleepCommonality=1
+|PawnKindDef.maxGenerationAge=58
+|PawnKindDef.combatPower=100
+|PawnKindDef.baseRecruitDifficulty=0.30
+|PawnKindDef.apparelMoney=0 ~ 3200
+|PawnKindDef.apparelTags="Spacer","BeltDefensePop"
+|PawnKindDef.apparelAllowHeadwearChance=0.5
+|PawnKindDef.apparelIgnoreSeasons=true
+|PawnKindDef.weaponMoney=300 ~ 900
+|PawnKindDef.weaponTags="Gun"
+|PawnKindDef.techHediffsMoney=1000 ~ 5000
+|PawnKindDef.techHediffsTags="Advanced"
+|PawnKindDef.techHediffsChance=0.3
+|PawnKindDef.itemQuality=Good
+|PawnKindDef.chemicalAddictionChance=0.08
+|PawnKindDef.combatEnhancingDrugsCount=0 ~ 2
+}}

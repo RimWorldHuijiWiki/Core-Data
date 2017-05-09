@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=StandAndBeSociallyActive
+|JobDef.defName=StandAndBeSociallyActive
+|JobDef.driverClass=JobDriver_StandAndBeSociallyActive
+|JobDef.reportString=relaxing socially.
+|JobDef.reportString.zh-cn=社交放松。
+|JobDef.reportString.zh-tw=進行社交活動。
+}}

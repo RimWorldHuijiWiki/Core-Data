@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=RoofDef
+|defName=RoofConstructed
+|RoofDef.defName=RoofConstructed
+|RoofDef.label=constructed roof
+|RoofDef.label.zh-cn=建筑屋顶
+|RoofDef.label.zh-tw=建築屋頂
+|RoofDef.isThickRoof=false
+|RoofDef.filthLeaving=BuildingRubble
+|RoofDef.soundPunchThrough=PunchThroughRoofMetal
+}}

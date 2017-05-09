@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=FixBrokenDownBuilding
+|JobDef.defName=FixBrokenDownBuilding
+|JobDef.driverClass=JobDriver_FixBrokenDownBuilding
+|JobDef.reportString=replacing broken components in TargetA.
+|JobDef.reportString.zh-cn=正在给TargetA更换零部件。
+|JobDef.reportString.zh-tw=更換TargetA的零件。
+}}

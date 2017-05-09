@@ -1,0 +1,6 @@
+{{#set:
+|dataType=Def
+|defType=RoadPathingDef
+|defName=Bulldoze
+|RoadPathingDef.defName=Bulldoze
+}}

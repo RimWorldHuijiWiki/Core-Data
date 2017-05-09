@@ -1,0 +1,9 @@
+{{#set:
+|dataType=Def
+|defType=GenStepDef
+|defName=Roads
+|GenStepDef.defName=Roads
+|GenStepDef.linkWithMapGenerator=BasicMap
+|GenStepDef.order=250
+|GenStepDef.genStep=
+}}

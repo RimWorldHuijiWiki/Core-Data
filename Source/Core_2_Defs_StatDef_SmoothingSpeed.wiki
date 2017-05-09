@@ -1,0 +1,32 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=SmoothingSpeed
+|StatDef.defName=SmoothingSpeed
+|StatDef.label=smoothing speed
+|StatDef.label.zh-cn=打磨速度
+|StatDef.label.zh-tw=打磨速度
+|StatDef.description=A multiplier on the speed at which this person smooths floors.
+|StatDef.description.zh-cn=此人在打磨粗糙石面时的速度乘数。
+|StatDef.description.zh-tw=這名角色進行地面打磨工作時的速度加成。
+|StatDef.category=PawnWork
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1
+|StatDef.statFactors="WorkSpeedGlobal"
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
+|StatDef.skillNeedFactors.0.skill=Construction
+|StatDef.skillNeedFactors.0.baseFactor=0.5
+|StatDef.skillNeedFactors.0.bonusFactor=0.15
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Manipulation
+|StatDef.capacityFactors.0.weight=1
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Sight
+|StatDef.capacityFactors.1.weight=0.3
+|StatDef.capacityFactors.1.max=1
+}}

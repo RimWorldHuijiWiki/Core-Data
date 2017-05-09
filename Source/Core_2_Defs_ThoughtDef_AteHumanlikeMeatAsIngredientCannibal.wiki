@@ -1,0 +1,22 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=AteHumanlikeMeatAsIngredientCannibal
+|ThoughtDef.defName=AteHumanlikeMeatAsIngredientCannibal
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=cooked cannibalism
+|ThoughtDef.stages.0.label.zh-cn=吃了烹饪过的人肉
+|ThoughtDef.stages.0.label.zh-tw=吃了烹調過的人肉
+|ThoughtDef.stages.0.description=I ate a meal made from the meat of another human. So pleasurable. If only I had some fava beans and a nice chianti.
+|ThoughtDef.stages.0.description.zh-cn=我吃了用人肉作出的饭，味道好极了。要是配上蚕豆和红酒就更好了。
+|ThoughtDef.stages.0.description.zh-tw=我吃了用人肉作出的料理，味道棒極了。若能配上些蠶豆和紅酒就更棒了。
+|ThoughtDef.stages.0.baseMoodEffect=15
+|ThoughtDef.stackLimit=1
+|ThoughtDef.stackedEffectMultiplier=0.25
+|ThoughtDef.durationDays=1.0
+|ThoughtDef.requiredTraits="Cannibal"
+|ThoughtDef.icon=Things/Mote/ThoughtSymbol/Food
+|ThoughtDef.showBubble=true
+}}

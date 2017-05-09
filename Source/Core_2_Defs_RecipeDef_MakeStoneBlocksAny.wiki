@@ -1,0 +1,33 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=MakeStoneBlocksAny
+|RecipeDef.defName=MakeStoneBlocksAny
+|RecipeDef.label=make any stone blocks
+|RecipeDef.label.zh-cn=制作石砖（任意）
+|RecipeDef.label.zh-tw=石材加工
+|RecipeDef.description=Cuts rock chunks into usable stone blocks.
+|RecipeDef.description.zh-cn=将岩石块切割成可用的石块。
+|RecipeDef.description.zh-tw=將石頭加工成有用的石材。
+|RecipeDef.workerCounterClass=RecipeWorkerCounter_MakeStoneBlocks
+|RecipeDef.jobString=Cutting stone blocks from chunk.
+|RecipeDef.jobString.zh-cn=正在切割石材。
+|RecipeDef.jobString.zh-tw=進行石材加工。
+|RecipeDef.workAmount=1600
+|RecipeDef.workSpeedStat=StonecuttingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="StoneChunks"
+|RecipeDef.ingredients.0.count=1
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="StoneChunks"
+|RecipeDef.specialProducts="Butchery"
+|RecipeDef.targetCountAdjustment=20
+|RecipeDef.workSkill=Construction
+|RecipeDef.workSkillLearnFactor=0.3
+|RecipeDef.effectWorking=CutStone
+|RecipeDef.soundWorking=Recipe_MakeStoneBlocks
+|RecipeDef.recipeUsers="TableStonecutter"
+}}

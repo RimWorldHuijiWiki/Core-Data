@@ -1,0 +1,30 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Bow_Great
+|RecipeDef.defName=Make_Bow_Great
+|RecipeDef.label=make great bow
+|RecipeDef.label.zh-cn=制作长弓
+|RecipeDef.label.zh-tw=製造長弓
+|RecipeDef.description=Make great bow.
+|RecipeDef.description.zh-cn=一把强力的长弓，射出远距离的重箭。
+|RecipeDef.description.zh-tw=製造一把長弓。
+|RecipeDef.jobString=Making great bow.
+|RecipeDef.jobString.zh-cn=制作中。
+|RecipeDef.jobString.zh-tw=製造長弓。
+|RecipeDef.workAmount=18000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs="WoodLog"
+|RecipeDef.ingredients.0.count=50
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs="WoodLog"
+|RecipeDef.products="Bow_Great","1"
+|RecipeDef.unfinishedThingDef=UnfinishedWeapon
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smelt
+|RecipeDef.recipeUsers="ElectricSmithy","FueledSmithy"
+}}

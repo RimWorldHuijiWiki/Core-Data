@@ -1,0 +1,20 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoctorRescue
+|WorkGiverDef.defName=DoctorRescue
+|WorkGiverDef.label=rescue downed allies to bed
+|WorkGiverDef.label.zh-cn=救援倒地的殖民者
+|WorkGiverDef.label.zh-tw=救援倒地的友軍
+|WorkGiverDef.giverClass=WorkGiver_RescueDowned
+|WorkGiverDef.workType=Doctor
+|WorkGiverDef.priorityInType=90
+|WorkGiverDef.verb=rescue
+|WorkGiverDef.verb.zh-cn=救援
+|WorkGiverDef.verb.zh-tw=援救
+|WorkGiverDef.gerund=rescuing
+|WorkGiverDef.gerund.zh-cn=救援
+|WorkGiverDef.gerund.zh-tw=救援
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.directOrderable=false
+}}

@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=InstructionDef
+|defName=UndraftAll
+|InstructionDef.defName=UndraftAll
+|InstructionDef.instructionClass=Instruction_UndraftAll
+|InstructionDef.text=Success! Now UNDRAFT all your colonists using the same command as before.<br/><br/>This will let them return to their own schedules.
+|InstructionDef.text.zh-cn=不错不错！将你的殖民者解散吧。<br/><br/>他们会回归到正常工作当中去。
+|InstructionDef.text.zh-tw=成功了！再次按下徵召按鈕解除居民們的徵召狀態。<br/><br/>這能讓他們返回平時的工作崗位。
+|InstructionDef.eventTagInitiate=InstructionDeactivated-DownRaider
+|InstructionDef.actionTagsAllowed="Draft","Undraft"
+|InstructionDef.rejectInputMessage=Please un-draft your colonists.
+|InstructionDef.rejectInputMessage.zh-cn=请解散你的殖民者。
+|InstructionDef.rejectInputMessage.zh-tw=請解除居民的徵召狀態。
+|InstructionDef.highlightTags="Undraft"
+}}

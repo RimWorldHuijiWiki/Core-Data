@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=ConceptDef
+|defName=AnimalTraining
+|ConceptDef.defName=AnimalTraining
+|ConceptDef.label=Animal training
+|ConceptDef.label.zh-cn=动物训练
+|ConceptDef.label.zh-tw=訓練動物
+|ConceptDef.priority=10
+|ConceptDef.helpText=You can assign a tame animal to be trained in specific skills on its TRAINING tab.<br/><br/>Animals can't be trained continuously; they need time between training sessions.
+|ConceptDef.helpText.zh-cn=在已驯服的动物的「训练」标签中，你可以指派动物进一步接受特定技能的训练。<br/><br/>动物无法连续受训，训练阶段之间需要间隔一段时间。
+|ConceptDef.helpText.zh-tw=你可以在以馴養動物的「訓練」視窗中指定訓練特定技能。<br/><br/>動物不能不間斷地訓練，在兩次訓練之間必須間隔一段時間。
+|ConceptDef.highlightTags="ITab-Training-Closed"
+}}

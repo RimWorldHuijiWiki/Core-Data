@@ -1,0 +1,26 @@
+{{#set:
+|dataType=Def
+|defType=WorkTypeDef
+|defName=PatientEmergency
+|WorkTypeDef.defName=PatientEmergency
+|WorkTypeDef.label=Patient
+|WorkTypeDef.label.zh-cn=就医
+|WorkTypeDef.label.zh-tw=療傷
+|WorkTypeDef.description=Go to a medical bed for treatment if you have an immediately life-threatening health condition.
+|WorkTypeDef.description.zh-cn=当有威胁生命的健康问题时，躺到医疗床上接收治疗。
+|WorkTypeDef.description.zh-tw=需要立即醫療照護的居民將會移動到病床或醫療床上接受治療。
+|WorkTypeDef.labelShort=Patient
+|WorkTypeDef.labelShort.zh-cn=就医
+|WorkTypeDef.labelShort.zh-tw=病人
+|WorkTypeDef.pawnLabel=Patient
+|WorkTypeDef.pawnLabel.zh-cn=病人
+|WorkTypeDef.pawnLabel.zh-tw=病人
+|WorkTypeDef.gerundLabel=Patienting
+|WorkTypeDef.gerundLabel.zh-cn=就医
+|WorkTypeDef.gerundLabel.zh-tw=療傷
+|WorkTypeDef.verb=Become patient
+|WorkTypeDef.verb.zh-cn=就医
+|WorkTypeDef.verb.zh-tw=成為病人
+|WorkTypeDef.naturalPriority=1350
+|WorkTypeDef.alwaysStartActive=true
+}}

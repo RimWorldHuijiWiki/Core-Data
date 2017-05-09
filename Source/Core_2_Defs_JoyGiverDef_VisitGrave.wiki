@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JoyGiverDef
+|defName=VisitGrave
+|JoyGiverDef.defName=VisitGrave
+|JoyGiverDef.giverClass=JoyGiver_VisitGrave
+|JoyGiverDef.baseChance=1
+|JoyGiverDef.jobDef=VisitGrave
+|JoyGiverDef.joyKind=Meditative
+}}

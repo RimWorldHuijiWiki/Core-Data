@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=PawnColumnDef
+|defName=GapWide
+|PawnColumnDef.defName=GapWide
+|PawnColumnDef.workerClass=PawnColumnWorker_Gap
+|PawnColumnDef.gap=26
+}}

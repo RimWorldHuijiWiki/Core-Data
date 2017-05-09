@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=ThingsHauled
+|RecordDef.defName=ThingsHauled
+|RecordDef.label=things hauled
+|RecordDef.label.zh-cn=搬运物品数
+|RecordDef.label.zh-tw=搬運次數
+|RecordDef.description=The number of things I have hauled.
+|RecordDef.description.zh-cn=我所搬运的物品数量。
+|RecordDef.description.zh-tw=我搬運的東西的數量。
+|RecordDef.type=Int
+}}

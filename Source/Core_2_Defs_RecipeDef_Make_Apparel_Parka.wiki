@@ -1,0 +1,32 @@
+{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Apparel_Parka
+|RecipeDef.defName=Make_Apparel_Parka
+|RecipeDef.label=make parka
+|RecipeDef.label.zh-cn=缝制风雪大衣
+|RecipeDef.label.zh-tw=製作大衣
+|RecipeDef.description=Make parka.
+|RecipeDef.description.zh-cn=一件厚重的风雪大衣，即使在最寒冷的温度中也能保持温暖。
+|RecipeDef.description.zh-tw=製作一件大衣。
+|RecipeDef.jobString=Making parka.
+|RecipeDef.jobString.zh-cn=缝制中。
+|RecipeDef.jobString.zh-tw=製作大衣。
+|RecipeDef.workAmount=20000
+|RecipeDef.workSpeedStat=TailoringSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=1
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.categories="Fabric","Leathery"
+|RecipeDef.ingredients.0.count=120
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.categories="Fabric","Leathery"
+|RecipeDef.products="Apparel_Parka","1"
+|RecipeDef.productHasIngredientStuff=true
+|RecipeDef.unfinishedThingDef=UnfinishedApparel
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Tailor
+|RecipeDef.soundWorking=Recipe_Tailor
+|RecipeDef.recipeUsers="ElectricTailoringBench","HandTailoringBench"
+}}

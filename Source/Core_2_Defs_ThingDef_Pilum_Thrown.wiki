@@ -1,0 +1,24 @@
+{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Pilum_Thrown
+|ThingDef.defName=Pilum_Thrown
+|ThingDef.label=pilum (thrown)
+|ThingDef.label.zh-cn=投矛（已投掷）
+|ThingDef.label.zh-tw=投矛
+|ThingDef.altitudeLayer=Projectile
+|ThingDef.thingClass=Bullet
+|ThingDef.category=Projectile
+|ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=False
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Projectile/Pilum
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.shaderType=Transparent
+|ThingDef.neverMultiSelect=True
+|ThingDef.projectile=Exist
+|ThingDef.projectile.speed=26
+|ThingDef.projectile.flyOverhead=false
+|ThingDef.projectile.damageDef=Stab
+|ThingDef.projectile.damageAmountBase=30
+}}

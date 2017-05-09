@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DamageArmorCategoryDef
-|defName=Sharp
-|DamageArmorCategoryDef.defName=Sharp
-|DamageArmorCategoryDef.multStat=SharpDamageMultiplier
-|DamageArmorCategoryDef.deflectionStat=ArmorRating_Sharp
-}}

@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=IncidentDef
+|defName=RaidFriendly
+|IncidentDef.defName=RaidFriendly
+|IncidentDef.label=friendly raid
+|IncidentDef.label.zh-cn=友军的袭击
+|IncidentDef.label.zh-tw=友軍支援
+|IncidentDef.workerClass=IncidentWorker_RaidFriendly
+|IncidentDef.category=AllyAssistance
+|IncidentDef.targetType=MapPlayerHome
+|IncidentDef.baseChance=3.0
+|IncidentDef.pointsScaleable=true
+}}

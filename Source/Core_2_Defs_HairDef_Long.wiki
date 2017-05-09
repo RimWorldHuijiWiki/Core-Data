@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=Long
+|HairDef.defName=Long
+|HairDef.label=long
+|HairDef.label.zh-cn=长发
+|HairDef.label.zh-tw=長髮
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Long
+|HairDef.hairGender=Female
+|HairDef.hairTags="Urban","Rural"
+}}

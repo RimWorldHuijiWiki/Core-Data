@@ -1,0 +1,16 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=PlayBilliards
+|JobDef.defName=PlayBilliards
+|JobDef.driverClass=JobDriver_PlayBilliards
+|JobDef.reportString=playing billiards.
+|JobDef.reportString.zh-cn=打台球。
+|JobDef.reportString.zh-tw=打撞球。
+|JobDef.joyDuration=4000
+|JobDef.joyMaxParticipants=2
+|JobDef.joyGainRate=1.3
+|JobDef.joySkill=Shooting
+|JobDef.joyXpPerTick=0.004
+|JobDef.joyKind=GamingDexterity
+}}

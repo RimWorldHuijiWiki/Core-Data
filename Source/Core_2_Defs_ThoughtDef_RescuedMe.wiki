@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=RescuedMe
+|ThoughtDef.defName=RescuedMe
+|ThoughtDef.thoughtClass=Thought_MemorySocial
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=rescued me
+|ThoughtDef.stages.0.label.zh-cn=救了我
+|ThoughtDef.stages.0.label.zh-tw=救過我的命
+|ThoughtDef.stages.0.baseOpinionOffset=15
+|ThoughtDef.stackLimit=300
+|ThoughtDef.stackedEffectMultiplier=0.6
+|ThoughtDef.durationDays=20.0
+|ThoughtDef.stackLimitPerPawn=3
+}}

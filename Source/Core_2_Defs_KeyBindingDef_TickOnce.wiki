@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=KeyBindingDef
+|defName=TickOnce
+|KeyBindingDef.defName=TickOnce
+|KeyBindingDef.label=tick once
+|KeyBindingDef.label.zh-cn=Tick一次（debug）
+|KeyBindingDef.label.zh-tw=Debug：一旦勾選
+|KeyBindingDef.category=Development
+|KeyBindingDef.defaultKeyCodeA=KeypadPlus
+|KeyBindingDef.devModeOnly=true
+}}

@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Pray
+|JobDef.defName=Pray
+|JobDef.driverClass=JobDriver_RelaxAlone
+|JobDef.reportString=praying.
+|JobDef.reportString.zh-cn=祈祷。
+|JobDef.reportString.zh-tw=禱告。
+|JobDef.joyDuration=3000
+|JobDef.joyGainRate=1
+|JobDef.joyKind=Meditative
+}}

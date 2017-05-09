@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=SongDef
-|defName=UnnamedDef
-|SongDef.clipPath=Songs/Relax/Space_Junk
-|SongDef.volume=0.99
-}}

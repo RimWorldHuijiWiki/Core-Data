@@ -1,0 +1,7 @@
+{{#set:
+|dataType=Def
+|defType=PawnTableDef
+|defName=Restrict
+|PawnTableDef.defName=Restrict
+|PawnTableDef.columns="Label","CopyPasteTimetable","Timetable","GapTiny","AllowedArea","RemainingSpace"
+}}

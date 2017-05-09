@@ -1,0 +1,11 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Lovin
+|JobDef.defName=Lovin
+|JobDef.driverClass=JobDriver_Lovin
+|JobDef.reportString=lovin'.
+|JobDef.reportString.zh-cn=爱爱。
+|JobDef.reportString.zh-tw=滾床單。
+|JobDef.casualInterruptible=false
+}}

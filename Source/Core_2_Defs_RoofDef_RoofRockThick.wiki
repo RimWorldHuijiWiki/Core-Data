@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RoofDef
+|defName=RoofRockThick
+|RoofDef.defName=RoofRockThick
+|RoofDef.label=overhead mountain
+|RoofDef.label.zh-cn=山岩顶（厚）
+|RoofDef.label.zh-tw=山岩頂
+|RoofDef.isNatural=true
+|RoofDef.isThickRoof=true
+|RoofDef.collapseLeavingThingDef=CollapsedRocks
+|RoofDef.filthLeaving=RockRubble
+}}

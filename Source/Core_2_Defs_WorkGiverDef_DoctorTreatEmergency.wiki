@@ -1,0 +1,21 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoctorTreatEmergency
+|WorkGiverDef.defName=DoctorTreatEmergency
+|WorkGiverDef.label=give emergency treatment
+|WorkGiverDef.label.zh-cn=提供紧急治疗
+|WorkGiverDef.label.zh-tw=緊急治療
+|WorkGiverDef.giverClass=WorkGiver_TendEmergency
+|WorkGiverDef.workType=Doctor
+|WorkGiverDef.priorityInType=100
+|WorkGiverDef.verb=treat
+|WorkGiverDef.verb.zh-cn=治疗
+|WorkGiverDef.verb.zh-tw=緊急治療
+|WorkGiverDef.gerund=treating
+|WorkGiverDef.gerund.zh-cn=治疗
+|WorkGiverDef.gerund.zh-tw=急救
+|WorkGiverDef.emergency=true
+|WorkGiverDef.requiredCapacities="Manipulation"
+|WorkGiverDef.prioritizeSustains=true
+}}

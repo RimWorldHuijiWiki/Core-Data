@@ -1,0 +1,14 @@
+{{#set:
+|dataType=Def
+|defType=DesignationCategoryDef
+|defName=Orders
+|DesignationCategoryDef.defName=Orders
+|DesignationCategoryDef.label=orders
+|DesignationCategoryDef.label.zh-cn=命令
+|DesignationCategoryDef.label.zh-tw=命令
+|DesignationCategoryDef.description=Designate specific interactions with specific things.
+|DesignationCategoryDef.description.zh-cn=对特定的目标向你的殖民者下达一个特定的指令。
+|DesignationCategoryDef.description.zh-tw=對指定的物件下達特殊命令。
+|DesignationCategoryDef.specialDesignatorClasses="Designator_Cancel","Designator_Deconstruct","Designator_Mine","Designator_Haul","Designator_PlantsCut","Designator_PlantsHarvest","Designator_PlantsHarvestWood","Designator_Hunt","Designator_Slaughter","Designator_Tame","Designator_Uninstall","Designator_Claim","Designator_Strip","Designator_RearmTrap","Designator_Open","Designator_PlanAdd","Designator_PlanRemove"
+|DesignationCategoryDef.order=900
+}}

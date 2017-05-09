@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DutyDef
-|defName=ExitMapRandom
-|DutyDef.defName=ExitMapRandom
-|DutyDef.thinkNode=Exist
-|DutyDef.thinkNode.Class=JobGiver_ExitMapRandom
-|DutyDef.thinkNode.defaultLocomotion=Walk
-}}

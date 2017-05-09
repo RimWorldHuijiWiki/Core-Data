@@ -1,0 +1,6 @@
+{{#set:
+|dataType=Def
+|defType=ReservationLayerDef
+|defName=Ceiling
+|ReservationLayerDef.defName=Ceiling
+}}

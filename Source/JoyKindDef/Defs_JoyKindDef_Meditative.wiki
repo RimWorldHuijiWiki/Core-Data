@@ -1,9 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=JoyKindDef
-|defName=Meditative
-|JoyKindDef.defName=Meditative
-|JoyKindDef.label=meditative
-|JoyKindDef.label.zh-cn=冥想
-|JoyKindDef.label.zh-tw=冥想
-}}

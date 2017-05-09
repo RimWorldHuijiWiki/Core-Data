@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=JobDef
+|defName=Flick
+|JobDef.defName=Flick
+|JobDef.driverClass=JobDriver_Flick
+|JobDef.reportString=flicking switch.
+|JobDef.reportString.zh-cn=按开关。
+|JobDef.reportString.zh-tw=切換開關。
+}}

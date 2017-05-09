@@ -1,0 +1,25 @@
+{{#set:
+|dataType=Def
+|defType=TerrainDef
+|defName=SterileTile
+|TerrainDef.defName=SterileTile
+|TerrainDef.label=sterile tile
+|TerrainDef.label.zh-cn=无菌地砖
+|TerrainDef.label.zh-tw=無菌地磚
+|TerrainDef.description=Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.
+|TerrainDef.description.zh-cn=无菌砖有助于保持房间清洁。对医疗室非常有用，可以防止患者受各种感染。美观度一般，铺设速度非常慢。
+|TerrainDef.description.zh-tw=無菌地磚可以保持房間的潔淨，鋪設在醫院空間可有效避免病人受到細菌感染。外觀普通而鋪設相當耗時。
+|TerrainDef.statBases="Cleanliness","0.6";"WorkToBuild","1650"
+|TerrainDef.fertility=0
+|TerrainDef.costList="Steel","3";"Silver","15"
+|TerrainDef.terrainAffordanceNeeded=Light
+|TerrainDef.constructEffect=ConstructMetal
+|TerrainDef.designationCategory=Floors
+|TerrainDef.designationHotKey=Misc4
+|TerrainDef.texturePath=Terrain/Surfaces/GenericFloorTile
+|TerrainDef.renderPrecedence=243
+|TerrainDef.affordances="Light","Heavy","SmoothHard"
+|TerrainDef.layerable=true
+|TerrainDef.color=(0.71, 0.71, 0.71)
+|TerrainDef.acceptTerrainSourceFilth=True
+}}

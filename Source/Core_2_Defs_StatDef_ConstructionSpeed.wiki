@@ -1,0 +1,32 @@
+{{#set:
+|dataType=Def
+|defType=StatDef
+|defName=ConstructionSpeed
+|StatDef.defName=ConstructionSpeed
+|StatDef.label=construction speed
+|StatDef.label.zh-cn=建造速度
+|StatDef.label.zh-tw=生產速度
+|StatDef.description=Speed at which this person constructs and repairs buildings.
+|StatDef.description.zh-cn=此人在建造与修理建筑物时的速度。
+|StatDef.description.zh-tw=這名角色進行生產工作時的速度加成。
+|StatDef.category=PawnWork
+|StatDef.toStringStyle=PercentZero
+|StatDef.defaultBaseValue=1
+|StatDef.statFactors="WorkSpeedGlobal"
+|StatDef.skillNeedFactors=Exist
+|StatDef.skillNeedFactors.Count=1
+|StatDef.skillNeedFactors.0=Exist
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
+|StatDef.skillNeedFactors.0.skill=Construction
+|StatDef.skillNeedFactors.0.baseFactor=0.5
+|StatDef.skillNeedFactors.0.bonusFactor=0.15
+|StatDef.capacityFactors=Exist
+|StatDef.capacityFactors.Count=2
+|StatDef.capacityFactors.0=Exist
+|StatDef.capacityFactors.0.capacity=Manipulation
+|StatDef.capacityFactors.0.weight=1
+|StatDef.capacityFactors.1=Exist
+|StatDef.capacityFactors.1.capacity=Sight
+|StatDef.capacityFactors.1.weight=0.2
+|StatDef.capacityFactors.1.max=1
+}}

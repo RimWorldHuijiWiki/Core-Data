@@ -1,8 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=DesignationDef
-|defName=Open
-|DesignationDef.defName=Open
-|DesignationDef.texturePath=Designations/Open
-|DesignationDef.targetType=Thing
-}}

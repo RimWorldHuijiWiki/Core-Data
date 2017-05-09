@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=JoyGiverDef
+|defName=PlayBilliards
+|JoyGiverDef.defName=PlayBilliards
+|JoyGiverDef.giverClass=JoyGiver_PlayBilliards
+|JoyGiverDef.baseChance=2
+|JoyGiverDef.thingDefs="BilliardsTable"
+|JoyGiverDef.jobDef=PlayBilliards
+|JoyGiverDef.joyKind=GamingDexterity
+|JoyGiverDef.requiredCapacities="Sight","Manipulation"
+}}

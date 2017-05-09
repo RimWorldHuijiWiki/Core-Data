@@ -1,0 +1,10 @@
+{{#set:
+|dataType=Def
+|defType=BodyPartGroupDef
+|defName=Feet
+|BodyPartGroupDef.defName=Feet
+|BodyPartGroupDef.label=feet
+|BodyPartGroupDef.label.zh-cn=脚部
+|BodyPartGroupDef.label.zh-tw=足部
+|BodyPartGroupDef.listOrder=9
+}}

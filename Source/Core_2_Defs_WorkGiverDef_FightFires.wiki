@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=FightFires
+|WorkGiverDef.defName=FightFires
+|WorkGiverDef.label=fight fires
+|WorkGiverDef.label.zh-cn=扑灭火焰
+|WorkGiverDef.label.zh-tw=滅火
+|WorkGiverDef.giverClass=WorkGiver_FightFires
+|WorkGiverDef.workType=Firefighter
+|WorkGiverDef.verb=extinguish
+|WorkGiverDef.verb.zh-cn=灭火
+|WorkGiverDef.verb.zh-tw=滅火
+|WorkGiverDef.gerund=extinguishing
+|WorkGiverDef.gerund.zh-cn=灭火
+|WorkGiverDef.gerund.zh-tw=滅火
+|WorkGiverDef.emergency=true
+}}

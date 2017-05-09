@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=SongDef
+|defName=UnnamedDef
+|SongDef.clipPath=Songs/Tension/Dont_Freeze_Up
+|SongDef.volume=1.0
+|SongDef.tense=true
+}}

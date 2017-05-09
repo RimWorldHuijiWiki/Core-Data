@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=ThoughtDef
+|defName=Catharsis
+|ThoughtDef.defName=Catharsis
+|ThoughtDef.stages=Exist
+|ThoughtDef.stages.Count=1
+|ThoughtDef.stages.0=Exist
+|ThoughtDef.stages.0.label=catharsis
+|ThoughtDef.stages.0.label.zh-cn=宣泄情绪
+|ThoughtDef.stages.0.label.zh-tw=宣洩情緒
+|ThoughtDef.stages.0.description=It felt good to finally unbottle my feelings.
+|ThoughtDef.stages.0.description.zh-cn=把压力发泄出来的感觉真是不错。
+|ThoughtDef.stages.0.description.zh-tw=我剛做了什麼？那不是我，我明明可以做得更好的。
+|ThoughtDef.stages.0.baseMoodEffect=40
+|ThoughtDef.stackLimit=5
+|ThoughtDef.stackedEffectMultiplier=1.0
+|ThoughtDef.durationDays=2.5
+}}

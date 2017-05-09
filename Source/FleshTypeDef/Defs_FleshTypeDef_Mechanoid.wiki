@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=FleshTypeDef
-|defName=Mechanoid
-|FleshTypeDef.defName=Mechanoid
-|FleshTypeDef.corpseCategory=CorpsesMechanoid
-}}

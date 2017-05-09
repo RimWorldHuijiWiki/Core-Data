@@ -1,7 +1,0 @@
-﻿{{#set:
-|dataType=Def
-|defType=PawnColumnDef
-|defName=CopyPasteTimetable
-|PawnColumnDef.defName=CopyPasteTimetable
-|PawnColumnDef.workerClass=PawnColumnWorker_CopyPasteTimetable
-}}

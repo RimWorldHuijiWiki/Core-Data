@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HairDef
+|defName=Messy
+|HairDef.defName=Messy
+|HairDef.label=messy
+|HairDef.label.zh-cn=凌乱
+|HairDef.label.zh-tw=狂亂
+|HairDef.texPath=Things/Pawn/Humanlike/Hairs/Mess
+|HairDef.hairGender=Male
+|HairDef.hairTags="Urban","Rural"
+}}

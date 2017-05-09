@@ -1,0 +1,8 @@
+{{#set:
+|dataType=Def
+|defType=RulePackDef
+|defName=ArtDescription_Furniture
+|RulePackDef.defName=ArtDescription_Furniture
+|RulePackDef.rulePack=Exist
+|RulePackDef.rulePack.rulesStrings="physical_description_root->This furniture is engraved with a [depiction] of [image]. [desc_sentence_group]","physical_description_root->This furniture bears a [depiction] of [image]. [desc_sentence_group]","physical_description_root->An engraving on this furniture [depicts] [image]. [desc_sentence_group]","physical_description_root->这件家具上雕刻的内容[depiction]了[image]。[desc_sentence_group]","physical_description_root->这件家具上雕刻的内容向我们[depiction]了[image]。[desc_sentence_group]","physical_description_root->在这件家具上雕刻的内容[depicts]的是[image]。[desc_sentence_group]","physical_description_root->這個家具刻著一段關於[image]的[depiction]。[desc_sentence_group]","physical_description_root->這個家具上紀錄著一段關於[image]的[depiction]。[desc_sentence_group]","physical_description_root->這個家具上的雕刻[depicts][image]的事件。[desc_sentence_group]"
+}}

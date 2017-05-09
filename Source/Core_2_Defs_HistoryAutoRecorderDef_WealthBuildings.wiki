@@ -1,0 +1,12 @@
+{{#set:
+|dataType=Def
+|defType=HistoryAutoRecorderDef
+|defName=WealthBuildings
+|HistoryAutoRecorderDef.defName=WealthBuildings
+|HistoryAutoRecorderDef.label=wealth (buildings)
+|HistoryAutoRecorderDef.label.zh-cn=资产（建筑）
+|HistoryAutoRecorderDef.label.zh-tw=資產(建築)
+|HistoryAutoRecorderDef.workerClass=HistoryAutoRecorderWorker_WealthBuildings
+|HistoryAutoRecorderDef.recordTicksFrequency=30000
+|HistoryAutoRecorderDef.graphColor=RGBA(0.5, 0.7, 0, 1)
+}}

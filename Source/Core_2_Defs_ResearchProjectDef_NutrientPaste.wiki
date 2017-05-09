@@ -1,0 +1,18 @@
+{{#set:
+|dataType=Def
+|defType=ResearchProjectDef
+|defName=NutrientPaste
+|ResearchProjectDef.defName=NutrientPaste
+|ResearchProjectDef.label=nutrient paste
+|ResearchProjectDef.label.zh-cn=营养膏合成机
+|ResearchProjectDef.label.zh-tw=營養膏生產機
+|ResearchProjectDef.description=Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks.
+|ResearchProjectDef.description.zh-cn=解锁建造「营养膏合成机」，能自动将生食高效地合成为营养膏。用于应对食物短缺。
+|ResearchProjectDef.description.zh-tw=解鎖建造營養膏生產機，可自動將原料製成營養膏。
+|ResearchProjectDef.techLevel=Industrial
+|ResearchProjectDef.baseCost=600
+|ResearchProjectDef.prerequisites="Electricity"
+|ResearchProjectDef.tags="ClassicStart"
+|ResearchProjectDef.researchViewX=5
+|ResearchProjectDef.researchViewY=0.5
+}}

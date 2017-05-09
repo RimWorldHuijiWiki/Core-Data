@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=RecordDef
+|defName=NutritionEaten
+|RecordDef.defName=NutritionEaten
+|RecordDef.label=nutrition eaten
+|RecordDef.label.zh-cn=吃营养膏数
+|RecordDef.label.zh-tw=營養攝取數
+|RecordDef.description=The amount of nutrition I have eaten.
+|RecordDef.description.zh-cn=我吃掉的营养膏食品数量。
+|RecordDef.description.zh-tw=我攝取的營養總量。
+|RecordDef.type=Float
+}}

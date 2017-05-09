@@ -1,0 +1,13 @@
+{{#set:
+|dataType=Def
+|defType=PawnCapacityDef
+|defName=BloodPumping
+|PawnCapacityDef.defName=BloodPumping
+|PawnCapacityDef.label=blood pumping
+|PawnCapacityDef.label.zh-cn=血液循环
+|PawnCapacityDef.label.zh-tw=血液循環
+|PawnCapacityDef.listOrder=100
+|PawnCapacityDef.workerClass=PawnCapacityWorker_BloodPumping
+|PawnCapacityDef.showOnMechanoids=false
+|PawnCapacityDef.lethalFlesh=true
+}}

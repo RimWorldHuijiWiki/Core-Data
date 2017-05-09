@@ -1,0 +1,19 @@
+{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=Strip
+|WorkGiverDef.defName=Strip
+|WorkGiverDef.label=strip corpses
+|WorkGiverDef.label.zh-cn=剥光衣物
+|WorkGiverDef.label.zh-tw=掠奪
+|WorkGiverDef.giverClass=WorkGiver_Strip
+|WorkGiverDef.workType=Hauling
+|WorkGiverDef.priorityInType=100
+|WorkGiverDef.verb=strip
+|WorkGiverDef.verb.zh-cn=剥光
+|WorkGiverDef.verb.zh-tw=掠奪
+|WorkGiverDef.gerund=stripping
+|WorkGiverDef.gerund.zh-cn=剥光
+|WorkGiverDef.gerund.zh-tw=扒光
+|WorkGiverDef.requiredCapacities="Manipulation"
+}}
