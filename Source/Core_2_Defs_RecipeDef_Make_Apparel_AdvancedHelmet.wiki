@@ -33,7 +33,7 @@
 |RecipeDef.fixedIngredientFilter.categories="Metallic"
 |RecipeDef.products="Apparel_AdvancedHelmet","1"
 |RecipeDef.productHasIngredientStuff=true
-|RecipeDef.unfinishedThingDef=UnfinishedTechArmor
+|RecipeDef.unfinishedThingDef=UnfinishedMetallicTechArmor
 |RecipeDef.workSkill=Crafting
 |RecipeDef.effectWorking=Smith
 |RecipeDef.soundWorking=Recipe_Machining

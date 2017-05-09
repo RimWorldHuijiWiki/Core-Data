@@ -17,7 +17,7 @@
 |WorkTypeDef.pawnLabel.zh-cn=医生
 |WorkTypeDef.pawnLabel.zh-tw=醫生
 |WorkTypeDef.gerundLabel=Doctoring
-|WorkTypeDef.gerundLabel.zh-cn=照顾
+|WorkTypeDef.gerundLabel.zh-cn=医生
 |WorkTypeDef.gerundLabel.zh-tw=治療
 |WorkTypeDef.verb=Care for
 |WorkTypeDef.verb.zh-cn=照顾

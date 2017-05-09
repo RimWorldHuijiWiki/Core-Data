@@ -29,7 +29,7 @@
 |ThingDef.comps.2.compClass=CompQuality
 |ThingDef.recipeMaker=Exist
 |ThingDef.recipeMaker.workSpeedStat=SmithingSpeed
-|ThingDef.recipeMaker.unfinishedThingDef=UnfinishedTechArmor
+|ThingDef.recipeMaker.unfinishedThingDef=UnfinishedMetallicTechArmor
 |ThingDef.recipeMaker.workSkill=Crafting
 |ThingDef.recipeMaker.effectWorking=Smith
 |ThingDef.recipeMaker.soundWorking=Recipe_Machining
