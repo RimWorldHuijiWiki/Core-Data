@@ -10,4 +10,5 @@
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=1
+|IncidentDef.earliestDay=15
 }}

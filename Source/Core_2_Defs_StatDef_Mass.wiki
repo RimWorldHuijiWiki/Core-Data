@@ -17,7 +17,7 @@
 |StatDef.defaultBaseValue=1
 |StatDef.minValue=0
 |StatDef.parts=Exist
-|StatDef.parts.Count=3
+|StatDef.parts.Count=4
 |StatDef.parts.0=Exist
 |StatDef.parts.0.Class=StatPart_BodySize
 |StatDef.parts.1=Exist

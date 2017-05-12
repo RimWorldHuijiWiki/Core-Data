@@ -17,5 +17,6 @@
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
 |TerrainDef.driesTo=Gravel
+|TerrainDef.tags="Water"
 |TerrainDef.acceptFilth=false
 }}

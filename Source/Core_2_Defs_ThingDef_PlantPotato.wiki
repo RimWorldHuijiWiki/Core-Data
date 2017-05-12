@@ -37,7 +37,7 @@
 |ThingDef.plant.harvestTag=Standard
 |ThingDef.plant.soundHarvesting=Harvest_Standard
 |ThingDef.plant.soundHarvestFinish=Harvest_Standard_Finish
-|ThingDef.plant.growDays=6
+|ThingDef.plant.growDays=5.8
 |ThingDef.plant.dieIfLeafless=true
 |ThingDef.plant.fertilityMin=0.5
 |ThingDef.plant.fertilitySensitivity=0.4

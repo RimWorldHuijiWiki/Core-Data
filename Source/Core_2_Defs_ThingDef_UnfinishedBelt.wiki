@@ -6,7 +6,7 @@
 |ThingDef.label=unfinished belt
 |ThingDef.label.zh-cn=未完成的腰带
 |ThingDef.label.zh-tw=腰帶半成品
-|ThingDef.statBases="MaxHitPoints","50";"DeteriorationRate","2.0";"Beauty","-4"
+|ThingDef.statBases="MaxHitPoints","50";"DeteriorationRate","2.0";"Beauty","-4";"Mass","1"
 |ThingDef.pathCost=15
 |ThingDef.stuffCategories=
 |ThingDef.altitudeLayer=Item

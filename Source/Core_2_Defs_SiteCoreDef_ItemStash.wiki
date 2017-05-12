@@ -6,6 +6,9 @@
 |SiteCoreDef.label=item stash
 |SiteCoreDef.label.zh-cn=物品藏匿点
 |SiteCoreDef.label.zh-tw=藏寶處
+|SiteCoreDef.description=A stash of valuable items.
+|SiteCoreDef.description.zh-cn=一个贵重物品的藏匿点。
+|SiteCoreDef.description.zh-tw=A stash of valuable items.
 |SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/ItemStash
 }}

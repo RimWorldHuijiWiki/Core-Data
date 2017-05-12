@@ -12,6 +12,7 @@
 |ThingDef.statBases="MaxHitPoints","80";"Flammability","1.0";"MarketValue","1200";"Mass","5";"EntertainmentStrengthFactor","1.2"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
+|ThingDef.costList="Steel","100";"Component","10"
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair
 |ThingDef.altitudeLayer=Building

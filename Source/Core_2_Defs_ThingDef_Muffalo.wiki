@@ -26,8 +26,8 @@
 |ThingDef.comps.1.milkDef=Milk
 |ThingDef.comps.2=Exist
 |ThingDef.comps.2.Class=CompProperties_Shearable
-|ThingDef.comps.2.shearIntervalDays=30
-|ThingDef.comps.2.woolAmount=125
+|ThingDef.comps.2.shearIntervalDays=25
+|ThingDef.comps.2.woolAmount=100
 |ThingDef.comps.2.woolDef=WoolMuffalo
 |ThingDef.selectable=true
 |ThingDef.hasTooltip=true

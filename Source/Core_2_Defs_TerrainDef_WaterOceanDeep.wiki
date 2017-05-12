@@ -17,5 +17,6 @@
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
+|TerrainDef.tags="Water"
 |TerrainDef.acceptFilth=false
 }}

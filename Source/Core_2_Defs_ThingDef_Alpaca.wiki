@@ -22,7 +22,7 @@
 |ThingDef.comps.1=Exist
 |ThingDef.comps.1.Class=CompProperties_Shearable
 |ThingDef.comps.1.shearIntervalDays=15
-|ThingDef.comps.1.woolAmount=150
+|ThingDef.comps.1.woolAmount=100
 |ThingDef.comps.1.woolDef=WoolAlpaca
 |ThingDef.selectable=true
 |ThingDef.hasTooltip=true

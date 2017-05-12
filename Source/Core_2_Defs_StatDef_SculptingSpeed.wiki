@@ -6,8 +6,8 @@
 |StatDef.label=sculpting speed
 |StatDef.label.zh-cn=雕刻速度
 |StatDef.label.zh-tw=雕刻速度
-|StatDef.description=Speed at which this person sculpts.
-|StatDef.description.zh-cn=此人进行雕刻工作时的速度。
+|StatDef.description=Speed at which this person sculpts. Note: Skill affects the quality of the sculptures created, but not the sculpting speed.
+|StatDef.description.zh-cn=此人进行雕刻工作时的速度。注意：技能影响产出雕塑的质量，但不影响雕刻速度。
 |StatDef.description.zh-tw=這名角色進行雕刻創作時的效率加成。 
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero

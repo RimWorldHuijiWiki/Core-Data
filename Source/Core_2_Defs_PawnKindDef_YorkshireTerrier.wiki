@@ -96,7 +96,7 @@
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData=Exist
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.texPath=Things/Pawn/Animal/Dessicated/CritterDessicatedSmall
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.drawSize=0.9
-|PawnKindDef.combatPower=20
+|PawnKindDef.combatPower=22
 |PawnKindDef.labelMale=male yorkshire terrier
 |PawnKindDef.labelMale.zh-cn=公约克夏犬
 |PawnKindDef.labelMale.zh-tw=male yorkshire terrier

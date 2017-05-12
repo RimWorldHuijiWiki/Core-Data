@@ -90,7 +90,7 @@
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData=Exist
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.texPath=Things/Pawn/Animal/Dessicated/CritterDessicatedSmall
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.drawSize=1.1
-|PawnKindDef.combatPower=20
+|PawnKindDef.combatPower=25
 |PawnKindDef.labelMale=male squirrel
 |PawnKindDef.labelMale.zh-cn=公松鼠
 |PawnKindDef.labelMale.zh-tw=male squirrel

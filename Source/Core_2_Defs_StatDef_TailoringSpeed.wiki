@@ -6,8 +6,8 @@
 |StatDef.label=tailoring speed
 |StatDef.label.zh-cn=缝制速度
 |StatDef.label.zh-tw=裁縫速度
-|StatDef.description=Speed at which this person makes clothes.
-|StatDef.description.zh-cn=此人在进行缝制衣物工作时的速度。
+|StatDef.description=Speed at which this person makes clothes. Note: Skill affects the quality of the apparel created, but not the tailoring speed.
+|StatDef.description.zh-cn=此人在进行缝制衣物工作时的速度。注意：技能影响产出衣物放质量，但不影响缝制速度。
 |StatDef.description.zh-tw=這名角色進行裁縫工作時的工作速度。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero

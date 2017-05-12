@@ -18,7 +18,7 @@
 |StorytellerDef.comps.0.Class=StorytellerCompProperties_RandomMain
 |StorytellerDef.comps.0.minDaysPassed=1
 |StorytellerDef.comps.0.allowedTargetTypes=MapPlayerHome
-|StorytellerDef.comps.0.mtbDays=1.14
+|StorytellerDef.comps.0.mtbDays=1.13
 |StorytellerDef.comps.0.categoryWeights="Misc","5.5";"OrbitalVisitor","1";"ThreatBig","1";"ThreatSmall","0.9";"AllyArrival","1";"AllyAssistance","0.5";"ShipChunkDrop","0.5"
 |StorytellerDef.comps.0.maxThreatBigIntervalDays=13
 |StorytellerDef.comps.1=Exist

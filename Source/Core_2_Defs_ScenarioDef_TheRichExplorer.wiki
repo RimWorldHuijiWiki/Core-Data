@@ -6,8 +6,8 @@
 |ScenarioDef.label=The Rich Explorer
 |ScenarioDef.label.zh-cn=富有的探险家
 |ScenarioDef.label.zh-tw=富有冒險家
-|ScenarioDef.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.<br/><br/>Note: Since your starting character will lack some skills, this is an especially difficult scenario.
-|ScenarioDef.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。<br/><br/>注意：你的初始角色会缺少部分技能，这是一个特别困难的剧本。
+|ScenarioDef.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.<br/><br/>Note: Since your starting character will lack some skills, this is an especially difficult scenario in the early game.
+|ScenarioDef.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。<br/><br/>注意：你的初始角色会缺少部分技能，这是个在游戏早期特别高难度的剧本。
 |ScenarioDef.description.zh-tw=當你離開你閃耀世界的家，人們都認為你瘋了，但你嚮往著天上的星星，渴望真實的冒險，而不是全像模擬的虛假體驗。現在，經過了數十年漫長的宇宙航行，你從休眠艙中甦醒，降落在這片未知的邊緣世界上，冒險正在前方等待著你！
 |ScenarioDef.scenario=Exist
 |ScenarioDef.scenario.name=The Rich Explorer
@@ -16,8 +16,8 @@
 |ScenarioDef.scenario.summary=One rich explorer out to experience the universe. Extra difficult.
 |ScenarioDef.scenario.summary.zh-cn=一个富有的探险家在宇宙中前所未有的经历。
 |ScenarioDef.scenario.summary.zh-tw=一名富有探險家的宇宙大冒險。
-|ScenarioDef.scenario.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.<br/><br/>Note: Since your starting character will lack some skills, this is an especially difficult scenario.
-|ScenarioDef.scenario.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。<br/><br/>注意：你的初始角色会缺少部分技能，这是一个特别困难的剧本。
+|ScenarioDef.scenario.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.<br/><br/>Note: Since your starting character will lack some skills, this is an especially difficult scenario in the early game.
+|ScenarioDef.scenario.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。<br/><br/>注意：你的初始角色会缺少部分技能，这是个在游戏早期特别高难度的剧本。
 |ScenarioDef.scenario.description.zh-tw=當你離開你閃耀世界的家，人們都認為你瘋了，但你嚮往著天上的星星，渴望真實的冒險，而不是全像模擬的虛假體驗。現在，經過了數十年漫長的宇宙航行，你從休眠艙中甦醒，降落在這片未知的邊緣世界上，冒險正在前方等待著你！
 |ScenarioDef.scenario.playerFaction=Exist
 |ScenarioDef.scenario.playerFaction.def=PlayerFaction

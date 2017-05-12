@@ -21,9 +21,9 @@
 |StorytellerDef.comps.1.minDaysPassed=5
 |StorytellerDef.comps.1.mtbDaysThreatSmall=3.75
 |StorytellerDef.comps.1.mtbDaysThreatBig=1.20
-|StorytellerDef.comps.1.threatOffDays=6.3
+|StorytellerDef.comps.1.threatOffDays=6.0
 |StorytellerDef.comps.1.threatOnDays=4.6
-|StorytellerDef.comps.1.minDaysBetweenThreatBigs=2.1
+|StorytellerDef.comps.1.minDaysBetweenThreatBigs=1.9
 |StorytellerDef.comps.2=Exist
 |StorytellerDef.comps.2.Class=StorytellerCompProperties_CategoryMTB
 |StorytellerDef.comps.2.minDaysPassed=5

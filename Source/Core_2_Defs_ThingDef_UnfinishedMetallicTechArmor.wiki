@@ -6,7 +6,7 @@
 |ThingDef.label=unfinished armor
 |ThingDef.label.zh-cn=未完成的护甲
 |ThingDef.label.zh-tw=unfinished armor
-|ThingDef.statBases="MaxHitPoints","50";"DeteriorationRate","2.0";"Beauty","-4"
+|ThingDef.statBases="MaxHitPoints","50";"DeteriorationRate","2.0";"Beauty","-4";"Mass","1"
 |ThingDef.pathCost=15
 |ThingDef.stuffCategories="Metallic","Woody","Stony","Metallic"
 |ThingDef.altitudeLayer=Item

@@ -13488,6 +13488,7 @@ Core:Defs_IncidentDef_CaravanRequest,"{{#set:
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=1
+|IncidentDef.earliestDay=15
 }}"
 Core:Defs_IncidentDef_ColdSnap,"{{#set:
 |dataType=Def
@@ -20103,7 +20104,7 @@ Core:Defs_PawnKindDef_Chicken,"{{#set:
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData=Exist
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.texPath=Things/Pawn/Animal/Dessicated/CritterDessicatedSmall
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.drawSize=0.85
-|PawnKindDef.combatPower=15
+|PawnKindDef.combatPower=22
 |PawnKindDef.labelMale=rooster
 |PawnKindDef.labelMale.zh-cn=公鸡
 |PawnKindDef.labelMale.zh-tw=公雞
@@ -24723,7 +24724,7 @@ Core:Defs_PawnKindDef_Squirrel,"{{#set:
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData=Exist
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.texPath=Things/Pawn/Animal/Dessicated/CritterDessicatedSmall
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.drawSize=1.1
-|PawnKindDef.combatPower=20
+|PawnKindDef.combatPower=25
 |PawnKindDef.labelMale=male squirrel
 |PawnKindDef.labelMale.zh-cn=公松鼠
 |PawnKindDef.labelMale.zh-tw=male squirrel
@@ -25968,7 +25969,7 @@ Core:Defs_PawnKindDef_YorkshireTerrier,"{{#set:
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData=Exist
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.texPath=Things/Pawn/Animal/Dessicated/CritterDessicatedSmall
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.drawSize=0.9
-|PawnKindDef.combatPower=20
+|PawnKindDef.combatPower=22
 |PawnKindDef.labelMale=male yorkshire terrier
 |PawnKindDef.labelMale.zh-cn=公约克夏犬
 |PawnKindDef.labelMale.zh-tw=male yorkshire terrier
@@ -31568,10 +31569,10 @@ Core:Defs_ResearchProjectDef_LongRangeMineralScanner,"{{#set:
 |ResearchProjectDef.label.zh-cn=远距离矿物扫描仪
 |ResearchProjectDef.label.zh-tw=long-range mineral scanner
 |ResearchProjectDef.description=Allows the construction of long-range mineral scanners which automatically detect precious minerals like gold or jade in the nearby areas (but not in which the scanners were built).<br/><br/>The lumps are found on average once per 30 days within a radius of 30 tiles.<br/><br/>Building more than one scanner in the same or nearby areas has little to no effect.
-|ResearchProjectDef.description.zh-cn=解锁建造「远距离矿物扫描仪」，可自动探测附近区域（非扫描仪所在区域）的珍惜矿物，比如黄金或翡翠。<br/><br/>半径30格地图内，发现矿物块的频率为平均每30天一次。<br/><br/>在同一区域内或临近区域建造多于一个扫描仪对效率影响不大。
+|ResearchProjectDef.description.zh-cn=解锁建造「远距离矿物扫描仪」，可自动探测附近区域（非扫描仪所在区域）的稀有矿物，比如黄金或翡翠。<br/><br/>半径30格地图内，发现矿物块的频率为平均每30天一次。<br/><br/>在同一区域内或临近区域建造多于一个扫描仪对效率影响不大。
 |ResearchProjectDef.description.zh-tw=Allows the construction of long-range mineral scanners which automatically detect precious minerals like gold or jade in the nearby areas (but not in which the scanners were built).<br/><br/>The lumps are found on average once per 30 days within a radius of 30 tiles.<br/><br/>Building more than one scanner in the same or nearby areas has little to no effect.
 |ResearchProjectDef.techLevel=Industrial
-|ResearchProjectDef.baseCost=800
+|ResearchProjectDef.baseCost=700
 |ResearchProjectDef.prerequisites=""MicroelectronicsBasics""
 |ResearchProjectDef.requiredResearchBuilding=HiTechResearchBench
 |ResearchProjectDef.researchViewX=8
@@ -34620,18 +34621,18 @@ Core:Defs_ScenarioDef_LostTribe,"{{#set:
 |ScenarioDef.label=Lost Tribe
 |ScenarioDef.label.zh-cn=失落的部落
 |ScenarioDef.label.zh-tw=失落的部落
-|ScenarioDef.description=Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.
-|ScenarioDef.description.zh-cn=神明派出大量极度残暴的机械体毁灭了你的部落。你们五人死里逃生。现在是时候建造一个新的家园了。
+|ScenarioDef.description=Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.<br/><br/>Note: Since you'll start poor and research slowly, this is a difficult scenario.
+|ScenarioDef.description.zh-cn=神明派出大量极度残暴的机械体毁灭了你的部落。你们五人死里逃生。现在是时候建造一个新的家园了。<br/><br/>注意：你的开局会很穷并且研究很慢，这是个高难度的剧本。
 |ScenarioDef.description.zh-tw=你的部落遭到神明無情的摧毀，只有你們五人從屠殺中僥倖逃脫。現在，是時候建立一個新家了。
 |ScenarioDef.scenario=Exist
 |ScenarioDef.scenario.name=Lost Tribe
 |ScenarioDef.scenario.name.zh-cn=失落的部落
 |ScenarioDef.scenario.name.zh-tw=失落的部落
-|ScenarioDef.scenario.summary=Five lost tribespeople attempt to rebuild.
-|ScenarioDef.scenario.summary.zh-cn=五个幸存的部落人顽强重建家园。
+|ScenarioDef.scenario.summary=Five lost tribespeople attempt to rebuild. Difficult.
+|ScenarioDef.scenario.summary.zh-cn=五个幸存的部落人顽强重建家园。高难度。
 |ScenarioDef.scenario.summary.zh-tw=與五名部落遺民合力建立新家園。
-|ScenarioDef.scenario.description=Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.
-|ScenarioDef.scenario.description.zh-cn=神明派出大量极度残暴的机械体毁灭了你的部落。你们五人死里逃生。现在是时候建造一个新的家园了。
+|ScenarioDef.scenario.description=Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.<br/><br/>Note: Since you'll start poor and research slowly, this is a difficult scenario.
+|ScenarioDef.scenario.description.zh-cn=神明派出大量极度残暴的机械体毁灭了你的部落。你们五人死里逃生。现在是时候建造一个新的家园了。<br/><br/>注意：你的开局会很穷并且研究很慢，这是个高难度的剧本。
 |ScenarioDef.scenario.description.zh-tw=你的部落遭到神明降下的殺戮機器無情的蹂躪，只有你們五人從屠殺中僥倖逃脫。現在，是時候建立一個新家了。
 |ScenarioDef.scenario.playerFaction=Exist
 |ScenarioDef.scenario.playerFaction.def=PlayerFaction
@@ -34671,7 +34672,7 @@ Core:Defs_ScenarioDef_LostTribe,"{{#set:
 |ScenarioDef.scenario.parts.5.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.5.def=StartingThing_Defined
 |ScenarioDef.scenario.parts.5.thingDef=Pemmican
-|ScenarioDef.scenario.parts.5.count=340
+|ScenarioDef.scenario.parts.5.count=300
 |ScenarioDef.scenario.parts.6=Exist
 |ScenarioDef.scenario.parts.6.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.6.def=StartingThing_Defined
@@ -34727,8 +34728,8 @@ Core:Defs_ScenarioDef_TheRichExplorer,"{{#set:
 |ScenarioDef.label=The Rich Explorer
 |ScenarioDef.label.zh-cn=富有的探险家
 |ScenarioDef.label.zh-tw=富有冒險家
-|ScenarioDef.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.<br/><br/>Note: Since your starting character will lack some skills, this is an especially difficult scenario.
-|ScenarioDef.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。<br/><br/>注意：你的初始角色会缺少部分技能，这是一个特别困难的剧本。
+|ScenarioDef.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.<br/><br/>Note: Since your starting character will lack some skills, this is an especially difficult scenario in the early game.
+|ScenarioDef.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。<br/><br/>注意：你的初始角色会缺少部分技能，这是个在游戏早期特别高难度的剧本。
 |ScenarioDef.description.zh-tw=當你離開你閃耀世界的家，人們都認為你瘋了，但你嚮往著天上的星星，渴望真實的冒險，而不是全像模擬的虛假體驗。現在，經過了數十年漫長的宇宙航行，你從休眠艙中甦醒，降落在這片未知的邊緣世界上，冒險正在前方等待著你！
 |ScenarioDef.scenario=Exist
 |ScenarioDef.scenario.name=The Rich Explorer
@@ -34737,8 +34738,8 @@ Core:Defs_ScenarioDef_TheRichExplorer,"{{#set:
 |ScenarioDef.scenario.summary=One rich explorer out to experience the universe. Extra difficult.
 |ScenarioDef.scenario.summary.zh-cn=一个富有的探险家在宇宙中前所未有的经历。
 |ScenarioDef.scenario.summary.zh-tw=一名富有探險家的宇宙大冒險。
-|ScenarioDef.scenario.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.<br/><br/>Note: Since your starting character will lack some skills, this is an especially difficult scenario.
-|ScenarioDef.scenario.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。<br/><br/>注意：你的初始角色会缺少部分技能，这是一个特别困难的剧本。
+|ScenarioDef.scenario.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.<br/><br/>Note: Since your starting character will lack some skills, this is an especially difficult scenario in the early game.
+|ScenarioDef.scenario.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。<br/><br/>注意：你的初始角色会缺少部分技能，这是个在游戏早期特别高难度的剧本。
 |ScenarioDef.scenario.description.zh-tw=當你離開你閃耀世界的家，人們都認為你瘋了，但你嚮往著天上的星星，渴望真實的冒險，而不是全像模擬的虛假體驗。現在，經過了數十年漫長的宇宙航行，你從休眠艙中甦醒，降落在這片未知的邊緣世界上，冒險正在前方等待著你！
 |ScenarioDef.scenario.playerFaction=Exist
 |ScenarioDef.scenario.playerFaction.def=PlayerFaction
@@ -35164,6 +35165,9 @@ Core:Defs_SiteCoreDef_ItemStash,"{{#set:
 |SiteCoreDef.label=item stash
 |SiteCoreDef.label.zh-cn=物品藏匿点
 |SiteCoreDef.label.zh-tw=藏寶處
+|SiteCoreDef.description=A stash of valuable items.
+|SiteCoreDef.description.zh-cn=一个贵重物品的藏匿点。
+|SiteCoreDef.description.zh-tw=A stash of valuable items.
 |SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/ItemStash
 }}"
@@ -35175,6 +35179,9 @@ Core:Defs_SiteCoreDef_Nothing,"{{#set:
 |SiteCoreDef.label=site
 |SiteCoreDef.label.zh-cn=地点
 |SiteCoreDef.label.zh-tw=地點
+|SiteCoreDef.description=A location in the world which contains nothing special.
+|SiteCoreDef.description.zh-cn=世界中的一个位置，没有什么特殊的东西。
+|SiteCoreDef.description.zh-tw=A location in the world which contains nothing special.
 |SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Nothing
 }}"
@@ -35184,8 +35191,11 @@ Core:Defs_SiteCoreDef_PreciousLump,"{{#set:
 |defName=PreciousLump
 |SiteCoreDef.defName=PreciousLump
 |SiteCoreDef.label=lump of precious resources
-|SiteCoreDef.label.zh-cn=珍惜资源块
+|SiteCoreDef.label.zh-cn=稀有资源块
 |SiteCoreDef.label.zh-tw=一大筆貴重資源
+|SiteCoreDef.description=A mineable lump of precious resources.
+|SiteCoreDef.description.zh-cn=一个可开采的珍惜资源块。
+|SiteCoreDef.description.zh-tw=A mineable lump of precious resources.
 |SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/PreciousLump
 |SiteCoreDef.forceExitAndRemoveMapCountdownDurationDays=10
@@ -45309,7 +45319,7 @@ Core:Defs_StatDef_Mass,"{{#set:
 |StatDef.defaultBaseValue=1
 |StatDef.minValue=0
 |StatDef.parts=Exist
-|StatDef.parts.Count=3
+|StatDef.parts.Count=4
 |StatDef.parts.0=Exist
 |StatDef.parts.0.Class=StatPart_BodySize
 |StatDef.parts.1=Exist
@@ -46011,8 +46021,8 @@ Core:Defs_StatDef_SculptingSpeed,"{{#set:
 |StatDef.label=sculpting speed
 |StatDef.label.zh-cn=雕刻速度
 |StatDef.label.zh-tw=雕刻速度
-|StatDef.description=Speed at which this person sculpts.
-|StatDef.description.zh-cn=此人进行雕刻工作时的速度。
+|StatDef.description=Speed at which this person sculpts. Note: Skill affects the quality of the sculptures created, but not the sculpting speed.
+|StatDef.description.zh-cn=此人进行雕刻工作时的速度。注意：技能影响产出雕塑的质量，但不影响雕刻速度。
 |StatDef.description.zh-tw=這名角色進行雕刻創作時的效率加成。 
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
@@ -46079,6 +46089,7 @@ Core:Defs_StatDef_ShootingAccuracy,"{{#set:
 |StatDef.defaultBaseValue=1
 |StatDef.minValue=0.01
 |StatDef.maxValue=0.998
+|StatDef.noSkillFactor=0.50
 |StatDef.skillNeedFactors=Exist
 |StatDef.skillNeedFactors.Count=1
 |StatDef.skillNeedFactors.0=Exist
@@ -46090,10 +46101,12 @@ Core:Defs_StatDef_ShootingAccuracy,"{{#set:
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
 |StatDef.capacityFactors.0.capacity=Sight
-|StatDef.capacityFactors.0.weight=0.95
+|StatDef.capacityFactors.0.weight=1
+|StatDef.capacityFactors.0.max=2
 |StatDef.capacityFactors.1=Exist
 |StatDef.capacityFactors.1.capacity=Manipulation
-|StatDef.capacityFactors.1.weight=1
+|StatDef.capacityFactors.1.weight=0.7
+|StatDef.capacityFactors.1.max=1
 |StatDef.postProcessCurve=Exist
 |StatDef.postProcessCurve.points=""(-1.0, 0.70)"",""(-0.5, 0.80)"",""(-0.3, 0.83)"",""(-0.2, 0.85)"",""(-0.1, 0.87)"",""(0.0, 0.89)"",""(0.1, 0.93)"",""(0.2, 0.94)"",""(0.3, 0.95)"",""(0.4, 0.96)"",""(0.5, 0.97)"",""(0.6, 0.975)"",""(0.7, 0.98)"",""(0.8, 0.98333)"",""(0.9, 0.98666)"",""(1.0, 0.99)"",""(1.1, 0.9925)"",""(1.3, 0.995)"",""(1.5, 0.9965)"",""(2.0, 0.998)"",""(3.0, 0.999)""
 }}"
@@ -46105,8 +46118,8 @@ Core:Defs_StatDef_SmeltingSpeed,"{{#set:
 |StatDef.label=smelting speed
 |StatDef.label.zh-cn=熔炼速度
 |StatDef.label.zh-tw=金屬提煉速度
-|StatDef.description=Speed at which this person smelts things.
-|StatDef.description.zh-cn=此人熔炼物品的速度。
+|StatDef.description=Speed at which this person smelts things. Note: Since this is dumb labor, its speed is not affected by any skill.
+|StatDef.description.zh-cn=此人熔炼物品的速度。注意：由于这是粗苯的体力劳动，速度不会受到技能影响。
 |StatDef.description.zh-tw=這名角色進行金屬提煉工作時的工作速度。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
@@ -46130,8 +46143,8 @@ Core:Defs_StatDef_SmithingSpeed,"{{#set:
 |StatDef.label=smithing speed
 |StatDef.label.zh-cn=锻造速度
 |StatDef.label.zh-tw=鍛造速度
-|StatDef.description=Speed at which this person smiths or crafts weapons, machines, ammunition, and tools.
-|StatDef.description.zh-cn=此人锻造制作武器、机械、零部件、弹药和工具的速度。
+|StatDef.description=Speed at which this person smiths or crafts weapons, machines, ammunition, and tools. Note: Skill affects the quality of the items created, but not the smithing speed.
+|StatDef.description.zh-cn=此人锻造制作武器、机械、零部件、弹药和工具的速度。注意：技能影响产出物品的质量，但不影响锻造速度。
 |StatDef.description.zh-tw=這名角色進行鍛造工作時的工作速度。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
@@ -46279,8 +46292,8 @@ Core:Defs_StatDef_TailoringSpeed,"{{#set:
 |StatDef.label=tailoring speed
 |StatDef.label.zh-cn=缝制速度
 |StatDef.label.zh-tw=裁縫速度
-|StatDef.description=Speed at which this person makes clothes.
-|StatDef.description.zh-cn=此人在进行缝制衣物工作时的速度。
+|StatDef.description=Speed at which this person makes clothes. Note: Skill affects the quality of the apparel created, but not the tailoring speed.
+|StatDef.description.zh-cn=此人在进行缝制衣物工作时的速度。注意：技能影响产出衣物放质量，但不影响缝制速度。
 |StatDef.description.zh-tw=這名角色進行裁縫工作時的工作速度。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
@@ -46542,9 +46555,9 @@ Core:Defs_StorytellerDef_Cassandra,"{{#set:
 |StorytellerDef.comps.1.minDaysPassed=5
 |StorytellerDef.comps.1.mtbDaysThreatSmall=3.75
 |StorytellerDef.comps.1.mtbDaysThreatBig=1.20
-|StorytellerDef.comps.1.threatOffDays=6.3
+|StorytellerDef.comps.1.threatOffDays=6.0
 |StorytellerDef.comps.1.threatOnDays=4.6
-|StorytellerDef.comps.1.minDaysBetweenThreatBigs=2.1
+|StorytellerDef.comps.1.minDaysBetweenThreatBigs=1.9
 |StorytellerDef.comps.2=Exist
 |StorytellerDef.comps.2.Class=StorytellerCompProperties_CategoryMTB
 |StorytellerDef.comps.2.minDaysPassed=5
@@ -46606,9 +46619,9 @@ Core:Defs_StorytellerDef_Phoebe,"{{#set:
 |StorytellerDef.comps.1.minDaysPassed=5
 |StorytellerDef.comps.1.mtbDaysThreatSmall=8
 |StorytellerDef.comps.1.mtbDaysThreatBig=1.25
-|StorytellerDef.comps.1.threatOffDays=9.0
-|StorytellerDef.comps.1.threatOnDays=9.0
-|StorytellerDef.comps.1.minDaysBetweenThreatBigs=13.0
+|StorytellerDef.comps.1.threatOffDays=8.0
+|StorytellerDef.comps.1.threatOnDays=8.0
+|StorytellerDef.comps.1.minDaysBetweenThreatBigs=12.5
 |StorytellerDef.comps.2=Exist
 |StorytellerDef.comps.2.Class=StorytellerCompProperties_CategoryMTB
 |StorytellerDef.comps.2.minDaysPassed=5
@@ -46666,7 +46679,7 @@ Core:Defs_StorytellerDef_Randy,"{{#set:
 |StorytellerDef.comps.0.Class=StorytellerCompProperties_RandomMain
 |StorytellerDef.comps.0.minDaysPassed=1
 |StorytellerDef.comps.0.allowedTargetTypes=MapPlayerHome
-|StorytellerDef.comps.0.mtbDays=1.14
+|StorytellerDef.comps.0.mtbDays=1.13
 |StorytellerDef.comps.0.categoryWeights=""Misc"",""5.5"";""OrbitalVisitor"",""1"";""ThreatBig"",""1"";""ThreatSmall"",""0.9"";""AllyArrival"",""1"";""AllyAssistance"",""0.5"";""ShipChunkDrop"",""0.5""
 |StorytellerDef.comps.0.maxThreatBigIntervalDays=13
 |StorytellerDef.comps.1=Exist
@@ -48432,6 +48445,7 @@ Core:Defs_TerrainDef_WaterDeep,"{{#set:
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
+|TerrainDef.tags=""Water""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WaterMovingDeep,"{{#set:
@@ -48453,7 +48467,7 @@ Core:Defs_TerrainDef_WaterMovingDeep,"{{#set:
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
-|TerrainDef.tags=""River""
+|TerrainDef.tags=""River"",""Water""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WaterMovingShallow,"{{#set:
@@ -48474,7 +48488,7 @@ Core:Defs_TerrainDef_WaterMovingShallow,"{{#set:
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
-|TerrainDef.tags=""River""
+|TerrainDef.tags=""River"",""Water""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WaterOceanDeep,"{{#set:
@@ -48496,6 +48510,7 @@ Core:Defs_TerrainDef_WaterOceanDeep,"{{#set:
 |TerrainDef.avoidWander=true
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
+|TerrainDef.tags=""Water""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WaterOceanShallow,"{{#set:
@@ -48517,6 +48532,7 @@ Core:Defs_TerrainDef_WaterOceanShallow,"{{#set:
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
 |TerrainDef.driesTo=Gravel
+|TerrainDef.tags=""Water""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WaterShallow,"{{#set:
@@ -48538,6 +48554,7 @@ Core:Defs_TerrainDef_WaterShallow,"{{#set:
 |TerrainDef.changeable=false
 |TerrainDef.holdSnow=false
 |TerrainDef.driesTo=Gravel
+|TerrainDef.tags=""Water""
 |TerrainDef.acceptFilth=false
 }}"
 Core:Defs_TerrainDef_WoodPlankFloor,"{{#set:
@@ -49055,7 +49072,7 @@ Core:Defs_ThingDef_Alpaca,"{{#set:
 |ThingDef.comps.1=Exist
 |ThingDef.comps.1.Class=CompProperties_Shearable
 |ThingDef.comps.1.shearIntervalDays=15
-|ThingDef.comps.1.woolAmount=150
+|ThingDef.comps.1.woolAmount=100
 |ThingDef.comps.1.woolDef=WoolAlpaca
 |ThingDef.selectable=true
 |ThingDef.hasTooltip=true
@@ -55973,12 +55990,12 @@ Core:Defs_ThingDef_Dromedary,"{{#set:
 |ThingDef.comps.1=Exist
 |ThingDef.comps.1.Class=CompProperties_Milkable
 |ThingDef.comps.1.milkIntervalDays=2
-|ThingDef.comps.1.milkAmount=12
+|ThingDef.comps.1.milkAmount=10
 |ThingDef.comps.1.milkDef=Milk
 |ThingDef.comps.2=Exist
 |ThingDef.comps.2.Class=CompProperties_Shearable
-|ThingDef.comps.2.shearIntervalDays=30
-|ThingDef.comps.2.woolAmount=125
+|ThingDef.comps.2.shearIntervalDays=25
+|ThingDef.comps.2.woolAmount=100
 |ThingDef.comps.2.woolDef=WoolCamel
 |ThingDef.selectable=true
 |ThingDef.hasTooltip=true
@@ -58147,6 +58164,7 @@ Core:Defs_ThingDef_FlatscreenTelevision,"{{#set:
 |ThingDef.statBases=""MaxHitPoints"",""80"";""Flammability"",""1.0"";""MarketValue"",""1200"";""Mass"",""5"";""EntertainmentStrengthFactor"",""1.2""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
+|ThingDef.costList=""Steel"",""100"";""Component"",""10""
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair
 |ThingDef.altitudeLayer=Building
@@ -62907,11 +62925,11 @@ Core:Defs_ThingDef_LongRangeMineralScanner,"{{#set:
 |ThingDef.label.zh-cn=远距离矿物扫描仪
 |ThingDef.label.zh-tw=long-range mineral scanner
 |ThingDef.description=Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.
-|ThingDef.description.zh-cn=自动探查附近区域（除了扫描仪所在区域外）的珍惜矿物，比如黄金和翡翠。半径30格地图内，发现矿物块的频率为平均每30天一次。在同一区域内或临近区域建造多于一个扫描仪对效率影响不大。
+|ThingDef.description.zh-cn=自动探查附近区域（除了扫描仪所在区域外）的稀有矿物，比如黄金和翡翠。半径30格地图内，发现矿物块的频率为平均每30天一次。在同一区域内或临近区域建造多于一个扫描仪对效率影响不大。
 |ThingDef.description.zh-tw=Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.
 |ThingDef.statBases=""MaxHitPoints"",""50"";""WorkToBuild"",""1000"";""Flammability"",""1.0"";""Beauty"",""-8""
 |ThingDef.pathCost=25
-|ThingDef.costList=""Steel"",""250"";""Component"",""8""
+|ThingDef.costList=""Steel"",""200"";""Component"",""8""
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.researchPrerequisites=""LongRangeMineralScanner""
 |ThingDef.repairEffect=Repair
@@ -62928,7 +62946,7 @@ Core:Defs_ThingDef_LongRangeMineralScanner,"{{#set:
 |ThingDef.comps.0=Exist
 |ThingDef.comps.0.Class=CompProperties_Power
 |ThingDef.comps.0.compClass=CompPowerTrader
-|ThingDef.comps.0.basePowerConsumption=500
+|ThingDef.comps.0.basePowerConsumption=200
 |ThingDef.comps.0.startElectricalFires=true
 |ThingDef.comps.0.shortCircuitInRain=false
 |ThingDef.comps.1=Exist
@@ -63834,6 +63852,7 @@ Core:Defs_ThingDef_MegascreenTelevision,"{{#set:
 |ThingDef.statBases=""MaxHitPoints"",""85"";""Flammability"",""1.0"";""MarketValue"",""2000"";""Mass"",""8"";""EntertainmentStrengthFactor"",""1.35""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
+|ThingDef.costList=""Steel"",""120"";""Component"",""12""
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair
 |ThingDef.altitudeLayer=Building
@@ -63901,7 +63920,7 @@ Core:Defs_ThingDef_Megasloth,"{{#set:
 |ThingDef.comps.1=Exist
 |ThingDef.comps.1.Class=CompProperties_Shearable
 |ThingDef.comps.1.shearIntervalDays=50
-|ThingDef.comps.1.woolAmount=330
+|ThingDef.comps.1.woolAmount=400
 |ThingDef.comps.1.woolDef=WoolMegasloth
 |ThingDef.selectable=true
 |ThingDef.hasTooltip=true
@@ -66708,8 +66727,8 @@ Core:Defs_ThingDef_Muffalo,"{{#set:
 |ThingDef.comps.1.milkDef=Milk
 |ThingDef.comps.2=Exist
 |ThingDef.comps.2.Class=CompProperties_Shearable
-|ThingDef.comps.2.shearIntervalDays=30
-|ThingDef.comps.2.woolAmount=125
+|ThingDef.comps.2.shearIntervalDays=25
+|ThingDef.comps.2.woolAmount=100
 |ThingDef.comps.2.woolDef=WoolMuffalo
 |ThingDef.selectable=true
 |ThingDef.hasTooltip=true
@@ -68718,7 +68737,7 @@ Core:Defs_ThingDef_PlantPotato,"{{#set:
 |ThingDef.plant.harvestTag=Standard
 |ThingDef.plant.soundHarvesting=Harvest_Standard
 |ThingDef.plant.soundHarvestFinish=Harvest_Standard_Finish
-|ThingDef.plant.growDays=6
+|ThingDef.plant.growDays=5.8
 |ThingDef.plant.dieIfLeafless=true
 |ThingDef.plant.fertilityMin=0.5
 |ThingDef.plant.fertilitySensitivity=0.4
@@ -74982,7 +75001,7 @@ Core:Defs_ThingDef_UnfinishedApparel,"{{#set:
 |ThingDef.label=unfinished apparel
 |ThingDef.label.zh-cn=未完成的衣物
 |ThingDef.label.zh-tw=服裝半成品
-|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4"";""Mass"",""1""
 |ThingDef.pathCost=15
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony"",""Fabric"",""Leathery"",""Metallic""
 |ThingDef.altitudeLayer=Item
@@ -75015,7 +75034,7 @@ Core:Defs_ThingDef_UnfinishedBelt,"{{#set:
 |ThingDef.label=unfinished belt
 |ThingDef.label.zh-cn=未完成的腰带
 |ThingDef.label.zh-tw=腰帶半成品
-|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4"";""Mass"",""1""
 |ThingDef.pathCost=15
 |ThingDef.stuffCategories=
 |ThingDef.altitudeLayer=Item
@@ -75046,7 +75065,7 @@ Core:Defs_ThingDef_UnfinishedComponent,"{{#set:
 |ThingDef.label=unfinished component
 |ThingDef.label.zh-cn=未完成的零部件
 |ThingDef.label.zh-tw=電子零件半成品
-|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4"";""Mass"",""1""
 |ThingDef.pathCost=15
 |ThingDef.stuffCategories=
 |ThingDef.altitudeLayer=Item
@@ -75077,7 +75096,7 @@ Core:Defs_ThingDef_UnfinishedGun,"{{#set:
 |ThingDef.label=unfinished gun
 |ThingDef.label.zh-cn=未完成的枪械
 |ThingDef.label.zh-tw=槍枝半成品
-|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4"";""Mass"",""1""
 |ThingDef.pathCost=15
 |ThingDef.stuffCategories=
 |ThingDef.altitudeLayer=Item
@@ -75108,7 +75127,7 @@ Core:Defs_ThingDef_UnfinishedMetallicTechArmor,"{{#set:
 |ThingDef.label=unfinished armor
 |ThingDef.label.zh-cn=未完成的护甲
 |ThingDef.label.zh-tw=unfinished armor
-|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4"";""Mass"",""1""
 |ThingDef.pathCost=15
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony"",""Metallic""
 |ThingDef.altitudeLayer=Item
@@ -75139,7 +75158,7 @@ Core:Defs_ThingDef_UnfinishedSculpture,"{{#set:
 |ThingDef.label=unfinished sculpture
 |ThingDef.label.zh-cn=未完成的雕塑
 |ThingDef.label.zh-tw=雕塑半成品
-|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4"";""Mass"",""1""
 |ThingDef.pathCost=15
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony"",""Metallic"",""Woody"",""Stony""
 |ThingDef.altitudeLayer=Item
@@ -75170,7 +75189,7 @@ Core:Defs_ThingDef_UnfinishedTechArmor,"{{#set:
 |ThingDef.label=unfinished armor
 |ThingDef.label.zh-cn=未完成的护甲
 |ThingDef.label.zh-tw=裝甲半成品
-|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4"";""Mass"",""1""
 |ThingDef.pathCost=15
 |ThingDef.stuffCategories=
 |ThingDef.altitudeLayer=Item
@@ -75201,7 +75220,7 @@ Core:Defs_ThingDef_UnfinishedWeapon,"{{#set:
 |ThingDef.label=unfinished weapon
 |ThingDef.label.zh-cn=未完成的武器
 |ThingDef.label.zh-tw=武器半成品
-|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""DeteriorationRate"",""2.0"";""Beauty"",""-4"";""Mass"",""1""
 |ThingDef.pathCost=15
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony"",""Metallic"",""Woody"",""Stony""
 |ThingDef.altitudeLayer=Item
@@ -76460,7 +76479,7 @@ Core:Defs_ThingDef_WoolAlpaca,"{{#set:
 |ThingDef.description=The remarkably soft wool of an alpaca. It is very warm.
 |ThingDef.description.zh-cn=非常柔软的羊驼毛。非常保暖。
 |ThingDef.description.zh-tw=The remarkably soft wool of an alpaca. It is very warm.
-|ThingDef.statBases=""MarketValue"",""6.0"";""DeteriorationRate"",""2.6"";""MaxHitPoints"",""90"";""Mass"",""0.028"";""Flammability"",""1.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""5.2"";""DeteriorationRate"",""2.6"";""MaxHitPoints"",""90"";""Mass"",""0.028"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

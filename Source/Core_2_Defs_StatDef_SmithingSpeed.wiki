@@ -6,8 +6,8 @@
 |StatDef.label=smithing speed
 |StatDef.label.zh-cn=锻造速度
 |StatDef.label.zh-tw=鍛造速度
-|StatDef.description=Speed at which this person smiths or crafts weapons, machines, ammunition, and tools.
-|StatDef.description.zh-cn=此人锻造制作武器、机械、零部件、弹药和工具的速度。
+|StatDef.description=Speed at which this person smiths or crafts weapons, machines, ammunition, and tools. Note: Skill affects the quality of the items created, but not the smithing speed.
+|StatDef.description.zh-cn=此人锻造制作武器、机械、零部件、弹药和工具的速度。注意：技能影响产出物品的质量，但不影响锻造速度。
 |StatDef.description.zh-tw=這名角色進行鍛造工作時的工作速度。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero

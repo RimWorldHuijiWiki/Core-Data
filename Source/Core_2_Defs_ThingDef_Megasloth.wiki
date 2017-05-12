@@ -22,7 +22,7 @@
 |ThingDef.comps.1=Exist
 |ThingDef.comps.1.Class=CompProperties_Shearable
 |ThingDef.comps.1.shearIntervalDays=50
-|ThingDef.comps.1.woolAmount=330
+|ThingDef.comps.1.woolAmount=400
 |ThingDef.comps.1.woolDef=WoolMegasloth
 |ThingDef.selectable=true
 |ThingDef.hasTooltip=true

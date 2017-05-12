@@ -99,7 +99,7 @@
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData=Exist
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.texPath=Things/Pawn/Animal/Dessicated/CritterDessicatedSmall
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.drawSize=0.85
-|PawnKindDef.combatPower=15
+|PawnKindDef.combatPower=22
 |PawnKindDef.labelMale=rooster
 |PawnKindDef.labelMale.zh-cn=公鸡
 |PawnKindDef.labelMale.zh-tw=公雞

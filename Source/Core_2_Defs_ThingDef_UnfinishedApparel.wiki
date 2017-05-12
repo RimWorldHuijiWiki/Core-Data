@@ -6,7 +6,7 @@
 |ThingDef.label=unfinished apparel
 |ThingDef.label.zh-cn=未完成的衣物
 |ThingDef.label.zh-tw=服裝半成品
-|ThingDef.statBases="MaxHitPoints","50";"DeteriorationRate","2.0";"Beauty","-4"
+|ThingDef.statBases="MaxHitPoints","50";"DeteriorationRate","2.0";"Beauty","-4";"Mass","1"
 |ThingDef.pathCost=15
 |ThingDef.stuffCategories="Metallic","Woody","Stony","Fabric","Leathery","Metallic"
 |ThingDef.altitudeLayer=Item

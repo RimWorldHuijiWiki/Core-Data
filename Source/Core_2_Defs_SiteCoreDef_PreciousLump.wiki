@@ -4,8 +4,11 @@
 |defName=PreciousLump
 |SiteCoreDef.defName=PreciousLump
 |SiteCoreDef.label=lump of precious resources
-|SiteCoreDef.label.zh-cn=珍惜资源块
+|SiteCoreDef.label.zh-cn=稀有资源块
 |SiteCoreDef.label.zh-tw=一大筆貴重資源
+|SiteCoreDef.description=A mineable lump of precious resources.
+|SiteCoreDef.description.zh-cn=一个可开采的珍惜资源块。
+|SiteCoreDef.description.zh-tw=A mineable lump of precious resources.
 |SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/PreciousLump
 |SiteCoreDef.forceExitAndRemoveMapCountdownDurationDays=10

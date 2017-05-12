@@ -6,6 +6,9 @@
 |SiteCoreDef.label=site
 |SiteCoreDef.label.zh-cn=地点
 |SiteCoreDef.label.zh-tw=地點
+|SiteCoreDef.description=A location in the world which contains nothing special.
+|SiteCoreDef.description.zh-cn=世界中的一个位置，没有什么特殊的东西。
+|SiteCoreDef.description.zh-tw=A location in the world which contains nothing special.
 |SiteCoreDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SiteCoreDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Nothing
 }}

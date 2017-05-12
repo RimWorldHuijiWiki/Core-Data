@@ -6,8 +6,8 @@
 |StatDef.label=smelting speed
 |StatDef.label.zh-cn=熔炼速度
 |StatDef.label.zh-tw=金屬提煉速度
-|StatDef.description=Speed at which this person smelts things.
-|StatDef.description.zh-cn=此人熔炼物品的速度。
+|StatDef.description=Speed at which this person smelts things. Note: Since this is dumb labor, its speed is not affected by any skill.
+|StatDef.description.zh-cn=此人熔炼物品的速度。注意：由于这是粗苯的体力劳动，速度不会受到技能影响。
 |StatDef.description.zh-tw=這名角色進行金屬提煉工作時的工作速度。
 |StatDef.category=PawnWork
 |StatDef.toStringStyle=PercentZero
