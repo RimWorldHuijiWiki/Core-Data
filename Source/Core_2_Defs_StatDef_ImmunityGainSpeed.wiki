@@ -35,5 +35,5 @@
 |StatDef.parts.3=Exist
 |StatDef.parts.3.Class=StatPart_Age
 |StatDef.parts.3.curve=Exist
-|StatDef.parts.3.curve.points="(0.5,1)","(1,0.8)"
+|StatDef.parts.3.curve.points="(0.65,1)","(0.8,0.95)","(1.2,0.8)","(1.5,0.5)"
 }}

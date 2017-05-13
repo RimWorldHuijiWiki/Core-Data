@@ -4,7 +4,7 @@
 |defName=Wealth
 |HistoryAutoRecorderGroupDef.defName=Wealth
 |HistoryAutoRecorderGroupDef.label=wealth
-|HistoryAutoRecorderGroupDef.label.zh-cn=资产
+|HistoryAutoRecorderGroupDef.label.zh-cn=财富
 |HistoryAutoRecorderGroupDef.label.zh-tw=資產
 |HistoryAutoRecorderGroupDef.graphLabelY=Amount
 |HistoryAutoRecorderGroupDef.graphLabelY.zh-cn=价值

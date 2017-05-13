@@ -6,6 +6,9 @@
 |SitePartDef.label=turrets
 |SitePartDef.label.zh-cn=炮塔
 |SitePartDef.label.zh-tw=自動機槍塔
+|SitePartDef.description=A few turrets.
+|SitePartDef.description.zh-cn=一些炮塔。
+|SitePartDef.description.zh-tw=A few turrets.
 |SitePartDef.siteTexture=World/WorldObjects/Sites/Outpost
 |SitePartDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Turrets
 |SitePartDef.applyFactionColorToSiteTexture=true

@@ -12018,7 +12018,7 @@ Core:Defs_HediffDef_PowerClaw,"{{#set:
 |HediffDef.comps.0.verbs.Count=1
 |HediffDef.comps.0.verbs.0=Exist
 |HediffDef.comps.0.verbs.0.verbClass=Verb_MeleeAttack
-|HediffDef.comps.0.verbs.0.defaultCooldownTime=1.2
+|HediffDef.comps.0.verbs.0.defaultCooldownTime=1.65
 |HediffDef.comps.0.verbs.0.meleeDamageDef=Scratch
 |HediffDef.comps.0.verbs.0.meleeDamageBaseAmount=15
 |HediffDef.isBad=false
@@ -12258,7 +12258,7 @@ Core:Defs_HediffDef_ScytherBlade,"{{#set:
 |HediffDef.comps.0.verbs.Count=1
 |HediffDef.comps.0.verbs.0=Exist
 |HediffDef.comps.0.verbs.0.verbClass=Verb_MeleeAttack
-|HediffDef.comps.0.verbs.0.defaultCooldownTime=1.0
+|HediffDef.comps.0.verbs.0.defaultCooldownTime=1.65
 |HediffDef.comps.0.verbs.0.meleeDamageDef=Cut
 |HediffDef.comps.0.verbs.0.meleeDamageBaseAmount=20
 |HediffDef.isBad=false
@@ -13259,7 +13259,7 @@ Core:Defs_HistoryAutoRecorderDef_WealthBuildings,"{{#set:
 |defName=WealthBuildings
 |HistoryAutoRecorderDef.defName=WealthBuildings
 |HistoryAutoRecorderDef.label=wealth (buildings)
-|HistoryAutoRecorderDef.label.zh-cn=资产（建筑）
+|HistoryAutoRecorderDef.label.zh-cn=财富（建筑）
 |HistoryAutoRecorderDef.label.zh-tw=資產(建築)
 |HistoryAutoRecorderDef.workerClass=HistoryAutoRecorderWorker_WealthBuildings
 |HistoryAutoRecorderDef.recordTicksFrequency=30000
@@ -13271,7 +13271,7 @@ Core:Defs_HistoryAutoRecorderDef_WealthItems,"{{#set:
 |defName=WealthItems
 |HistoryAutoRecorderDef.defName=WealthItems
 |HistoryAutoRecorderDef.label=wealth (items)
-|HistoryAutoRecorderDef.label.zh-cn=资产（物品）
+|HistoryAutoRecorderDef.label.zh-cn=财富（物品）
 |HistoryAutoRecorderDef.label.zh-tw=資產(物品)
 |HistoryAutoRecorderDef.workerClass=HistoryAutoRecorderWorker_WealthItems
 |HistoryAutoRecorderDef.recordTicksFrequency=30000
@@ -13283,7 +13283,7 @@ Core:Defs_HistoryAutoRecorderDef_WealthTotal,"{{#set:
 |defName=WealthTotal
 |HistoryAutoRecorderDef.defName=WealthTotal
 |HistoryAutoRecorderDef.label=wealth (total)
-|HistoryAutoRecorderDef.label.zh-cn=资产（全部）
+|HistoryAutoRecorderDef.label.zh-cn=财富（全部）
 |HistoryAutoRecorderDef.label.zh-tw=資產(全部)
 |HistoryAutoRecorderDef.workerClass=HistoryAutoRecorderWorker_WealthTotal
 |HistoryAutoRecorderDef.recordTicksFrequency=30000
@@ -13323,7 +13323,7 @@ Core:Defs_HistoryAutoRecorderGroupDef_Wealth,"{{#set:
 |defName=Wealth
 |HistoryAutoRecorderGroupDef.defName=Wealth
 |HistoryAutoRecorderGroupDef.label=wealth
-|HistoryAutoRecorderGroupDef.label.zh-cn=资产
+|HistoryAutoRecorderGroupDef.label.zh-cn=财富
 |HistoryAutoRecorderGroupDef.label.zh-tw=資產
 |HistoryAutoRecorderGroupDef.graphLabelY=Amount
 |HistoryAutoRecorderGroupDef.graphLabelY.zh-cn=价值
@@ -34736,7 +34736,7 @@ Core:Defs_ScenarioDef_TheRichExplorer,"{{#set:
 |ScenarioDef.scenario.name.zh-cn=富有的探险家
 |ScenarioDef.scenario.name.zh-tw=富有冒險家
 |ScenarioDef.scenario.summary=One rich explorer out to experience the universe. Extra difficult.
-|ScenarioDef.scenario.summary.zh-cn=一个富有的探险家在宇宙中前所未有的经历。
+|ScenarioDef.scenario.summary.zh-cn=一个富有的探险家在宇宙中前所未有的经历。特别高难度。
 |ScenarioDef.scenario.summary.zh-tw=一名富有探險家的宇宙大冒險。
 |ScenarioDef.scenario.description=People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.<br/><br/>Note: Since your starting character will lack some skills, this is an especially difficult scenario in the early game.
 |ScenarioDef.scenario.description.zh-cn=离开了你在闪耀世界的家，大家都说你疯了，但你一直渴望丢掉虚拟头盔，而在真正的星际间探险。现在你从漫长的低温休眠旅程中苏醒过来，降落在一个未知的边缘世界上，那就看看到底如何吧。<br/><br/>注意：你的初始角色会缺少部分技能，这是个在游戏早期特别高难度的剧本。
@@ -34778,7 +34778,7 @@ Core:Defs_ScenarioDef_TheRichExplorer,"{{#set:
 |ScenarioDef.scenario.parts.6.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.6.def=StartingThing_Defined
 |ScenarioDef.scenario.parts.6.thingDef=GlitterworldMedicine
-|ScenarioDef.scenario.parts.6.count=40
+|ScenarioDef.scenario.parts.6.count=30
 |ScenarioDef.scenario.parts.7=Exist
 |ScenarioDef.scenario.parts.7.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.7.def=StartingThing_Defined
@@ -35208,6 +35208,9 @@ Core:Defs_SitePartDef_Manhunters,"{{#set:
 |SitePartDef.label=manhunter pack
 |SitePartDef.label.zh-cn=猎杀人类
 |SitePartDef.label.zh-tw=獵人獸群
+|SitePartDef.description=A pack of manhunting animals.
+|SitePartDef.description.zh-cn=一群猎杀人类的动物。
+|SitePartDef.description.zh-tw=A pack of manhunting animals.
 |SitePartDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SitePartDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Manhunters
 |SitePartDef.knownDanger=true
@@ -35220,6 +35223,9 @@ Core:Defs_SitePartDef_Outpost,"{{#set:
 |SitePartDef.label=outpost
 |SitePartDef.label.zh-cn=哨所
 |SitePartDef.label.zh-tw=哨站
+|SitePartDef.description=A small, guarded outpost.
+|SitePartDef.description.zh-cn=一个小型的有守卫的哨所。
+|SitePartDef.description.zh-tw=A small, guarded outpost.
 |SitePartDef.siteTexture=World/WorldObjects/Sites/Outpost
 |SitePartDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Outpost
 |SitePartDef.applyFactionColorToSiteTexture=true
@@ -35235,6 +35241,9 @@ Core:Defs_SitePartDef_Turrets,"{{#set:
 |SitePartDef.label=turrets
 |SitePartDef.label.zh-cn=炮塔
 |SitePartDef.label.zh-tw=自動機槍塔
+|SitePartDef.description=A few turrets.
+|SitePartDef.description.zh-cn=一些炮塔。
+|SitePartDef.description.zh-tw=A few turrets.
 |SitePartDef.siteTexture=World/WorldObjects/Sites/Outpost
 |SitePartDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Turrets
 |SitePartDef.applyFactionColorToSiteTexture=true
@@ -44808,7 +44817,7 @@ Core:Defs_StatDef_DeteriorationRate,"{{#set:
 |StatDef.showIfUndefined=false
 |StatDef.toStringStyle=FloatTwo
 |StatDef.formatString={0} / day
-|StatDef.formatString.zh-cn={0} / 天
+|StatDef.formatString.zh-cn={0} / 日
 |StatDef.formatString.zh-tw={0} / 日
 |StatDef.defaultBaseValue=0
 |StatDef.minValue=0
@@ -45145,7 +45154,7 @@ Core:Defs_StatDef_ImmunityGainSpeed,"{{#set:
 |StatDef.parts.3=Exist
 |StatDef.parts.3.Class=StatPart_Age
 |StatDef.parts.3.curve=Exist
-|StatDef.parts.3.curve.points=""(0.5,1)"",""(1,0.8)""
+|StatDef.parts.3.curve.points=""(0.65,1)"",""(0.8,0.95)"",""(1.2,0.8)"",""(1.5,0.5)""
 }}"
 Core:Defs_StatDef_ImmunityGainSpeedFactor,"{{#set:
 |dataType=Def
@@ -45468,7 +45477,7 @@ Core:Defs_StatDef_MedicalSurgerySuccessChance,"{{#set:
 |StatDef.skillNeedFactors.0=Exist
 |StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
 |StatDef.skillNeedFactors.0.skill=Medicine
-|StatDef.skillNeedFactors.0.factorsPerLevel=""0.05"",""0.25"",""0.40"",""0.50"",""0.60"",""0.70"",""0.80"",""0.85"",""0.90"",""0.92"",""0.93"",""0.94"",""0.95"",""0.955"",""0.96"",""0.965"",""0.97"",""0.975"",""0.98"",""0.985"",""0.99""
+|StatDef.skillNeedFactors.0.factorsPerLevel=""0.20"",""0.30"",""0.40"",""0.50"",""0.60"",""0.70"",""0.80"",""0.85"",""0.90"",""0.92"",""0.93"",""0.94"",""0.95"",""0.955"",""0.96"",""0.965"",""0.97"",""0.975"",""0.98"",""0.985"",""0.99""
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
@@ -45496,18 +45505,22 @@ Core:Defs_StatDef_MedicalTendQuality,"{{#set:
 |StatDef.skillNeedFactors=Exist
 |StatDef.skillNeedFactors.Count=1
 |StatDef.skillNeedFactors.0=Exist
-|StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
 |StatDef.skillNeedFactors.0.skill=Medicine
-|StatDef.skillNeedFactors.0.factorsPerLevel=""0.10"",""0.30"",""0.40"",""0.50"",""0.60"",""0.70"",""0.80"",""0.90"",""1.00"",""1.10"",""1.20"",""1.30"",""1.40"",""1.50"",""1.60"",""1.70"",""1.80"",""1.90"",""2.00"",""2.10"",""2.20""
+|StatDef.skillNeedFactors.0.baseFactor=0.20
+|StatDef.skillNeedFactors.0.bonusFactor=0.10
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
 |StatDef.capacityFactors.0.capacity=Sight
 |StatDef.capacityFactors.0.weight=0.7
-|StatDef.capacityFactors.0.max=1.3
+|StatDef.capacityFactors.0.max=1.4
 |StatDef.capacityFactors.1=Exist
 |StatDef.capacityFactors.1.capacity=Manipulation
-|StatDef.capacityFactors.1.weight=0.9
+|StatDef.capacityFactors.1.weight=1
+|StatDef.capacityFactors.1.max=1.4
+|StatDef.postProcessCurve=Exist
+|StatDef.postProcessCurve.points=""(0, 0)"",""(1.0, 1.0)"",""(2.0, 1.5)"",""(4.0, 2.0)""
 }}"
 Core:Defs_StatDef_MedicalTendQualityOffset,"{{#set:
 |dataType=Def
@@ -45574,13 +45587,14 @@ Core:Defs_StatDef_MeleeDodgeChance,"{{#set:
 |StatDef.defaultBaseValue=1
 |StatDef.minValue=0
 |StatDef.maxValue=0.8
-|StatDef.noSkillFactor=0.08
+|StatDef.noSkillFactor=0
 |StatDef.skillNeedFactors=Exist
 |StatDef.skillNeedFactors.Count=1
 |StatDef.skillNeedFactors.0=Exist
-|StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
 |StatDef.skillNeedFactors.0.skill=Melee
-|StatDef.skillNeedFactors.0.factorsPerLevel=""0"",""0"",""0"",""0.02"",""0.04"",""0.06"",""0.08"",""0.10"",""0.12"",""0.14"",""0.16"",""0.18"",""0.20"",""0.22"",""0.24"",""0.26"",""0.28"",""0.30"",""0.32"",""0.34"",""0.36""
+|StatDef.skillNeedFactors.0.baseFactor=0
+|StatDef.skillNeedFactors.0.bonusFactor=0.05
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
@@ -45589,6 +45603,9 @@ Core:Defs_StatDef_MeleeDodgeChance,"{{#set:
 |StatDef.capacityFactors.1=Exist
 |StatDef.capacityFactors.1.capacity=Sight
 |StatDef.capacityFactors.1.weight=0.7
+|StatDef.capacityFactors.1.max=1
+|StatDef.postProcessCurve=Exist
+|StatDef.postProcessCurve.points=""(0.25, 0)"",""(1.0, 0.30)"",""(3.0, 0.50)""
 }}"
 Core:Defs_StatDef_MeleeDPS,"{{#set:
 |dataType=Def
@@ -45604,7 +45621,7 @@ Core:Defs_StatDef_MeleeDPS,"{{#set:
 |StatDef.category=PawnCombat
 |StatDef.workerClass=StatWorker_MeleeDPS
 |StatDef.displayPriorityInCategory=100
-|StatDef.toStringStyle=FloatOne
+|StatDef.toStringStyle=FloatTwo
 |StatDef.defaultBaseValue=0
 |StatDef.minValue=0
 }}"
@@ -45624,21 +45641,27 @@ Core:Defs_StatDef_MeleeHitChance,"{{#set:
 |StatDef.toStringStyle=PercentZero
 |StatDef.defaultBaseValue=1
 |StatDef.minValue=0.01
-|StatDef.noSkillFactor=0.60
+|StatDef.noSkillFactor=0.20
 |StatDef.skillNeedFactors=Exist
 |StatDef.skillNeedFactors.Count=1
 |StatDef.skillNeedFactors.0=Exist
-|StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
 |StatDef.skillNeedFactors.0.skill=Melee
-|StatDef.skillNeedFactors.0.factorsPerLevel=""0.30"",""0.35"",""0.40"",""0.45"",""0.50"",""0.55"",""0.60"",""0.633"",""0.666"",""0.7"",""0.733"",""0.766"",""0.8"",""0.825"",""0.85"",""0.875"",""0.9"",""0.92"",""0.94"",""0.96"",""0.98""
+|StatDef.skillNeedFactors.0.reportInverse=true
+|StatDef.skillNeedFactors.0.baseFactor=0
+|StatDef.skillNeedFactors.0.bonusFactor=0.05
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
 |StatDef.capacityFactors.0.capacity=Manipulation
 |StatDef.capacityFactors.0.weight=1
+|StatDef.capacityFactors.0.max=1.5
 |StatDef.capacityFactors.1=Exist
 |StatDef.capacityFactors.1.capacity=Sight
 |StatDef.capacityFactors.1.weight=0.4
+|StatDef.capacityFactors.1.max=1.5
+|StatDef.postProcessCurve=Exist
+|StatDef.postProcessCurve.points=""(-1.0, 0.05)"",""(-0.5, 0.10)"",""(0.0, 0.50)"",""(0.5, 0.80)"",""(1.0, 0.90)"",""(2.0, 0.96)"",""(3.0, 0.98)""
 }}"
 Core:Defs_StatDef_MeleeWeapon_Cooldown,"{{#set:
 |dataType=Def
@@ -46093,10 +46116,11 @@ Core:Defs_StatDef_ShootingAccuracy,"{{#set:
 |StatDef.skillNeedFactors=Exist
 |StatDef.skillNeedFactors.Count=1
 |StatDef.skillNeedFactors.0=Exist
-|StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
+|StatDef.skillNeedFactors.0.Class=SkillNeed_BaseBonus
 |StatDef.skillNeedFactors.0.skill=Shooting
 |StatDef.skillNeedFactors.0.reportInverse=true
-|StatDef.skillNeedFactors.0.factorsPerLevel=""0.00"",""0.05"",""0.10"",""0.15"",""0.20"",""0.25"",""0.30"",""0.35"",""0.40"",""0.45"",""0.50"",""0.55"",""0.60"",""0.65"",""0.70"",""0.75"",""0.80"",""0.85"",""0.90"",""0.95"",""1.00""
+|StatDef.skillNeedFactors.0.baseFactor=0
+|StatDef.skillNeedFactors.0.bonusFactor=0.05
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist
@@ -61638,23 +61662,23 @@ Core:Defs_ThingDef_Human,"{{#set:
 |ThingDef.verbs.Count=3
 |ThingDef.verbs.0=Exist
 |ThingDef.verbs.0.verbClass=Verb_MeleeAttack
-|ThingDef.verbs.0.defaultCooldownTime=1.85
+|ThingDef.verbs.0.defaultCooldownTime=1.60
 |ThingDef.verbs.0.linkedBodyPartsGroup=LeftHand
 |ThingDef.verbs.0.meleeDamageDef=Blunt
-|ThingDef.verbs.0.meleeDamageBaseAmount=6
+|ThingDef.verbs.0.meleeDamageBaseAmount=7
 |ThingDef.verbs.1=Exist
 |ThingDef.verbs.1.verbClass=Verb_MeleeAttack
-|ThingDef.verbs.1.defaultCooldownTime=1.85
+|ThingDef.verbs.1.defaultCooldownTime=1.60
 |ThingDef.verbs.1.linkedBodyPartsGroup=RightHand
 |ThingDef.verbs.1.meleeDamageDef=Blunt
-|ThingDef.verbs.1.meleeDamageBaseAmount=6
+|ThingDef.verbs.1.meleeDamageBaseAmount=7
 |ThingDef.verbs.2=Exist
 |ThingDef.verbs.2.verbClass=Verb_MeleeAttack
 |ThingDef.verbs.2.commonality=0.01
-|ThingDef.verbs.2.defaultCooldownTime=1.65
+|ThingDef.verbs.2.defaultCooldownTime=1.80
 |ThingDef.verbs.2.linkedBodyPartsGroup=HeadAttackTool
 |ThingDef.verbs.2.meleeDamageDef=Blunt
-|ThingDef.verbs.2.meleeDamageBaseAmount=3
+|ThingDef.verbs.2.meleeDamageBaseAmount=5
 |ThingDef.race=Exist
 |ThingDef.race.intelligence=Humanlike
 |ThingDef.race.thinkTreeMain=Humanlike
@@ -63677,20 +63701,20 @@ Core:Defs_ThingDef_Mechanoid_Scyther,"{{#set:
 |ThingDef.verbs.0.defaultCooldownTime=1.65
 |ThingDef.verbs.0.linkedBodyPartsGroup=LeftBlade
 |ThingDef.verbs.0.meleeDamageDef=Cut
-|ThingDef.verbs.0.meleeDamageBaseAmount=24
+|ThingDef.verbs.0.meleeDamageBaseAmount=20
 |ThingDef.verbs.1=Exist
 |ThingDef.verbs.1.verbClass=Verb_MeleeAttack
 |ThingDef.verbs.1.defaultCooldownTime=1.65
 |ThingDef.verbs.1.linkedBodyPartsGroup=RightBlade
 |ThingDef.verbs.1.meleeDamageDef=Cut
-|ThingDef.verbs.1.meleeDamageBaseAmount=24
+|ThingDef.verbs.1.meleeDamageBaseAmount=20
 |ThingDef.verbs.2=Exist
 |ThingDef.verbs.2.verbClass=Verb_MeleeAttack
 |ThingDef.verbs.2.commonality=0.01
 |ThingDef.verbs.2.defaultCooldownTime=1.65
 |ThingDef.verbs.2.linkedBodyPartsGroup=HeadAttackTool
 |ThingDef.verbs.2.meleeDamageDef=Blunt
-|ThingDef.verbs.2.meleeDamageBaseAmount=3
+|ThingDef.verbs.2.meleeDamageBaseAmount=7
 |ThingDef.race=Exist
 |ThingDef.race.intelligence=ToolUser
 |ThingDef.race.fleshType=Mechanoid
@@ -64224,7 +64248,7 @@ Core:Defs_ThingDef_MeleeWeapon_Club,"{{#set:
 |ThingDef.description=The oldest human weapon - a shaped stick, heavy at one end, for bashing enemies to death. Primitive but effective.
 |ThingDef.description.zh-cn=人类最古老的武器，一根整过形的棍子。棍子的一头较重，用于将敌人击打致死。原始而有效。
 |ThingDef.description.zh-tw=最古老的人類武器，將敵人打擊至死，原始但有效。
-|ThingDef.statBases=""WorkToMake"",""500"";""Mass"",""1"";""MeleeWeapon_DamageAmount"",""11"";""DeteriorationRate"",""0.5"";""MeleeWeapon_Cooldown"",""2.4"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
+|ThingDef.statBases=""WorkToMake"",""500"";""Mass"",""2"";""MeleeWeapon_DamageAmount"",""12"";""DeteriorationRate"",""0.5"";""MeleeWeapon_Cooldown"",""2.15"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
 |ThingDef.pathCost=10
 |ThingDef.costStuffCount=40
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony""
@@ -64352,7 +64376,7 @@ Core:Defs_ThingDef_MeleeWeapon_Knife,"{{#set:
 |ThingDef.description=One of humankind's oldest tools, the knife is both an everyday tool and a deadly weapon.
 |ThingDef.description.zh-cn=人类最古老的武器之一，匕首既是日常工具也是致命武器。
 |ThingDef.description.zh-tw=一把簡單的小刀。
-|ThingDef.statBases=""WorkToMake"",""4000"";""Mass"",""0.5"";""MeleeWeapon_DamageAmount"",""8"";""MeleeWeapon_Cooldown"",""1.66"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
+|ThingDef.statBases=""WorkToMake"",""4000"";""Mass"",""0.5"";""MeleeWeapon_DamageAmount"",""9"";""MeleeWeapon_Cooldown"",""1.6"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
 |ThingDef.pathCost=10
 |ThingDef.costStuffCount=40
 |ThingDef.stuffCategories=""Metallic""
@@ -64480,7 +64504,7 @@ Core:Defs_ThingDef_MeleeWeapon_Mace,"{{#set:
 |ThingDef.description=A refined club, engineered for efficient swinging and deadly impacts.
 |ThingDef.description.zh-cn=一根精致的棍棒，在挥舞和杀伤上有特别的设计。
 |ThingDef.description.zh-tw=一把精緻的錘子，易於揮舞並帶來致命的殺傷力。
-|ThingDef.statBases=""WorkToMake"",""10000"";""Mass"",""1.25"";""MeleeWeapon_DamageAmount"",""11"";""MeleeWeapon_Cooldown"",""2.1"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
+|ThingDef.statBases=""WorkToMake"",""10000"";""Mass"",""1.25"";""MeleeWeapon_DamageAmount"",""12"";""MeleeWeapon_Cooldown"",""2.0"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
 |ThingDef.pathCost=10
 |ThingDef.costStuffCount=75
 |ThingDef.stuffCategories=""Metallic"",""Woody""
@@ -64544,7 +64568,7 @@ Core:Defs_ThingDef_MeleeWeapon_Shiv,"{{#set:
 |ThingDef.description=An improvised knife-like weapon.
 |ThingDef.description.zh-cn=一种自制的长得像匕首的武器。
 |ThingDef.description.zh-tw=一把簡易的刀式武器。
-|ThingDef.statBases=""WorkToMake"",""400"";""Mass"",""0.4"";""MeleeWeapon_DamageAmount"",""7"";""DeteriorationRate"",""0.5"";""MeleeWeapon_Cooldown"",""1.55"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
+|ThingDef.statBases=""WorkToMake"",""400"";""Mass"",""0.4"";""MeleeWeapon_DamageAmount"",""8"";""DeteriorationRate"",""0.5"";""MeleeWeapon_Cooldown"",""1.6"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
 |ThingDef.pathCost=10
 |ThingDef.costStuffCount=10
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony""
@@ -68972,7 +68996,7 @@ Core:Defs_ThingDef_PlantSaguaroCactus,"{{#set:
 |ThingDef.fillPercent=0.35
 |ThingDef.blockWind=true
 |ThingDef.ingestible=Exist
-|ThingDef.ingestible.foodType=Plant
+|ThingDef.ingestible.foodType=Tree
 |ThingDef.ingestible.nutrition=0.70
 |ThingDef.ingestible.preferability=RawBad
 |ThingDef.plant=Exist
@@ -73985,7 +74009,7 @@ Core:Defs_ThingDef_ThrumboHorn,"{{#set:
 |ThingDef.description=A thrumbo's horn. It's razor-sharp, very hard and priceless in most markets. This is a true trophy.
 |ThingDef.description.zh-cn=敲击兽的角，锋利、坚固，在大多数市场里都是极为贵重的。这是真正意义上的战利品。
 |ThingDef.description.zh-tw=獨角獸的角，如刀刃般鋒利，至高的無價之寶。最適合做為能力的象徵。
-|ThingDef.statBases=""MarketValue"",""3000"";""MaxHitPoints"",""150"";""Mass"",""3"";""Flammability"",""1.0"";""DeteriorationRate"",""1.0"";""MeleeWeapon_DamageAmount"",""15"";""MeleeWeapon_Cooldown"",""1.75"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""3000"";""MaxHitPoints"",""150"";""Mass"",""3"";""Flammability"",""1.0"";""DeteriorationRate"",""1.0"";""MeleeWeapon_DamageAmount"",""15"";""MeleeWeapon_Cooldown"",""1.85"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

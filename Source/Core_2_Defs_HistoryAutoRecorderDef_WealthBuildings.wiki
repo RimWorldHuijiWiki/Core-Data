@@ -4,7 +4,7 @@
 |defName=WealthBuildings
 |HistoryAutoRecorderDef.defName=WealthBuildings
 |HistoryAutoRecorderDef.label=wealth (buildings)
-|HistoryAutoRecorderDef.label.zh-cn=资产（建筑）
+|HistoryAutoRecorderDef.label.zh-cn=财富（建筑）
 |HistoryAutoRecorderDef.label.zh-tw=資產(建築)
 |HistoryAutoRecorderDef.workerClass=HistoryAutoRecorderWorker_WealthBuildings
 |HistoryAutoRecorderDef.recordTicksFrequency=30000

@@ -15,7 +15,7 @@
 |HediffDef.comps.0.verbs.Count=1
 |HediffDef.comps.0.verbs.0=Exist
 |HediffDef.comps.0.verbs.0.verbClass=Verb_MeleeAttack
-|HediffDef.comps.0.verbs.0.defaultCooldownTime=1.2
+|HediffDef.comps.0.verbs.0.defaultCooldownTime=1.65
 |HediffDef.comps.0.verbs.0.meleeDamageDef=Scratch
 |HediffDef.comps.0.verbs.0.meleeDamageBaseAmount=15
 |HediffDef.isBad=false

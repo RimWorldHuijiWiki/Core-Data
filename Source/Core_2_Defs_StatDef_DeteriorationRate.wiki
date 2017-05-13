@@ -13,7 +13,7 @@
 |StatDef.showIfUndefined=false
 |StatDef.toStringStyle=FloatTwo
 |StatDef.formatString={0} / day
-|StatDef.formatString.zh-cn={0} / 天
+|StatDef.formatString.zh-cn={0} / 日
 |StatDef.formatString.zh-tw={0} / 日
 |StatDef.defaultBaseValue=0
 |StatDef.minValue=0

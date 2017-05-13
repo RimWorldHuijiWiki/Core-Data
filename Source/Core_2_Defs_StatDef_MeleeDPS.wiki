@@ -12,7 +12,7 @@
 |StatDef.category=PawnCombat
 |StatDef.workerClass=StatWorker_MeleeDPS
 |StatDef.displayPriorityInCategory=100
-|StatDef.toStringStyle=FloatOne
+|StatDef.toStringStyle=FloatTwo
 |StatDef.defaultBaseValue=0
 |StatDef.minValue=0
 }}

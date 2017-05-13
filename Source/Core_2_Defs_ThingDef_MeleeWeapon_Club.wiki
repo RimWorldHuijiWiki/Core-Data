@@ -9,7 +9,7 @@
 |ThingDef.description=The oldest human weapon - a shaped stick, heavy at one end, for bashing enemies to death. Primitive but effective.
 |ThingDef.description.zh-cn=人类最古老的武器，一根整过形的棍子。棍子的一头较重，用于将敌人击打致死。原始而有效。
 |ThingDef.description.zh-tw=最古老的人類武器，將敵人打擊至死，原始但有效。
-|ThingDef.statBases="WorkToMake","500";"Mass","1";"MeleeWeapon_DamageAmount","11";"DeteriorationRate","0.5";"MeleeWeapon_Cooldown","2.4";"MaxHitPoints","100";"Flammability","1.0";"Beauty","-6";"SellPriceFactor","0.20"
+|ThingDef.statBases="WorkToMake","500";"Mass","2";"MeleeWeapon_DamageAmount","12";"DeteriorationRate","0.5";"MeleeWeapon_Cooldown","2.15";"MaxHitPoints","100";"Flammability","1.0";"Beauty","-6";"SellPriceFactor","0.20"
 |ThingDef.pathCost=10
 |ThingDef.costStuffCount=40
 |ThingDef.stuffCategories="Metallic","Woody","Stony"

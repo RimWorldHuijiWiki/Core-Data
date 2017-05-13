@@ -17,7 +17,7 @@
 |StatDef.skillNeedFactors.0=Exist
 |StatDef.skillNeedFactors.0.Class=SkillNeed_Direct
 |StatDef.skillNeedFactors.0.skill=Medicine
-|StatDef.skillNeedFactors.0.factorsPerLevel="0.05","0.25","0.40","0.50","0.60","0.70","0.80","0.85","0.90","0.92","0.93","0.94","0.95","0.955","0.96","0.965","0.97","0.975","0.98","0.985","0.99"
+|StatDef.skillNeedFactors.0.factorsPerLevel="0.20","0.30","0.40","0.50","0.60","0.70","0.80","0.85","0.90","0.92","0.93","0.94","0.95","0.955","0.96","0.965","0.97","0.975","0.98","0.985","0.99"
 |StatDef.capacityFactors=Exist
 |StatDef.capacityFactors.Count=2
 |StatDef.capacityFactors.0=Exist

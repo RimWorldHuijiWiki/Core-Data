@@ -9,7 +9,7 @@
 |ThingDef.description=A thrumbo's horn. It's razor-sharp, very hard and priceless in most markets. This is a true trophy.
 |ThingDef.description.zh-cn=敲击兽的角，锋利、坚固，在大多数市场里都是极为贵重的。这是真正意义上的战利品。
 |ThingDef.description.zh-tw=獨角獸的角，如刀刃般鋒利，至高的無價之寶。最適合做為能力的象徵。
-|ThingDef.statBases="MarketValue","3000";"MaxHitPoints","150";"Mass","3";"Flammability","1.0";"DeteriorationRate","1.0";"MeleeWeapon_DamageAmount","15";"MeleeWeapon_Cooldown","1.75";"Beauty","-4"
+|ThingDef.statBases="MarketValue","3000";"MaxHitPoints","150";"Mass","3";"Flammability","1.0";"DeteriorationRate","1.0";"MeleeWeapon_DamageAmount","15";"MeleeWeapon_Cooldown","1.85";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

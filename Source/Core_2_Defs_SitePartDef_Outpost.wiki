@@ -6,6 +6,9 @@
 |SitePartDef.label=outpost
 |SitePartDef.label.zh-cn=哨所
 |SitePartDef.label.zh-tw=哨站
+|SitePartDef.description=A small, guarded outpost.
+|SitePartDef.description.zh-cn=一个小型的有守卫的哨所。
+|SitePartDef.description.zh-tw=A small, guarded outpost.
 |SitePartDef.siteTexture=World/WorldObjects/Sites/Outpost
 |SitePartDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Outpost
 |SitePartDef.applyFactionColorToSiteTexture=true

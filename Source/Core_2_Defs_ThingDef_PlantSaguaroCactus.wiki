@@ -30,7 +30,7 @@
 |ThingDef.fillPercent=0.35
 |ThingDef.blockWind=true
 |ThingDef.ingestible=Exist
-|ThingDef.ingestible.foodType=Plant
+|ThingDef.ingestible.foodType=Tree
 |ThingDef.ingestible.nutrition=0.70
 |ThingDef.ingestible.preferability=RawBad
 |ThingDef.plant=Exist

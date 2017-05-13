@@ -6,6 +6,9 @@
 |SitePartDef.label=manhunter pack
 |SitePartDef.label.zh-cn=猎杀人类
 |SitePartDef.label.zh-tw=獵人獸群
+|SitePartDef.description=A pack of manhunting animals.
+|SitePartDef.description.zh-cn=一群猎杀人类的动物。
+|SitePartDef.description.zh-tw=A pack of manhunting animals.
 |SitePartDef.siteTexture=World/WorldObjects/Sites/GenericSite
 |SitePartDef.expandingIconTexture=World/WorldObjects/Expanding/Sites/Manhunters
 |SitePartDef.knownDanger=true

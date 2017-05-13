@@ -210,7 +210,7 @@ return {
     StatsReport_InBed = "In bed",
     StatsReport_Facilities = "Facilities",
     StatsReport_BodySize = "Multiplier for body size {0}",
-    StatsReport_MeleeDPSExplanation = "Stat is displayed in the following format:<br/>DPS ( Melee damage / Cooldown in seconds / Melee hit chance )<br/><br/>DPS = Melee damage * Melee hit chance / Cooldown in seconds",
+    StatsReport_MeleeDPSExplanation = "DPS = Melee damage * Melee hit chance / Cooldown in seconds",
     StatsReport_MeleeDamage = "Melee damage",
     StatsReport_Cooldown = "Cooldown",
     StatsReport_MeleeHitChance = "Melee hit chance",
