@@ -4,6 +4,6 @@
 |defName=Fabric
 |StuffCategoryDef.defName=Fabric
 |StuffCategoryDef.label=fabric
-|StuffCategoryDef.label.zh-cn=纤维
+|StuffCategoryDef.label.zh-cn=纤维类
 |StuffCategoryDef.label.zh-tw=織物
 }}

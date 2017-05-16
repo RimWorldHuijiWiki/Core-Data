@@ -3,7 +3,7 @@
 |defType=ThingDef
 |defName=Raccoon
 |ThingDef.defName=Raccoon
-|ThingDef.label=Raccoon
+|ThingDef.label=raccoon
 |ThingDef.label.zh-cn=浣熊
 |ThingDef.label.zh-tw=浣熊
 |ThingDef.description=A small, hardy animal that ranges wide across forests and shrubland. Eats almost anything.

@@ -766,6 +766,7 @@ return {
     CannotMissingHealthActivities = "無法優先進行當前任務(不具有{0}能力)",
     CannotGenericAlreadyAm = "已經在{0}{1}中",
     CannotPrioritizeWorkTypeDisabled = "無法優先進行當前任務(永遠不會進行{0})",
+    CannotPrioritizeWorkGiverDisabled = "Cannot prioritize (will never {0})",
     CannotPrioritizeNotAssignedToWorkType = "無法優先進行當前任務(並未指派為{0})",
     CannotPrioritizeResearch = "無法優先進行當前任務(研究是一項長時間的工作)",
     CannotPrioritizeForbidden = "無法優先進行當前任務({0}是禁止互動的)",

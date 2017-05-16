@@ -766,6 +766,7 @@ return {
     CannotMissingHealthActivities = "Cannot prioritize (incapable of {0})",
     CannotGenericAlreadyAm = "Already {0} {1}",
     CannotPrioritizeWorkTypeDisabled = "Cannot prioritize (will never do {0})",
+    CannotPrioritizeWorkGiverDisabled = "Cannot prioritize (will never {0})",
     CannotPrioritizeNotAssignedToWorkType = "Cannot prioritize (not assigned to {0})",
     CannotPrioritizeResearch = "Cannot prioritize (research is a long-term task)",
     CannotPrioritizeForbidden = "Cannot prioritize ({0} is forbidden)",

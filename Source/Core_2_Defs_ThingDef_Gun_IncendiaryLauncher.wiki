@@ -38,6 +38,7 @@
 |ThingDef.recipeMaker.effectWorking=Smith
 |ThingDef.recipeMaker.soundWorking=Recipe_Smith
 |ThingDef.recipeMaker.recipeUsers="TableMachining"
+|ThingDef.generateCommonality=0.4
 |ThingDef.graphicData=Exist
 |ThingDef.graphicData.texPath=Things/Item/Equipment/WeaponRanged/IncendiaryLauncher
 |ThingDef.graphicData.graphicClass=Graphic_Single

@@ -3,8 +3,8 @@
 |defType=WorkGiverDef
 |defName=DoBillsProduceDrugs
 |WorkGiverDef.defName=DoBillsProduceDrugs
-|WorkGiverDef.label=produce drugs
-|WorkGiverDef.label.zh-cn=制作成瘾品
+|WorkGiverDef.label=produce drugs at drug lab
+|WorkGiverDef.label.zh-cn=在药物试验台制作药物
 |WorkGiverDef.label.zh-tw=製作藥物
 |WorkGiverDef.giverClass=WorkGiver_DoBill
 |WorkGiverDef.workType=Crafting

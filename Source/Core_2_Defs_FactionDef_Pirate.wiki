@@ -16,7 +16,7 @@
 |FactionDef.pawnGroupMakers.0=Exist
 |FactionDef.pawnGroupMakers.0.kindDef=Normal
 |FactionDef.pawnGroupMakers.0.commonality=100
-|FactionDef.pawnGroupMakers.0.options="Drifter","5";"Thrasher","70";"MercenarySlasher","70";"GrenadierDestructive","70";"MercenaryHeavy","60";"GrenadierEMP","50";"MercenarySniper","80";"Scavenger","100";"Pirate","120";"MercenaryGunner","100";"MercenaryElite","100";"PirateBoss","100"
+|FactionDef.pawnGroupMakers.0.options="Drifter","5";"GrenadierEMP","5";"GrenadierDestructive","20";"Thrasher","70";"MercenarySlasher","70";"MercenaryHeavy","60";"MercenarySniper","80";"Scavenger","100";"Pirate","120";"MercenaryGunner","100";"MercenaryElite","100";"PirateBoss","100"
 |FactionDef.pawnGroupMakers.1=Exist
 |FactionDef.pawnGroupMakers.1.kindDef=Normal
 |FactionDef.pawnGroupMakers.1.commonality=25
@@ -24,7 +24,7 @@
 |FactionDef.pawnGroupMakers.1.options="MercenarySlasher","100"
 |FactionDef.pawnGroupMakers.2=Exist
 |FactionDef.pawnGroupMakers.2.kindDef=FactionBase
-|FactionDef.pawnGroupMakers.2.options="Drifter","5";"Thrasher","70";"MercenarySlasher","70";"GrenadierDestructive","70";"MercenarySniper","80";"Scavenger","100";"Pirate","120";"MercenaryGunner","100";"MercenaryElite","100";"PirateBoss","100"
+|FactionDef.pawnGroupMakers.2.options="Drifter","5";"GrenadierDestructive","20";"Thrasher","70";"MercenarySlasher","70";"MercenarySniper","80";"Scavenger","100";"Pirate","120";"MercenaryGunner","100";"MercenaryElite","100";"PirateBoss","100"
 |FactionDef.raidCommonality=100
 |FactionDef.canSiege=true
 |FactionDef.canStageAttacks=true

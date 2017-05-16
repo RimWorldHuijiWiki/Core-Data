@@ -4,7 +4,7 @@
 |defName=Underwall
 |TerrainDef.defName=Underwall
 |TerrainDef.label=underwall
-|TerrainDef.label.zh-cn=地底
+|TerrainDef.label.zh-cn=墙下
 |TerrainDef.label.zh-tw=地底
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/Underwall

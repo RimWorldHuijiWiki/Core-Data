@@ -13,7 +13,7 @@
 |RecipeDef.jobString.zh-cn=正在制作大麻烟。
 |RecipeDef.jobString.zh-tw=製造捲菸。
 |RecipeDef.workAmount=450
-|RecipeDef.workSpeedStat=DrugProductionSpeed
+|RecipeDef.workSpeedStat=
 |RecipeDef.ingredients=Exist
 |RecipeDef.ingredients.Count=1
 |RecipeDef.ingredients.0=Exist
@@ -23,7 +23,7 @@
 |RecipeDef.fixedIngredientFilter=Exist
 |RecipeDef.fixedIngredientFilter.thingDefs="SmokeleafLeaves"
 |RecipeDef.products="SmokeleafJoint","1"
-|RecipeDef.workSkill=Intellectual
+|RecipeDef.workSkill=
 |RecipeDef.effectWorking=Cook
 |RecipeDef.soundWorking=Recipe_CookMeal
 |RecipeDef.recipeUsers="CraftingSpot"

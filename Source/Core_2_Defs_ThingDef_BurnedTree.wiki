@@ -41,7 +41,7 @@
 |ThingDef.plant.growDays=30
 |ThingDef.plant.lifespanFraction=0
 |ThingDef.plant.growMinGlow=0
-|ThingDef.plant.fertilityMin=0
+|ThingDef.plant.fertilityMin=0.01
 |ThingDef.plant.fertilitySensitivity=0
 |ThingDef.plant.topWindExposure=0.05
 |ThingDef.plant.visualSizeRange=1.2 ~ 1.9

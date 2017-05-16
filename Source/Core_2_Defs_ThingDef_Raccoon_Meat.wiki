@@ -3,10 +3,10 @@
 |defType=ThingDef
 |defName=Raccoon_Meat
 |ThingDef.defName=Raccoon_Meat
-|ThingDef.label=Raccoon meat
+|ThingDef.label=raccoon meat
 |ThingDef.label.zh-cn=浣熊肉
 |ThingDef.label.zh-tw=浣熊肉
-|ThingDef.description=Raccoon meat
+|ThingDef.description=raccoon meat
 |ThingDef.description.zh-cn=浣熊肉
 |ThingDef.description.zh-tw=浣熊的肉。
 |ThingDef.statBases="MaxHitPoints","50";"MarketValue","2";"Mass","0.03";"Flammability","0.5";"Beauty","-20";"DeteriorationRate","10"

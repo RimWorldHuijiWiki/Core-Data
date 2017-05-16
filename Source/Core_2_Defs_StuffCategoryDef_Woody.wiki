@@ -4,6 +4,6 @@
 |defName=Woody
 |StuffCategoryDef.defName=Woody
 |StuffCategoryDef.label=woody
-|StuffCategoryDef.label.zh-cn=木材
+|StuffCategoryDef.label.zh-cn=木材类
 |StuffCategoryDef.label.zh-tw=木質
 }}

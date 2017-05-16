@@ -9,7 +9,7 @@
 |ThoughtDef.stages.0.label=ate rotten food
 |ThoughtDef.stages.0.label.zh-cn=吃了腐烂的食物
 |ThoughtDef.stages.0.label.zh-tw=吃了腐敗的食物
-|ThoughtDef.stages.0.description=I ate some disgusting, purtid food. It was melting in my mouth - but not in a good way.
+|ThoughtDef.stages.0.description=I ate some disgusting, putrid food. It was melting in my mouth - but not in a good way.
 |ThoughtDef.stages.0.description.zh-cn=我吃了一些变质腐烂的食物。它在我嘴里融化，让我很难受。
 |ThoughtDef.stages.0.description.zh-tw=我吃了噁心、發霉的食物，真是個不愉快的體驗。
 |ThoughtDef.stages.0.baseMoodEffect=-10

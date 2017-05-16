@@ -3,7 +3,7 @@
 |defType=JobDef
 |defName=WaitDowned
 |JobDef.defName=WaitDowned
-|JobDef.driverClass=JobDriver_Wait
+|JobDef.driverClass=JobDriver_WaitDowned
 |JobDef.reportString=downed.
 |JobDef.reportString.zh-cn=倒地不起。
 |JobDef.reportString.zh-tw=倒著。

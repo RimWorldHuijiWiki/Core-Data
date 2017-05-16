@@ -31,8 +31,8 @@
 |ThingDef.comps.1.needLevelOffset=1
 |ThingDef.comps.1.listOrder=20
 |ThingDef.recipeMaker=Exist
-|ThingDef.recipeMaker.workSpeedStat=DrugProductionSpeed
-|ThingDef.recipeMaker.workSkill=Intellectual
+|ThingDef.recipeMaker.workSpeedStat=
+|ThingDef.recipeMaker.workSkill=
 |ThingDef.recipeMaker.effectWorking=Cook
 |ThingDef.recipeMaker.soundWorking=Recipe_CookMeal
 |ThingDef.recipeMaker.recipeUsers="CraftingSpot"

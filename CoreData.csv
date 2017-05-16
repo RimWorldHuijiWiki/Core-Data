@@ -6834,10 +6834,10 @@ Core:Defs_DesignationCategoryDef_Floors,"{{#set:
 |defName=Floors
 |DesignationCategoryDef.defName=Floors
 |DesignationCategoryDef.label=floors
-|DesignationCategoryDef.label.zh-cn=地面
+|DesignationCategoryDef.label.zh-cn=地板
 |DesignationCategoryDef.label.zh-tw=地板
 |DesignationCategoryDef.description=Flooring.
-|DesignationCategoryDef.description.zh-cn=各种地面。
+|DesignationCategoryDef.description.zh-cn=铺设地板。
 |DesignationCategoryDef.description.zh-tw=各種地面加工。
 |DesignationCategoryDef.specialDesignatorClasses=""Designator_Cancel"",""Designator_SmoothFloor"",""Designator_RemoveFloor""
 |DesignationCategoryDef.order=200
@@ -8621,15 +8621,15 @@ Core:Defs_FactionDef_Outlander,"{{#set:
 |FactionDef.pawnGroupMakers.Count=3
 |FactionDef.pawnGroupMakers.0=Exist
 |FactionDef.pawnGroupMakers.0.kindDef=Normal
-|FactionDef.pawnGroupMakers.0.options=""Villager"",""50"";""GrenadierDestructive"",""50"";""MercenarySlasher"",""70"";""TownGuard"",""100"";""TownCouncilman"",""100"";""MercenaryGunner"",""100"";""MercenaryElite"",""100""
+|FactionDef.pawnGroupMakers.0.options=""Villager"",""50"";""GrenadierDestructive"",""15"";""MercenarySlasher"",""70"";""TownGuard"",""100"";""TownCouncilman"",""100"";""MercenaryGunner"",""100"";""MercenaryElite"",""100""
 |FactionDef.pawnGroupMakers.1=Exist
 |FactionDef.pawnGroupMakers.1.kindDef=Trader
 |FactionDef.pawnGroupMakers.1.traders=""TownTrader"",""1""
 |FactionDef.pawnGroupMakers.1.carriers=""Muffalo"",""1"";""Dromedary"",""1""
-|FactionDef.pawnGroupMakers.1.guards=""GrenadierDestructive"",""50"";""MercenarySlasher"",""70"";""TownGuard"",""100"";""MercenaryGunner"",""100"";""MercenaryElite"",""100""
+|FactionDef.pawnGroupMakers.1.guards=""GrenadierDestructive"",""15"";""MercenarySlasher"",""70"";""TownGuard"",""100"";""MercenaryGunner"",""100"";""MercenaryElite"",""100""
 |FactionDef.pawnGroupMakers.2=Exist
 |FactionDef.pawnGroupMakers.2.kindDef=FactionBase
-|FactionDef.pawnGroupMakers.2.options=""GrenadierDestructive"",""50"";""MercenarySlasher"",""70"";""Villager"",""100"";""TownGuard"",""100"";""TownCouncilman"",""100"";""MercenaryGunner"",""100"";""MercenaryElite"",""100""
+|FactionDef.pawnGroupMakers.2.options=""GrenadierDestructive"",""15"";""MercenarySlasher"",""70"";""Villager"",""100"";""TownGuard"",""100"";""TownCouncilman"",""100"";""MercenaryGunner"",""100"";""MercenaryElite"",""100""
 |FactionDef.raidCommonality=100
 |FactionDef.canSiege=true
 |FactionDef.canStageAttacks=true
@@ -8673,7 +8673,7 @@ Core:Defs_FactionDef_Pirate,"{{#set:
 |FactionDef.pawnGroupMakers.0=Exist
 |FactionDef.pawnGroupMakers.0.kindDef=Normal
 |FactionDef.pawnGroupMakers.0.commonality=100
-|FactionDef.pawnGroupMakers.0.options=""Drifter"",""5"";""Thrasher"",""70"";""MercenarySlasher"",""70"";""GrenadierDestructive"",""70"";""MercenaryHeavy"",""60"";""GrenadierEMP"",""50"";""MercenarySniper"",""80"";""Scavenger"",""100"";""Pirate"",""120"";""MercenaryGunner"",""100"";""MercenaryElite"",""100"";""PirateBoss"",""100""
+|FactionDef.pawnGroupMakers.0.options=""Drifter"",""5"";""GrenadierEMP"",""5"";""GrenadierDestructive"",""20"";""Thrasher"",""70"";""MercenarySlasher"",""70"";""MercenaryHeavy"",""60"";""MercenarySniper"",""80"";""Scavenger"",""100"";""Pirate"",""120"";""MercenaryGunner"",""100"";""MercenaryElite"",""100"";""PirateBoss"",""100""
 |FactionDef.pawnGroupMakers.1=Exist
 |FactionDef.pawnGroupMakers.1.kindDef=Normal
 |FactionDef.pawnGroupMakers.1.commonality=25
@@ -8681,7 +8681,7 @@ Core:Defs_FactionDef_Pirate,"{{#set:
 |FactionDef.pawnGroupMakers.1.options=""MercenarySlasher"",""100""
 |FactionDef.pawnGroupMakers.2=Exist
 |FactionDef.pawnGroupMakers.2.kindDef=FactionBase
-|FactionDef.pawnGroupMakers.2.options=""Drifter"",""5"";""Thrasher"",""70"";""MercenarySlasher"",""70"";""GrenadierDestructive"",""70"";""MercenarySniper"",""80"";""Scavenger"",""100"";""Pirate"",""120"";""MercenaryGunner"",""100"";""MercenaryElite"",""100"";""PirateBoss"",""100""
+|FactionDef.pawnGroupMakers.2.options=""Drifter"",""5"";""GrenadierDestructive"",""20"";""Thrasher"",""70"";""MercenarySlasher"",""70"";""MercenarySniper"",""80"";""Scavenger"",""100"";""Pirate"",""120"";""MercenaryGunner"",""100"";""MercenaryElite"",""100"";""PirateBoss"",""100""
 |FactionDef.raidCommonality=100
 |FactionDef.canSiege=true
 |FactionDef.canStageAttacks=true
@@ -16378,7 +16378,7 @@ Core:Defs_JobDef_WaitDowned,"{{#set:
 |defType=JobDef
 |defName=WaitDowned
 |JobDef.defName=WaitDowned
-|JobDef.driverClass=JobDriver_Wait
+|JobDef.driverClass=JobDriver_WaitDowned
 |JobDef.reportString=downed.
 |JobDef.reportString.zh-cn=倒地不起。
 |JobDef.reportString.zh-tw=倒著。
@@ -29574,7 +29574,7 @@ Core:Defs_RecipeDef_Make_SmokeleafJoint,"{{#set:
 |RecipeDef.jobString.zh-cn=正在制作大麻烟。
 |RecipeDef.jobString.zh-tw=製造捲菸。
 |RecipeDef.workAmount=450
-|RecipeDef.workSpeedStat=DrugProductionSpeed
+|RecipeDef.workSpeedStat=
 |RecipeDef.ingredients=Exist
 |RecipeDef.ingredients.Count=1
 |RecipeDef.ingredients.0=Exist
@@ -29584,7 +29584,7 @@ Core:Defs_RecipeDef_Make_SmokeleafJoint,"{{#set:
 |RecipeDef.fixedIngredientFilter=Exist
 |RecipeDef.fixedIngredientFilter.thingDefs=""SmokeleafLeaves""
 |RecipeDef.products=""SmokeleafJoint"",""1""
-|RecipeDef.workSkill=Intellectual
+|RecipeDef.workSkill=
 |RecipeDef.effectWorking=Cook
 |RecipeDef.soundWorking=Recipe_CookMeal
 |RecipeDef.recipeUsers=""CraftingSpot""
@@ -46769,7 +46769,7 @@ Core:Defs_StuffCategoryDef_Fabric,"{{#set:
 |defName=Fabric
 |StuffCategoryDef.defName=Fabric
 |StuffCategoryDef.label=fabric
-|StuffCategoryDef.label.zh-cn=纤维
+|StuffCategoryDef.label.zh-cn=纤维类
 |StuffCategoryDef.label.zh-tw=織物
 }}"
 Core:Defs_StuffCategoryDef_Leathery,"{{#set:
@@ -46778,7 +46778,7 @@ Core:Defs_StuffCategoryDef_Leathery,"{{#set:
 |defName=Leathery
 |StuffCategoryDef.defName=Leathery
 |StuffCategoryDef.label=leathery
-|StuffCategoryDef.label.zh-cn=皮革
+|StuffCategoryDef.label.zh-cn=皮革类
 |StuffCategoryDef.label.zh-tw=皮質
 }}"
 Core:Defs_StuffCategoryDef_Metallic,"{{#set:
@@ -46787,7 +46787,7 @@ Core:Defs_StuffCategoryDef_Metallic,"{{#set:
 |defName=Metallic
 |StuffCategoryDef.defName=Metallic
 |StuffCategoryDef.label=metallic
-|StuffCategoryDef.label.zh-cn=金属
+|StuffCategoryDef.label.zh-cn=金属类
 |StuffCategoryDef.label.zh-tw=金屬
 }}"
 Core:Defs_StuffCategoryDef_Stony,"{{#set:
@@ -46796,7 +46796,7 @@ Core:Defs_StuffCategoryDef_Stony,"{{#set:
 |defName=Stony
 |StuffCategoryDef.defName=Stony
 |StuffCategoryDef.label=stony
-|StuffCategoryDef.label.zh-cn=岩石
+|StuffCategoryDef.label.zh-cn=石材类
 |StuffCategoryDef.label.zh-tw=石質
 }}"
 Core:Defs_StuffCategoryDef_Woody,"{{#set:
@@ -46805,7 +46805,7 @@ Core:Defs_StuffCategoryDef_Woody,"{{#set:
 |defName=Woody
 |StuffCategoryDef.defName=Woody
 |StuffCategoryDef.label=woody
-|StuffCategoryDef.label.zh-cn=木材
+|StuffCategoryDef.label.zh-cn=木材类
 |StuffCategoryDef.label.zh-tw=木質
 }}"
 Core:Defs_TaleDef_AteRawHumanlikeMeat,"{{#set:
@@ -48443,7 +48443,7 @@ Core:Defs_TerrainDef_Underwall,"{{#set:
 |defName=Underwall
 |TerrainDef.defName=Underwall
 |TerrainDef.label=underwall
-|TerrainDef.label.zh-cn=地底
+|TerrainDef.label.zh-cn=墙下
 |TerrainDef.label.zh-tw=地底
 |TerrainDef.fertility=0
 |TerrainDef.texturePath=Terrain/Surfaces/Underwall
@@ -52937,7 +52937,7 @@ Core:Defs_ThingDef_BurnedTree,"{{#set:
 |ThingDef.plant.growDays=30
 |ThingDef.plant.lifespanFraction=0
 |ThingDef.plant.growMinGlow=0
-|ThingDef.plant.fertilityMin=0
+|ThingDef.plant.fertilityMin=0.01
 |ThingDef.plant.fertilitySensitivity=0
 |ThingDef.plant.topWindExposure=0.05
 |ThingDef.plant.visualSizeRange=1.2 ~ 1.9
@@ -60240,6 +60240,7 @@ Core:Defs_ThingDef_Gun_IncendiaryLauncher,"{{#set:
 |ThingDef.recipeMaker.effectWorking=Smith
 |ThingDef.recipeMaker.soundWorking=Recipe_Smith
 |ThingDef.recipeMaker.recipeUsers=""TableMachining""
+|ThingDef.generateCommonality=0.4
 |ThingDef.graphicData=Exist
 |ThingDef.graphicData.texPath=Things/Item/Equipment/WeaponRanged/IncendiaryLauncher
 |ThingDef.graphicData.graphicClass=Graphic_Single
@@ -60769,6 +60770,7 @@ Core:Defs_ThingDef_Gun_SurvivalRifle,"{{#set:
 |ThingDef.recipeMaker.effectWorking=Smith
 |ThingDef.recipeMaker.soundWorking=Recipe_Smith
 |ThingDef.recipeMaker.recipeUsers=""TableMachining""
+|ThingDef.generateCommonality=1.5
 |ThingDef.graphicData=Exist
 |ThingDef.graphicData.texPath=Things/Item/Equipment/WeaponRanged/SurvivalRifle
 |ThingDef.graphicData.graphicClass=Graphic_Single
@@ -70262,7 +70264,7 @@ Core:Defs_ThingDef_Raccoon,"{{#set:
 |defType=ThingDef
 |defName=Raccoon
 |ThingDef.defName=Raccoon
-|ThingDef.label=Raccoon
+|ThingDef.label=raccoon
 |ThingDef.label.zh-cn=浣熊
 |ThingDef.label.zh-tw=浣熊
 |ThingDef.description=A small, hardy animal that ranges wide across forests and shrubland. Eats almost anything.
@@ -70359,10 +70361,10 @@ Core:Defs_ThingDef_Raccoon_Leather,"{{#set:
 |defType=ThingDef
 |defName=Raccoon_Leather
 |ThingDef.defName=Raccoon_Leather
-|ThingDef.label=Raccoon leather
+|ThingDef.label=raccoon leather
 |ThingDef.label.zh-cn=浣熊皮
 |ThingDef.label.zh-tw=浣熊毛皮
-|ThingDef.description=Raccoon leather
+|ThingDef.description=raccoon leather
 |ThingDef.description.zh-cn=浣熊皮
 |ThingDef.description.zh-tw=浣熊的毛皮。
 |ThingDef.statBases=""MaxHitPoints"",""100"";""MarketValue"",""2.1"";""Mass"",""0.03"";""Flammability"",""1"";""Beauty"",""-20"";""DeteriorationRate"",""2""
@@ -70388,7 +70390,7 @@ Core:Defs_ThingDef_Raccoon_Leather,"{{#set:
 |ThingDef.alwaysHaulable=true
 |ThingDef.thingCategories=""Leathers""
 |ThingDef.stuffProps=Exist
-|ThingDef.stuffProps.stuffAdjective=Raccoon leather
+|ThingDef.stuffProps.stuffAdjective=raccoon leather
 |ThingDef.stuffProps.stuffAdjective.zh-cn=浣熊皮
 |ThingDef.stuffProps.stuffAdjective.zh-tw=浣熊皮
 |ThingDef.stuffProps.commonality=1.0
@@ -70401,10 +70403,10 @@ Core:Defs_ThingDef_Raccoon_Meat,"{{#set:
 |defType=ThingDef
 |defName=Raccoon_Meat
 |ThingDef.defName=Raccoon_Meat
-|ThingDef.label=Raccoon meat
+|ThingDef.label=raccoon meat
 |ThingDef.label.zh-cn=浣熊肉
 |ThingDef.label.zh-tw=浣熊肉
-|ThingDef.description=Raccoon meat
+|ThingDef.description=raccoon meat
 |ThingDef.description.zh-cn=浣熊肉
 |ThingDef.description.zh-tw=浣熊的肉。
 |ThingDef.statBases=""MaxHitPoints"",""50"";""MarketValue"",""2"";""Mass"",""0.03"";""Flammability"",""0.5"";""Beauty"",""-20"";""DeteriorationRate"",""10""
@@ -72331,8 +72333,8 @@ Core:Defs_ThingDef_SmokeleafJoint,"{{#set:
 |ThingDef.comps.1.needLevelOffset=1
 |ThingDef.comps.1.listOrder=20
 |ThingDef.recipeMaker=Exist
-|ThingDef.recipeMaker.workSpeedStat=DrugProductionSpeed
-|ThingDef.recipeMaker.workSkill=Intellectual
+|ThingDef.recipeMaker.workSpeedStat=
+|ThingDef.recipeMaker.workSkill=
 |ThingDef.recipeMaker.effectWorking=Cook
 |ThingDef.recipeMaker.soundWorking=Recipe_CookMeal
 |ThingDef.recipeMaker.recipeUsers=""CraftingSpot""
@@ -78624,7 +78626,7 @@ Core:Defs_ThoughtDef_AteRottenFood,"{{#set:
 |ThoughtDef.stages.0.label=ate rotten food
 |ThoughtDef.stages.0.label.zh-cn=吃了腐烂的食物
 |ThoughtDef.stages.0.label.zh-tw=吃了腐敗的食物
-|ThoughtDef.stages.0.description=I ate some disgusting, purtid food. It was melting in my mouth - but not in a good way.
+|ThoughtDef.stages.0.description=I ate some disgusting, putrid food. It was melting in my mouth - but not in a good way.
 |ThoughtDef.stages.0.description.zh-cn=我吃了一些变质腐烂的食物。它在我嘴里融化，让我很难受。
 |ThoughtDef.stages.0.description.zh-tw=我吃了噁心、發霉的食物，真是個不愉快的體驗。
 |ThoughtDef.stages.0.baseMoodEffect=-10
@@ -86077,8 +86079,8 @@ Core:Defs_WorkGiverDef_DoBillsProduceDrugs,"{{#set:
 |defType=WorkGiverDef
 |defName=DoBillsProduceDrugs
 |WorkGiverDef.defName=DoBillsProduceDrugs
-|WorkGiverDef.label=produce drugs
-|WorkGiverDef.label.zh-cn=制作成瘾品
+|WorkGiverDef.label=produce drugs at drug lab
+|WorkGiverDef.label.zh-cn=在药物试验台制作药物
 |WorkGiverDef.label.zh-tw=製作藥物
 |WorkGiverDef.giverClass=WorkGiver_DoBill
 |WorkGiverDef.workType=Crafting

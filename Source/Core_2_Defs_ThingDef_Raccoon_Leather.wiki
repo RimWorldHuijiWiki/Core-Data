@@ -3,10 +3,10 @@
 |defType=ThingDef
 |defName=Raccoon_Leather
 |ThingDef.defName=Raccoon_Leather
-|ThingDef.label=Raccoon leather
+|ThingDef.label=raccoon leather
 |ThingDef.label.zh-cn=浣熊皮
 |ThingDef.label.zh-tw=浣熊毛皮
-|ThingDef.description=Raccoon leather
+|ThingDef.description=raccoon leather
 |ThingDef.description.zh-cn=浣熊皮
 |ThingDef.description.zh-tw=浣熊的毛皮。
 |ThingDef.statBases="MaxHitPoints","100";"MarketValue","2.1";"Mass","0.03";"Flammability","1";"Beauty","-20";"DeteriorationRate","2"
@@ -32,7 +32,7 @@
 |ThingDef.alwaysHaulable=true
 |ThingDef.thingCategories="Leathers"
 |ThingDef.stuffProps=Exist
-|ThingDef.stuffProps.stuffAdjective=Raccoon leather
+|ThingDef.stuffProps.stuffAdjective=raccoon leather
 |ThingDef.stuffProps.stuffAdjective.zh-cn=浣熊皮
 |ThingDef.stuffProps.stuffAdjective.zh-tw=浣熊皮
 |ThingDef.stuffProps.commonality=1.0
