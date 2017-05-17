@@ -65,7 +65,7 @@
 |ScenarioDef.scenario.parts.7=Exist
 |ScenarioDef.scenario.parts.7.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.7.def=StartingThing_Defined
-|ScenarioDef.scenario.parts.7.thingDef=Gun_SurvivalRifle
+|ScenarioDef.scenario.parts.7.thingDef=Gun_BoltActionRifle
 |ScenarioDef.scenario.parts.8=Exist
 |ScenarioDef.scenario.parts.8.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.8.def=StartingThing_Defined

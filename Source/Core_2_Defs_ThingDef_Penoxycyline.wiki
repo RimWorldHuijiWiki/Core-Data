@@ -6,8 +6,8 @@
 |ThingDef.label=penoxycyline
 |ThingDef.label.zh-cn=佩诺西林
 |ThingDef.label.zh-tw=盤諾沙林
-|ThingDef.description=A drug for blocking various infections. Blocks malaria, sleeping sickness, and plague. Take every five days.
-|ThingDef.description.zh-cn=用于阻断多种感染的药物。阻断疟疾、昏睡病以及瘟疫的感染。五天一服。
+|ThingDef.description=A drug for preventing infections from starting. Blocks malaria, sleeping sickness, and plague. Take every five days. Note: This drug does nothing to cure existing infections - it only prevents new ones.
+|ThingDef.description.zh-cn=预防感染的药物。阻断疟疾、昏睡病以及瘟疫的感染。五天一服。注意：这种药物对治疗现有感染没有任何作用——只能用于预防。
 |ThingDef.description.zh-tw=針對瘧疾的預防性藥物。五天打一針，瘧疾不上身。
 |ThingDef.statBases="WorkToMake","500";"MarketValue","32";"Mass","0.005";"MaxHitPoints","50";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-4"
 |ThingDef.pathCost=15

@@ -35,7 +35,4 @@
 |StorytellerDef.comps.3.category=CaravanTarget
 |StorytellerDef.comps.4=Exist
 |StorytellerDef.comps.4.Class=StorytellerCompProperties_JourneyOffer
-|StorytellerDef.desiredPopulationMin=4
-|StorytellerDef.desiredPopulationMax=13
-|StorytellerDef.desiredPopulationCritical=50
 }}

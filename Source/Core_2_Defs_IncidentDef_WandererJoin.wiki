@@ -9,6 +9,6 @@
 |IncidentDef.workerClass=IncidentWorker_WandererJoin
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
-|IncidentDef.baseChance=0.2
+|IncidentDef.baseChance=0.4
 |IncidentDef.populationEffect=Increase
 }}

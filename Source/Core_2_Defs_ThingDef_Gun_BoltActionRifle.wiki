@@ -1,14 +1,14 @@
 {{#set:
 |dataType=Def
 |defType=ThingDef
-|defName=Gun_SurvivalRifle
-|ThingDef.defName=Gun_SurvivalRifle
-|ThingDef.label=survival rifle
-|ThingDef.label.zh-cn=幸存者步枪
-|ThingDef.label.zh-tw=生存步槍
-|ThingDef.description=Ancient bolt-action rifle. Good range, good power, low rate of fire.
-|ThingDef.description.zh-cn=古老的栓动步枪，估计是从哪里的地下室翻出来的。射程和威力都不错，但是射速很慢。
-|ThingDef.description.zh-tw=古老的栓式步槍。射擊速度慢，然而有優秀的射程與十足的威力。
+|defName=Gun_BoltActionRifle
+|ThingDef.defName=Gun_BoltActionRifle
+|ThingDef.label=bolt-action rifle
+|ThingDef.label.zh-cn=栓动步枪
+|ThingDef.label.zh-tw=bolt-action rifle
+|ThingDef.description=Ancient pattern bolt-action rifle. Good range, good power, low rate of fire.
+|ThingDef.description.zh-cn=古老模式的栓动式步枪。良好射程和威力，射速低。
+|ThingDef.description.zh-tw=Ancient pattern bolt-action rifle. Good range, good power, low rate of fire.
 |ThingDef.statBases="WorkToMake","25000";"Mass","3.5";"AccuracyTouch","0.75";"AccuracyShort","0.96";"AccuracyMedium","0.96";"AccuracyLong","0.90";"RangedWeapon_Cooldown","1.26";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-6";"SellPriceFactor","0.20"
 |ThingDef.pathCost=10
 |ThingDef.costList="Steel","60";"Component","3"
@@ -40,7 +40,7 @@
 |ThingDef.recipeMaker.recipeUsers="TableMachining"
 |ThingDef.generateCommonality=1.5
 |ThingDef.graphicData=Exist
-|ThingDef.graphicData.texPath=Things/Item/Equipment/WeaponRanged/SurvivalRifle
+|ThingDef.graphicData.texPath=Things/Item/Equipment/WeaponRanged/BoltActionRifle
 |ThingDef.graphicData.graphicClass=Graphic_Single
 |ThingDef.graphicData.onGroundRandomRotateAngle=35
 |ThingDef.selectable=true
@@ -56,10 +56,10 @@
 |ThingDef.verbs.0.range=37
 |ThingDef.verbs.0.hasStandardCommand=true
 |ThingDef.verbs.0.warmupTime=1.9
-|ThingDef.verbs.0.soundCast=ShotSurvivalRifle
+|ThingDef.verbs.0.soundCast=ShotBoltActionRifle
 |ThingDef.verbs.0.soundCastTail=GunTail_Heavy
 |ThingDef.verbs.0.muzzleFlashScale=9
-|ThingDef.verbs.0.projectileDef=Bullet_SurvivalRifle
+|ThingDef.verbs.0.projectileDef=Bullet_BoltActionRifle
 |ThingDef.equipmentType=Primary
 |ThingDef.techLevel=Industrial
 |ThingDef.weaponTags="Gun"

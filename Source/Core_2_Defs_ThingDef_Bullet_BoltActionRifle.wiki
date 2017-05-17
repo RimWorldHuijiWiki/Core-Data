@@ -1,11 +1,11 @@
 {{#set:
 |dataType=Def
 |defType=ThingDef
-|defName=Bullet_SurvivalRifle
-|ThingDef.defName=Bullet_SurvivalRifle
-|ThingDef.label=survival rifle bullet
-|ThingDef.label.zh-cn=幸存者步枪子弹
-|ThingDef.label.zh-tw=子彈(生存步槍)
+|defName=Bullet_BoltActionRifle
+|ThingDef.defName=Bullet_BoltActionRifle
+|ThingDef.label=bolt-action rifle bullet
+|ThingDef.label.zh-cn=栓动步枪子弹
+|ThingDef.label.zh-tw=bolt-action rifle bullet
 |ThingDef.altitudeLayer=Projectile
 |ThingDef.thingClass=Bullet
 |ThingDef.category=Projectile

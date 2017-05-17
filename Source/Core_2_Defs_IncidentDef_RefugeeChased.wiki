@@ -9,7 +9,7 @@
 |IncidentDef.workerClass=IncidentWorker_RefugeeChased
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
-|IncidentDef.baseChance=2.5
+|IncidentDef.baseChance=2
 |IncidentDef.populationEffect=Increase
 |IncidentDef.minRefireDays=8
 }}

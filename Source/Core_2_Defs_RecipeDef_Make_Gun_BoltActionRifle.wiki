@@ -1,17 +1,17 @@
 {{#set:
 |dataType=Def
 |defType=RecipeDef
-|defName=Make_Gun_SurvivalRifle
-|RecipeDef.defName=Make_Gun_SurvivalRifle
-|RecipeDef.label=make survival rifle
-|RecipeDef.label.zh-cn=制作幸存者步枪
-|RecipeDef.label.zh-tw=製造生存步槍
-|RecipeDef.description=Make survival rifle.
-|RecipeDef.description.zh-cn=古老的栓动步枪，估计是从哪里的地下室翻出来的。射程和威力都不错，但是射速很慢。
-|RecipeDef.description.zh-tw=製造一把生存步槍。
-|RecipeDef.jobString=Making survival rifle.
-|RecipeDef.jobString.zh-cn=制作中。
-|RecipeDef.jobString.zh-tw=製造生存步槍。
+|defName=Make_Gun_BoltActionRifle
+|RecipeDef.defName=Make_Gun_BoltActionRifle
+|RecipeDef.label=make bolt-action rifle
+|RecipeDef.label.zh-cn=制作栓动步枪
+|RecipeDef.label.zh-tw=make bolt-action rifle
+|RecipeDef.description=Make bolt-action rifle.
+|RecipeDef.description.zh-cn=古老模式的栓动式步枪。良好射程和威力，射速低。
+|RecipeDef.description.zh-tw=Make bolt-action rifle.
+|RecipeDef.jobString=Making bolt-action rifle.
+|RecipeDef.jobString.zh-cn=正在制作制作栓动步枪。
+|RecipeDef.jobString.zh-tw=Making bolt-action rifle.
 |RecipeDef.workAmount=25000
 |RecipeDef.workSpeedStat=SmithingSpeed
 |RecipeDef.ingredients=Exist
@@ -26,7 +26,7 @@
 |RecipeDef.ingredients.1.count=3
 |RecipeDef.fixedIngredientFilter=Exist
 |RecipeDef.fixedIngredientFilter.thingDefs="Steel","Component"
-|RecipeDef.products="Gun_SurvivalRifle","1"
+|RecipeDef.products="Gun_BoltActionRifle","1"
 |RecipeDef.unfinishedThingDef=UnfinishedGun
 |RecipeDef.workSkill=Crafting
 |RecipeDef.effectWorking=Smith

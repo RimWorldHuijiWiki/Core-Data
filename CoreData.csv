@@ -13952,7 +13952,7 @@ Core:Defs_IncidentDef_RaidFriendly,"{{#set:
 |defName=RaidFriendly
 |IncidentDef.defName=RaidFriendly
 |IncidentDef.label=friendly raid
-|IncidentDef.label.zh-cn=友军的袭击
+|IncidentDef.label.zh-cn=援军
 |IncidentDef.label.zh-tw=友軍支援
 |IncidentDef.workerClass=IncidentWorker_RaidFriendly
 |IncidentDef.category=AllyAssistance
@@ -13989,7 +13989,7 @@ Core:Defs_IncidentDef_RefugeeChased,"{{#set:
 |IncidentDef.workerClass=IncidentWorker_RefugeeChased
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
-|IncidentDef.baseChance=2.5
+|IncidentDef.baseChance=2
 |IncidentDef.populationEffect=Increase
 |IncidentDef.minRefireDays=8
 }}"
@@ -14004,7 +14004,7 @@ Core:Defs_IncidentDef_RefugeePodCrash,"{{#set:
 |IncidentDef.workerClass=IncidentWorker_RefugeePodCrash
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
-|IncidentDef.baseChance=1.0
+|IncidentDef.baseChance=1.5
 |IncidentDef.populationEffect=Increase
 }}"
 Core:Defs_IncidentDef_ResourcePodCrash,"{{#set:
@@ -14199,7 +14199,7 @@ Core:Defs_IncidentDef_WandererJoin,"{{#set:
 |IncidentDef.workerClass=IncidentWorker_WandererJoin
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
-|IncidentDef.baseChance=0.2
+|IncidentDef.baseChance=0.4
 |IncidentDef.populationEffect=Increase
 }}"
 Core:Defs_InstructionDef_AcceptStartingPawns,"{{#set:
@@ -28719,6 +28719,41 @@ Core:Defs_RecipeDef_Make_Gun_AssaultRifle,"{{#set:
 |RecipeDef.soundWorking=Recipe_Smith
 |RecipeDef.recipeUsers=""TableMachining""
 }}"
+Core:Defs_RecipeDef_Make_Gun_BoltActionRifle,"{{#set:
+|dataType=Def
+|defType=RecipeDef
+|defName=Make_Gun_BoltActionRifle
+|RecipeDef.defName=Make_Gun_BoltActionRifle
+|RecipeDef.label=make bolt-action rifle
+|RecipeDef.label.zh-cn=制作栓动步枪
+|RecipeDef.label.zh-tw=make bolt-action rifle
+|RecipeDef.description=Make bolt-action rifle.
+|RecipeDef.description.zh-cn=古老模式的栓动式步枪。良好射程和威力，射速低。
+|RecipeDef.description.zh-tw=Make bolt-action rifle.
+|RecipeDef.jobString=Making bolt-action rifle.
+|RecipeDef.jobString.zh-cn=正在制作制作栓动步枪。
+|RecipeDef.jobString.zh-tw=Making bolt-action rifle.
+|RecipeDef.workAmount=25000
+|RecipeDef.workSpeedStat=SmithingSpeed
+|RecipeDef.ingredients=Exist
+|RecipeDef.ingredients.Count=2
+|RecipeDef.ingredients.0=Exist
+|RecipeDef.ingredients.0.filter=Exist
+|RecipeDef.ingredients.0.filter.thingDefs=""Steel""
+|RecipeDef.ingredients.0.count=60
+|RecipeDef.ingredients.1=Exist
+|RecipeDef.ingredients.1.filter=Exist
+|RecipeDef.ingredients.1.filter.thingDefs=""Component""
+|RecipeDef.ingredients.1.count=3
+|RecipeDef.fixedIngredientFilter=Exist
+|RecipeDef.fixedIngredientFilter.thingDefs=""Steel"",""Component""
+|RecipeDef.products=""Gun_BoltActionRifle"",""1""
+|RecipeDef.unfinishedThingDef=UnfinishedGun
+|RecipeDef.workSkill=Crafting
+|RecipeDef.effectWorking=Smith
+|RecipeDef.soundWorking=Recipe_Smith
+|RecipeDef.recipeUsers=""TableMachining""
+}}"
 Core:Defs_RecipeDef_Make_Gun_ChainShotgun,"{{#set:
 |dataType=Def
 |defType=RecipeDef
@@ -29069,41 +29104,6 @@ Core:Defs_RecipeDef_Make_Gun_SniperRifle,"{{#set:
 |RecipeDef.fixedIngredientFilter=Exist
 |RecipeDef.fixedIngredientFilter.thingDefs=""Steel"",""Component""
 |RecipeDef.products=""Gun_SniperRifle"",""1""
-|RecipeDef.unfinishedThingDef=UnfinishedGun
-|RecipeDef.workSkill=Crafting
-|RecipeDef.effectWorking=Smith
-|RecipeDef.soundWorking=Recipe_Smith
-|RecipeDef.recipeUsers=""TableMachining""
-}}"
-Core:Defs_RecipeDef_Make_Gun_SurvivalRifle,"{{#set:
-|dataType=Def
-|defType=RecipeDef
-|defName=Make_Gun_SurvivalRifle
-|RecipeDef.defName=Make_Gun_SurvivalRifle
-|RecipeDef.label=make survival rifle
-|RecipeDef.label.zh-cn=制作幸存者步枪
-|RecipeDef.label.zh-tw=製造生存步槍
-|RecipeDef.description=Make survival rifle.
-|RecipeDef.description.zh-cn=古老的栓动步枪，估计是从哪里的地下室翻出来的。射程和威力都不错，但是射速很慢。
-|RecipeDef.description.zh-tw=製造一把生存步槍。
-|RecipeDef.jobString=Making survival rifle.
-|RecipeDef.jobString.zh-cn=制作中。
-|RecipeDef.jobString.zh-tw=製造生存步槍。
-|RecipeDef.workAmount=25000
-|RecipeDef.workSpeedStat=SmithingSpeed
-|RecipeDef.ingredients=Exist
-|RecipeDef.ingredients.Count=2
-|RecipeDef.ingredients.0=Exist
-|RecipeDef.ingredients.0.filter=Exist
-|RecipeDef.ingredients.0.filter.thingDefs=""Steel""
-|RecipeDef.ingredients.0.count=60
-|RecipeDef.ingredients.1=Exist
-|RecipeDef.ingredients.1.filter=Exist
-|RecipeDef.ingredients.1.filter.thingDefs=""Component""
-|RecipeDef.ingredients.1.count=3
-|RecipeDef.fixedIngredientFilter=Exist
-|RecipeDef.fixedIngredientFilter.thingDefs=""Steel"",""Component""
-|RecipeDef.products=""Gun_SurvivalRifle"",""1""
 |RecipeDef.unfinishedThingDef=UnfinishedGun
 |RecipeDef.workSkill=Crafting
 |RecipeDef.effectWorking=Smith
@@ -34150,7 +34150,7 @@ Core:Defs_RulePackDef_NamerFactionOutlander,"{{#set:
 |defName=NamerFactionOutlander
 |RulePackDef.defName=NamerFactionOutlander
 |RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings=""name->[subname]"",""name->[subname]"",""name->[subname]"",""name->[subname] [politicalunion]"",""name->[subname] [politicaladjective] [politicalunion]"",""name->[politicalunion] of [subname]"",""name->[politicaladjective] [politicalunion] of [subname]"",""subname->[wordname]"",""subname->[wordname]"",""subname->[wordname]"",""subname->[direction] [wordname]"",""wordname->[syl][endsyl]"",""wordname->[syl][syl][endsyl]"",""wordname->[syl][syl][syl][endsyl]"",""name->[subname]"",""name->[subname]"",""name->[subname]"",""name->[subname]"",""name->[subname]"",""name->[subname]之[politicalunion]"",""name->[subname]之[politicaladjective][politicalunion]"",""subname->[wordname]"",""subname->[wordname]"",""subname->[wordname]"",""subname->[direction][wordname]"",""wordname->[syl][endsyl]"",""wordname->[syl][syl][endsyl]"",""wordname->[syl][syl][syl][endsyl]"",""name->[celestialname]"",""name->[celestialname]"",""name->[celestialname][politicalunion]"",""name->[direction][celestialname][politicaladjective][politicalunion]"",""name->[celestialname][politicaladjective][politicalunion]"",""name->大[celestialname][subname]"",""name->神聖[celestialname][subname]"",""name->[celestialname][number][subname]"",""subname->公國"",""subname->帝國"",""subname->王國"",""number->[wordname]"",""wordname->第二"",""wordname->第三""
+|RulePackDef.rulePack.rulesStrings=""name->[subname]"",""name->[subname]"",""name->[subname]"",""name->[subname] [politicalunion]"",""name->[subname] [politicaladjective] [politicalunion]"",""name->[politicalunion] of [subname]"",""name->[politicaladjective] [politicalunion] of [subname]"",""subname->[wordname]"",""subname->[wordname]"",""subname->[wordname]"",""subname->[direction] [wordname]"",""wordname->[syl][endsyl]"",""wordname->[syl][endsyl]"",""wordname->[syl][endsyl]"",""wordname->[syl][syl][endsyl]"",""wordname->[syl][syl][endsyl]"",""wordname->[syl][syl][syl][endsyl]"",""name->[subname]"",""name->[subname]"",""name->[subname]"",""name->[subname]"",""name->[subname]"",""name->[subname]之[politicalunion]"",""name->[subname]之[politicaladjective][politicalunion]"",""subname->[wordname]"",""subname->[wordname]"",""subname->[wordname]"",""subname->[direction][wordname]"",""wordname->[syl][endsyl]"",""wordname->[syl][endsyl]"",""wordname->[syl][endsyl]"",""wordname->[syl][syl][endsyl]"",""wordname->[syl][syl][endsyl]"",""wordname->[syl][syl][syl][endsyl]"",""name->[celestialname]"",""name->[celestialname]"",""name->[celestialname][politicalunion]"",""name->[direction][celestialname][politicaladjective][politicalunion]"",""name->[celestialname][politicaladjective][politicalunion]"",""name->大[celestialname][subname]"",""name->神聖[celestialname][subname]"",""name->[celestialname][number][subname]"",""subname->公國"",""subname->帝國"",""subname->王國"",""number->[wordname]"",""wordname->第二"",""wordname->第三"",""wordname->[syl][syl][endsyl]"",""wordname->[syl][syl][endsyl]"",""wordname->[syl][syl][syl][endsyl]""
 |RulePackDef.rulePack.rulesRaw=Exist
 |RulePackDef.rulePack.rulesRaw.Count=5
 |RulePackDef.rulePack.rulesRaw.0=Exist
@@ -34236,7 +34236,7 @@ Core:Defs_RulePackDef_NamerFactionTribal,"{{#set:
 |defName=NamerFactionTribal
 |RulePackDef.defName=NamerFactionTribal
 |RulePackDef.rulePack=Exist
-|RulePackDef.rulePack.rulesStrings=""name->[tribalworld] [politicalunion]"",""name->The [tribalworld] [politicalunion]"",""name->The [color] [terrainfeature] [politicalunion]"",""name->[politicalunion] of [tribalword]"",""name->The [color] [animal] [tribalword]"",""name->The [tribalword] of the [terrainfeature]"",""tribalword->[tribalwordfile]"",""tribalword->[syl][syl]"",""tribalword->[syl][syl][syl]"",""name->[tribalword][politicalunion]"",""name->[tribalword][politicalunion]"",""name->[color]色[terrainfeature][politicalunion]"",""name->[tribalword]之[politicalunion]"",""name->[color]色[animal][tribalword]"",""name->[terrainfeature]之[tribalword]"",""tribalword->[tribalwordfile]"",""tribalword->[syl][syl]"",""tribalword->[syl][syl][syl]"",""name->[animal][tribalword]"",""name->[tribalwordfile][tribalwordfile][tribalword]"",""name->[tribalwordfile][tribalwordfile][tribalwordfile][tribalword]"",""name->[tribalwordfile][tribalwordfile]人"",""name->[tribalwordfile][tribalwordfile]族"",""name->[color]色[animal][tribalword]"",""tribalword->王國"",""tribalword->聯盟"",""tribalword->部落聯盟""
+|RulePackDef.rulePack.rulesStrings=""name->[tribalworld] [politicalunion]"",""name->The [tribalworld] [politicalunion]"",""name->The [color] [terrainfeature] [politicalunion]"",""name->[politicalunion] of [tribalword]"",""name->The [color] [animal] [tribalword]"",""name->The [tribalword] of the [terrainfeature]"",""tribalword->[tribalwordfile]"",""tribalword->[syl][syl]"",""tribalword->[syl][syl]"",""tribalword->[syl][syl]"",""tribalword->[syl][syl][syl]"",""tribalword->[syl][syl][syl]"",""tribalword->[syl][syl][syl][syl]"",""name->[tribalword][politicalunion]"",""name->[tribalword][politicalunion]"",""name->[color]色[terrainfeature][politicalunion]"",""name->[tribalword]之[politicalunion]"",""name->[color]色[animal][tribalword]"",""name->[terrainfeature]之[tribalword]"",""tribalword->[tribalwordfile]"",""tribalword->[syl][syl]"",""tribalword->[syl][syl]"",""tribalword->[syl][syl]"",""tribalword->[syl][syl][syl]"",""tribalword->[syl][syl][syl]"",""tribalword->[syl][syl][syl][syl]"",""name->[animal][tribalword]"",""name->[tribalwordfile][tribalwordfile][tribalword]"",""name->[tribalwordfile][tribalwordfile][tribalwordfile][tribalword]"",""name->[tribalwordfile][tribalwordfile]人"",""name->[tribalwordfile][tribalwordfile]族"",""name->[color]色[animal][tribalword]"",""tribalword->王國"",""tribalword->聯盟"",""tribalword->部落聯盟"",""tribalword->[syl][syl]"",""tribalword->[syl][syl][syl]"",""tribalword->[syl][syl][syl]"",""tribalword->[syl][syl][syl][syl]""
 |RulePackDef.rulePack.rulesRaw=Exist
 |RulePackDef.rulePack.rulesRaw.Count=3
 |RulePackDef.rulePack.rulesRaw.0=Exist
@@ -34567,7 +34567,7 @@ Core:Defs_ScenarioDef_Crashlanded,"{{#set:
 |ScenarioDef.scenario.parts.7=Exist
 |ScenarioDef.scenario.parts.7.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.7.def=StartingThing_Defined
-|ScenarioDef.scenario.parts.7.thingDef=Gun_SurvivalRifle
+|ScenarioDef.scenario.parts.7.thingDef=Gun_BoltActionRifle
 |ScenarioDef.scenario.parts.8=Exist
 |ScenarioDef.scenario.parts.8.Class=ScenPart_StartingThing_Defined
 |ScenarioDef.scenario.parts.8.def=StartingThing_Defined
@@ -43042,6 +43042,25 @@ Core:Defs_SoundDef_ShotAssaultRifle,"{{#set:
 |SoundDef.subSounds.0.pitchRange=1.091765 ~ 1
 |SoundDef.subSounds.0.sustainLoop=False
 }}"
+Core:Defs_SoundDef_ShotBoltActionRifle,"{{#set:
+|dataType=Def
+|defType=SoundDef
+|defName=ShotBoltActionRifle
+|SoundDef.defName=ShotBoltActionRifle
+|SoundDef.context=MapOnly
+|SoundDef.eventNames=
+|SoundDef.maxSimultaneous=1
+|SoundDef.subSounds=Exist
+|SoundDef.subSounds.Count=1
+|SoundDef.subSounds.0=Exist
+|SoundDef.subSounds.0.grains=Exist
+|SoundDef.subSounds.0.grains.Count=1
+|SoundDef.subSounds.0.grains.0=Exist
+|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
+|SoundDef.subSounds.0.grains.0.clipFolderPath=Weapon/BoltActionRifle
+|SoundDef.subSounds.0.pitchRange=0.9770592 ~ 1.114706
+|SoundDef.subSounds.0.sustainLoop=False
+}}"
 Core:Defs_SoundDef_ShotChargeBlaster,"{{#set:
 |dataType=Def
 |defType=SoundDef
@@ -43215,25 +43234,6 @@ Core:Defs_SoundDef_ShotSniperRifle,"{{#set:
 |SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
 |SoundDef.subSounds.0.grains.0.clipFolderPath=Weapon/SniperRifle
 |SoundDef.subSounds.0.volumeRange=77.05883 ~ 77.05883
-|SoundDef.subSounds.0.sustainLoop=False
-}}"
-Core:Defs_SoundDef_ShotSurvivalRifle,"{{#set:
-|dataType=Def
-|defType=SoundDef
-|defName=ShotSurvivalRifle
-|SoundDef.defName=ShotSurvivalRifle
-|SoundDef.context=MapOnly
-|SoundDef.eventNames=
-|SoundDef.maxSimultaneous=1
-|SoundDef.subSounds=Exist
-|SoundDef.subSounds.Count=1
-|SoundDef.subSounds.0=Exist
-|SoundDef.subSounds.0.grains=Exist
-|SoundDef.subSounds.0.grains.Count=1
-|SoundDef.subSounds.0.grains.0=Exist
-|SoundDef.subSounds.0.grains.0.Class=AudioGrain_Folder
-|SoundDef.subSounds.0.grains.0.clipFolderPath=Weapon/SurvivalRifle
-|SoundDef.subSounds.0.pitchRange=0.9770592 ~ 1.114706
 |SoundDef.subSounds.0.sustainLoop=False
 }}"
 Core:Defs_SoundDef_Silver_Drop,"{{#set:
@@ -46616,9 +46616,6 @@ Core:Defs_StorytellerDef_Cassandra,"{{#set:
 |StorytellerDef.comps.9.category=CaravanTarget
 |StorytellerDef.comps.10=Exist
 |StorytellerDef.comps.10.Class=StorytellerCompProperties_JourneyOffer
-|StorytellerDef.desiredPopulationMin=4
-|StorytellerDef.desiredPopulationMax=13
-|StorytellerDef.desiredPopulationCritical=18
 }}"
 Core:Defs_StorytellerDef_Phoebe,"{{#set:
 |dataType=Def
@@ -46679,9 +46676,6 @@ Core:Defs_StorytellerDef_Phoebe,"{{#set:
 |StorytellerDef.comps.9.category=CaravanTarget
 |StorytellerDef.comps.10=Exist
 |StorytellerDef.comps.10.Class=StorytellerCompProperties_JourneyOffer
-|StorytellerDef.desiredPopulationMin=4
-|StorytellerDef.desiredPopulationMax=13
-|StorytellerDef.desiredPopulationCritical=18
 }}"
 Core:Defs_StorytellerDef_Randy,"{{#set:
 |dataType=Def
@@ -46720,9 +46714,6 @@ Core:Defs_StorytellerDef_Randy,"{{#set:
 |StorytellerDef.comps.3.category=CaravanTarget
 |StorytellerDef.comps.4=Exist
 |StorytellerDef.comps.4.Class=StorytellerCompProperties_JourneyOffer
-|StorytellerDef.desiredPopulationMin=4
-|StorytellerDef.desiredPopulationMax=13
-|StorytellerDef.desiredPopulationCritical=50
 }}"
 Core:Defs_StorytellerDef_Tutor,"{{#set:
 |dataType=Def
@@ -46741,9 +46732,6 @@ Core:Defs_StorytellerDef_Tutor,"{{#set:
 |StorytellerDef.forcedDifficulty=VeryEasy
 |StorytellerDef.comps=Exist
 |StorytellerDef.comps.Count=0
-|StorytellerDef.desiredPopulationMin=4
-|StorytellerDef.desiredPopulationMax=13
-|StorytellerDef.desiredPopulationCritical=50
 }}"
 Core:Defs_StuffAppearanceDef_Bricks,"{{#set:
 |dataType=Def
@@ -52404,6 +52392,29 @@ Core:Defs_ThingDef_Bullet_AssaultRifle,"{{#set:
 |ThingDef.projectile.damageDef=Bullet
 |ThingDef.projectile.damageAmountBase=7
 }}"
+Core:Defs_ThingDef_Bullet_BoltActionRifle,"{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Bullet_BoltActionRifle
+|ThingDef.defName=Bullet_BoltActionRifle
+|ThingDef.label=bolt-action rifle bullet
+|ThingDef.label.zh-cn=栓动步枪子弹
+|ThingDef.label.zh-tw=bolt-action rifle bullet
+|ThingDef.altitudeLayer=Projectile
+|ThingDef.thingClass=Bullet
+|ThingDef.category=Projectile
+|ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=False
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Projectile/Bullet_big
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.shaderType=Transparent
+|ThingDef.neverMultiSelect=True
+|ThingDef.projectile=Exist
+|ThingDef.projectile.speed=70
+|ThingDef.projectile.damageDef=Bullet
+|ThingDef.projectile.damageAmountBase=18
+}}"
 Core:Defs_ThingDef_Bullet_ChainShotgun,"{{#set:
 |dataType=Def
 |defType=ThingDef
@@ -52847,29 +52858,6 @@ Core:Defs_ThingDef_Bullet_SniperRifle,"{{#set:
 |ThingDef.projectile.speed=100
 |ThingDef.projectile.damageDef=Bullet
 |ThingDef.projectile.damageAmountBase=40
-}}"
-Core:Defs_ThingDef_Bullet_SurvivalRifle,"{{#set:
-|dataType=Def
-|defType=ThingDef
-|defName=Bullet_SurvivalRifle
-|ThingDef.defName=Bullet_SurvivalRifle
-|ThingDef.label=survival rifle bullet
-|ThingDef.label.zh-cn=幸存者步枪子弹
-|ThingDef.label.zh-tw=子彈(生存步槍)
-|ThingDef.altitudeLayer=Projectile
-|ThingDef.thingClass=Bullet
-|ThingDef.category=Projectile
-|ThingDef.tickerType=Normal
-|ThingDef.useHitPoints=False
-|ThingDef.graphicData=Exist
-|ThingDef.graphicData.texPath=Things/Projectile/Bullet_big
-|ThingDef.graphicData.graphicClass=Graphic_Single
-|ThingDef.graphicData.shaderType=Transparent
-|ThingDef.neverMultiSelect=True
-|ThingDef.projectile=Exist
-|ThingDef.projectile.speed=70
-|ThingDef.projectile.damageDef=Bullet
-|ThingDef.projectile.damageAmountBase=18
 }}"
 Core:Defs_ThingDef_Bullet_TurretImprovised,"{{#set:
 |dataType=Def
@@ -59811,6 +59799,72 @@ Core:Defs_ThingDef_Gun_AssaultRifle,"{{#set:
 |ThingDef.techLevel=Industrial
 |ThingDef.weaponTags=""Gun"",""EliteGun""
 }}"
+Core:Defs_ThingDef_Gun_BoltActionRifle,"{{#set:
+|dataType=Def
+|defType=ThingDef
+|defName=Gun_BoltActionRifle
+|ThingDef.defName=Gun_BoltActionRifle
+|ThingDef.label=bolt-action rifle
+|ThingDef.label.zh-cn=栓动步枪
+|ThingDef.label.zh-tw=bolt-action rifle
+|ThingDef.description=Ancient pattern bolt-action rifle. Good range, good power, low rate of fire.
+|ThingDef.description.zh-cn=古老模式的栓动式步枪。良好射程和威力，射速低。
+|ThingDef.description.zh-tw=Ancient pattern bolt-action rifle. Good range, good power, low rate of fire.
+|ThingDef.statBases=""WorkToMake"",""25000"";""Mass"",""3.5"";""AccuracyTouch"",""0.75"";""AccuracyShort"",""0.96"";""AccuracyMedium"",""0.96"";""AccuracyLong"",""0.90"";""RangedWeapon_Cooldown"",""1.26"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
+|ThingDef.pathCost=10
+|ThingDef.costList=""Steel"",""60"";""Component"",""3""
+|ThingDef.altitudeLayer=Item
+|ThingDef.thingClass=ThingWithComps
+|ThingDef.category=Item
+|ThingDef.tickerType=Never
+|ThingDef.useHitPoints=true
+|ThingDef.comps=Exist
+|ThingDef.comps.Count=4
+|ThingDef.comps.0=Exist
+|ThingDef.comps.0.Class=CompProperties_Forbiddable
+|ThingDef.comps.1=Exist
+|ThingDef.comps.1.compClass=CompEquippable
+|ThingDef.comps.2=Exist
+|ThingDef.comps.2.compClass=CompQuality
+|ThingDef.comps.3=Exist
+|ThingDef.comps.3.Class=CompProperties_Art
+|ThingDef.comps.3.nameMaker=ArtName_WeaponGun
+|ThingDef.comps.3.descriptionMaker=ArtDescription_WeaponGun
+|ThingDef.comps.3.minQualityForArtistic=Excellent
+|ThingDef.smeltable=true
+|ThingDef.recipeMaker=Exist
+|ThingDef.recipeMaker.workSpeedStat=SmithingSpeed
+|ThingDef.recipeMaker.unfinishedThingDef=UnfinishedGun
+|ThingDef.recipeMaker.workSkill=Crafting
+|ThingDef.recipeMaker.effectWorking=Smith
+|ThingDef.recipeMaker.soundWorking=Recipe_Smith
+|ThingDef.recipeMaker.recipeUsers=""TableMachining""
+|ThingDef.generateCommonality=1.5
+|ThingDef.graphicData=Exist
+|ThingDef.graphicData.texPath=Things/Item/Equipment/WeaponRanged/BoltActionRifle
+|ThingDef.graphicData.graphicClass=Graphic_Single
+|ThingDef.graphicData.onGroundRandomRotateAngle=35
+|ThingDef.selectable=true
+|ThingDef.inspectorTabs=""ITab_Art""
+|ThingDef.drawGUIOverlay=true
+|ThingDef.alwaysHaulable=true
+|ThingDef.thingCategories=""WeaponsRanged""
+|ThingDef.soundInteract=InteractRifle
+|ThingDef.verbs=Exist
+|ThingDef.verbs.Count=1
+|ThingDef.verbs.0=Exist
+|ThingDef.verbs.0.verbClass=Verb_Shoot
+|ThingDef.verbs.0.range=37
+|ThingDef.verbs.0.hasStandardCommand=true
+|ThingDef.verbs.0.warmupTime=1.9
+|ThingDef.verbs.0.soundCast=ShotBoltActionRifle
+|ThingDef.verbs.0.soundCastTail=GunTail_Heavy
+|ThingDef.verbs.0.muzzleFlashScale=9
+|ThingDef.verbs.0.projectileDef=Bullet_BoltActionRifle
+|ThingDef.equipmentType=Primary
+|ThingDef.techLevel=Industrial
+|ThingDef.weaponTags=""Gun""
+}}"
 Core:Defs_ThingDef_Gun_ChainShotgun,"{{#set:
 |dataType=Def
 |defType=ThingDef
@@ -60729,72 +60783,6 @@ Core:Defs_ThingDef_Gun_SniperRifle,"{{#set:
 |ThingDef.equipmentType=Primary
 |ThingDef.techLevel=Industrial
 |ThingDef.weaponTags=""Gun"",""SniperRifle""
-}}"
-Core:Defs_ThingDef_Gun_SurvivalRifle,"{{#set:
-|dataType=Def
-|defType=ThingDef
-|defName=Gun_SurvivalRifle
-|ThingDef.defName=Gun_SurvivalRifle
-|ThingDef.label=survival rifle
-|ThingDef.label.zh-cn=幸存者步枪
-|ThingDef.label.zh-tw=生存步槍
-|ThingDef.description=Ancient bolt-action rifle. Good range, good power, low rate of fire.
-|ThingDef.description.zh-cn=古老的栓动步枪，估计是从哪里的地下室翻出来的。射程和威力都不错，但是射速很慢。
-|ThingDef.description.zh-tw=古老的栓式步槍。射擊速度慢，然而有優秀的射程與十足的威力。
-|ThingDef.statBases=""WorkToMake"",""25000"";""Mass"",""3.5"";""AccuracyTouch"",""0.75"";""AccuracyShort"",""0.96"";""AccuracyMedium"",""0.96"";""AccuracyLong"",""0.90"";""RangedWeapon_Cooldown"",""1.26"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
-|ThingDef.pathCost=10
-|ThingDef.costList=""Steel"",""60"";""Component"",""3""
-|ThingDef.altitudeLayer=Item
-|ThingDef.thingClass=ThingWithComps
-|ThingDef.category=Item
-|ThingDef.tickerType=Never
-|ThingDef.useHitPoints=true
-|ThingDef.comps=Exist
-|ThingDef.comps.Count=4
-|ThingDef.comps.0=Exist
-|ThingDef.comps.0.Class=CompProperties_Forbiddable
-|ThingDef.comps.1=Exist
-|ThingDef.comps.1.compClass=CompEquippable
-|ThingDef.comps.2=Exist
-|ThingDef.comps.2.compClass=CompQuality
-|ThingDef.comps.3=Exist
-|ThingDef.comps.3.Class=CompProperties_Art
-|ThingDef.comps.3.nameMaker=ArtName_WeaponGun
-|ThingDef.comps.3.descriptionMaker=ArtDescription_WeaponGun
-|ThingDef.comps.3.minQualityForArtistic=Excellent
-|ThingDef.smeltable=true
-|ThingDef.recipeMaker=Exist
-|ThingDef.recipeMaker.workSpeedStat=SmithingSpeed
-|ThingDef.recipeMaker.unfinishedThingDef=UnfinishedGun
-|ThingDef.recipeMaker.workSkill=Crafting
-|ThingDef.recipeMaker.effectWorking=Smith
-|ThingDef.recipeMaker.soundWorking=Recipe_Smith
-|ThingDef.recipeMaker.recipeUsers=""TableMachining""
-|ThingDef.generateCommonality=1.5
-|ThingDef.graphicData=Exist
-|ThingDef.graphicData.texPath=Things/Item/Equipment/WeaponRanged/SurvivalRifle
-|ThingDef.graphicData.graphicClass=Graphic_Single
-|ThingDef.graphicData.onGroundRandomRotateAngle=35
-|ThingDef.selectable=true
-|ThingDef.inspectorTabs=""ITab_Art""
-|ThingDef.drawGUIOverlay=true
-|ThingDef.alwaysHaulable=true
-|ThingDef.thingCategories=""WeaponsRanged""
-|ThingDef.soundInteract=InteractRifle
-|ThingDef.verbs=Exist
-|ThingDef.verbs.Count=1
-|ThingDef.verbs.0=Exist
-|ThingDef.verbs.0.verbClass=Verb_Shoot
-|ThingDef.verbs.0.range=37
-|ThingDef.verbs.0.hasStandardCommand=true
-|ThingDef.verbs.0.warmupTime=1.9
-|ThingDef.verbs.0.soundCast=ShotSurvivalRifle
-|ThingDef.verbs.0.soundCastTail=GunTail_Heavy
-|ThingDef.verbs.0.muzzleFlashScale=9
-|ThingDef.verbs.0.projectileDef=Bullet_SurvivalRifle
-|ThingDef.equipmentType=Primary
-|ThingDef.techLevel=Industrial
-|ThingDef.weaponTags=""Gun""
 }}"
 Core:Defs_ThingDef_Gun_TripleRocket,"{{#set:
 |dataType=Def
@@ -67651,8 +67639,8 @@ Core:Defs_ThingDef_Penoxycyline,"{{#set:
 |ThingDef.label=penoxycyline
 |ThingDef.label.zh-cn=佩诺西林
 |ThingDef.label.zh-tw=盤諾沙林
-|ThingDef.description=A drug for blocking various infections. Blocks malaria, sleeping sickness, and plague. Take every five days.
-|ThingDef.description.zh-cn=用于阻断多种感染的药物。阻断疟疾、昏睡病以及瘟疫的感染。五天一服。
+|ThingDef.description=A drug for preventing infections from starting. Blocks malaria, sleeping sickness, and plague. Take every five days. Note: This drug does nothing to cure existing infections - it only prevents new ones.
+|ThingDef.description.zh-cn=预防感染的药物。阻断疟疾、昏睡病以及瘟疫的感染。五天一服。注意：这种药物对治疗现有感染没有任何作用——只能用于预防。
 |ThingDef.description.zh-tw=針對瘧疾的預防性藥物。五天打一針，瘧疾不上身。
 |ThingDef.statBases=""WorkToMake"",""500"";""MarketValue"",""32"";""Mass"",""0.005"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-4""
 |ThingDef.pathCost=15

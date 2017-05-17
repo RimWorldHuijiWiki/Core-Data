@@ -9,6 +9,6 @@
 |IncidentDef.workerClass=IncidentWorker_RefugeePodCrash
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
-|IncidentDef.baseChance=1.0
+|IncidentDef.baseChance=1.5
 |IncidentDef.populationEffect=Increase
 }}

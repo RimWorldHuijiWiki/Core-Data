@@ -15,7 +15,4 @@
 |StorytellerDef.forcedDifficulty=VeryEasy
 |StorytellerDef.comps=Exist
 |StorytellerDef.comps.Count=0
-|StorytellerDef.desiredPopulationMin=4
-|StorytellerDef.desiredPopulationMax=13
-|StorytellerDef.desiredPopulationCritical=50
 }}
