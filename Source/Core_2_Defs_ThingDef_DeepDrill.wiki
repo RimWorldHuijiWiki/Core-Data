@@ -9,7 +9,7 @@
 |ThingDef.description=A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.
 |ThingDef.description.zh-cn=一个用于开采位于地下深处矿石的钻井装置，使用地质扫描仪来勘探地下资源。
 |ThingDef.description.zh-tw=鑽開地表至地下礦脈採掘礦物的機器。需要先用礦脈聲納找出礦脈位置。
-|ThingDef.statBases="MaxHitPoints","140";"WorkToBuild","5000";"Flammability","1.0";"Beauty","-25"
+|ThingDef.statBases="MaxHitPoints","140";"WorkToBuild","5000";"Flammability","1.0";"Beauty","-25";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","100";"Component","3"

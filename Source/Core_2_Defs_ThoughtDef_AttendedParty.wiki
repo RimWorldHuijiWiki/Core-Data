@@ -12,8 +12,8 @@
 |ThoughtDef.stages.0.description=I had a good time at that party.
 |ThoughtDef.stages.0.description.zh-cn=我在聚会中玩得很愉快。
 |ThoughtDef.stages.0.description.zh-tw=我在派對過得很愉快。
-|ThoughtDef.stages.0.baseMoodEffect=15
-|ThoughtDef.stackLimit=3
-|ThoughtDef.stackedEffectMultiplier=0.5
+|ThoughtDef.stages.0.baseMoodEffect=1
+|ThoughtDef.stackLimit=15
+|ThoughtDef.stackedEffectMultiplier=1
 |ThoughtDef.durationDays=10.0
 }}

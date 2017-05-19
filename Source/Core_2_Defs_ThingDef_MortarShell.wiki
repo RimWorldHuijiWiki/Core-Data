@@ -9,7 +9,7 @@
 |ThingDef.description=An explosive shell to be fired from mortars. Explodes when damaged.
 |ThingDef.description.zh-cn=迫击炮发射的爆炸炮弹。受损时会发生爆炸。
 |ThingDef.description.zh-tw=需用火炮射擊的炮彈。
-|ThingDef.statBases="MaxHitPoints","70";"MarketValue","10";"Mass","3.5";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-4"
+|ThingDef.statBases="MaxHitPoints","70";"MarketValue","10";"Mass","3.5";"Flammability","1.0";"DeteriorationRate","1.5";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

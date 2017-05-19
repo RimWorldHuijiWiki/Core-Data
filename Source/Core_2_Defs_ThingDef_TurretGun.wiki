@@ -9,7 +9,7 @@
 |ThingDef.description=An improvised turret that automatically fires at nearby enemies. Explodes when damaged. Its hacked-together AI brain isn't very smart, and can't be directly controlled, so beware of friendly fire.
 |ThingDef.description.zh-cn=一台东拼西凑的的机枪炮塔，会自动射击附近的敌人，被摧毁后会爆炸。它所用的拼凑而成的人工智能大脑不是很聪明，也没法被直接控制，因此要当心误伤。
 |ThingDef.description.zh-tw=一個威力較弱的炮塔，在敵人靠近時會自動開火。被摧毀後會引起爆炸。
-|ThingDef.statBases="MaxHitPoints","100";"Flammability","1.0";"WorkToBuild","2500";"Mass","100";"Beauty","-20"
+|ThingDef.statBases="MaxHitPoints","100";"Flammability","1.0";"WorkToBuild","2500";"Mass","100";"Beauty","-20";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=50
 |ThingDef.costList="Steel","100";"Component","3"

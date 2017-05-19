@@ -9,7 +9,7 @@
 |ThingDef.description=The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol addiction.
 |ThingDef.description.zh-cn=除了水以外人类所消耗的第一饮料。啤酒的味道不错，但它的主要效果是醉酒。过度饮用会导致酒精成瘾。
 |ThingDef.description.zh-tw=啤酒作為僅次於水，人類消耗量最大的飲料。啤酒可以美味的品嘗，然而過量飲用會導致酒精成癮。
-|ThingDef.statBases="DeteriorationRate","0.5";"MarketValue","9";"Mass","0.3";"MeleeWeapon_DamageAmount","7";"MeleeWeapon_Cooldown","1.8";"MaxHitPoints","50";"Flammability","1.0";"Beauty","-4"
+|ThingDef.statBases="DeteriorationRate","0.5";"MarketValue","12";"Mass","0.3";"MeleeWeapon_DamageAmount","7";"MeleeWeapon_Cooldown","1.8";"MaxHitPoints","50";"Flammability","1.0";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

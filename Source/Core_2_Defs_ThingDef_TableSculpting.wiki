@@ -9,7 +9,7 @@
 |ThingDef.description=A workbench equipped for artistic sculpting.
 |ThingDef.description.zh-cn=一个配备有雕刻工具的平台。
 |ThingDef.description.zh-tw=專門進行雕刻工作的桌子。
-|ThingDef.statBases="WorkToBuild","2500";"MaxHitPoints","180";"Flammability","1.0";"Cleanliness","-5"
+|ThingDef.statBases="WorkToBuild","2500";"MaxHitPoints","180";"Flammability","1.0";"Cleanliness","-5";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","50"

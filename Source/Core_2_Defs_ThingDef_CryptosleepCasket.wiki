@@ -9,7 +9,7 @@
 |ThingDef.description=A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.
 |ThingDef.description.zh-cn=一个自主供电的箱子，用于将人维持在生理暂停状态许多年。
 |ThingDef.description.zh-tw=一個能自行供電的休眠室，能讓裡頭的人進入假死狀態並維持多年。
-|ThingDef.statBases="WorkToBuild","3200";"MaxHitPoints","250";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","3200";"MaxHitPoints","250";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","180";"Uranium","5";"Component","8"

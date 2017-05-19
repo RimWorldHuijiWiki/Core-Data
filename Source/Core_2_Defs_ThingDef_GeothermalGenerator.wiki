@@ -9,7 +9,7 @@
 |ThingDef.description=Produces electricity from geothermal steam geysers. Must be placed on a geyser.
 |ThingDef.description.zh-cn=利用蒸汽间歇喷泉的地热来发电。必须放置在蒸汽间歇喷泉上。
 |ThingDef.description.zh-tw=用蒸氣間歇泉來發電，必須建造在噴泉正上方。
-|ThingDef.statBases="MaxHitPoints","500";"WorkToBuild","6000";"Flammability","1.0";"Beauty","-30"
+|ThingDef.statBases="MaxHitPoints","500";"WorkToBuild","6000";"Flammability","1.0";"Beauty","-30";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.costList="Steel","400";"Component","8"
 |ThingDef.terrainAffordanceNeeded=Heavy

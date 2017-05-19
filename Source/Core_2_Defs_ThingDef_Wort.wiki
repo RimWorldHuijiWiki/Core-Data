@@ -9,7 +9,7 @@
 |ThingDef.description=Beer before fermentation. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer.
 |ThingDef.description.zh-cn=各种材料混合在一起，还未发酵的啤酒，需要放在发酵桶里酿造后才能变成真正的啤酒。
 |ThingDef.description.zh-tw=尚未釀造的啤酒原料。麥汁需要被裝進釀酒桶中發酵才能成為可飲用的啤酒。
-|ThingDef.statBases="DeteriorationRate","1.0";"MarketValue","2.5";"Mass","0.8";"Beauty","-4"
+|ThingDef.statBases="DeteriorationRate","1.0";"MarketValue","2.5";"Mass","0.8";"MaxHitPoints","60";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

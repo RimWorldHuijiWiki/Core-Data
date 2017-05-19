@@ -9,5 +9,6 @@
 |ThingDef.thingClass=RectTrigger
 |ThingDef.category=Ethereal
 |ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=false
 |ThingDef.drawerType=None
 }}

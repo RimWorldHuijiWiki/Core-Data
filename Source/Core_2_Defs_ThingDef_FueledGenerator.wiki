@@ -9,7 +9,7 @@
 |ThingDef.description=Produces power by consuming wood fuel. Must be fueled by hand.
 |ThingDef.description.zh-cn=利用木材燃烧来发电。必须手动添加燃料。
 |ThingDef.description.zh-tw=燃燒木材產生電力，燃料需要手動裝填。
-|ThingDef.statBases="MaxHitPoints","300";"WorkToBuild","2500";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","300";"WorkToBuild","2500";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=150
 |ThingDef.costList="Steel","100";"Component","2"

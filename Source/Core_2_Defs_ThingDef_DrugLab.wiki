@@ -9,7 +9,7 @@
 |ThingDef.description=A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.
 |ThingDef.description.zh-cn=一个配备有各种烧瓶、量杯和加热装置的化学实验台，用于制作各种药物和成瘾品。
 |ThingDef.description.zh-tw=一張配備有各種容器、加熱器及測量設備的工作台，專門用來製作藥物。
-|ThingDef.statBases="WorkToBuild","3500";"MaxHitPoints","120";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","3500";"MaxHitPoints","120";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","75";"Component","8"

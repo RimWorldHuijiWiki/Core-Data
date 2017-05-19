@@ -14,7 +14,7 @@
 |TraitDef.degreeDatas.0.description.zh-tw=NAME喜愛近身搏鬥，HISCAP近身攻擊命中率大大的增加，但當你想讓牠帶上遠距離的武器，HE可是會非常不悅。
 |TraitDef.degreeDatas.0.statFactors="MeleeHitChance","1.30"
 |TraitDef.degreeDatas.0.skillGains="Melee","4";"Shooting","-4"
-|TraitDef.conflictingTraits="ShootingAccuracy"
+|TraitDef.conflictingTraits="ShootingAccuracy","Wimp"
 |TraitDef.requiredWorkTags="Violent"
 |TraitDef.commonality=0.5
 }}

@@ -9,7 +9,7 @@
 |ThingDef.description=A delicious preparation of cocoa seeds ground together with sugar and vanilla. Very pleasurable to eat, but not very nutritious.
 |ThingDef.description.zh-cn=一种美味食品，可可豆与糖和香草一起研磨制成。吃起来让人心情舒畅，但不是很营养。
 |ThingDef.description.zh-tw=一種用可可，混合了糖與香料製成的美味食品，味道非常可口，但營養價值不高。
-|ThingDef.statBases="MaxHitPoints","100";"MarketValue","6";"Mass","0.075";"Flammability","1.0";"DeteriorationRate","10";"Beauty","-4"
+|ThingDef.statBases="MaxHitPoints","60";"MarketValue","6";"Mass","0.075";"Flammability","1.0";"DeteriorationRate","8";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

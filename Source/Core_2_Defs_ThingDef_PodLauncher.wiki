@@ -9,7 +9,7 @@
 |ThingDef.description=A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.
 |ThingDef.description.zh-cn=可以发射单个运输舱的燃料供给端。运输舱发射器可以成组地发射，但必须互相之间紧邻建造。
 |ThingDef.description.zh-tw=一個附帶燃料槽的發射平台。運輸艙可以批量發射，但發射平台必須相鄰。
-|ThingDef.statBases="MaxHitPoints","200";"WorkToBuild","6000";"Flammability","0"
+|ThingDef.statBases="MaxHitPoints","200";"WorkToBuild","6000";"Flammability","0";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.costList="Steel","80";"Component","3"
 |ThingDef.terrainAffordanceNeeded=Light

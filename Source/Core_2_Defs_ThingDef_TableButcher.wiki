@@ -9,7 +9,7 @@
 |ThingDef.description=A heavy table for butchering dead creatures into pieces of raw meat.
 |ThingDef.description.zh-cn=一个用于将死掉的动物宰成肉块的厚重桌子。
 |ThingDef.description.zh-tw=一個用來將死亡的動物屠宰成肉塊的重型桌子。
-|ThingDef.statBases="WorkToBuild","2000";"MaxHitPoints","180";"Flammability","1.0";"Cleanliness","-15"
+|ThingDef.statBases="WorkToBuild","2000";"MaxHitPoints","180";"Flammability","1.0";"Cleanliness","-15";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costList="WoodLog","20"

@@ -9,7 +9,7 @@
 |ThingDef.description=A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining.
 |ThingDef.description.zh-cn=一个巨大的高科技电视。巨大、超逼真的图像几乎从屏幕上跳出来。提供非常好的娱乐。
 |ThingDef.description.zh-tw=一台巨大的高科技電視，超大的清晰化直讓影像裡的東西彷彿要跳出螢幕，太有趣啦！
-|ThingDef.statBases="MaxHitPoints","85";"Flammability","1.0";"MarketValue","2000";"Mass","8";"EntertainmentStrengthFactor","1.35"
+|ThingDef.statBases="MaxHitPoints","85";"Flammability","1.0";"MarketValue","2000";"Mass","8";"EntertainmentStrengthFactor","1.35";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","120";"Component","12"

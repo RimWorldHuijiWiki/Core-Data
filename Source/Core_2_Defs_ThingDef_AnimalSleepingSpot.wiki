@@ -9,7 +9,7 @@
 |ThingDef.description=Designates a spot on the ground where animals should sleep.
 |ThingDef.description.zh-cn=在地板上指定一个给动物睡觉的位置。
 |ThingDef.description.zh-tw=指定一個動物的睡眠點，動物會在這裡睡覺。
-|ThingDef.statBases="WorkToBuild","0"
+|ThingDef.statBases="WorkToBuild","0";"SellPriceFactor","0.70"
 |ThingDef.passability=Standable
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair

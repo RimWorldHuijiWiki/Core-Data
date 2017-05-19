@@ -9,7 +9,7 @@
 |ThingDef.description=Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.
 |ThingDef.description.zh-cn=从钢渣和其他含有金属的物品中提炼出有用的金属。消耗大量电力。
 |ThingDef.description.zh-tw=從金屬碎片中提煉有用的金屬，將消耗大量電力。
-|ThingDef.statBases="WorkToBuild","3500";"MaxHitPoints","180";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","3500";"MaxHitPoints","180";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","170";"Component","2"

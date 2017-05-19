@@ -9,7 +9,7 @@
 |ThingDef.description=A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries in a space environment and surviving atmospheric re-entry.
 |ThingDef.description.zh-cn=一个经过强化可以抵抗太空中威胁的低温休眠舱。可以维持一个人在太空中持续休眠几个世纪并可以安全再入大气层。
 |ThingDef.description.zh-tw=一個可以抵抗太空中危險的強化低溫休眠艙。可以维持一個人在太空中持續休眠幾個世纪並可以安全的再次進入大氣層。
-|ThingDef.statBases="WorkToBuild","8000";"MaxHitPoints","200";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","8000";"MaxHitPoints","200";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","500";"Uranium","5";"Component","10"

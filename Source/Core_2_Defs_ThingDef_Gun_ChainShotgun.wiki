@@ -38,6 +38,7 @@
 |ThingDef.recipeMaker.effectWorking=Smith
 |ThingDef.recipeMaker.soundWorking=Recipe_Smith
 |ThingDef.recipeMaker.recipeUsers="TableMachining"
+|ThingDef.generateCommonality=0.3
 |ThingDef.graphicData=Exist
 |ThingDef.graphicData.texPath=Things/Item/Equipment/WeaponRanged/ChainShotgun
 |ThingDef.graphicData.graphicClass=Graphic_Single

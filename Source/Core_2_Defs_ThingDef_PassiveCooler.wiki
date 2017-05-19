@@ -9,7 +9,7 @@
 |ThingDef.description=A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days.
 |ThingDef.description.zh-cn=一个传统的制冷器，不需要通电即可运行。通过水蒸发来降温，数天后水分耗尽时会自动消失。
 |ThingDef.description.zh-tw=一個原始的冷房設備，利用水吸熱蒸發的原理達到冷卻效果。冷卻器在運作壽命結束後會自我消滅。
-|ThingDef.statBases="MaxHitPoints","80";"WorkToBuild","200";"Flammability","0"
+|ThingDef.statBases="MaxHitPoints","80";"WorkToBuild","200";"Flammability","0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=50
 |ThingDef.costList="WoodLog","50"

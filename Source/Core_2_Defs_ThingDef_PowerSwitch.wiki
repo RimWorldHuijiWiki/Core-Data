@@ -9,7 +9,7 @@
 |ThingDef.description=Switches power on/off.
 |ThingDef.description.zh-cn=连通/断开电网，决定电流是否能够通过。
 |ThingDef.description.zh-tw=開啟或關閉供電閥切換電源供應。
-|ThingDef.statBases="MaxHitPoints","120";"WorkToBuild","200";"Flammability","0.4";"Beauty","-2"
+|ThingDef.statBases="MaxHitPoints","120";"WorkToBuild","200";"Flammability","0.4";"Beauty","-2";"SellPriceFactor","0.70"
 |ThingDef.passability=Standable
 |ThingDef.costList="Steel","15";"Component","1"
 |ThingDef.terrainAffordanceNeeded=Light

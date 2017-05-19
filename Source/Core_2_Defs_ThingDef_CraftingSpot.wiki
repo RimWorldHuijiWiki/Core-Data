@@ -9,7 +9,7 @@
 |ThingDef.description=A place for crafting simple things like shivs or bows.
 |ThingDef.description.zh-cn=一个制作简单物品的地方，比如大麻烟、小刀和短弓。
 |ThingDef.description.zh-tw=一個製造簡單刀具或弓箭的地方。
-|ThingDef.statBases="WorkToBuild","0"
+|ThingDef.statBases="WorkToBuild","0";"SellPriceFactor","0.70"
 |ThingDef.passability=Standable
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair

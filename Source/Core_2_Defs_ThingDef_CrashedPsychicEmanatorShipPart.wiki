@@ -9,7 +9,7 @@
 |ThingDef.description=A mysterious crashed piece of a spaceship. It may contain exotic materials, computers, even AI personas. This kind of technology can be dangerous.
 |ThingDef.description.zh-cn=一块从坠毁的飞船上掉下来的神秘残骸。它可能包含稀有材料、电脑、甚至AI角色核心。这种科技可能会带来很大的危险。
 |ThingDef.description.zh-tw=一塊來自墜毀星艦的神秘碎片。它可能包含稀有材料、電腦、甚至AI系統。然而這種科技也可能會帶來危險。
-|ThingDef.statBases="MaxHitPoints","1200";"Flammability","0";"Beauty","-100"
+|ThingDef.statBases="MaxHitPoints","1200";"Flammability","0";"Beauty","-100";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.pathCost=150
 |ThingDef.terrainAffordanceNeeded=Light

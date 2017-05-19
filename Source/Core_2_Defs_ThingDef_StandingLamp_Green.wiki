@@ -9,7 +9,7 @@
 |ThingDef.description=Standing lamp that lights an area in green.
 |ThingDef.description.zh-cn=将一片区域照亮成绿色的落地灯。
 |ThingDef.description.zh-tw=一個可以把一小塊區域點亮成綠色的立燈。
-|ThingDef.statBases="Mass","4";"MaxHitPoints","50";"WorkToBuild","170";"Flammability","1.0"
+|ThingDef.statBases="Mass","4";"MaxHitPoints","50";"WorkToBuild","170";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=8
 |ThingDef.costList="Steel","15"

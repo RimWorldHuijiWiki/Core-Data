@@ -9,7 +9,7 @@
 |ThingDef.description=Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.
 |ThingDef.description.zh-cn=提高工作速度。需要放置在工作台附近。一个工作台最多可以同时连接两个工具柜。
 |ThingDef.description.zh-tw=提升工作台工作速度。工具櫃必須設置於工作台附近，一張工作台同時可與兩個工具櫃連結。
-|ThingDef.statBases="MaxHitPoints","100";"WorkToBuild","1800";"Mass","40";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","100";"WorkToBuild","1800";"Mass","40";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.costList="Steel","200"
 |ThingDef.terrainAffordanceNeeded=Light

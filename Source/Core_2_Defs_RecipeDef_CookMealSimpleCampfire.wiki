@@ -26,7 +26,7 @@
 |RecipeDef.fixedIngredientFilter.categories="FoodRaw"
 |RecipeDef.defaultIngredientFilter=Exist
 |RecipeDef.defaultIngredientFilter.categories="FoodRaw"
-|RecipeDef.defaultIngredientFilter.exceptedThingDefs="Human_Meat","Megaspider_Meat"
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs="Human_Meat","Megaspider_Meat","InsectJelly"
 |RecipeDef.defaultIngredientFilter.exceptedCategories="EggsFertilized"
 |RecipeDef.allowMixingIngredients=true
 |RecipeDef.ingredientValueGetterClass=IngredientValueGetter_Nutrition

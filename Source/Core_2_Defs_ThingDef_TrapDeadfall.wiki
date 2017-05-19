@@ -9,7 +9,7 @@
 |ThingDef.description=A suspended spiked weight held up by a delicate trigger. When the victim disturbs the trigger, the weight is released and falls on his head or torso.
 |ThingDef.description.zh-cn=用一个巧妙的触发机关将重物悬停在高处。当受害人触发机关时，重物掉下砸在他的头或躯干上。
 |ThingDef.description.zh-tw=一個敏感的觸發裝置連接著懸吊於高處的尖刺陷阱，當受害者觸發陷阱，陷阱將會從他的頭頂落下。
-|ThingDef.statBases="MaxHitPoints","40";"WorkToBuild","2000";"Beauty","-4";"TrapMeleeDamage","60";"TrapSpringChance","0.8"
+|ThingDef.statBases="MaxHitPoints","40";"WorkToBuild","2000";"Beauty","-4";"TrapMeleeDamage","60";"TrapSpringChance","0.8";"SellPriceFactor","0.70"
 |ThingDef.costStuffCount=70
 |ThingDef.stuffCategories="Metallic","Woody","Stony"
 |ThingDef.terrainAffordanceNeeded=Light

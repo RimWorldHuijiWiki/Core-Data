@@ -9,7 +9,7 @@
 |ThingDef.description=Raw hops. A flavoring and preserving agent that is necessary for making beer.
 |ThingDef.description.zh-cn=生的啤酒花。是酿制啤酒时必需的调味剂和保鲜剂。
 |ThingDef.description.zh-tw=生啤酒花。味道糟糕且毫無營養，但卻是釀造啤酒不可或缺的原料。
-|ThingDef.statBases="MarketValue","1.5";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Mass","0.03";"Beauty","-4"
+|ThingDef.statBases="MarketValue","1.5";"MaxHitPoints","60";"Flammability","1.0";"DeteriorationRate","6";"Mass","0.03";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

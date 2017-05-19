@@ -9,7 +9,7 @@
 |ThingDef.description=A telescope for doing amateur astronomy. It's a relaxing and fun hobby for a certain kind of person.
 |ThingDef.description.zh-cn=一个业余的天文望远镜。某一类人作为兴趣爱好和放松心情之用。
 |ThingDef.description.zh-tw=提供給天文愛好者觀賞星空的望遠鏡。對於有這類興趣的人來說，這是個輕鬆的消遣。
-|ThingDef.statBases="MaxHitPoints","75";"Flammability","1.0";"MarketValue","350";"Mass","7.5";"EntertainmentStrengthFactor","1"
+|ThingDef.statBases="MaxHitPoints","75";"Flammability","1.0";"MarketValue","350";"Mass","7.5";"EntertainmentStrengthFactor","1";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=50
 |ThingDef.terrainAffordanceNeeded=Light

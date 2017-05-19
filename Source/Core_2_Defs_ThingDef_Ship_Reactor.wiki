@@ -9,7 +9,7 @@
 |ThingDef.description=Powers a ship on its journey through space.
 |ThingDef.description.zh-cn=在太空的漫长旅途中给飞船提供能量。
 |ThingDef.description.zh-tw=供應星艦在漫長星際旅途中所需的能源。
-|ThingDef.statBases="WorkToBuild","50000";"MaxHitPoints","500";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","50000";"MaxHitPoints","500";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.costList="Steel","300";"Plasteel","500";"Uranium","150";"Component","25"
 |ThingDef.terrainAffordanceNeeded=Heavy

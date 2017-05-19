@@ -9,7 +9,7 @@
 |ThingDef.description=Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily.
 |ThingDef.description.zh-cn=坚固的砂岩砖块。砂岩是一种相对柔软易碎的岩石。
 |ThingDef.description.zh-tw=加工成磚的砂岩。這是一種相對柔軟易碎的岩石。
-|ThingDef.statBases="MarketValue","1.9";"Mass","1";"SharpDamageMultiplier","0.5";"BluntDamageMultiplier","1.0";"Beauty","-12"
+|ThingDef.statBases="MarketValue","1.9";"Mass","1";"SharpDamageMultiplier","0.5";"MaxHitPoints","200";"BluntDamageMultiplier","1.0";"Beauty","-12"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

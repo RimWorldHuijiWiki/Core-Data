@@ -9,7 +9,7 @@
 |ThingDef.description=Fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked.
 |ThingDef.description.zh-cn=已受精的眼镜蛇卵。如果一切顺利应该可以孵化出眼镜蛇幼崽。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=已受精的眼鏡蛇蛋。如果順利，蛋將會孵出眼鏡蛇寶寶。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases="MarketValue","40.0";"Mass","0.15";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Beauty","-4"
+|ThingDef.statBases="MarketValue","40.0";"Mass","0.15";"MaxHitPoints","20";"DeteriorationRate","2";"Flammability","1.0";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

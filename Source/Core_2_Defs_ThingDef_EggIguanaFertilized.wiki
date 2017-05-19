@@ -9,7 +9,7 @@
 |ThingDef.description=Fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked.
 |ThingDef.description.zh-cn=已受精的鬣蜥卵。如果一切顺利应该可以孵化出鬣蜥幼崽。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=已受精的鬣蜥蛋。如果順利，蛋將會孵出鬣蜥寶寶。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases="MarketValue","25.0";"Mass","0.15";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Beauty","-4"
+|ThingDef.statBases="MarketValue","25.0";"Mass","0.15";"MaxHitPoints","20";"DeteriorationRate","2";"Flammability","1.0";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

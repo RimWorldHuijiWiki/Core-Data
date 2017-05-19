@@ -9,7 +9,7 @@
 |ThingDef.description=Raw cut leaves of a psychoid plant.
 |ThingDef.description.zh-cn=从精神叶上收获的新鲜叶子。
 |ThingDef.description.zh-tw=從迷幻草上收穫的新鮮葉片。
-|ThingDef.statBases="MarketValue","2.2";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Mass","0.03";"Beauty","-4"
+|ThingDef.statBases="MarketValue","2.2";"MaxHitPoints","60";"Flammability","1.0";"DeteriorationRate","6";"Mass","0.03";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

@@ -9,7 +9,7 @@
 |ThingDef.description=A set of large snowballs piled and shaped to resemble a person.
 |ThingDef.description.zh-cn=一组大雪球堆叠在一起，做成类似人的形状。
 |ThingDef.description.zh-tw=用幾顆大雪球堆疊成如人的形狀。
-|ThingDef.statBases="MaxHitPoints","50";"Beauty","4";"WorkToBuild","1000"
+|ThingDef.statBases="MaxHitPoints","50";"Beauty","4";"WorkToBuild","1000";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=25
 |ThingDef.pathCostIgnoreRepeat=false

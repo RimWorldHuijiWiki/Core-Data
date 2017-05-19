@@ -9,7 +9,7 @@
 |ThingDef.description=Plant decorative flowers here to improve the mood of people nearby.
 |ThingDef.description.zh-cn=种植装饰性的花朵来提升附近的人的心情。
 |ThingDef.description.zh-tw=農夫會在這裡種植裝飾性的花朵。
-|ThingDef.statBases="MaxHitPoints","100";"WorkToBuild","495";"Mass","2";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","100";"WorkToBuild","495";"Mass","2";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.fertility=1.0
 |ThingDef.costStuffCount=15

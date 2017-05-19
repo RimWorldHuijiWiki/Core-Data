@@ -9,7 +9,7 @@
 |ThingDef.description=Designates a spot on the ground where people should sleep. Not comfortable.
 |ThingDef.description.zh-cn=在地板上指定一个给人睡觉的位置。很不舒服。
 |ThingDef.description.zh-tw=指定一個供居民睡覺的地點，睡起來可不怎麼舒服。
-|ThingDef.statBases="WorkToBuild","0";"Comfort","0.4"
+|ThingDef.statBases="WorkToBuild","0";"Comfort","0.4";"SellPriceFactor","0.70"
 |ThingDef.passability=Standable
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair

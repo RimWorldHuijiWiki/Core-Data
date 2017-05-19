@@ -9,7 +9,7 @@
 |ThingDef.description=A workbench equipped with advanced tools for producing components from simpler materials.
 |ThingDef.description.zh-cn=配有先进工具的工作台，用于将简单的材料制成零部件。
 |ThingDef.description.zh-tw=配有各種先進設備的工作台，用簡單的原料生產各種零件。
-|ThingDef.statBases="MaxHitPoints","300";"WorkToBuild","5000";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","300";"WorkToBuild","5000";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","200";"Component","14"

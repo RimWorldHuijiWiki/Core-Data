@@ -9,7 +9,7 @@
 |ThingDef.description=A high-tech flat-screen television with crystal-clear image and rich color. More entertaining than a grainy tube TV.
 |ThingDef.description.zh-cn=一种画面晶莹剔透、色彩丰富的高科技平板电视屏幕。相比画面颗粒感过强的显像管电视能提供更好的娱乐。
 |ThingDef.description.zh-tw=一台高科技、高解析、高彩度的大尺寸薄型電視機，能提供比顯像管電視更家的娛樂體驗。
-|ThingDef.statBases="MaxHitPoints","80";"Flammability","1.0";"MarketValue","1200";"Mass","5";"EntertainmentStrengthFactor","1.2"
+|ThingDef.statBases="MaxHitPoints","80";"Flammability","1.0";"MarketValue","1200";"Mass","5";"EntertainmentStrengthFactor","1.2";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","100";"Component","10"

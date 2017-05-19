@@ -9,7 +9,7 @@
 |ThingDef.description=Milk from an animal.
 |ThingDef.description.zh-cn=动物的乳汁。
 |ThingDef.description.zh-tw=動物產出的奶。
-|ThingDef.statBases="MarketValue","3.1";"Mass","0.045";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Beauty","-4"
+|ThingDef.statBases="MarketValue","3.1";"Mass","0.045";"MaxHitPoints","60";"Flammability","1.0";"DeteriorationRate","6";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

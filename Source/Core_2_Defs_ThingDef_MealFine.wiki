@@ -9,7 +9,7 @@
 |ThingDef.description=A complex dish assembled with care from a wide selection of ingredients.
 |ThingDef.description.zh-cn=选择多种原料，精心烹饪出的一份相对复杂的食物。
 |ThingDef.description.zh-tw=用肉類和植物組合作為原料烹調出的一份相對複雜的料理。
-|ThingDef.statBases="DeteriorationRate","20";"MarketValue","24";"WorkToMake","450";"MaxHitPoints","50";"Flammability","1.0";"Beauty","-4";"Mass","0.44"
+|ThingDef.statBases="MarketValue","24";"WorkToMake","450";"MaxHitPoints","50";"Flammability","1.0";"Beauty","-4";"Mass","0.44";"DeteriorationRate","10"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

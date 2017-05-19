@@ -3,7 +3,7 @@
 |defType=RecipeDef
 |defName=CookMealSurvival
 |RecipeDef.defName=CookMealSurvival
-|RecipeDef.label=cook survival meal
+|RecipeDef.label=cook packaged survival meal
 |RecipeDef.label.zh-cn=烹饪包装生存食品
 |RecipeDef.label.zh-tw=烹調生存食品包
 |RecipeDef.description=Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.
@@ -28,7 +28,7 @@
 |RecipeDef.fixedIngredientFilter.categories="FoodRaw"
 |RecipeDef.defaultIngredientFilter=Exist
 |RecipeDef.defaultIngredientFilter.categories="FoodRaw"
-|RecipeDef.defaultIngredientFilter.exceptedThingDefs="Human_Meat","Megaspider_Meat"
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs="Human_Meat","Megaspider_Meat","InsectJelly"
 |RecipeDef.defaultIngredientFilter.exceptedCategories="EggsFertilized"
 |RecipeDef.allowMixingIngredients=true
 |RecipeDef.ingredientValueGetterClass=IngredientValueGetter_Nutrition

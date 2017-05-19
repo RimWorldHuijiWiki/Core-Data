@@ -9,7 +9,7 @@
 |ThingDef.description=Designates a spot where parties will be centered. Parties use an area around the spot.
 |ThingDef.description.zh-cn=指定一个举办聚会的集合位置。聚会将在周围的区域内举办。
 |ThingDef.description.zh-tw=指定派對舉行的地點，人們將會以派對點為中心進行活動。
-|ThingDef.statBases="WorkToBuild","0"
+|ThingDef.statBases="WorkToBuild","0";"SellPriceFactor","0.70"
 |ThingDef.passability=Standable
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair

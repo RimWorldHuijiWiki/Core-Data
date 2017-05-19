@@ -9,7 +9,7 @@
 |ThingDef.description=A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.
 |ThingDef.description.zh-cn=带有缝纫机的工作台，快速缝制衣服。在没电时的工作速度只有平时的40%。
 |ThingDef.description.zh-tw=用來裁縫衣服的工作台，沒電時的工作效率只有原來的40%。
-|ThingDef.statBases="WorkToBuild","2500";"MaxHitPoints","180";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","2500";"MaxHitPoints","180";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","50";"Component","3"

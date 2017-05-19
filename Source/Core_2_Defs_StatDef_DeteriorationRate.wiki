@@ -6,8 +6,8 @@
 |StatDef.label=deterioration rate
 |StatDef.label.zh-cn=老化率
 |StatDef.label.zh-tw=衰敗速率
-|StatDef.description=The rate at which this item deteriorates when left outside, especially in the rain.
-|StatDef.description.zh-cn=放在室外物品的老化率，尤其是下雨天。
+|StatDef.description=The rate at which this item deteriorates when left outside, in average hit points of damage per day. Things deteriorate faster than normal in some weather, like rain.
+|StatDef.description.zh-cn=放在室外时，物品的老化率，平均每天损失的耐久值。在某些天气下老化速度会比正常情况更快，比如雨天。
 |StatDef.description.zh-tw=此物件暴露在室外時的衰敗速度，而在雨中會衰敗得更加快速。
 |StatDef.category=BasicsNonPawn
 |StatDef.showIfUndefined=false

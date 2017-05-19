@@ -9,7 +9,7 @@
 |ThingDef.description=An electrically-powered stove with an attached countertop for preparing meals.
 |ThingDef.description.zh-cn=用于烹饪食物的电力炉灶。
 |ThingDef.description.zh-tw=用來烹飪食物的工作台。
-|ThingDef.statBases="WorkToBuild","2000";"MaxHitPoints","180";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","2000";"MaxHitPoints","180";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","80";"Component","2"

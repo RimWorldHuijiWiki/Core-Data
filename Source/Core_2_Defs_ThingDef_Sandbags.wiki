@@ -9,7 +9,7 @@
 |ThingDef.description=Cover from gunfire.
 |ThingDef.description.zh-cn=作为掩体，降低被远程武器击中的几率。
 |ThingDef.description.zh-tw=在戰鬥時提供掩蔽。
-|ThingDef.statBases="MaxHitPoints","450";"Beauty","-10";"WorkToBuild","180";"Flammability","0"
+|ThingDef.statBases="MaxHitPoints","450";"Beauty","-10";"WorkToBuild","180";"Flammability","0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=40
 |ThingDef.pathCostIgnoreRepeat=true

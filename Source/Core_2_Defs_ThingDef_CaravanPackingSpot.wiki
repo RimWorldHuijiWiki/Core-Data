@@ -9,7 +9,7 @@
 |ThingDef.description=Designates a spot where caravans will be formed.
 |ThingDef.description.zh-cn=指定一个远行队的组建位置。
 |ThingDef.description.zh-tw=指定旅隊進行裝卸的地點。
-|ThingDef.statBases="WorkToBuild","0"
+|ThingDef.statBases="WorkToBuild","0";"SellPriceFactor","0.70"
 |ThingDef.passability=Standable
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair

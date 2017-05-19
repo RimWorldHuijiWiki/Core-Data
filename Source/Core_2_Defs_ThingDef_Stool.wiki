@@ -9,7 +9,7 @@
 |ThingDef.description=A simple platform on which to sit.
 |ThingDef.description.zh-cn=给人坐的简单的凳子。
 |ThingDef.description.zh-tw=簡單的小凳子。
-|ThingDef.statBases="MaxHitPoints","75";"WorkToBuild","750";"Mass","3";"Flammability","1.0";"Beauty","1";"Comfort","0.5"
+|ThingDef.statBases="MaxHitPoints","75";"WorkToBuild","750";"Mass","3";"Flammability","1.0";"Beauty","1";"Comfort","0.5";"SellPriceFactor","0.70"
 |ThingDef.pathCost=30
 |ThingDef.costStuffCount=15
 |ThingDef.stuffCategories="Metallic","Woody","Stony"

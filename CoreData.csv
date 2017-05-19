@@ -13503,8 +13503,8 @@ Core:Defs_IncidentDef_ColdSnap,"{{#set:
 |IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=3
 |IncidentDef.minRefireDays=15
-|IncidentDef.letterText=An unusual cold snap has set in. Watch out for hypothermia and dying crops.
-|IncidentDef.letterText.zh-cn=一场罕见的寒流开始了。小心体温过低和作物死亡。
+|IncidentDef.letterText=An unusual cold snap has set in.<br/><br/>Cold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die.
+|IncidentDef.letterText.zh-cn=一场罕见的寒流开始了。<br/><br/>寒流中，低温病是致命的。确保室内的热量才能生存下去，穿上合适的衣物，并且设法在作物冻死之前进行收获。
 |IncidentDef.letterText.zh-tw=一波不尋常的寒流正在凍結這個地區，注意保暖，並且注意作物的狀況。
 |IncidentDef.letterLabel=Cold snap
 |IncidentDef.letterLabel.zh-cn=寒流
@@ -13674,7 +13674,7 @@ Core:Defs_IncidentDef_FarmAnimalsWanderIn,"{{#set:
 |IncidentDef.workerClass=IncidentWorker_FarmAnimalsWanderIn
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
-|IncidentDef.baseChance=0.2
+|IncidentDef.baseChance=0.25
 }}"
 Core:Defs_IncidentDef_Flashstorm,"{{#set:
 |dataType=Def
@@ -13712,8 +13712,8 @@ Core:Defs_IncidentDef_HeatWave,"{{#set:
 |IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=3
 |IncidentDef.minRefireDays=15
-|IncidentDef.letterText=An unusual heat wave has begun. Watch out for heat stroke.
-|IncidentDef.letterText.zh-cn=一场罕见的热浪开始了。小心中暑。
+|IncidentDef.letterText=An unusual heat wave has begun.<br/><br/>Heat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain.
+|IncidentDef.letterText.zh-cn=一场罕见的热浪开始了。<br/><br/>在热浪中如果中暑，极易死亡。建造冷却器来降温或呆在清凉的山洞深处。
 |IncidentDef.letterText.zh-tw=一波極端酷熱的熱浪正在烤熟這片地區，小心別中暑了。
 |IncidentDef.letterLabel=Heat wave
 |IncidentDef.letterLabel.zh-cn=热浪
@@ -27106,7 +27106,7 @@ Core:Defs_RecipeDef_CookMealFine,"{{#set:
 |RecipeDef.fixedIngredientFilter.categories=""FoodRaw""
 |RecipeDef.defaultIngredientFilter=Exist
 |RecipeDef.defaultIngredientFilter.categories=""FoodRaw""
-|RecipeDef.defaultIngredientFilter.exceptedThingDefs=""Human_Meat"",""Megaspider_Meat""
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs=""Human_Meat"",""Megaspider_Meat"",""InsectJelly""
 |RecipeDef.defaultIngredientFilter.exceptedCategories=""EggsFertilized""
 |RecipeDef.allowMixingIngredients=true
 |RecipeDef.ingredientValueGetterClass=IngredientValueGetter_Nutrition
@@ -27146,7 +27146,7 @@ Core:Defs_RecipeDef_CookMealLavish,"{{#set:
 |RecipeDef.fixedIngredientFilter.categories=""FoodRaw""
 |RecipeDef.defaultIngredientFilter=Exist
 |RecipeDef.defaultIngredientFilter.categories=""FoodRaw""
-|RecipeDef.defaultIngredientFilter.exceptedThingDefs=""Human_Meat"",""Megaspider_Meat""
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs=""Human_Meat"",""Megaspider_Meat"",""InsectJelly""
 |RecipeDef.defaultIngredientFilter.exceptedCategories=""EggsFertilized""
 |RecipeDef.allowMixingIngredients=true
 |RecipeDef.ingredientValueGetterClass=IngredientValueGetter_Nutrition
@@ -27183,7 +27183,7 @@ Core:Defs_RecipeDef_CookMealSimple,"{{#set:
 |RecipeDef.fixedIngredientFilter.categories=""FoodRaw""
 |RecipeDef.defaultIngredientFilter=Exist
 |RecipeDef.defaultIngredientFilter.categories=""FoodRaw""
-|RecipeDef.defaultIngredientFilter.exceptedThingDefs=""Human_Meat"",""Megaspider_Meat""
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs=""Human_Meat"",""Megaspider_Meat"",""InsectJelly""
 |RecipeDef.defaultIngredientFilter.exceptedCategories=""EggsFertilized""
 |RecipeDef.allowMixingIngredients=true
 |RecipeDef.ingredientValueGetterClass=IngredientValueGetter_Nutrition
@@ -27220,7 +27220,7 @@ Core:Defs_RecipeDef_CookMealSimpleCampfire,"{{#set:
 |RecipeDef.fixedIngredientFilter.categories=""FoodRaw""
 |RecipeDef.defaultIngredientFilter=Exist
 |RecipeDef.defaultIngredientFilter.categories=""FoodRaw""
-|RecipeDef.defaultIngredientFilter.exceptedThingDefs=""Human_Meat"",""Megaspider_Meat""
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs=""Human_Meat"",""Megaspider_Meat"",""InsectJelly""
 |RecipeDef.defaultIngredientFilter.exceptedCategories=""EggsFertilized""
 |RecipeDef.allowMixingIngredients=true
 |RecipeDef.ingredientValueGetterClass=IngredientValueGetter_Nutrition
@@ -27234,7 +27234,7 @@ Core:Defs_RecipeDef_CookMealSurvival,"{{#set:
 |defType=RecipeDef
 |defName=CookMealSurvival
 |RecipeDef.defName=CookMealSurvival
-|RecipeDef.label=cook survival meal
+|RecipeDef.label=cook packaged survival meal
 |RecipeDef.label.zh-cn=烹饪包装生存食品
 |RecipeDef.label.zh-tw=烹調生存食品包
 |RecipeDef.description=Cooks a packaged survival meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.
@@ -27259,7 +27259,7 @@ Core:Defs_RecipeDef_CookMealSurvival,"{{#set:
 |RecipeDef.fixedIngredientFilter.categories=""FoodRaw""
 |RecipeDef.defaultIngredientFilter=Exist
 |RecipeDef.defaultIngredientFilter.categories=""FoodRaw""
-|RecipeDef.defaultIngredientFilter.exceptedThingDefs=""Human_Meat"",""Megaspider_Meat""
+|RecipeDef.defaultIngredientFilter.exceptedThingDefs=""Human_Meat"",""Megaspider_Meat"",""InsectJelly""
 |RecipeDef.defaultIngredientFilter.exceptedCategories=""EggsFertilized""
 |RecipeDef.allowMixingIngredients=true
 |RecipeDef.ingredientValueGetterClass=IngredientValueGetter_Nutrition
@@ -29414,7 +29414,7 @@ Core:Defs_RecipeDef_Make_Penoxycyline,"{{#set:
 |RecipeDef.ingredients.0=Exist
 |RecipeDef.ingredients.0.filter=Exist
 |RecipeDef.ingredients.0.filter.thingDefs=""Neutroamine""
-|RecipeDef.ingredients.0.count=3
+|RecipeDef.ingredients.0.count=2
 |RecipeDef.fixedIngredientFilter=Exist
 |RecipeDef.fixedIngredientFilter.thingDefs=""Neutroamine""
 |RecipeDef.products=""Penoxycyline"",""1""
@@ -44810,8 +44810,8 @@ Core:Defs_StatDef_DeteriorationRate,"{{#set:
 |StatDef.label=deterioration rate
 |StatDef.label.zh-cn=老化率
 |StatDef.label.zh-tw=衰敗速率
-|StatDef.description=The rate at which this item deteriorates when left outside, especially in the rain.
-|StatDef.description.zh-cn=放在室外物品的老化率，尤其是下雨天。
+|StatDef.description=The rate at which this item deteriorates when left outside, in average hit points of damage per day. Things deteriorate faster than normal in some weather, like rain.
+|StatDef.description.zh-cn=放在室外时，物品的老化率，平均每天损失的耐久值。在某些天气下老化速度会比正常情况更快，比如雨天。
 |StatDef.description.zh-tw=此物件暴露在室外時的衰敗速度，而在雨中會衰敗得更加快速。
 |StatDef.category=BasicsNonPawn
 |StatDef.showIfUndefined=false
@@ -49444,7 +49444,7 @@ Core:Defs_ThingDef_Ambrosia,"{{#set:
 |ThingDef.description=A soft fruit. Ambrosia has a wonderful smell and taste, and produces a soft chemical high, which increases mood. However, it is slightly addictive if eaten too often.
 |ThingDef.description.zh-cn=软软的果子。仙馐果有奇妙的香味的味道，并产生软性化学亢奋，提升心情。当然，如果吃的多了也会导致轻微的成瘾性。
 |ThingDef.description.zh-tw=A soft fruit. Ambrosia has a wonderful smell and taste, and produces a soft chemical high, which increases mood. However, it is slightly addictive if eaten too often.
-|ThingDef.statBases=""MarketValue"",""15"";""Mass"",""0.1"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""15"";""Mass"",""0.1"";""DeteriorationRate"",""4"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -49516,7 +49516,7 @@ Core:Defs_ThingDef_AncientConcreteBarrier,"{{#set:
 |ThingDef.description=A traffic management solution from long ago.
 |ThingDef.description.zh-cn=非常久远之前的交通管制设施。
 |ThingDef.description.zh-tw=古老的道路交通設施。
-|ThingDef.statBases=""MaxHitPoints"",""500"";""Beauty"",""-10"";""Flammability"",""0"";""WorkToBuild"",""600""
+|ThingDef.statBases=""MaxHitPoints"",""500"";""Beauty"",""-10"";""Flammability"",""0"";""WorkToBuild"",""600"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=35
 |ThingDef.pathCostIgnoreRepeat=true
@@ -49555,7 +49555,7 @@ Core:Defs_ThingDef_AncientCryptosleepCasket,"{{#set:
 |ThingDef.description=This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain?
 |ThingDef.description.zh-cn=这个低温休眠舱看起来已经在这里有很长时间了。谁知道这里边装着什么？
 |ThingDef.description.zh-tw=看起來已經存在了非常久的休眠艙，誰知道裡頭裝了些什麼？
-|ThingDef.statBases=""MaxHitPoints"",""250"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""250"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""180"";""Uranium"",""5""
@@ -49603,7 +49603,7 @@ Core:Defs_ThingDef_AncientLamppost,"{{#set:
 |ThingDef.description=Road lighting from long ago. No longer functional.
 |ThingDef.description.zh-cn=非常久远之前的路灯。已经无法工作了。
 |ThingDef.description.zh-tw=古老的道路照明設施，已經失去功能。
-|ThingDef.statBases=""MaxHitPoints"",""300"";""WorkToBuild"",""400""
+|ThingDef.statBases=""MaxHitPoints"",""300"";""WorkToBuild"",""400"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=100
 |ThingDef.costList=""Steel"",""15""
@@ -49640,7 +49640,7 @@ Core:Defs_ThingDef_AnimalBed,"{{#set:
 |ThingDef.description=A soft bed for animals to sleep on. Fits any animal.
 |ThingDef.description.zh-cn=一个供动物睡觉的柔软床铺。适合任何类型动物。
 |ThingDef.description.zh-tw=一張給動物睡覺的舒適床鋪，適合任何體型的動物。
-|ThingDef.statBases=""MaxHitPoints"",""140"";""Flammability"",""1.0"";""WorkToBuild"",""600"";""Mass"",""10"";""BedRestEffectiveness"",""1"";""Comfort"",""0.75"";""ImmunityGainSpeedFactor"",""1.1""
+|ThingDef.statBases=""MaxHitPoints"",""140"";""Flammability"",""1.0"";""WorkToBuild"",""600"";""Mass"",""10"";""BedRestEffectiveness"",""1"";""Comfort"",""0.75"";""ImmunityGainSpeedFactor"",""1.1"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=40
 |ThingDef.costStuffCount=45
@@ -49689,7 +49689,7 @@ Core:Defs_ThingDef_AnimalSleepingBox,"{{#set:
 |ThingDef.description=A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.
 |ThingDef.description.zh-cn=一个供动物睡觉的小箱子。适合较小的动物，比如鸡、猫或小狗。
 |ThingDef.description.zh-tw=一個給動物睡覺的小箱子，適合雞、貓或是小狗等小型動物。
-|ThingDef.statBases=""MaxHitPoints"",""75"";""Flammability"",""1.0"";""WorkToBuild"",""120"";""Mass"",""3"";""BedRestEffectiveness"",""0.93"";""Comfort"",""0.60"";""ImmunityGainSpeedFactor"",""1.05""
+|ThingDef.statBases=""MaxHitPoints"",""75"";""Flammability"",""1.0"";""WorkToBuild"",""120"";""Mass"",""3"";""BedRestEffectiveness"",""0.93"";""Comfort"",""0.60"";""ImmunityGainSpeedFactor"",""1.05"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=40
 |ThingDef.costStuffCount=35
@@ -49744,7 +49744,7 @@ Core:Defs_ThingDef_AnimalSleepingSpot,"{{#set:
 |ThingDef.description=Designates a spot on the ground where animals should sleep.
 |ThingDef.description.zh-cn=在地板上指定一个给动物睡觉的位置。
 |ThingDef.description.zh-tw=指定一個動物的睡眠點，動物會在這裡睡覺。
-|ThingDef.statBases=""WorkToBuild"",""0""
+|ThingDef.statBases=""WorkToBuild"",""0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Standable
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair
@@ -50952,7 +50952,7 @@ Core:Defs_ThingDef_Armchair,"{{#set:
 |ThingDef.description=A large, soft, comfy seat. Great for relaxation.
 |ThingDef.description.zh-cn=一个非常大、柔软、舒适的椅子。非常适合休闲放松。
 |ThingDef.description.zh-tw=寬敞又舒適的座椅，十分適合放鬆。
-|ThingDef.statBases=""MaxHitPoints"",""220"";""WorkToBuild"",""7500"";""Mass"",""18"";""Flammability"",""1.0"";""Beauty"",""1"";""Comfort"",""0.8""
+|ThingDef.statBases=""MaxHitPoints"",""220"";""WorkToBuild"",""7500"";""Mass"",""18"";""Flammability"",""1.0"";""Beauty"",""1"";""Comfort"",""0.8"";""SellPriceFactor"",""0.70""
 |ThingDef.pathCost=30
 |ThingDef.costStuffCount=100
 |ThingDef.stuffCategories=""Fabric"",""Leathery""
@@ -51176,7 +51176,7 @@ Core:Defs_ThingDef_Autodoor,"{{#set:
 |ThingDef.description=Divides rooms. Powered operation allows people to move through the door without slowing down.
 |ThingDef.description.zh-cn=分隔房间。电力运转，人穿过门不会减速。
 |ThingDef.description.zh-tw=將房間分隔開來。有通電時會在人們通過時自動開啟，讓人無須減速即可通過。
-|ThingDef.statBases=""WorkToBuild"",""1100"";""MaxHitPoints"",""250"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""1100"";""MaxHitPoints"",""250"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.costList=""Steel"",""40"";""Component"",""2""
 |ThingDef.costStuffCount=25
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony""
@@ -51240,7 +51240,7 @@ Core:Defs_ThingDef_Battery,"{{#set:
 |ThingDef.description=Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when exposed to rain or fire.
 |ThingDef.description.zh-cn=储存多余的电力并在电力供给不足时释放电力。警告：充满的电池在暴露于雨水或火焰中时极易爆炸。
 |ThingDef.description.zh-tw=儲存多餘的電力並在電力供給不足時釋放電力。警告：充滿的電池容易在高温或潮濕時爆炸。
-|ThingDef.statBases=""MaxHitPoints"",""100"";""WorkToBuild"",""800"";""Mass"",""20"";""Flammability"",""1.0"";""Beauty"",""-18""
+|ThingDef.statBases=""MaxHitPoints"",""100"";""WorkToBuild"",""800"";""Mass"",""20"";""Flammability"",""1.0"";""Beauty"",""-18"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""50"";""Component"",""2""
@@ -51299,7 +51299,7 @@ Core:Defs_ThingDef_Bed,"{{#set:
 |ThingDef.description=A cozy mattress and sheets on a frame for resting.
 |ThingDef.description.zh-cn=一张单人床，在框架上铺了舒适的床垫和床单用于休息。
 |ThingDef.description.zh-tw=一個鋪了舒適的床墊和床單的床架。
-|ThingDef.statBases=""MaxHitPoints"",""140"";""Flammability"",""1.0"";""Beauty"",""1"";""WorkToBuild"",""870"";""Mass"",""50"";""BedRestEffectiveness"",""1"";""Comfort"",""0.75"";""ImmunityGainSpeedFactor"",""1.1""
+|ThingDef.statBases=""MaxHitPoints"",""140"";""Flammability"",""1.0"";""Beauty"",""1"";""WorkToBuild"",""870"";""Mass"",""50"";""BedRestEffectiveness"",""1"";""Comfort"",""0.75"";""ImmunityGainSpeedFactor"",""1.1"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costStuffCount=35
@@ -51357,7 +51357,7 @@ Core:Defs_ThingDef_Beer,"{{#set:
 |ThingDef.description=The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol addiction.
 |ThingDef.description.zh-cn=除了水以外人类所消耗的第一饮料。啤酒的味道不错，但它的主要效果是醉酒。过度饮用会导致酒精成瘾。
 |ThingDef.description.zh-tw=啤酒作為僅次於水，人類消耗量最大的飲料。啤酒可以美味的品嘗，然而過量飲用會導致酒精成癮。
-|ThingDef.statBases=""DeteriorationRate"",""0.5"";""MarketValue"",""9"";""Mass"",""0.3"";""MeleeWeapon_DamageAmount"",""7"";""MeleeWeapon_Cooldown"",""1.8"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4""
+|ThingDef.statBases=""DeteriorationRate"",""0.5"";""MarketValue"",""12"";""Mass"",""0.3"";""MeleeWeapon_DamageAmount"",""7"";""MeleeWeapon_Cooldown"",""1.8"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -51441,7 +51441,7 @@ Core:Defs_ThingDef_BilliardsTable,"{{#set:
 |ThingDef.description=A soft-topped bounded table for playing a variety of billiards-type games.
 |ThingDef.description.zh-cn=是一种用球杆在台上击球、依靠计算得分确定比赛胜负的室内娱乐体育项目。
 |ThingDef.description.zh-tw=一張表面柔軟的方桌，適合用來遊玩撞球類的遊戲。
-|ThingDef.statBases=""MaxHitPoints"",""250"";""WorkToBuild"",""12000"";""Mass"",""300"";""Flammability"",""1.0"";""Beauty"",""0"";""EntertainmentStrengthFactor"",""1""
+|ThingDef.statBases=""MaxHitPoints"",""250"";""WorkToBuild"",""12000"";""Mass"",""300"";""Flammability"",""1.0"";""Beauty"",""0"";""EntertainmentStrengthFactor"",""1"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Cloth"",""80"";""WoodLog"",""30""
@@ -51594,7 +51594,7 @@ Core:Defs_ThingDef_BlocksGranite,"{{#set:
 |ThingDef.description=Blocks of solid granite. Granite is a very hard stone.
 |ThingDef.description.zh-cn=坚固的花岗岩砖块。花岗岩是一种非常硬的岩石。
 |ThingDef.description.zh-tw=花崗岩磚。這是一種極堅硬的岩石。
-|ThingDef.statBases=""MarketValue"",""2.1"";""Mass"",""1.25"";""SharpDamageMultiplier"",""0.65"";""BluntDamageMultiplier"",""1.0"";""Beauty"",""-12""
+|ThingDef.statBases=""MarketValue"",""2.1"";""Mass"",""1.25"";""SharpDamageMultiplier"",""0.65"";""MaxHitPoints"",""200"";""BluntDamageMultiplier"",""1.0"";""Beauty"",""-12""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -51642,7 +51642,7 @@ Core:Defs_ThingDef_BlocksLimestone,"{{#set:
 |ThingDef.description=Blocks of solid limestone.
 |ThingDef.description.zh-cn=坚固的石灰岩砖块。
 |ThingDef.description.zh-tw=加工成磚的石灰岩。
-|ThingDef.statBases=""MarketValue"",""1.9"";""Mass"",""1.1"";""SharpDamageMultiplier"",""0.6"";""BluntDamageMultiplier"",""1.0"";""Beauty"",""-12""
+|ThingDef.statBases=""MarketValue"",""1.9"";""Mass"",""1.1"";""MaxHitPoints"",""200"";""SharpDamageMultiplier"",""0.6"";""BluntDamageMultiplier"",""1.0"";""Beauty"",""-12""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -51690,7 +51690,7 @@ Core:Defs_ThingDef_BlocksMarble,"{{#set:
 |ThingDef.description=Blocks of solid marble. Marble is a soft, beautiful stone, known for being easy to sculpt.
 |ThingDef.description.zh-cn=坚固的大理石砖块。大理石是一种较软、美丽的岩石，因易于雕塑而出名。
 |ThingDef.description.zh-tw=經過加工切割的大理石方塊。大理石是一種柔軟、美麗的石頭，以易於雕刻聞名。
-|ThingDef.statBases=""MarketValue"",""1.9"";""Mass"",""1.25"";""SharpDamageMultiplier"",""0.6"";""BluntDamageMultiplier"",""1.0"";""Beauty"",""-12""
+|ThingDef.statBases=""MarketValue"",""1.9"";""Mass"",""1.25"";""MaxHitPoints"",""200"";""SharpDamageMultiplier"",""0.6"";""BluntDamageMultiplier"",""1.0"";""Beauty"",""-12""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -51738,7 +51738,7 @@ Core:Defs_ThingDef_BlocksSandstone,"{{#set:
 |ThingDef.description=Blocks of solid sandstone. Sandstone is a relatively soft rock and chips easily.
 |ThingDef.description.zh-cn=坚固的砂岩砖块。砂岩是一种相对柔软易碎的岩石。
 |ThingDef.description.zh-tw=加工成磚的砂岩。這是一種相對柔軟易碎的岩石。
-|ThingDef.statBases=""MarketValue"",""1.9"";""Mass"",""1"";""SharpDamageMultiplier"",""0.5"";""BluntDamageMultiplier"",""1.0"";""Beauty"",""-12""
+|ThingDef.statBases=""MarketValue"",""1.9"";""Mass"",""1"";""SharpDamageMultiplier"",""0.5"";""MaxHitPoints"",""200"";""BluntDamageMultiplier"",""1.0"";""Beauty"",""-12""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -51786,7 +51786,7 @@ Core:Defs_ThingDef_BlocksSlate,"{{#set:
 |ThingDef.description=Blocks of solid slate. A dull-looking rock that chips easily.
 |ThingDef.description.zh-cn=坚固的板岩砖块。板岩是一种外表平淡的易碎岩石。
 |ThingDef.description.zh-tw=板岩磚塊。這種外觀暗沉的岩石很容易碎裂。
-|ThingDef.statBases=""MarketValue"",""1.9"";""Mass"",""0.9"";""SharpDamageMultiplier"",""0.6"";""BluntDamageMultiplier"",""1.0"";""Beauty"",""-12""
+|ThingDef.statBases=""MarketValue"",""1.9"";""Mass"",""0.9"";""MaxHitPoints"",""200"";""SharpDamageMultiplier"",""0.6"";""BluntDamageMultiplier"",""1.0"";""Beauty"",""-12""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -52302,7 +52302,7 @@ Core:Defs_ThingDef_Brewery,"{{#set:
 |ThingDef.description=A work station with all the equipment needed to brew beer.
 |ThingDef.description.zh-cn=一个配备有酿酒设备的工作台。
 |ThingDef.description.zh-tw=一組具備所有釀酒所需工具的工作台。
-|ThingDef.statBases=""WorkToBuild"",""2000"";""MaxHitPoints"",""180"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""2000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""WoodLog"",""120"";""Steel"",""30""
@@ -52941,7 +52941,7 @@ Core:Defs_ThingDef_Campfire,"{{#set:
 |ThingDef.description=Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.
 |ThingDef.description.zh-cn=烹饪食物并产生热量。数天后烧尽。和其他热源一样，必须放置在室内封闭空间才能取暖。可以补充燃料。
 |ThingDef.description.zh-tw=一個能夠持續燃燒數天的臨時取暖設備，必須放置在室內才能有效的溫暖空間。
-|ThingDef.statBases=""MaxHitPoints"",""80"";""WorkToBuild"",""200"";""Flammability"",""0""
+|ThingDef.statBases=""MaxHitPoints"",""80"";""WorkToBuild"",""200"";""Flammability"",""0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=50
 |ThingDef.costList=""WoodLog"",""20""
@@ -53200,7 +53200,7 @@ Core:Defs_ThingDef_CaravanPackingSpot,"{{#set:
 |ThingDef.description=Designates a spot where caravans will be formed.
 |ThingDef.description.zh-cn=指定一个远行队的组建位置。
 |ThingDef.description.zh-tw=指定旅隊進行裝卸的地點。
-|ThingDef.statBases=""WorkToBuild"",""0""
+|ThingDef.statBases=""WorkToBuild"",""0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Standable
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair
@@ -53848,7 +53848,7 @@ Core:Defs_ThingDef_ChessTable,"{{#set:
 |ThingDef.description=The ancient game of kings. Fun for a few hours here and there, even playing alone.
 |ThingDef.description.zh-cn=古老的国王游戏。可以有意思地打发几个小时的时间，甚至独自玩耍。需要配备椅子。
 |ThingDef.description.zh-tw=屬於國王的古老遊戲，即使只是一個人玩，也能夠迷上好幾個小時。
-|ThingDef.statBases=""MaxHitPoints"",""100"";""WorkToBuild"",""10000"";""Mass"",""5"";""Flammability"",""1.0"";""Beauty"",""4"";""EntertainmentStrengthFactor"",""1""
+|ThingDef.statBases=""MaxHitPoints"",""100"";""WorkToBuild"",""10000"";""Mass"",""5"";""Flammability"",""1.0"";""Beauty"",""4"";""EntertainmentStrengthFactor"",""1"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costStuffCount=70
@@ -54231,7 +54231,7 @@ Core:Defs_ThingDef_Chocolate,"{{#set:
 |ThingDef.description=A delicious preparation of cocoa seeds ground together with sugar and vanilla. Very pleasurable to eat, but not very nutritious.
 |ThingDef.description.zh-cn=一种美味食品，可可豆与糖和香草一起研磨制成。吃起来让人心情舒畅，但不是很营养。
 |ThingDef.description.zh-tw=一種用可可，混合了糖與香料製成的美味食品，味道非常可口，但營養價值不高。
-|ThingDef.statBases=""MaxHitPoints"",""100"";""MarketValue"",""6"";""Mass"",""0.075"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""60"";""MarketValue"",""6"";""Mass"",""0.075"";""Flammability"",""1.0"";""DeteriorationRate"",""8"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -54464,7 +54464,7 @@ Core:Defs_ThingDef_Cloth,"{{#set:
 |ThingDef.description=Cloth woven from organic fibers.
 |ThingDef.description.zh-cn=由有机纤维织成的布。
 |ThingDef.description.zh-tw=以有機纖維編織而成的布料。
-|ThingDef.statBases=""MaxHitPoints"",""100"";""MarketValue"",""1.9"";""Mass"",""0.026"";""Flammability"",""1.0"";""DeteriorationRate"",""4"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""80"";""MarketValue"",""1.9"";""Mass"",""0.026"";""Flammability"",""1.0"";""DeteriorationRate"",""4"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -54752,7 +54752,7 @@ Core:Defs_ThingDef_CommsConsole,"{{#set:
 |ThingDef.description=Allows radio contact with remote traders as well as other factions for trade and diplomacy.
 |ThingDef.description.zh-cn=可以通过无线电和遥远的轨道贸易商进行交易。以及和联系其他派系进行外交（发送礼物或呼叫援军）或请求商队交易。
 |ThingDef.description.zh-tw=用以和附近的商船與組織談判或交易。
-|ThingDef.statBases=""MaxHitPoints"",""250"";""WorkToBuild"",""2200"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""250"";""WorkToBuild"",""2200"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costList=""Steel"",""120"";""Component"",""4""
 |ThingDef.terrainAffordanceNeeded=Heavy
@@ -54809,7 +54809,7 @@ Core:Defs_ThingDef_Component,"{{#set:
 |ThingDef.description=Miscellaneous gears, capacitors, circuit boards, tubes, wheels, sensors, wires, chips, processors, and other electronic and industrial parts. Necessary for assembling complex machines or electronics.
 |ThingDef.description.zh-cn=各种齿轮、电容器、电路板、管子、轮子、传感器、电线、芯片、处理器、以及其他电子和工业部件。装配复杂机械或电子产品的必需品。
 |ThingDef.description.zh-tw=各種齒輪、電容器、電路板、管子、輪子、傳感器、導線、芯片、處理器以及其他電子和工業零件。用於組裝複雜的機器或電子產品。
-|ThingDef.statBases=""MaxHitPoints"",""70"";""MarketValue"",""21"";""Mass"",""0.6"";""Flammability"",""1.0"";""DeteriorationRate"",""1.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""70"";""MarketValue"",""21"";""Mass"",""0.6"";""Flammability"",""1.0"";""DeteriorationRate"",""2.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -54844,7 +54844,7 @@ Core:Defs_ThingDef_ComponentAssemblyBench,"{{#set:
 |ThingDef.description=A workbench equipped with advanced tools for producing components from simpler materials.
 |ThingDef.description.zh-cn=配有先进工具的工作台，用于将简单的材料制成零部件。
 |ThingDef.description.zh-tw=配有各種先進設備的工作台，用簡單的原料生產各種零件。
-|ThingDef.statBases=""MaxHitPoints"",""300"";""WorkToBuild"",""5000"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""300"";""WorkToBuild"",""5000"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""200"";""Component"",""14""
@@ -54914,7 +54914,7 @@ Core:Defs_ThingDef_Cooler,"{{#set:
 |ThingDef.description=An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during summer, or to create a walk-in freezer. 
 |ThingDef.description.zh-cn=一个能够作为墙体安装的电器设备，可将冷空气吹入房间内，同时外机部分产生大量热量。可以在夏季为房间降温，或者用其建造一个冷库。
 |ThingDef.description.zh-tw=一種嵌入牆中的電器設備，能將冰涼的空氣送入室內，但會在排氣口產生大量熱能。可以用來調節室內溫度，或打造一座大型冷藏庫。
-|ThingDef.statBases=""WorkToBuild"",""1600"";""MaxHitPoints"",""100"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""1600"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costList=""Steel"",""90"";""Component"",""3""
 |ThingDef.terrainAffordanceNeeded=Heavy
@@ -55348,7 +55348,7 @@ Core:Defs_ThingDef_CraftingSpot,"{{#set:
 |ThingDef.description=A place for crafting simple things like shivs or bows.
 |ThingDef.description.zh-cn=一个制作简单物品的地方，比如大麻烟、小刀和短弓。
 |ThingDef.description.zh-tw=一個製造簡單刀具或弓箭的地方。
-|ThingDef.statBases=""WorkToBuild"",""0""
+|ThingDef.statBases=""WorkToBuild"",""0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Standable
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair
@@ -55396,7 +55396,7 @@ Core:Defs_ThingDef_CrashedPoisonShipPart,"{{#set:
 |ThingDef.description=A mysterious crashed piece of a spaceship. It may contain exotic materials, computers, even AI personas. This one seems to be poisoning the ground around it.
 |ThingDef.description.zh-cn=一块从坠毁的飞船上掉下来的神秘残骸。它可能包含稀有材料、电脑、甚至AI角色核心。它似乎在向四周的土地释放有毒物质。
 |ThingDef.description.zh-tw=一塊來自墜毀星艦的神秘碎片。它可能包含稀有材料、電腦、甚至AI系統。這塊碎片似乎會毒害它周圍的土地。
-|ThingDef.statBases=""MaxHitPoints"",""1200"";""Flammability"",""0"";""Beauty"",""-100""
+|ThingDef.statBases=""MaxHitPoints"",""1200"";""Flammability"",""0"";""Beauty"",""-100"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.pathCost=150
 |ThingDef.terrainAffordanceNeeded=Light
@@ -55440,7 +55440,7 @@ Core:Defs_ThingDef_CrashedPsychicEmanatorShipPart,"{{#set:
 |ThingDef.description=A mysterious crashed piece of a spaceship. It may contain exotic materials, computers, even AI personas. This kind of technology can be dangerous.
 |ThingDef.description.zh-cn=一块从坠毁的飞船上掉下来的神秘残骸。它可能包含稀有材料、电脑、甚至AI角色核心。这种科技可能会带来很大的危险。
 |ThingDef.description.zh-tw=一塊來自墜毀星艦的神秘碎片。它可能包含稀有材料、電腦、甚至AI系統。然而這種科技也可能會帶來危險。
-|ThingDef.statBases=""MaxHitPoints"",""1200"";""Flammability"",""0"";""Beauty"",""-100""
+|ThingDef.statBases=""MaxHitPoints"",""1200"";""Flammability"",""0"";""Beauty"",""-100"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.pathCost=150
 |ThingDef.terrainAffordanceNeeded=Light
@@ -55484,7 +55484,7 @@ Core:Defs_ThingDef_CryptosleepCasket,"{{#set:
 |ThingDef.description=A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years.
 |ThingDef.description.zh-cn=一个自主供电的箱子，用于将人维持在生理暂停状态许多年。
 |ThingDef.description.zh-tw=一個能自行供電的休眠室，能讓裡頭的人進入假死狀態並維持多年。
-|ThingDef.statBases=""WorkToBuild"",""3200"";""MaxHitPoints"",""250"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""3200"";""MaxHitPoints"",""250"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""180"";""Uranium"",""5"";""Component"",""8""
@@ -55533,7 +55533,7 @@ Core:Defs_ThingDef_DeepDrill,"{{#set:
 |ThingDef.description=A deep-crust drilling rig for extracting minerals from deep under the surface. Use a ground-penetrating scanner to detect the resources.
 |ThingDef.description.zh-cn=一个用于开采位于地下深处矿石的钻井装置，使用地质扫描仪来勘探地下资源。
 |ThingDef.description.zh-tw=鑽開地表至地下礦脈採掘礦物的機器。需要先用礦脈聲納找出礦脈位置。
-|ThingDef.statBases=""MaxHitPoints"",""140"";""WorkToBuild"",""5000"";""Flammability"",""1.0"";""Beauty"",""-25""
+|ThingDef.statBases=""MaxHitPoints"",""140"";""WorkToBuild"",""5000"";""Flammability"",""1.0"";""Beauty"",""-25"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""100"";""Component"",""3""
@@ -55814,7 +55814,7 @@ Core:Defs_ThingDef_DiningChair,"{{#set:
 |ThingDef.description=A comfortable and attractive chair for sitting at a table.
 |ThingDef.description.zh-cn=一张放在桌子前看起来很舒适和招人喜爱的椅子。
 |ThingDef.description.zh-tw=舒適且優雅的扶手椅。
-|ThingDef.statBases=""MaxHitPoints"",""170"";""WorkToBuild"",""6000"";""Mass"",""5"";""Flammability"",""1.0"";""Beauty"",""4"";""Comfort"",""0.70""
+|ThingDef.statBases=""MaxHitPoints"",""170"";""WorkToBuild"",""6000"";""Mass"",""5"";""Flammability"",""1.0"";""Beauty"",""4"";""Comfort"",""0.70"";""SellPriceFactor"",""0.70""
 |ThingDef.pathCost=30
 |ThingDef.costStuffCount=60
 |ThingDef.stuffCategories=""Metallic"",""Woody""
@@ -55869,7 +55869,7 @@ Core:Defs_ThingDef_Door,"{{#set:
 |ThingDef.description=Divides rooms. Must be manually opened and closed, which slows people down.
 |ThingDef.description.zh-cn=分隔房间。只能手动开关，会减慢人的速度。
 |ThingDef.description.zh-tw=將房間分隔開來。只能手動開關，人們通過時會减慢速度。
-|ThingDef.statBases=""WorkToBuild"",""850"";""MaxHitPoints"",""250"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""850"";""MaxHitPoints"",""250"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.costStuffCount=25
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -55925,7 +55925,7 @@ Core:Defs_ThingDef_DoubleBed,"{{#set:
 |ThingDef.description=A simple double-wide bed that fits two people.
 |ThingDef.description.zh-cn=一张适合两个人使用的普通双人床。
 |ThingDef.description.zh-tw=一張能夠睡下兩人的簡單雙人床。
-|ThingDef.statBases=""MaxHitPoints"",""200"";""Flammability"",""1.0"";""WorkToBuild"",""1740"";""Mass"",""85"";""Comfort"",""0.75"";""Beauty"",""2"";""BedRestEffectiveness"",""1"";""ImmunityGainSpeedFactor"",""1.1""
+|ThingDef.statBases=""MaxHitPoints"",""200"";""Flammability"",""1.0"";""WorkToBuild"",""1740"";""Mass"",""85"";""Comfort"",""0.75"";""Beauty"",""2"";""BedRestEffectiveness"",""1"";""ImmunityGainSpeedFactor"",""1.1"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costStuffCount=70
@@ -56218,7 +56218,7 @@ Core:Defs_ThingDef_DrugLab,"{{#set:
 |ThingDef.description=A work bench equipped with various containers, heaters, and measurement equipment for producing a variety of drugs.
 |ThingDef.description.zh-cn=一个配备有各种烧瓶、量杯和加热装置的化学实验台，用于制作各种药物和成瘾品。
 |ThingDef.description.zh-tw=一張配備有各種容器、加熱器及測量設備的工作台，專門用來製作藥物。
-|ThingDef.statBases=""WorkToBuild"",""3500"";""MaxHitPoints"",""120"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""3500"";""MaxHitPoints"",""120"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""75"";""Component"",""8""
@@ -56280,7 +56280,7 @@ Core:Defs_ThingDef_EggCassowaryFertilized,"{{#set:
 |ThingDef.description=Fertilized cassowary egg. If all goes well, it should hatch into a baby cassowary. It can be eaten raw, but it's much better cooked.
 |ThingDef.description.zh-cn=已受精的鹤鸵蛋。如果一切顺利应该可以孵化出鹤鸵仔。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=已受精的食火雞蛋。如果順利，蛋將會孵出食火雞寶寶。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases=""MarketValue"",""19.0"";""Mass"",""0.15"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""19.0"";""Mass"",""0.15"";""MaxHitPoints"",""20"";""DeteriorationRate"",""2"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -56335,7 +56335,7 @@ Core:Defs_ThingDef_EggChickenFertilized,"{{#set:
 |ThingDef.description=Fertilized chicken egg. If all goes well, it should hatch into a chick. It can be eaten raw, but it's much better cooked.
 |ThingDef.description.zh-cn=已受精的鸡蛋。如果一切顺利应该可以孵化出鸡仔。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=已受精的雞蛋。如果順利，蛋將會孵出小雞。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases=""MarketValue"",""7.0"";""Mass"",""0.15"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""7.0"";""Mass"",""0.15"";""MaxHitPoints"",""20"";""DeteriorationRate"",""2"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -56389,7 +56389,7 @@ Core:Defs_ThingDef_EggChickenUnfertilized,"{{#set:
 |ThingDef.description=Unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked.
 |ThingDef.description.zh-cn=未受精的鸡蛋。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=未受精的雞蛋。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases=""MarketValue"",""7.0"";""Mass"",""0.15"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""7.0"";""Mass"",""0.15"";""MaxHitPoints"",""20"";""DeteriorationRate"",""2"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -56438,7 +56438,7 @@ Core:Defs_ThingDef_EggCobraFertilized,"{{#set:
 |ThingDef.description=Fertilized cobra egg. If all goes well, it should hatch into a baby cobra. It can be eaten raw, but it's much better cooked.
 |ThingDef.description.zh-cn=已受精的眼镜蛇卵。如果一切顺利应该可以孵化出眼镜蛇幼崽。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=已受精的眼鏡蛇蛋。如果順利，蛋將會孵出眼鏡蛇寶寶。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases=""MarketValue"",""40.0"";""Mass"",""0.15"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""40.0"";""Mass"",""0.15"";""MaxHitPoints"",""20"";""DeteriorationRate"",""2"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -56492,7 +56492,7 @@ Core:Defs_ThingDef_EggEmuFertilized,"{{#set:
 |ThingDef.description=Fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked.
 |ThingDef.description.zh-cn=已受精的鸸鹋蛋。如果一切顺利应该可以孵化出鸸鹋仔。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=已受精的鴯鶓蛋。如果順利，蛋將會孵出鴯鶓寶寶。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases=""MarketValue"",""18.0"";""Mass"",""0.15"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""18.0"";""Mass"",""0.15"";""MaxHitPoints"",""20"";""DeteriorationRate"",""2"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -56547,7 +56547,7 @@ Core:Defs_ThingDef_EggIguanaFertilized,"{{#set:
 |ThingDef.description=Fertilized iguana egg. If all goes well, it should hatch into a baby iguana. It can be eaten raw, but it's much better cooked.
 |ThingDef.description.zh-cn=已受精的鬣蜥卵。如果一切顺利应该可以孵化出鬣蜥幼崽。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=已受精的鬣蜥蛋。如果順利，蛋將會孵出鬣蜥寶寶。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases=""MarketValue"",""25.0"";""Mass"",""0.15"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""25.0"";""Mass"",""0.15"";""MaxHitPoints"",""20"";""DeteriorationRate"",""2"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -56601,7 +56601,7 @@ Core:Defs_ThingDef_EggOstrichFertilized,"{{#set:
 |ThingDef.description=Fertilized ostrich egg. If all goes well, it should hatch into a baby ostrich. It can be eaten raw, but it's much better cooked.
 |ThingDef.description.zh-cn=已受精的鸵鸟蛋。如果一切顺利应该可以孵化出鸵鸟仔。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=已受精的鴕鳥蛋。如果順利，蛋將會孵出鴕鳥寶寶。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases=""MarketValue"",""23.0"";""Mass"",""0.15"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""23.0"";""Mass"",""0.15"";""MaxHitPoints"",""20"";""DeteriorationRate"",""2"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -56656,7 +56656,7 @@ Core:Defs_ThingDef_EggTortoiseFertilized,"{{#set:
 |ThingDef.description=Fertilized tortoise egg. If all goes well, it should hatch into a baby tortoise. It can be eaten raw, but it's much better cooked.
 |ThingDef.description.zh-cn=已受精的乌龟卵。如果一切顺利应该可以孵化出乌龟幼崽。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=已受精的烏龜蛋。如果順利，蛋將會孵出烏龜寶寶。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases=""MarketValue"",""23.0"";""Mass"",""0.15"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""23.0"";""Mass"",""0.15"";""MaxHitPoints"",""20"";""DeteriorationRate"",""2"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -56711,7 +56711,7 @@ Core:Defs_ThingDef_EggTurkeyFertilized,"{{#set:
 |ThingDef.description=Fertilized turkey egg. If all goes well, it should hatch into a baby turkey. It can be eaten raw, but it's much better cooked.
 |ThingDef.description.zh-cn=已受精的火鸡蛋。如果一切顺利应该可以孵化出火鸡仔。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=已受精的火雞蛋。如果順利，蛋將會孵出火雞寶寶。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases=""MarketValue"",""11.0"";""Mass"",""0.15"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""11.0"";""Mass"",""0.15"";""MaxHitPoints"",""20"";""DeteriorationRate"",""2"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -56766,7 +56766,7 @@ Core:Defs_ThingDef_ElectricCrematorium,"{{#set:
 |ThingDef.description=Cremates corpses. Electrically-powered.
 |ThingDef.description.zh-cn=火化尸体和衣物。电力驱动。
 |ThingDef.description.zh-tw=以電力驅動的火化爐。
-|ThingDef.statBases=""WorkToBuild"",""4500"";""MaxHitPoints"",""300"";""Flammability"",""0"";""Cleanliness"",""-20""
+|ThingDef.statBases=""WorkToBuild"",""4500"";""MaxHitPoints"",""300"";""Flammability"",""0"";""Cleanliness"",""-20"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costList=""Steel"",""20"";""Component"",""2""
 |ThingDef.costStuffCount=150
@@ -56834,7 +56834,7 @@ Core:Defs_ThingDef_ElectricSmelter,"{{#set:
 |ThingDef.description=Extracts usable metal from slag chunks and other mixed metal items. Consumes a lot of power.
 |ThingDef.description.zh-cn=从钢渣和其他含有金属的物品中提炼出有用的金属。消耗大量电力。
 |ThingDef.description.zh-tw=從金屬碎片中提煉有用的金屬，將消耗大量電力。
-|ThingDef.statBases=""WorkToBuild"",""3500"";""MaxHitPoints"",""180"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""3500"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""170"";""Component"",""2""
@@ -56911,7 +56911,7 @@ Core:Defs_ThingDef_ElectricSmithy,"{{#set:
 |ThingDef.description=An electric-powered station equipped for smithing non-mechanical weapons and tools.
 |ThingDef.description.zh-cn=制作非机械武器和工具的电动锻造台。
 |ThingDef.description.zh-tw=製造非機械式武器和工具的工作台。
-|ThingDef.statBases=""WorkToBuild"",""3000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-3""
+|ThingDef.statBases=""WorkToBuild"",""3000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-3"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""100"";""Component"",""4""
@@ -56978,7 +56978,7 @@ Core:Defs_ThingDef_ElectricStove,"{{#set:
 |ThingDef.description=An electrically-powered stove with an attached countertop for preparing meals.
 |ThingDef.description.zh-cn=用于烹饪食物的电力炉灶。
 |ThingDef.description.zh-tw=用來烹飪食物的工作台。
-|ThingDef.statBases=""WorkToBuild"",""2000"";""MaxHitPoints"",""180"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""2000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""80"";""Component"",""2""
@@ -57048,7 +57048,7 @@ Core:Defs_ThingDef_ElectricTailoringBench,"{{#set:
 |ThingDef.description=A workbench with a sewing machine for rapid tailoring of clothes. Can work without electricity at 40% of normal speed.
 |ThingDef.description.zh-cn=带有缝纫机的工作台，快速缝制衣服。在没电时的工作速度只有平时的40%。
 |ThingDef.description.zh-tw=用來裁縫衣服的工作台，沒電時的工作效率只有原來的40%。
-|ThingDef.statBases=""WorkToBuild"",""2500"";""MaxHitPoints"",""180"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""2500"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""50"";""Component"",""3""
@@ -57294,7 +57294,7 @@ Core:Defs_ThingDef_ElephantTusk,"{{#set:
 |ThingDef.description=An elephant's tusk. Very durable and valuable. Deadly but somewhat unwieldy as a weapon.
 |ThingDef.description.zh-cn=大象的长牙。非常坚固、珍贵。虽然致命但很难作为武器使用。
 |ThingDef.description.zh-tw=大象的象牙，非常耐用且珍貴，雖然有些笨重，但作為武器仍然十分致命。
-|ThingDef.statBases=""MarketValue"",""450"";""MaxHitPoints"",""150"";""Mass"",""1.8"";""Flammability"",""1.0"";""DeteriorationRate"",""0.4"";""MeleeWeapon_DamageAmount"",""16"";""MeleeWeapon_Cooldown"",""2.5"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""450"";""MaxHitPoints"",""150"";""Mass"",""1.8"";""Flammability"",""1.0"";""DeteriorationRate"",""0.5"";""MeleeWeapon_DamageAmount"",""16"";""MeleeWeapon_Cooldown"",""2.5"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -57661,7 +57661,7 @@ Core:Defs_ThingDef_FermentingBarrel,"{{#set:
 |ThingDef.description=A barrel for fermenting raw wort into beer.
 |ThingDef.description.zh-cn=一个将麦芽汁发酵成啤酒的桶。
 |ThingDef.description.zh-tw=用來將麥汁發酵成啤酒的巨大容器。
-|ThingDef.statBases=""WorkToBuild"",""600"";""Mass"",""10"";""MaxHitPoints"",""100"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""600"";""Mass"",""10"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costList=""Steel"",""10"";""WoodLog"",""30""
@@ -58017,7 +58017,7 @@ Core:Defs_ThingDef_FirefoamPopper,"{{#set:
 |ThingDef.description=When touched by fire or triggered by hand, this pops and sprays a fire-extinguishing foam in a circular field around itself.
 |ThingDef.description.zh-cn=当被火焰触发或手动触发后，会向着四周圆形范围喷出灭火泡沫。
 |ThingDef.description.zh-tw=當遭遇火燒或是人為啟動時，滅火裝置會以它為中心向一個範圍內噴灑消防泡沫，以此撲滅火焰。
-|ThingDef.statBases=""MaxHitPoints"",""50"";""WorkToBuild"",""1500"";""Mass"",""10"";""Flammability"",""1.0"";""Beauty"",""-8""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""WorkToBuild"",""1500"";""Mass"",""10"";""Flammability"",""1.0"";""Beauty"",""-8"";""SellPriceFactor"",""0.70""
 |ThingDef.pathCost=25
 |ThingDef.costList=""Steel"",""75"";""Component"",""1""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -58173,7 +58173,7 @@ Core:Defs_ThingDef_FlatscreenTelevision,"{{#set:
 |ThingDef.description=A high-tech flat-screen television with crystal-clear image and rich color. More entertaining than a grainy tube TV.
 |ThingDef.description.zh-cn=一种画面晶莹剔透、色彩丰富的高科技平板电视屏幕。相比画面颗粒感过强的显像管电视能提供更好的娱乐。
 |ThingDef.description.zh-tw=一台高科技、高解析、高彩度的大尺寸薄型電視機，能提供比顯像管電視更家的娛樂體驗。
-|ThingDef.statBases=""MaxHitPoints"",""80"";""Flammability"",""1.0"";""MarketValue"",""1200"";""Mass"",""5"";""EntertainmentStrengthFactor"",""1.2""
+|ThingDef.statBases=""MaxHitPoints"",""80"";""Flammability"",""1.0"";""MarketValue"",""1200"";""Mass"",""5"";""EntertainmentStrengthFactor"",""1.2"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""100"";""Component"",""10""
@@ -58719,7 +58719,7 @@ Core:Defs_ThingDef_FueledGenerator,"{{#set:
 |ThingDef.description=Produces power by consuming wood fuel. Must be fueled by hand.
 |ThingDef.description.zh-cn=利用木材燃烧来发电。必须手动添加燃料。
 |ThingDef.description.zh-tw=燃燒木材產生電力，燃料需要手動裝填。
-|ThingDef.statBases=""MaxHitPoints"",""300"";""WorkToBuild"",""2500"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""300"";""WorkToBuild"",""2500"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=150
 |ThingDef.costList=""Steel"",""100"";""Component"",""2""
@@ -58788,7 +58788,7 @@ Core:Defs_ThingDef_FueledSmithy,"{{#set:
 |ThingDef.description=A wood-fueled station equipped for smithing non-mechanical weapons and tools.
 |ThingDef.description.zh-cn=用木材当燃料的锻造台，用于制作非机械武器和工具。
 |ThingDef.description.zh-tw=製造非機械式武器和工具的工作台，需要消耗木材燃料。
-|ThingDef.statBases=""WorkToBuild"",""3000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-3""
+|ThingDef.statBases=""WorkToBuild"",""3000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-3"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""100""
@@ -58855,7 +58855,7 @@ Core:Defs_ThingDef_FueledStove,"{{#set:
 |ThingDef.description=A simple wood-fueled stove with an attached countertop for preparing meals.
 |ThingDef.description.zh-cn=用木材当燃料的简易炉灶，用于烹饪食物。
 |ThingDef.description.zh-tw=燃燒木材烹調食物的工作台。
-|ThingDef.statBases=""WorkToBuild"",""2000"";""MaxHitPoints"",""180"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""2000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""80""
@@ -59124,7 +59124,7 @@ Core:Defs_ThingDef_GeothermalGenerator,"{{#set:
 |ThingDef.description=Produces electricity from geothermal steam geysers. Must be placed on a geyser.
 |ThingDef.description.zh-cn=利用蒸汽间歇喷泉的地热来发电。必须放置在蒸汽间歇喷泉上。
 |ThingDef.description.zh-tw=用蒸氣間歇泉來發電，必須建造在噴泉正上方。
-|ThingDef.statBases=""MaxHitPoints"",""500"";""WorkToBuild"",""6000"";""Flammability"",""1.0"";""Beauty"",""-30""
+|ThingDef.statBases=""MaxHitPoints"",""500"";""WorkToBuild"",""6000"";""Flammability"",""1.0"";""Beauty"",""-30"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costList=""Steel"",""400"";""Component"",""8""
 |ThingDef.terrainAffordanceNeeded=Heavy
@@ -59183,7 +59183,7 @@ Core:Defs_ThingDef_GlitterworldMedicine,"{{#set:
 |ThingDef.description=Advanced medical supplies from a high-tech glitterworld.
 |ThingDef.description.zh-cn=来自高科技的闪耀世界的高级医药。
 |ThingDef.description.zh-tw=來自「閃耀世界」的高科技藥品。
-|ThingDef.statBases=""MarketValue"",""100"";""Mass"",""0.5"";""Flammability"",""1.0"";""MedicalPotency"",""2.2"";""DeteriorationRate"",""2.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""60"";""MarketValue"",""100"";""Mass"",""0.5"";""Flammability"",""1.0"";""MedicalPotency"",""2.2"";""DeteriorationRate"",""2.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=Medicine
@@ -59261,7 +59261,7 @@ Core:Defs_ThingDef_GoJuice,"{{#set:
 |ThingDef.description=A synthetic combat drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain and increases the user's melee and shooting abilities. It also enhances movement speed.<br/><br/>Military chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit.
 |ThingDef.description.zh-cn=一种合成的作战用药剂，研制用于在早期的行星间战斗中提供给太空陆战队员服用。活力水能够屏蔽服用者的痛觉同时能够提升近战和射击技能。它还能够提升移动速度<br/><br/>但是发明它的军事化学家们却无法消除它的成瘾性。有些人认为这是个缺点，而有些人却认为这是个优点。
 |ThingDef.description.zh-tw=在星際戰爭初期開發給宇宙陸戰隊士兵使用的複合型戰鬥能力強化藥物，俗稱能量果飲。能量果飲能夠阻斷痛覺、強化使用者的肉搏與射擊能力，並提升移動速度。<br/><br/>即便是開發出這款藥物的科學家也沒能找出消除成癮性的方法，有些人視此為致命缺陷，有些人則認為是一大優點。
-|ThingDef.statBases=""WorkToMake"",""600"";""MarketValue"",""45"";""Mass"",""0.1"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-4""
+|ThingDef.statBases=""WorkToMake"",""600"";""MarketValue"",""53"";""Mass"",""0.1"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.costList=""Neutroamine"",""2"";""Yayo"",""1""
 |ThingDef.altitudeLayer=Item
@@ -59447,7 +59447,7 @@ Core:Defs_ThingDef_Grave,"{{#set:
 |ThingDef.description=Place the dead in graves to give them a decent final resting place. Colonists will visit full graves to gain meditative joy.
 |ThingDef.description.zh-cn=给死者提供一个得体的栖身之所。殖民者会扫墓来获得「冥想」娱乐。
 |ThingDef.description.zh-tw=给死者提供一個得體的棲身之所。
-|ThingDef.statBases=""WorkToBuild"",""650""
+|ThingDef.statBases=""WorkToBuild"",""650"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.terrainAffordanceNeeded=Diggable
 |ThingDef.repairEffect=Repair
@@ -59691,7 +59691,7 @@ Core:Defs_ThingDef_GroundPenetratingScanner,"{{#set:
 |ThingDef.description=A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.
 |ThingDef.description.zh-cn=向下的探地雷达，结合声纳和磁成像，可检测深埋于地底的矿物（但不能判断矿物类型）。需要消耗大量电力。
 |ThingDef.description.zh-tw=一具朝向地面，專門探測地下礦脈位置(但無法辨別礦物種類)的雷達探測器，備有聲納與回波顯示器。需消耗巨量電力。
-|ThingDef.statBases=""MaxHitPoints"",""50"";""WorkToBuild"",""1500"";""Flammability"",""1.0"";""Beauty"",""-8""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""WorkToBuild"",""1500"";""Flammability"",""1.0"";""Beauty"",""-8"";""SellPriceFactor"",""0.70""
 |ThingDef.pathCost=25
 |ThingDef.costList=""Steel"",""400"";""Component"",""12""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -59905,6 +59905,7 @@ Core:Defs_ThingDef_Gun_ChainShotgun,"{{#set:
 |ThingDef.recipeMaker.effectWorking=Smith
 |ThingDef.recipeMaker.soundWorking=Recipe_Smith
 |ThingDef.recipeMaker.recipeUsers=""TableMachining""
+|ThingDef.generateCommonality=0.3
 |ThingDef.graphicData=Exist
 |ThingDef.graphicData.texPath=Things/Item/Equipment/WeaponRanged/ChainShotgun
 |ThingDef.graphicData.graphicClass=Graphic_Single
@@ -60924,7 +60925,7 @@ Core:Defs_ThingDef_HandTailoringBench,"{{#set:
 |ThingDef.description=A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.
 |ThingDef.description.zh-cn=用于手工缝制衣服的工作台。工作速度只有电动裁缝台的50%。
 |ThingDef.description.zh-tw=用來裁縫衣服的工作台，工作效率只有電動裁縫桌的40%。
-|ThingDef.statBases=""WorkToBuild"",""2000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""WorkTableWorkSpeedFactor"",""0.5""
+|ThingDef.statBases=""WorkToBuild"",""2000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""WorkTableWorkSpeedFactor"",""0.5"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costStuffCount=75
@@ -61159,7 +61160,7 @@ Core:Defs_ThingDef_Hay,"{{#set:
 |ThingDef.description=Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans.
 |ThingDef.description.zh-cn=营养丰富的草和幼芽，收获并压缩储存起来。干草是很好的饲料，但对于人类来说难以下咽。
 |ThingDef.description.zh-tw=營養豐富的牧草，專門做為動物的飼料，人類無法食用。
-|ThingDef.statBases=""MarketValue"",""0.9"";""Mass"",""0.014"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""0.9"";""Mass"",""0.014"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""DeteriorationRate"",""6"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -61231,7 +61232,7 @@ Core:Defs_ThingDef_Heater,"{{#set:
 |ThingDef.description=An electrical device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature.
 |ThingDef.description.zh-cn=一个将电能转换成热能的电器设备。它会自动根据当前室内温度开关以达到设定的目标温度。
 |ThingDef.description.zh-tw=一種電氣設備，能將電能轉化為熱能。它可以自動啟動或關閉，達到期望的目標溫度。
-|ThingDef.statBases=""WorkToBuild"",""1000"";""MaxHitPoints"",""100"";""Mass"",""6"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""1000"";""MaxHitPoints"",""100"";""Mass"",""6"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=40
 |ThingDef.costList=""Steel"",""65"";""Component"",""1""
@@ -61297,7 +61298,7 @@ Core:Defs_ThingDef_HerbalMedicine,"{{#set:
 |ThingDef.description=A pack of herbal concoctions typically extracted from the healroot plant. Less potent than industrial pharmaceuticals, but much better than nothing.
 |ThingDef.description.zh-cn=一包从草药植物提取而来的草药混合物。比起工业医药效果稍差，但总好过没有。
 |ThingDef.description.zh-tw=成分提取自藥草製成的藥品，效果略遜於工業製藥。
-|ThingDef.statBases=""MaxHitPoints"",""100"";""MarketValue"",""12"";""Mass"",""0.35"";""Flammability"",""1.0"";""MedicalPotency"",""0.60"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""60"";""MarketValue"",""10"";""Mass"",""0.35"";""Flammability"",""1.0"";""MedicalPotency"",""0.60"";""DeteriorationRate"",""6"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=Medicine
@@ -61336,7 +61337,7 @@ Core:Defs_ThingDef_HiTechResearchBench,"{{#set:
 |ThingDef.description=A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.
 |ThingDef.description.zh-cn=一种配有电脑和电子测量设备的高科技工作台。高科技工具加快了研究速度。需要消耗电力。
 |ThingDef.description.zh-tw=一張備有電腦及電子測量設備的研究桌。高科技設備加快了研究速度，但須消耗電力。
-|ThingDef.statBases=""MaxHitPoints"",""250"";""WorkToBuild"",""5000"";""Flammability"",""1.0"";""ResearchSpeedFactor"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""250"";""WorkToBuild"",""5000"";""Flammability"",""1.0"";""ResearchSpeedFactor"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""100"";""Component"",""10""
@@ -61469,7 +61470,7 @@ Core:Defs_ThingDef_Hopper,"{{#set:
 |ThingDef.description=Holds resources for use by machines like nutrient paste dispensers.
 |ThingDef.description.zh-cn=储存原料以供如营养膏合成机之类的机器使用。
 |ThingDef.description.zh-tw=為營養膏合成機這樣的大型機器儲存原料。
-|ThingDef.statBases=""WorkToBuild"",""450"";""MaxHitPoints"",""100"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""450"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""15""
@@ -61525,7 +61526,7 @@ Core:Defs_ThingDef_HorseshoesPin,"{{#set:
 |ThingDef.description=A simple ancient game played with a few horseshoes and a large pin in the ground. Players toss horseshoes from a distance and attempt to get them to land close to or around the pin. It's relaxing, and even trains hand-eye coordination.
 |ThingDef.description.zh-cn=一种用马蹄铁和钉在地上的大钉的、简单的古老游戏。玩家在一定距离外，将马蹄铁尽量投掷得靠近或套住钉子。很轻松，还能训练手眼协调能力。
 |ThingDef.description.zh-tw=一種古老而簡單的遊戲，只需要幾個馬蹄鐵與一根豎立在地面上的大棒子。玩家從一段距離外擲出馬蹄鐵，盡可能的落在接近棒子的位置。這是一種消遣，但也可以訓練手眼協調能力。
-|ThingDef.statBases=""MaxHitPoints"",""75"";""WorkToBuild"",""150"";""Mass"",""3"";""Flammability"",""1.0"";""EntertainmentStrengthFactor"",""1""
+|ThingDef.statBases=""MaxHitPoints"",""75"";""WorkToBuild"",""150"";""Mass"",""3"";""Flammability"",""1.0"";""EntertainmentStrengthFactor"",""1"";""SellPriceFactor"",""0.70""
 |ThingDef.pathCost=10
 |ThingDef.costStuffCount=15
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony""
@@ -61573,7 +61574,7 @@ Core:Defs_ThingDef_HospitalBed,"{{#set:
 |ThingDef.description=A bed specially designed for injured people. Improves chance of successful medical work.
 |ThingDef.description.zh-cn=一张专为伤员设计的床。可以增加治疗的成功率。
 |ThingDef.description.zh-tw=一張為病患特別設計的床。能夠提高各種醫療行為的成功率。
-|ThingDef.statBases=""MaxHitPoints"",""150"";""WorkToBuild"",""2850"";""Mass"",""45"";""Flammability"",""1.0"";""BedRestEffectiveness"",""1"";""Comfort"",""0.80"";""ImmunityGainSpeedFactor"",""1.144"";""MedicalTendQualityOffset"",""0.10""
+|ThingDef.statBases=""MaxHitPoints"",""150"";""WorkToBuild"",""2850"";""Mass"",""45"";""Flammability"",""1.0"";""BedRestEffectiveness"",""1"";""Comfort"",""0.80"";""ImmunityGainSpeedFactor"",""1.144"";""MedicalTendQualityOffset"",""0.10"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costList=""Steel"",""80"";""Medicine"",""10""
@@ -62005,7 +62006,7 @@ Core:Defs_ThingDef_HydroponicsBasin,"{{#set:
 |ThingDef.description=Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.
 |ThingDef.description.zh-cn=在人工培养液中快速种植植物。运行时需要消耗电力，断电后植物会死亡。
 |ThingDef.description.zh-tw=用來種植作物，水培植物盆能讓植物快速生長。
-|ThingDef.statBases=""WorkToBuild"",""2800"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-3""
+|ThingDef.statBases=""WorkToBuild"",""2800"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-3"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.fertility=2.3
@@ -62064,7 +62065,7 @@ Core:Defs_ThingDef_Hyperweave,"{{#set:
 |ThingDef.description=High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures.
 |ThingDef.description.zh-cn=高科技纳米纤维织成的布。稍微有点重，但是几乎不可能破损。其生产技术只有最先进的闪耀世界才掌握。
 |ThingDef.description.zh-tw=以高科技奈米纖維織成，有點厚重，但令人難以置信的難以破壞。
-|ThingDef.statBases=""MarketValue"",""16"";""Mass"",""0.038"";""Flammability"",""1.0"";""DeteriorationRate"",""1.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""200"";""MarketValue"",""16"";""Mass"",""0.038"";""Flammability"",""1.0"";""DeteriorationRate"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -62477,7 +62478,7 @@ Core:Defs_ThingDef_InsectJelly,"{{#set:
 |ThingDef.description=Jelly stored and used as food by oversized insects. It is smooth, rich, and brings joy to those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots.
 |ThingDef.description.zh-cn=巨型昆虫储存作为食物的胶状物。如丝顺滑、营养丰富，能给食用者带来愉悦感。由于其独特的生物学特性，它可以滋养几乎任何生物而且不会腐烂。
 |ThingDef.description.zh-tw=蟲族儲存用來作為食物的膠狀物，外表盈滑，營養豐富，而且味道令人滿意。因為獨特的化學特性，它能供幾乎所有的生物食用，而且保存期限：永遠。
-|ThingDef.statBases=""MarketValue"",""8.0"";""Mass"",""0.025"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""8.0"";""Mass"",""0.025"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""DeteriorationRate"",""6"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -62600,7 +62601,7 @@ Core:Defs_ThingDef_Kibble,"{{#set:
 |ThingDef.description=Kibble animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it.
 |ThingDef.description.zh-cn=将肉和植物原料混合而成的动物粗饲料。人也能吃，但真的、真的没人喜欢。
 |ThingDef.description.zh-tw=混合肉類與作物製成的動物飼料。
-|ThingDef.statBases=""MarketValue"",""1.3"";""Mass"",""0.015"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""1.3"";""Mass"",""0.015"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""DeteriorationRate"",""6"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -62941,7 +62942,7 @@ Core:Defs_ThingDef_LongRangeMineralScanner,"{{#set:
 |ThingDef.description=Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.
 |ThingDef.description.zh-cn=自动探查附近区域（除了扫描仪所在区域外）的稀有矿物，比如黄金和翡翠。半径30格地图内，发现矿物块的频率为平均每30天一次。在同一区域内或临近区域建造多于一个扫描仪对效率影响不大。
 |ThingDef.description.zh-tw=Automatically detects precious minerals like gold or jade in the nearby areas (but not in which it was built). The lumps are found on average once per 30 days within a radius of 30 tiles. Building more than one scanner in the same or nearby areas has little to no effect.
-|ThingDef.statBases=""MaxHitPoints"",""50"";""WorkToBuild"",""1000"";""Flammability"",""1.0"";""Beauty"",""-8""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""WorkToBuild"",""1000"";""Flammability"",""1.0"";""Beauty"",""-8"";""SellPriceFactor"",""0.70""
 |ThingDef.pathCost=25
 |ThingDef.costList=""Steel"",""200"";""Component"",""8""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -63327,7 +63328,7 @@ Core:Defs_ThingDef_MarriageSpot,"{{#set:
 |ThingDef.description=Designates a spot where marriage ceremonies will take place. Spectators can watch from either side.
 |ThingDef.description.zh-cn=指定一个举行结婚仪式的位置。观众可以在任何方向上观看婚礼。
 |ThingDef.description.zh-tw=指定一個固定的結婚儀式舉行地點，觀禮者可以從兩側的任一側觀看典禮進行。
-|ThingDef.statBases=""WorkToBuild"",""0""
+|ThingDef.statBases=""WorkToBuild"",""0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Standable
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair
@@ -63364,7 +63365,7 @@ Core:Defs_ThingDef_MealFine,"{{#set:
 |ThingDef.description=A complex dish assembled with care from a wide selection of ingredients.
 |ThingDef.description.zh-cn=选择多种原料，精心烹饪出的一份相对复杂的食物。
 |ThingDef.description.zh-tw=用肉類和植物組合作為原料烹調出的一份相對複雜的料理。
-|ThingDef.statBases=""DeteriorationRate"",""20"";""MarketValue"",""24"";""WorkToMake"",""450"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4"";""Mass"",""0.44""
+|ThingDef.statBases=""MarketValue"",""24"";""WorkToMake"",""450"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4"";""Mass"",""0.44"";""DeteriorationRate"",""10""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -63414,7 +63415,7 @@ Core:Defs_ThingDef_MealLavish,"{{#set:
 |ThingDef.description=A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul.
 |ThingDef.description.zh-cn=厨艺界的大师级作品，这份食物同时滋养了身体、思想和灵魂。
 |ThingDef.description.zh-tw=廚藝界的大師級作品，這份食物會滋養身體和靈魂。
-|ThingDef.statBases=""DeteriorationRate"",""20"";""MarketValue"",""30"";""WorkToMake"",""800"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4"";""Mass"",""0.44""
+|ThingDef.statBases=""MarketValue"",""30"";""WorkToMake"",""800"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4"";""Mass"",""0.44"";""DeteriorationRate"",""10""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -63464,7 +63465,7 @@ Core:Defs_ThingDef_MealNutrientPaste,"{{#set:
 |ThingDef.description=A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting.
 |ThingDef.description.zh-cn=一种由蛋白质、碳水化合物、维生素、氨基酸和矿物质混在一起的合成物。满足一切身体需要，但是食用起来非常恶心。
 |ThingDef.description.zh-tw=一種由蛋白質，碳水化合物，维生素，氨基酸和礦物質混在一起的合成物。滿足一切身體需要，但是食用起来非常噁心。
-|ThingDef.statBases=""DeteriorationRate"",""20"";""MarketValue"",""12"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4"";""Mass"",""0.44""
+|ThingDef.statBases=""MarketValue"",""12"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4"";""Mass"",""0.44"";""DeteriorationRate"",""10""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -63514,7 +63515,7 @@ Core:Defs_ThingDef_MealSimple,"{{#set:
 |ThingDef.description=A simple meal quickly cooked from a few ingredients.
 |ThingDef.description.zh-cn=用少量原料快速烹饪出的一份简单的食物。
 |ThingDef.description.zh-tw=用一種原料烹調出的一份簡單的料理。
-|ThingDef.statBases=""DeteriorationRate"",""20"";""MarketValue"",""18"";""WorkToMake"",""300"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4"";""Mass"",""0.44""
+|ThingDef.statBases=""MarketValue"",""18"";""WorkToMake"",""300"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4"";""Mass"",""0.44"";""DeteriorationRate"",""10""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -63739,7 +63740,7 @@ Core:Defs_ThingDef_Medicine,"{{#set:
 |ThingDef.description=Medical staff use these supplies to heal the wounded.
 |ThingDef.description.zh-cn=医疗人员用医药来治疗病人和伤员。
 |ThingDef.description.zh-tw=醫療人員會使用醫療包來治療傷患。
-|ThingDef.statBases=""MaxHitPoints"",""100"";""MarketValue"",""18"";""Mass"",""0.5"";""Flammability"",""1.0"";""MedicalPotency"",""1.00"";""DeteriorationRate"",""2"";""WorkToMake"",""700"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""60"";""MarketValue"",""18"";""Mass"",""0.5"";""Flammability"",""1.0"";""MedicalPotency"",""1.00"";""DeteriorationRate"",""2"";""WorkToMake"",""700"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.costList=""HerbalMedicine"",""1"";""Neutroamine"",""1"";""Cloth"",""3""
 |ThingDef.altitudeLayer=Item
@@ -63863,7 +63864,7 @@ Core:Defs_ThingDef_MegascreenTelevision,"{{#set:
 |ThingDef.description=A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining.
 |ThingDef.description.zh-cn=一个巨大的高科技电视。巨大、超逼真的图像几乎从屏幕上跳出来。提供非常好的娱乐。
 |ThingDef.description.zh-tw=一台巨大的高科技電視，超大的清晰化直讓影像裡的東西彷彿要跳出螢幕，太有趣啦！
-|ThingDef.statBases=""MaxHitPoints"",""85"";""Flammability"",""1.0"";""MarketValue"",""2000"";""Mass"",""8"";""EntertainmentStrengthFactor"",""1.35""
+|ThingDef.statBases=""MaxHitPoints"",""85"";""Flammability"",""1.0"";""MarketValue"",""2000"";""Mass"",""8"";""EntertainmentStrengthFactor"",""1.35"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""120"";""Component"",""12""
@@ -64238,7 +64239,7 @@ Core:Defs_ThingDef_MeleeWeapon_Club,"{{#set:
 |ThingDef.description=The oldest human weapon - a shaped stick, heavy at one end, for bashing enemies to death. Primitive but effective.
 |ThingDef.description.zh-cn=人类最古老的武器，一根整过形的棍子。棍子的一头较重，用于将敌人击打致死。原始而有效。
 |ThingDef.description.zh-tw=最古老的人類武器，將敵人打擊至死，原始但有效。
-|ThingDef.statBases=""WorkToMake"",""500"";""Mass"",""2"";""MeleeWeapon_DamageAmount"",""12"";""DeteriorationRate"",""0.5"";""MeleeWeapon_Cooldown"",""2.15"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
+|ThingDef.statBases=""WorkToMake"",""500"";""Mass"",""2"";""MeleeWeapon_DamageAmount"",""12"";""MeleeWeapon_Cooldown"",""2.15"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
 |ThingDef.pathCost=10
 |ThingDef.costStuffCount=40
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony""
@@ -64558,7 +64559,7 @@ Core:Defs_ThingDef_MeleeWeapon_Shiv,"{{#set:
 |ThingDef.description=An improvised knife-like weapon.
 |ThingDef.description.zh-cn=一种自制的长得像匕首的武器。
 |ThingDef.description.zh-tw=一把簡易的刀式武器。
-|ThingDef.statBases=""WorkToMake"",""400"";""Mass"",""0.4"";""MeleeWeapon_DamageAmount"",""8"";""DeteriorationRate"",""0.5"";""MeleeWeapon_Cooldown"",""1.6"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
+|ThingDef.statBases=""WorkToMake"",""400"";""Mass"",""0.4"";""MeleeWeapon_DamageAmount"",""8"";""MeleeWeapon_Cooldown"",""1.6"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-6"";""SellPriceFactor"",""0.20""
 |ThingDef.pathCost=10
 |ThingDef.costStuffCount=10
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony""
@@ -64686,7 +64687,7 @@ Core:Defs_ThingDef_Milk,"{{#set:
 |ThingDef.description=Milk from an animal.
 |ThingDef.description.zh-cn=动物的乳汁。
 |ThingDef.description.zh-tw=動物產出的奶。
-|ThingDef.statBases=""MarketValue"",""3.1"";""Mass"",""0.045"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""3.1"";""Mass"",""0.045"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""DeteriorationRate"",""6"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -65129,7 +65130,7 @@ Core:Defs_ThingDef_MoisturePump,"{{#set:
 |ThingDef.description=Very slowly removes moisture from nearby terrain, converting marshes or shallow water into dry ground. Does not affect deep water.
 |ThingDef.description.zh-cn=非常缓慢地抽走附近地形的水分，能将沼泽或浅水改造成干燥的土地。不能改造深水。
 |ThingDef.description.zh-tw=緩慢移除周圍的濕氣，將沼澤地與淺水轉換成乾燥地面，但對深水沒有效果。
-|ThingDef.statBases=""MaxHitPoints"",""50"";""WorkToBuild"",""1500"";""Flammability"",""1.0"";""Beauty"",""-8""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""WorkToBuild"",""1500"";""Flammability"",""1.0"";""Beauty"",""-8"";""SellPriceFactor"",""0.70""
 |ThingDef.pathCost=25
 |ThingDef.costList=""Steel"",""75"";""Component"",""5""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -65363,7 +65364,7 @@ Core:Defs_ThingDef_MortarShell,"{{#set:
 |ThingDef.description=An explosive shell to be fired from mortars. Explodes when damaged.
 |ThingDef.description.zh-cn=迫击炮发射的爆炸炮弹。受损时会发生爆炸。
 |ThingDef.description.zh-tw=需用火炮射擊的炮彈。
-|ThingDef.statBases=""MaxHitPoints"",""70"";""MarketValue"",""10"";""Mass"",""3.5"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""70"";""MarketValue"",""10"";""Mass"",""3.5"";""Flammability"",""1.0"";""DeteriorationRate"",""1.5"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -66901,7 +66902,7 @@ Core:Defs_ThingDef_MultiAnalyzer,"{{#set:
 |ThingDef.description=Increases research speed. Needs to be placed near hi-tech research bench. One research bench can be linked to only one multi-analyzer.
 |ThingDef.description.zh-cn=提高研究速度，一些高级研究项目所必需的设备。需要放置在高级研究台附近。一个研究台只能连接一个多元分析仪。
 |ThingDef.description.zh-tw=提升研究速度。裝置必須設置於研究桌附近，一張研究桌同時只能與一台多重分析裝置連結。
-|ThingDef.statBases=""MaxHitPoints"",""200"";""WorkToBuild"",""5000"";""Mass"",""100"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""200"";""WorkToBuild"",""5000"";""Mass"",""100"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.costList=""Steel"",""100"";""Plasteel"",""50"";""Gold"",""20""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -66999,7 +67000,7 @@ Core:Defs_ThingDef_Neutroamine,"{{#set:
 |ThingDef.description=A synthetic precursor chemical. Useless on its own, many drugs require neutroamine as an ingredient.
 |ThingDef.description.zh-cn=一种合成的前体化学品，本身毫无用途，但却是许多合成毒品必不可少的原料。
 |ThingDef.description.zh-tw=一種化學原料，本身不具實用性，但是許多藥物的化合原料。
-|ThingDef.statBases=""MaxHitPoints"",""50"";""MarketValue"",""10"";""Mass"",""0.02"";""Flammability"",""1.0"";""DeteriorationRate"",""1.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""MarketValue"",""6"";""Mass"",""0.02"";""Flammability"",""1.0"";""DeteriorationRate"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -67031,7 +67032,7 @@ Core:Defs_ThingDef_NutrientPasteDispenser,"{{#set:
 |ThingDef.description=Synthesizes nutrient paste from organic feedstocks. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.
 |ThingDef.description.zh-cn=将有机原料合成为营养膏。比其他的食物生产方法消耗更少的原料和时间——但没人喜欢吃营养膏。可以处理生食，但无法处理某些的植物材料，比如干草。只有当殖民者缺少食物时，才会从营养膏合成机中拿取营养膏。
 |ThingDef.description.zh-tw=將有機材料合成為營養膏。比起其他的食物調理方式，合成營養高所消耗的物料成本與時間都更低，然而，沒人喜歡吃這黏糊糊的食物。可接受各種生食作為原料，除了牧草這類植物原料。
-|ThingDef.statBases=""WorkToBuild"",""2200"";""MaxHitPoints"",""350"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""2200"";""MaxHitPoints"",""350"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costList=""Steel"",""90"";""Component"",""3""
 |ThingDef.terrainAffordanceNeeded=Heavy
@@ -67091,7 +67092,7 @@ Core:Defs_ThingDef_OrbitalTradeBeacon,"{{#set:
 |ThingDef.description=Required for orbital trading. You can only sell goods that are near an orbital trade beacon. Can be placed indoors.
 |ThingDef.description.zh-cn=若想和轨道贸易商进行交易，你必须建造一个轨道交易信标。只有信标有效范围内的货物和白银才能用于交易。可以放置于室内，但至少要有一个信标露天，以接收商人发送给你的货物和白银。需要消耗电力。
 |ThingDef.description.zh-tw=用來進行軌道交易。你只能賣出信標周圍的商品。軌道商人也會將商品丢在這附近。
-|ThingDef.statBases=""MaxHitPoints"",""75"";""WorkToBuild"",""1300"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""75"";""WorkToBuild"",""1300"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.pathCost=8
 |ThingDef.costList=""Steel"",""50"";""Component"",""1""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -67507,7 +67508,7 @@ Core:Defs_ThingDef_PartySpot,"{{#set:
 |ThingDef.description=Designates a spot where parties will be centered. Parties use an area around the spot.
 |ThingDef.description.zh-cn=指定一个举办聚会的集合位置。聚会将在周围的区域内举办。
 |ThingDef.description.zh-tw=指定派對舉行的地點，人們將會以派對點為中心進行活動。
-|ThingDef.statBases=""WorkToBuild"",""0""
+|ThingDef.statBases=""WorkToBuild"",""0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Standable
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair
@@ -67542,7 +67543,7 @@ Core:Defs_ThingDef_PassiveCooler,"{{#set:
 |ThingDef.description=A traditional unpowered cooler that works by water evaporation. Will run out and self-destruct after several days.
 |ThingDef.description.zh-cn=一个传统的制冷器，不需要通电即可运行。通过水蒸发来降温，数天后水分耗尽时会自动消失。
 |ThingDef.description.zh-tw=一個原始的冷房設備，利用水吸熱蒸發的原理達到冷卻效果。冷卻器在運作壽命結束後會自我消滅。
-|ThingDef.statBases=""MaxHitPoints"",""80"";""WorkToBuild"",""200"";""Flammability"",""0""
+|ThingDef.statBases=""MaxHitPoints"",""80"";""WorkToBuild"",""200"";""Flammability"",""0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=50
 |ThingDef.costList=""WoodLog"",""50""
@@ -67593,7 +67594,7 @@ Core:Defs_ThingDef_Pemmican,"{{#set:
 |ThingDef.description=A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.
 |ThingDef.description.zh-cn=一种由肉食和素食混合脱水制成的食物。味道平平但又不会让人讨厌。无需冷藏即能保存很长时间。
 |ThingDef.description.zh-tw=將肉類和作物混和後壓扁製成的食品，無須冷藏也能夠長時間保存。
-|ThingDef.statBases=""MarketValue"",""1.5"";""Mass"",""0.018"";""WorkToMake"",""700"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""1.5"";""Mass"",""0.018"";""WorkToMake"",""700"";""DeteriorationRate"",""2"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -67640,11 +67641,11 @@ Core:Defs_ThingDef_Penoxycyline,"{{#set:
 |ThingDef.label.zh-cn=佩诺西林
 |ThingDef.label.zh-tw=盤諾沙林
 |ThingDef.description=A drug for preventing infections from starting. Blocks malaria, sleeping sickness, and plague. Take every five days. Note: This drug does nothing to cure existing infections - it only prevents new ones.
-|ThingDef.description.zh-cn=预防感染的药物。阻断疟疾、昏睡病以及瘟疫的感染。五天一服。注意：这种药物对治疗现有感染没有任何作用——只能用于预防。
+|ThingDef.description.zh-cn=预防传染病的药物。阻断疟疾、昏睡病以及瘟疫的感染。五天一服。注意：这种药物对治疗已经感染的疾病没有任何作用——只能用于预防。
 |ThingDef.description.zh-tw=針對瘧疾的預防性藥物。五天打一針，瘧疾不上身。
 |ThingDef.statBases=""WorkToMake"",""500"";""MarketValue"",""32"";""Mass"",""0.005"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-4""
 |ThingDef.pathCost=15
-|ThingDef.costList=""Neutroamine"",""3""
+|ThingDef.costList=""Neutroamine"",""2""
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
 |ThingDef.category=Item
@@ -68674,7 +68675,7 @@ Core:Defs_ThingDef_PlantPot,"{{#set:
 |ThingDef.description=Plant decorative flowers here to improve the mood of people nearby.
 |ThingDef.description.zh-cn=种植装饰性的花朵来提升附近的人的心情。
 |ThingDef.description.zh-tw=農夫會在這裡種植裝飾性的花朵。
-|ThingDef.statBases=""MaxHitPoints"",""100"";""WorkToBuild"",""495"";""Mass"",""2"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""100"";""WorkToBuild"",""495"";""Mass"",""2"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.fertility=1.0
 |ThingDef.costStuffCount=15
@@ -69595,7 +69596,7 @@ Core:Defs_ThingDef_PodLauncher,"{{#set:
 |ThingDef.description=A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other.
 |ThingDef.description.zh-cn=可以发射单个运输舱的燃料供给端。运输舱发射器可以成组地发射，但必须互相之间紧邻建造。
 |ThingDef.description.zh-tw=一個附帶燃料槽的發射平台。運輸艙可以批量發射，但發射平台必須相鄰。
-|ThingDef.statBases=""MaxHitPoints"",""200"";""WorkToBuild"",""6000"";""Flammability"",""0""
+|ThingDef.statBases=""MaxHitPoints"",""200"";""WorkToBuild"",""6000"";""Flammability"",""0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costList=""Steel"",""80"";""Component"",""3""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -69828,7 +69829,7 @@ Core:Defs_ThingDef_PowerConduit,"{{#set:
 |ThingDef.description=A set of electrical cables for moving power around. Can be placed under walls and other buildings.
 |ThingDef.description.zh-cn=一组用于传输电力的电缆。可以安装于墙体和其他建筑之下，但不能埋进山体中。
 |ThingDef.description.zh-tw=一條用於傳輸電力的電纜線。
-|ThingDef.statBases=""MaxHitPoints"",""80"";""WorkToBuild"",""35"";""Flammability"",""1.0"";""Beauty"",""-2""
+|ThingDef.statBases=""MaxHitPoints"",""80"";""WorkToBuild"",""35"";""Flammability"",""1.0"";""Beauty"",""-2"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Standable
 |ThingDef.costList=""Steel"",""1""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -69882,7 +69883,7 @@ Core:Defs_ThingDef_PowerSwitch,"{{#set:
 |ThingDef.description=Switches power on/off.
 |ThingDef.description.zh-cn=连通/断开电网，决定电流是否能够通过。
 |ThingDef.description.zh-tw=開啟或關閉供電閥切換電源供應。
-|ThingDef.statBases=""MaxHitPoints"",""120"";""WorkToBuild"",""200"";""Flammability"",""0.4"";""Beauty"",""-2""
+|ThingDef.statBases=""MaxHitPoints"",""120"";""WorkToBuild"",""200"";""Flammability"",""0.4"";""Beauty"",""-2"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Standable
 |ThingDef.costList=""Steel"",""15"";""Component"",""1""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -70217,7 +70218,7 @@ Core:Defs_ThingDef_PsychoidLeaves,"{{#set:
 |ThingDef.description=Raw cut leaves of a psychoid plant.
 |ThingDef.description.zh-cn=从精神叶上收获的新鲜叶子。
 |ThingDef.description.zh-tw=從迷幻草上收穫的新鮮葉片。
-|ThingDef.statBases=""MarketValue"",""2.2"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Mass"",""0.03"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""2.2"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""DeteriorationRate"",""6"";""Mass"",""0.03"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -70630,7 +70631,7 @@ Core:Defs_ThingDef_RawAgave,"{{#set:
 |ThingDef.description=Raw agave fruit.
 |ThingDef.description.zh-cn=生龙舌兰果。生吃味道很差。
 |ThingDef.description.zh-tw=生龍舌蘭果實。
-|ThingDef.statBases=""MarketValue"",""1.5"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Mass"",""0.03"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""1.5"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""DeteriorationRate"",""6"";""Mass"",""0.03"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -70678,7 +70679,7 @@ Core:Defs_ThingDef_RawBerries,"{{#set:
 |ThingDef.description=Assorted berries. Nice to eat, even when raw.
 |ThingDef.description.zh-cn=各种各样的浆果，就算生吃味道也很好。
 |ThingDef.description.zh-tw=各種各樣的莓果，就算生吃味道也很好。
-|ThingDef.statBases=""MarketValue"",""2.0"";""Mass"",""0.027"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""2.0"";""Mass"",""0.027"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""DeteriorationRate"",""6"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -70726,7 +70727,7 @@ Core:Defs_ThingDef_RawCorn,"{{#set:
 |ThingDef.description=Raw corn.
 |ThingDef.description.zh-cn=生玉米。生吃味道很差。
 |ThingDef.description.zh-tw=生的玉米，味道鮮美，可以生吃。
-|ThingDef.statBases=""MarketValue"",""1.5"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Mass"",""0.03"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""1.5"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""DeteriorationRate"",""6"";""Mass"",""0.03"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -70776,7 +70777,7 @@ Core:Defs_ThingDef_RawHops,"{{#set:
 |ThingDef.description=Raw hops. A flavoring and preserving agent that is necessary for making beer.
 |ThingDef.description.zh-cn=生的啤酒花。是酿制啤酒时必需的调味剂和保鲜剂。
 |ThingDef.description.zh-tw=生啤酒花。味道糟糕且毫無營養，但卻是釀造啤酒不可或缺的原料。
-|ThingDef.statBases=""MarketValue"",""1.5"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Mass"",""0.03"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""1.5"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""DeteriorationRate"",""6"";""Mass"",""0.03"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -70817,7 +70818,7 @@ Core:Defs_ThingDef_RawPotatoes,"{{#set:
 |ThingDef.description=Raw potatoes.
 |ThingDef.description.zh-cn=生土豆。生吃味道很差。
 |ThingDef.description.zh-tw=生馬鈴薯。
-|ThingDef.statBases=""MarketValue"",""1.5"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Mass"",""0.03"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""1.5"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""DeteriorationRate"",""6"";""Mass"",""0.03"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -70865,7 +70866,7 @@ Core:Defs_ThingDef_RawRice,"{{#set:
 |ThingDef.description=Raw rice.
 |ThingDef.description.zh-cn=生稻米。生吃味道很差。
 |ThingDef.description.zh-tw=未經加工的生米。
-|ThingDef.statBases=""MarketValue"",""1.5"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Mass"",""0.03"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""1.5"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""DeteriorationRate"",""6"";""Mass"",""0.03"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -70915,6 +70916,7 @@ Core:Defs_ThingDef_RectTrigger,"{{#set:
 |ThingDef.thingClass=RectTrigger
 |ThingDef.category=Ethereal
 |ThingDef.tickerType=Normal
+|ThingDef.useHitPoints=false
 |ThingDef.drawerType=None
 }}"
 Core:Defs_ThingDef_Refinery,"{{#set:
@@ -70928,7 +70930,7 @@ Core:Defs_ThingDef_Refinery,"{{#set:
 |ThingDef.description=A chemical refining plant. Used to refine wood into chemfuel.
 |ThingDef.description.zh-cn=一台大型化工提炼设备。用于从木材中提炼化合燃料。
 |ThingDef.description.zh-tw=一具化學提煉裝置，用來將木頭提煉加工成化合燃料。
-|ThingDef.statBases=""MaxHitPoints"",""200"";""WorkToBuild"",""2000"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""200"";""WorkToBuild"",""2000"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""150"";""Component"",""3""
@@ -71195,7 +71197,7 @@ Core:Defs_ThingDef_RoyalBed,"{{#set:
 |ThingDef.description=A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful. Fits two.
 |ThingDef.description.zh-cn=一张给贵族使用的豪华的，镶金边的床。非常舒适和漂亮。适合双人。
 |ThingDef.description.zh-tw=一張鑲金的豪華大床，舒適而美觀，給你貴族般的待遇。能夠睡下兩人。
-|ThingDef.statBases=""MaxHitPoints"",""200"";""Flammability"",""1.0"";""WorkToBuild"",""4500"";""Mass"",""90"";""Beauty"",""25"";""BedRestEffectiveness"",""1.05"";""Comfort"",""0.90"";""ImmunityGainSpeedFactor"",""1.1""
+|ThingDef.statBases=""MaxHitPoints"",""200"";""Flammability"",""1.0"";""WorkToBuild"",""4500"";""Mass"",""90"";""Beauty"",""25"";""BedRestEffectiveness"",""1.05"";""Comfort"",""0.90"";""ImmunityGainSpeedFactor"",""1.1"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costList=""Gold"",""50""
@@ -71281,7 +71283,7 @@ Core:Defs_ThingDef_Sandbags,"{{#set:
 |ThingDef.description=Cover from gunfire.
 |ThingDef.description.zh-cn=作为掩体，降低被远程武器击中的几率。
 |ThingDef.description.zh-tw=在戰鬥時提供掩蔽。
-|ThingDef.statBases=""MaxHitPoints"",""450"";""Beauty"",""-10"";""WorkToBuild"",""180"";""Flammability"",""0""
+|ThingDef.statBases=""MaxHitPoints"",""450"";""Beauty"",""-10"";""WorkToBuild"",""180"";""Flammability"",""0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=40
 |ThingDef.pathCostIgnoreRepeat=true
@@ -71375,7 +71377,7 @@ Core:Defs_ThingDef_Sarcophagus,"{{#set:
 |ThingDef.description=An ornamented burial receptacle for the honored dead.
 |ThingDef.description.zh-cn=受尊敬的死者用的、装饰华丽的安葬容器。
 |ThingDef.description.zh-tw=一個替光榮犧牲的死者準備的安身之處。
-|ThingDef.statBases=""WorkToBuild"",""2500"";""MaxHitPoints"",""250"";""Flammability"",""1.0"";""Beauty"",""0""
+|ThingDef.statBases=""WorkToBuild"",""2500"";""MaxHitPoints"",""250"";""Flammability"",""1.0"";""Beauty"",""0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costStuffCount=60
@@ -71444,7 +71446,7 @@ Core:Defs_ThingDef_SculptureGrand,"{{#set:
 |ThingDef.description=A car-sized piece of material sculpted into an artistic form.
 |ThingDef.description.zh-cn=由一块汽车大小的材料塑造而成的艺术品。
 |ThingDef.description.zh-tw=一座汽車大小，使用素材雕刻而成的藝術品。
-|ThingDef.statBases=""MaxHitPoints"",""250"";""Beauty"",""240"";""Mass"",""50"";""WorkToMake"",""65000"";""Flammability"",""1.0"";""SellPriceFactor"",""1.15""
+|ThingDef.statBases=""MaxHitPoints"",""250"";""Beauty"",""240"";""Mass"",""50"";""WorkToMake"",""65000"";""Flammability"",""1.0"";""SellPriceFactor"",""1.10""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costStuffCount=260
@@ -71502,7 +71504,7 @@ Core:Defs_ThingDef_SculptureLarge,"{{#set:
 |ThingDef.description=A person-sized piece of material sculpted into an artistic form.
 |ThingDef.description.zh-cn=由一块成人大小的材料塑造而成的艺术品。
 |ThingDef.description.zh-tw=一座成人高度，使用素材雕刻而成的藝術品。
-|ThingDef.statBases=""MaxHitPoints"",""150"";""Mass"",""10"";""Beauty"",""100"";""WorkToMake"",""30000"";""Flammability"",""1.0"";""SellPriceFactor"",""1.15""
+|ThingDef.statBases=""MaxHitPoints"",""150"";""Mass"",""10"";""Beauty"",""100"";""WorkToMake"",""30000"";""Flammability"",""1.0"";""SellPriceFactor"",""1.10""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costStuffCount=135
@@ -71558,7 +71560,7 @@ Core:Defs_ThingDef_SculptureSmall,"{{#set:
 |ThingDef.description=A torso-sized piece of material sculpted into an artistic form.
 |ThingDef.description.zh-cn=由一块躯干大小的材料塑造而成的艺术品。
 |ThingDef.description.zh-tw=一座高度及胸，使用素材雕刻而成的藝術品。
-|ThingDef.statBases=""MaxHitPoints"",""90"";""Mass"",""5"";""Beauty"",""50"";""WorkToMake"",""18000"";""Flammability"",""1.0"";""SellPriceFactor"",""1.15""
+|ThingDef.statBases=""MaxHitPoints"",""90"";""Mass"",""5"";""Beauty"",""50"";""WorkToMake"",""18000"";""Flammability"",""1.0"";""SellPriceFactor"",""1.10""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costStuffCount=70
@@ -71613,7 +71615,7 @@ Core:Defs_ThingDef_ScytherBlade,"{{#set:
 |ThingDef.description=Hand replacement with a telescoping blade. Scavenged from a dead scyther mechanoid. Not very comfortable, but quite effective as a close-range weapon.
 |ThingDef.description.zh-cn=嵌有镰刃的手部替代品。从机械飞螳上拆下来的。不是很舒服但确实是非常致命的近战武器。
 |ThingDef.description.zh-tw=用刀片取代手臂，並非非常舒適，但作為一個近戰武器是相當有效的。
-|ThingDef.statBases=""MarketValue"",""2000"";""Mass"",""4"";""DeteriorationRate"",""2.0"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""2000"";""Mass"",""4"";""DeteriorationRate"",""0.5"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=10
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -71646,7 +71648,7 @@ Core:Defs_ThingDef_Shelf,"{{#set:
 |ThingDef.description=Items stored in this will not deteriorate, even if outside.
 |ThingDef.description.zh-cn=储存于此的物品即使露天也不会老化。
 |ThingDef.description.zh-tw=儲存在此的物品能夠避免摔壞，無論室內室外。
-|ThingDef.statBases=""MaxHitPoints"",""100"";""Mass"",""8"";""WorkToBuild"",""1050"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""100"";""Mass"",""8"";""WorkToBuild"",""1050"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.costStuffCount=30
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony""
@@ -71698,7 +71700,7 @@ Core:Defs_ThingDef_Ship_Beam,"{{#set:
 |ThingDef.description=A structural beam around which a ship can be constructed.
 |ThingDef.description.zh-cn=一根用来支撑飞船其他部分的结构梁，在其周围能建造飞船。
 |ThingDef.description.zh-tw=一個用來銜接星艦各部位組件的結構住。
-|ThingDef.statBases=""WorkToBuild"",""8000"";""MaxHitPoints"",""400"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""8000"";""MaxHitPoints"",""400"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costList=""Steel"",""200"";""Plasteel"",""150"";""Component"",""10""
 |ThingDef.terrainAffordanceNeeded=Heavy
@@ -71755,7 +71757,7 @@ Core:Defs_ThingDef_Ship_ComputerCore,"{{#set:
 |ThingDef.description=A computer core capable of housing a superhumanlike AI who can guide a ship through any challenge.
 |ThingDef.description.zh-cn=一个电脑核心，装载有类似于超人一般的人工智能，可以带领飞船经受任何挑战。
 |ThingDef.description.zh-tw=一個可以搭載星艦導航AI的電腦核心。
-|ThingDef.statBases=""WorkToBuild"",""16000"";""MaxHitPoints"",""150"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""16000"";""MaxHitPoints"",""150"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costList=""Steel"",""600"";""Component"",""16"";""Gold"",""100"";""AIPersonaCore"",""1""
 |ThingDef.terrainAffordanceNeeded=Heavy
@@ -71807,7 +71809,7 @@ Core:Defs_ThingDef_Ship_CryptosleepCasket,"{{#set:
 |ThingDef.description=A cryptosleep casket hardened against the dangers of space. Capable of maintaining a person in cryptosleep for centuries in a space environment and surviving atmospheric re-entry.
 |ThingDef.description.zh-cn=一个经过强化可以抵抗太空中威胁的低温休眠舱。可以维持一个人在太空中持续休眠几个世纪并可以安全再入大气层。
 |ThingDef.description.zh-tw=一個可以抵抗太空中危險的強化低溫休眠艙。可以维持一個人在太空中持續休眠幾個世纪並可以安全的再次進入大氣層。
-|ThingDef.statBases=""WorkToBuild"",""8000"";""MaxHitPoints"",""200"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""8000"";""MaxHitPoints"",""200"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""500"";""Uranium"",""5"";""Component"",""10""
@@ -71866,7 +71868,7 @@ Core:Defs_ThingDef_Ship_Engine,"{{#set:
 |ThingDef.description=An engine capable of launching a ship into orbit and on interstellar trajectories.
 |ThingDef.description.zh-cn=一台可将飞船送入星球轨道和星际轨道的推进器。
 |ThingDef.description.zh-tw=一個可以將星艦送入星球軌道和星際轉移軌道的反物質推進器。
-|ThingDef.statBases=""WorkToBuild"",""40000"";""MaxHitPoints"",""400"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""40000"";""MaxHitPoints"",""400"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costList=""Steel"",""200"";""Plasteel"",""300"";""Uranium"",""100"";""Component"",""25""
 |ThingDef.terrainAffordanceNeeded=Heavy
@@ -71918,7 +71920,7 @@ Core:Defs_ThingDef_Ship_Reactor,"{{#set:
 |ThingDef.description=Powers a ship on its journey through space.
 |ThingDef.description.zh-cn=在太空的漫长旅途中给飞船提供能量。
 |ThingDef.description.zh-tw=供應星艦在漫長星際旅途中所需的能源。
-|ThingDef.statBases=""WorkToBuild"",""50000"";""MaxHitPoints"",""500"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""50000"";""MaxHitPoints"",""500"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costList=""Steel"",""300"";""Plasteel"",""500"";""Uranium"",""150"";""Component"",""25""
 |ThingDef.terrainAffordanceNeeded=Heavy
@@ -71976,7 +71978,7 @@ Core:Defs_ThingDef_ShipChunk,"{{#set:
 |ThingDef.description=A chunk of a spacecraft. Can be deconstructed to yield useful steel and components.
 |ThingDef.description.zh-cn=飞船的一部分。可以拆出有用的钢材和零部件。
 |ThingDef.description.zh-tw=一塊星艦的殘骸，拆除後可回收鋼鐵和電子零件。
-|ThingDef.statBases=""MaxHitPoints"",""300"";""Flammability"",""0"";""Beauty"",""-20"";""WorkToBuild"",""12000""
+|ThingDef.statBases=""MaxHitPoints"",""300"";""Flammability"",""0"";""Beauty"",""-20"";""WorkToBuild"",""12000"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=35
 |ThingDef.costList=""Component"",""11"";""Steel"",""40""
@@ -72133,7 +72135,7 @@ Core:Defs_ThingDef_SimpleResearchBench,"{{#set:
 |ThingDef.description=A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.
 |ThingDef.description.zh-cn=一个配有书写工具和低级科学工具的简易工作台。研究员在这里探索新事物。
 |ThingDef.description.zh-tw=一張備有書寫工具及簡單研究設備的桌子，研究人員在這裡發掘新事物。
-|ThingDef.statBases=""MaxHitPoints"",""250"";""WorkToBuild"",""2800"";""Flammability"",""1.0"";""ResearchSpeedFactor"",""0.6""
+|ThingDef.statBases=""MaxHitPoints"",""250"";""WorkToBuild"",""2800"";""Flammability"",""1.0"";""ResearchSpeedFactor"",""0.6"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""25""
@@ -72255,7 +72257,7 @@ Core:Defs_ThingDef_SleepingSpot,"{{#set:
 |ThingDef.description=Designates a spot on the ground where people should sleep. Not comfortable.
 |ThingDef.description.zh-cn=在地板上指定一个给人睡觉的位置。很不舒服。
 |ThingDef.description.zh-tw=指定一個供居民睡覺的地點，睡起來可不怎麼舒服。
-|ThingDef.statBases=""WorkToBuild"",""0"";""Comfort"",""0.4""
+|ThingDef.statBases=""WorkToBuild"",""0"";""Comfort"",""0.4"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Standable
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.repairEffect=Repair
@@ -72299,7 +72301,7 @@ Core:Defs_ThingDef_SmokeleafJoint,"{{#set:
 |ThingDef.description=Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency. Can be produced without equipment, at a crafting spot.
 |ThingDef.description.zh-cn=大麻叶卷成的烟卷。这种烟卷会让人兴奋，但是也会成瘾，减缓使用者的注意力和行动速度，长期使用会产生药物依赖。大麻烟可在手工加工点制作。
 |ThingDef.description.zh-tw=將菸葉捲成條狀後吸食。捲菸能提振心情，但會增加食慾、降低專注力與移動速度，並可能上癮。捲菸可在手工製作點徒手製作。
-|ThingDef.statBases=""WorkToMake"",""450"";""MarketValue"",""11"";""Mass"",""0.05"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-4""
+|ThingDef.statBases=""WorkToMake"",""450"";""MarketValue"",""11"";""Mass"",""0.05"";""DeteriorationRate"",""6"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.costList=""SmokeleafLeaves"",""4""
 |ThingDef.altitudeLayer=Item
@@ -72396,7 +72398,7 @@ Core:Defs_ThingDef_SmokeleafLeaves,"{{#set:
 |ThingDef.description=Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joint at a crafting spot.
 |ThingDef.description.zh-cn=从大麻上收获的新鲜叶子，可以在手工加工点处被制成大麻烟。
 |ThingDef.description.zh-tw=從菸草上收割來的菸葉，能在手工製作點加工成捲菸。
-|ThingDef.statBases=""MarketValue"",""2.0"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""DeteriorationRate"",""10"";""Mass"",""0.03"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""2.0"";""MaxHitPoints"",""60"";""Flammability"",""1.0"";""DeteriorationRate"",""6"";""Mass"",""0.03"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -72566,7 +72568,7 @@ Core:Defs_ThingDef_Snowman,"{{#set:
 |ThingDef.description=A set of large snowballs piled and shaped to resemble a person.
 |ThingDef.description.zh-cn=一组大雪球堆叠在一起，做成类似人的形状。
 |ThingDef.description.zh-tw=用幾顆大雪球堆疊成如人的形狀。
-|ThingDef.statBases=""MaxHitPoints"",""50"";""Beauty"",""4"";""WorkToBuild"",""1000""
+|ThingDef.statBases=""MaxHitPoints"",""50"";""Beauty"",""4"";""WorkToBuild"",""1000"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=25
 |ThingDef.pathCostIgnoreRepeat=false
@@ -72609,7 +72611,7 @@ Core:Defs_ThingDef_SolarGenerator,"{{#set:
 |ThingDef.description=Produces electricity from sunlight. Does not work in the dark.
 |ThingDef.description.zh-cn=利用太阳光来发电，在阳光不足时不工作，人工光源无法用作发电。
 |ThingDef.description.zh-tw=用陽光發電，但在缺乏陽光時無法工作。
-|ThingDef.statBases=""MaxHitPoints"",""300"";""WorkToBuild"",""2500"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""300"";""WorkToBuild"",""2500"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""100"";""Component"",""3""
@@ -72954,7 +72956,7 @@ Core:Defs_ThingDef_StandingLamp,"{{#set:
 |ThingDef.description=Standing lamp that lights an area.
 |ThingDef.description.zh-cn=将一片区域照亮的落地灯。
 |ThingDef.description.zh-tw=一個可以點亮一小塊區域的立燈。
-|ThingDef.statBases=""Mass"",""4"";""MaxHitPoints"",""50"";""WorkToBuild"",""170"";""Flammability"",""1.0""
+|ThingDef.statBases=""Mass"",""4"";""MaxHitPoints"",""50"";""WorkToBuild"",""170"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=8
 |ThingDef.costList=""Steel"",""15""
@@ -73007,7 +73009,7 @@ Core:Defs_ThingDef_StandingLamp_Blue,"{{#set:
 |ThingDef.description=Standing lamp that lights an area in blue.
 |ThingDef.description.zh-cn=将一片区域照亮成蓝色的落地灯。
 |ThingDef.description.zh-tw=一個可以把一小塊區域點亮成藍色的立燈。
-|ThingDef.statBases=""Mass"",""4"";""MaxHitPoints"",""50"";""WorkToBuild"",""170"";""Flammability"",""1.0""
+|ThingDef.statBases=""Mass"",""4"";""MaxHitPoints"",""50"";""WorkToBuild"",""170"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=8
 |ThingDef.costList=""Steel"",""15""
@@ -73059,7 +73061,7 @@ Core:Defs_ThingDef_StandingLamp_Green,"{{#set:
 |ThingDef.description=Standing lamp that lights an area in green.
 |ThingDef.description.zh-cn=将一片区域照亮成绿色的落地灯。
 |ThingDef.description.zh-tw=一個可以把一小塊區域點亮成綠色的立燈。
-|ThingDef.statBases=""Mass"",""4"";""MaxHitPoints"",""50"";""WorkToBuild"",""170"";""Flammability"",""1.0""
+|ThingDef.statBases=""Mass"",""4"";""MaxHitPoints"",""50"";""WorkToBuild"",""170"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=8
 |ThingDef.costList=""Steel"",""15""
@@ -73111,7 +73113,7 @@ Core:Defs_ThingDef_StandingLamp_Red,"{{#set:
 |ThingDef.description=Standing lamp that lights an area in red.
 |ThingDef.description.zh-cn=将一片区域照亮成红色的落地灯。
 |ThingDef.description.zh-tw=一個可以把一小塊區域點亮成红色的立燈。
-|ThingDef.statBases=""Mass"",""4"";""MaxHitPoints"",""50"";""WorkToBuild"",""170"";""Flammability"",""1.0""
+|ThingDef.statBases=""Mass"",""4"";""MaxHitPoints"",""50"";""WorkToBuild"",""170"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=8
 |ThingDef.costList=""Steel"",""15""
@@ -73248,7 +73250,7 @@ Core:Defs_ThingDef_Stool,"{{#set:
 |ThingDef.description=A simple platform on which to sit.
 |ThingDef.description.zh-cn=给人坐的简单的凳子。
 |ThingDef.description.zh-tw=簡單的小凳子。
-|ThingDef.statBases=""MaxHitPoints"",""75"";""WorkToBuild"",""750"";""Mass"",""3"";""Flammability"",""1.0"";""Beauty"",""1"";""Comfort"",""0.5""
+|ThingDef.statBases=""MaxHitPoints"",""75"";""WorkToBuild"",""750"";""Mass"",""3"";""Flammability"",""1.0"";""Beauty"",""1"";""Comfort"",""0.5"";""SellPriceFactor"",""0.70""
 |ThingDef.pathCost=30
 |ThingDef.costStuffCount=15
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony""
@@ -73300,7 +73302,7 @@ Core:Defs_ThingDef_SunLamp,"{{#set:
 |ThingDef.description=Lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.
 |ThingDef.description.zh-cn=将一片区域照亮到足以种植农作物，但需要消耗大量电力。夜晚时会自动关闭。
 |ThingDef.description.zh-tw=為一整片區域提供足以讓植物生長的亮光。
-|ThingDef.statBases=""WorkToBuild"",""330"";""Mass"",""4.5"";""MaxHitPoints"",""50"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""330"";""Mass"",""4.5"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=8
 |ThingDef.costList=""Steel"",""25""
@@ -73404,7 +73406,7 @@ Core:Defs_ThingDef_TableButcher,"{{#set:
 |ThingDef.description=A heavy table for butchering dead creatures into pieces of raw meat.
 |ThingDef.description.zh-cn=一个用于将死掉的动物宰成肉块的厚重桌子。
 |ThingDef.description.zh-tw=一個用來將死亡的動物屠宰成肉塊的重型桌子。
-|ThingDef.statBases=""WorkToBuild"",""2000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-15""
+|ThingDef.statBases=""WorkToBuild"",""2000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-15"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costList=""WoodLog"",""20""
@@ -73466,7 +73468,7 @@ Core:Defs_ThingDef_TableLong,"{{#set:
 |ThingDef.description=People eat off tables when chairs are placed facing them.
 |ThingDef.description.zh-cn=当有椅子面对桌子的时候，人们会在桌子上进餐。
 |ThingDef.description.zh-tw=人們會坐在對著桌子的椅子上用餐。
-|ThingDef.statBases=""MaxHitPoints"",""150"";""WorkToBuild"",""3000"";""Mass"",""20"";""Flammability"",""1.0"";""Beauty"",""2""
+|ThingDef.statBases=""MaxHitPoints"",""150"";""WorkToBuild"",""3000"";""Mass"",""20"";""Flammability"",""1.0"";""Beauty"",""2"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costStuffCount=95
@@ -73525,7 +73527,7 @@ Core:Defs_ThingDef_TableMachining,"{{#set:
 |ThingDef.description=A work station for assembling and disassembling machinery such as guns or mechanoid corpses.
 |ThingDef.description.zh-cn=用于组装和拆解机械装置的平台，比如枪械和机械体尸体。
 |ThingDef.description.zh-tw=一套專門在組裝或拆解機械用的桌子與工具。
-|ThingDef.statBases=""WorkToBuild"",""3000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-2""
+|ThingDef.statBases=""WorkToBuild"",""3000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-2"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""150"";""Component"",""5""
@@ -73600,7 +73602,7 @@ Core:Defs_ThingDef_TableSculpting,"{{#set:
 |ThingDef.description=A workbench equipped for artistic sculpting.
 |ThingDef.description.zh-cn=一个配备有雕刻工具的平台。
 |ThingDef.description.zh-tw=專門進行雕刻工作的桌子。
-|ThingDef.statBases=""WorkToBuild"",""2500"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-5""
+|ThingDef.statBases=""WorkToBuild"",""2500"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-5"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""50""
@@ -73661,7 +73663,7 @@ Core:Defs_ThingDef_TableShort,"{{#set:
 |ThingDef.description=People eat off tables when chairs are placed facing them.
 |ThingDef.description.zh-cn=当有椅子面对桌子的时候，人们会在桌子上进餐。
 |ThingDef.description.zh-tw=人們會坐在對著桌子的椅子上用餐。
-|ThingDef.statBases=""MaxHitPoints"",""100"";""WorkToBuild"",""1500"";""Mass"",""10"";""Flammability"",""1.0"";""Beauty"",""1""
+|ThingDef.statBases=""MaxHitPoints"",""100"";""WorkToBuild"",""1500"";""Mass"",""10"";""Flammability"",""1.0"";""Beauty"",""1"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costStuffCount=50
@@ -73718,7 +73720,7 @@ Core:Defs_ThingDef_TableStonecutter,"{{#set:
 |ThingDef.description=A work table equipped to cut rough stone into usable blocks.
 |ThingDef.description.zh-cn=一个配备有切石工具的工作台。用于把不规则的岩石切割成可用的石块。
 |ThingDef.description.zh-tw=一個裝有切割設備的機床。用於把粗糙的石塊加工成石材。
-|ThingDef.statBases=""WorkToBuild"",""2000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-5""
+|ThingDef.statBases=""WorkToBuild"",""2000"";""MaxHitPoints"",""180"";""Flammability"",""1.0"";""Cleanliness"",""-5"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""30""
@@ -73780,7 +73782,7 @@ Core:Defs_ThingDef_Telescope,"{{#set:
 |ThingDef.description=A telescope for doing amateur astronomy. It's a relaxing and fun hobby for a certain kind of person.
 |ThingDef.description.zh-cn=一个业余的天文望远镜。某一类人作为兴趣爱好和放松心情之用。
 |ThingDef.description.zh-tw=提供給天文愛好者觀賞星空的望遠鏡。對於有這類興趣的人來說，這是個輕鬆的消遣。
-|ThingDef.statBases=""MaxHitPoints"",""75"";""Flammability"",""1.0"";""MarketValue"",""350"";""Mass"",""7.5"";""EntertainmentStrengthFactor"",""1""
+|ThingDef.statBases=""MaxHitPoints"",""75"";""Flammability"",""1.0"";""MarketValue"",""350"";""Mass"",""7.5"";""EntertainmentStrengthFactor"",""1"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=50
 |ThingDef.terrainAffordanceNeeded=Light
@@ -73999,7 +74001,7 @@ Core:Defs_ThingDef_ThrumboHorn,"{{#set:
 |ThingDef.description=A thrumbo's horn. It's razor-sharp, very hard and priceless in most markets. This is a true trophy.
 |ThingDef.description.zh-cn=敲击兽的角，锋利、坚固，在大多数市场里都是极为贵重的。这是真正意义上的战利品。
 |ThingDef.description.zh-tw=獨角獸的角，如刀刃般鋒利，至高的無價之寶。最適合做為能力的象徵。
-|ThingDef.statBases=""MarketValue"",""3000"";""MaxHitPoints"",""150"";""Mass"",""3"";""Flammability"",""1.0"";""DeteriorationRate"",""1.0"";""MeleeWeapon_DamageAmount"",""15"";""MeleeWeapon_Cooldown"",""1.85"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""3000"";""MaxHitPoints"",""150"";""Mass"",""3"";""Flammability"",""1.0"";""DeteriorationRate"",""0.5"";""MeleeWeapon_DamageAmount"",""15"";""MeleeWeapon_Cooldown"",""1.85"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -74043,7 +74045,7 @@ Core:Defs_ThingDef_ToolCabinet,"{{#set:
 |ThingDef.description=Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.
 |ThingDef.description.zh-cn=提高工作速度。需要放置在工作台附近。一个工作台最多可以同时连接两个工具柜。
 |ThingDef.description.zh-tw=提升工作台工作速度。工具櫃必須設置於工作台附近，一張工作台同時可與兩個工具櫃連結。
-|ThingDef.statBases=""MaxHitPoints"",""100"";""WorkToBuild"",""1800"";""Mass"",""40"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""100"";""WorkToBuild"",""1800"";""Mass"",""40"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.costList=""Steel"",""200""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -74093,7 +74095,7 @@ Core:Defs_ThingDef_TorchLamp,"{{#set:
 |ThingDef.description=A wooden torch for lighting an area. Can be automatically refueled with wood. Produces a small amount of heat.
 |ThingDef.description.zh-cn=将一片区域照亮的木制火把。能自动添加原木作燃料。产生少量的热。
 |ThingDef.description.zh-tw=用火作為光線來源的設備，需要定期添加木頭燃料，會產生少許熱。
-|ThingDef.statBases=""MaxHitPoints"",""80"";""WorkToBuild"",""200"";""Flammability"",""0""
+|ThingDef.statBases=""MaxHitPoints"",""80"";""WorkToBuild"",""200"";""Flammability"",""0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=8
 |ThingDef.costList=""WoodLog"",""20""
@@ -74335,13 +74337,13 @@ Core:Defs_ThingDef_TransportPod,"{{#set:
 |ThingDef.description=A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles.
 |ThingDef.description.zh-cn=可运输人员、物品和动物的可发射亚轨道远程货运舱。可用于运输、奇袭或者增援战场。
 |ThingDef.description.zh-tw=一個可以裝載人員、物資及動物的莢艙，可以用來運輸、突襲或支援戰鬥。
-|ThingDef.statBases=""MaxHitPoints"",""250"";""WorkToBuild"",""3000"";""Flammability"",""0""
+|ThingDef.statBases=""MaxHitPoints"",""250"";""WorkToBuild"",""3000"";""Flammability"",""0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.costList=""Steel"",""80"";""Component"",""1""
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.researchPrerequisites=""TransportPod""
 |ThingDef.repairEffect=Repair
-|ThingDef.altitudeLayer=Building
+|ThingDef.altitudeLayer=BuildingOnTop
 |ThingDef.placeWorkers=""PlaceWorker_NeedsFuelingPort"",""PlaceWorker_NotUnderRoof""
 |ThingDef.designationCategory=Misc
 |ThingDef.thingClass=Building
@@ -74378,7 +74380,7 @@ Core:Defs_ThingDef_TrapDeadfall,"{{#set:
 |ThingDef.description=A suspended spiked weight held up by a delicate trigger. When the victim disturbs the trigger, the weight is released and falls on his head or torso.
 |ThingDef.description.zh-cn=用一个巧妙的触发机关将重物悬停在高处。当受害人触发机关时，重物掉下砸在他的头或躯干上。
 |ThingDef.description.zh-tw=一個敏感的觸發裝置連接著懸吊於高處的尖刺陷阱，當受害者觸發陷阱，陷阱將會從他的頭頂落下。
-|ThingDef.statBases=""MaxHitPoints"",""40"";""WorkToBuild"",""2000"";""Beauty"",""-4"";""TrapMeleeDamage"",""60"";""TrapSpringChance"",""0.8""
+|ThingDef.statBases=""MaxHitPoints"",""40"";""WorkToBuild"",""2000"";""Beauty"",""-4"";""TrapMeleeDamage"",""60"";""TrapSpringChance"",""0.8"";""SellPriceFactor"",""0.70""
 |ThingDef.costStuffCount=70
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -74420,7 +74422,7 @@ Core:Defs_ThingDef_TrapIEDBomb,"{{#set:
 |ThingDef.description=A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.
 |ThingDef.description.zh-cn=用一个自制的触发机关连接到迫击炮炮弹上。当有人触发机关时炮弹会爆炸。简易的机关在触发时会有随机的延迟，可能会让一些灵活的敌人逃走。
 |ThingDef.description.zh-tw=一顆砲彈連接著一個自製的觸發裝置，當裝置被觸發，隨即會引爆砲彈。觸發裝置的延遲時機是隨機的，敏捷的敵人有可能藉此逃脫。
-|ThingDef.statBases=""MaxHitPoints"",""40"";""WorkToBuild"",""2000"";""Beauty"",""-4"";""TrapSpringChance"",""0.8""
+|ThingDef.statBases=""MaxHitPoints"",""40"";""WorkToBuild"",""2000"";""Beauty"",""-4"";""TrapSpringChance"",""0.8"";""SellPriceFactor"",""0.70""
 |ThingDef.costList=""MortarShell"",""1"";""Component"",""1""
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.researchPrerequisites=""IEDBomb""
@@ -74465,7 +74467,7 @@ Core:Defs_ThingDef_TrapIEDIncendiary,"{{#set:
 |ThingDef.description=Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable.
 |ThingDef.description.zh-cn=将炸药与燃烧剂经过混合，然后采用化学引信引爆。这种化学引信简单可靠。
 |ThingDef.description.zh-tw=一種混合了易燃藥劑的燃燒彈，當受害者觸發了裝置，被點燃的藥劑會立刻四散。因為它不需要強烈的爆炸性，而且只用了簡單的化學反應來觸發，是一種十分可靠的的爆炸裝置。
-|ThingDef.statBases=""MaxHitPoints"",""40"";""WorkToBuild"",""2000"";""Beauty"",""-4"";""TrapSpringChance"",""0.8""
+|ThingDef.statBases=""MaxHitPoints"",""40"";""WorkToBuild"",""2000"";""Beauty"",""-4"";""TrapSpringChance"",""0.8"";""SellPriceFactor"",""0.70""
 |ThingDef.costList=""Chemfuel"",""25"";""Component"",""1""
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.researchPrerequisites=""IEDIncendiary""
@@ -74510,7 +74512,7 @@ Core:Defs_ThingDef_TubeTelevision,"{{#set:
 |ThingDef.description=A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.
 |ThingDef.description.zh-cn=用阴极射线管显示器显示运动图像和声音。即使在边缘世界，也经常有个老旧发射塔发送一些有趣的玩意。
 |ThingDef.description.zh-tw=一台用來放映影像及聲音的舊型機器，在RimWorld裡，這算是稍微有趣的娛樂媒介。
-|ThingDef.statBases=""WorkToBuild"",""6000"";""MaxHitPoints"",""100"";""Mass"",""28"";""Flammability"",""1.0"";""MarketValue"",""700"";""EntertainmentStrengthFactor"",""1""
+|ThingDef.statBases=""WorkToBuild"",""6000"";""MaxHitPoints"",""100"";""Mass"",""28"";""Flammability"",""1.0"";""MarketValue"",""700"";""EntertainmentStrengthFactor"",""1"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList=""Steel"",""100"";""Component"",""8""
@@ -74756,7 +74758,7 @@ Core:Defs_ThingDef_Turret_MortarBomb,"{{#set:
 |ThingDef.description=A mortar that launches explosive shells. Must be manned. Explodes when damaged.
 |ThingDef.description.zh-cn=一个发射高爆炮弹的迫击炮。必须有人操纵。受损严重时爆炸。
 |ThingDef.description.zh-tw=一個發射炮彈的迫擊炮，必須由人來操縱。被摧毀後會引起爆炸。
-|ThingDef.statBases=""MaxHitPoints"",""180"";""Flammability"",""1.0"";""WorkToBuild"",""1900"";""Mass"",""100"";""Beauty"",""-20""
+|ThingDef.statBases=""MaxHitPoints"",""180"";""Flammability"",""1.0"";""WorkToBuild"",""1900"";""Mass"",""100"";""Beauty"",""-20"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=50
 |ThingDef.costList=""Steel"",""100"";""Component"",""3""
@@ -74821,7 +74823,7 @@ Core:Defs_ThingDef_Turret_MortarEMP,"{{#set:
 |ThingDef.description=A mortar that launches EMP bombs. Must be manned. Explodes when damaged.
 |ThingDef.description.zh-cn=一个发射电磁脉冲（EMP）炮弹的迫击炮。必须有人操纵。受损严重时爆炸。
 |ThingDef.description.zh-tw=一個發射電磁脈衝炸彈的迫擊炮，對付機器人時特別有效，必須由人來操縱。被摧毀後會引起爆炸。
-|ThingDef.statBases=""MaxHitPoints"",""180"";""Flammability"",""1.0"";""WorkToBuild"",""1900"";""Mass"",""100"";""Beauty"",""-20""
+|ThingDef.statBases=""MaxHitPoints"",""180"";""Flammability"",""1.0"";""WorkToBuild"",""1900"";""Mass"",""100"";""Beauty"",""-20"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=50
 |ThingDef.costList=""Steel"",""100"";""Component"",""3""
@@ -74886,7 +74888,7 @@ Core:Defs_ThingDef_Turret_MortarIncendiary,"{{#set:
 |ThingDef.description=A mortar that launches incendiary shells. Must be manned. Explodes when damaged.
 |ThingDef.description.zh-cn=一个发射燃烧炮弹的迫击炮。必须有人操纵。受损严重时爆炸。
 |ThingDef.description.zh-tw=一個發射燃燒炮弹的迫擊炮，必須由人來操縱。被摧毀後會引起爆炸。
-|ThingDef.statBases=""MaxHitPoints"",""180"";""Flammability"",""1.0"";""WorkToBuild"",""1900"";""Mass"",""100"";""Beauty"",""-20""
+|ThingDef.statBases=""MaxHitPoints"",""180"";""Flammability"",""1.0"";""WorkToBuild"",""1900"";""Mass"",""100"";""Beauty"",""-20"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=50
 |ThingDef.costList=""Steel"",""100"";""Component"",""3""
@@ -74951,7 +74953,7 @@ Core:Defs_ThingDef_TurretGun,"{{#set:
 |ThingDef.description=An improvised turret that automatically fires at nearby enemies. Explodes when damaged. Its hacked-together AI brain isn't very smart, and can't be directly controlled, so beware of friendly fire.
 |ThingDef.description.zh-cn=一台东拼西凑的的机枪炮塔，会自动射击附近的敌人，被摧毁后会爆炸。它所用的拼凑而成的人工智能大脑不是很聪明，也没法被直接控制，因此要当心误伤。
 |ThingDef.description.zh-tw=一個威力較弱的炮塔，在敵人靠近時會自動開火。被摧毀後會引起爆炸。
-|ThingDef.statBases=""MaxHitPoints"",""100"";""Flammability"",""1.0"";""WorkToBuild"",""2500"";""Mass"",""100"";""Beauty"",""-20""
+|ThingDef.statBases=""MaxHitPoints"",""100"";""Flammability"",""1.0"";""WorkToBuild"",""2500"";""Mass"",""100"";""Beauty"",""-20"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=50
 |ThingDef.costList=""Steel"",""100"";""Component"",""3""
@@ -75317,7 +75319,7 @@ Core:Defs_ThingDef_Vent,"{{#set:
 |ThingDef.description=A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.
 |ThingDef.description.zh-cn=一个简单的通风孔，在平衡两个房间的温度同时保持墙体无法通过。
 |ThingDef.description.zh-tw=一個簡單的風扇，用於調節兩個房間之間的室溫。人們無法通過空調扇往來兩個房間。
-|ThingDef.statBases=""WorkToBuild"",""400"";""MaxHitPoints"",""100"";""Flammability"",""1.0""
+|ThingDef.statBases=""WorkToBuild"",""400"";""MaxHitPoints"",""100"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costList=""Steel"",""30""
 |ThingDef.terrainAffordanceNeeded=Heavy
@@ -75371,7 +75373,7 @@ Core:Defs_ThingDef_VitalsMonitor,"{{#set:
 |ThingDef.description=Increases patients treatment quality. Needs to be placed adjacent to a medical bed. One medical bed can be linked to only one vitals monitor.
 |ThingDef.description.zh-cn=提高患者的治疗质量。需要放置在毗邻医疗床的位置。一个医疗床只能连接一个生命体征监测仪。
 |ThingDef.description.zh-tw=提升患者醫療品質。檢測器必須與醫療床相鄰，一張醫療床同時只能與一台生命體徵檢測器連結。
-|ThingDef.statBases=""MaxHitPoints"",""100"";""WorkToBuild"",""4000"";""Mass"",""20"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""100"";""WorkToBuild"",""4000"";""Mass"",""20"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=PassThroughOnly
 |ThingDef.costList=""Steel"",""180""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -75433,7 +75435,7 @@ Core:Defs_ThingDef_WakeUp,"{{#set:
 |ThingDef.description=An addictive stimulant. Fills the need for rest, and allows users to work for extended periods without getting tired. Addiction causes reduced mental performance and, sometimes, psychotic breaks with reality.
 |ThingDef.description.zh-cn=一种成瘾性极强的兴奋剂，清醒丸能够强化使用者的认知能力，使得服用者在短时期内工作时更加集中，忘记疲劳。但是药物成瘾后会使得精神受损，有时还会导致精神崩溃。
 |ThingDef.description.zh-tw=一種會致癮的興奮劑。能夠補足休息需求，讓居民能夠長時間持續工作。成癮後會導致負面心情，還有可能會精神崩潰。
-|ThingDef.statBases=""WorkToMake"",""900"";""MarketValue"",""24"";""Mass"",""0.005"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-4""
+|ThingDef.statBases=""WorkToMake"",""900"";""MarketValue"",""45"";""Mass"",""0.005"";""MaxHitPoints"",""50"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.costList=""Neutroamine"",""2""
 |ThingDef.altitudeLayer=Item
@@ -75520,7 +75522,7 @@ Core:Defs_ThingDef_Wall,"{{#set:
 |ThingDef.description=An impassable wall. Capable of holding up a roof.
 |ThingDef.description.zh-cn=一面无法通过的墙。可以支撑起屋顶。
 |ThingDef.description.zh-tw=一面無法穿越的牆，可以用來支撐屋頂。
-|ThingDef.statBases=""MaxHitPoints"",""350"";""WorkToBuild"",""150"";""Flammability"",""1.0""
+|ThingDef.statBases=""MaxHitPoints"",""350"";""WorkToBuild"",""150"";""Flammability"",""1.0"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costStuffCount=5
 |ThingDef.stuffCategories=""Metallic"",""Woody"",""Stony""
@@ -76028,7 +76030,7 @@ Core:Defs_ThingDef_WindTurbine,"{{#set:
 |ThingDef.description=A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.
 |ThingDef.description.zh-cn=一个风力驱动的发电机，前后需要较大的空旷空间，以获得最理想的气流。
 |ThingDef.description.zh-tw=利用風力產生電力的發電設備，其前後必須保持開闊以便空氣流通。
-|ThingDef.statBases=""MaxHitPoints"",""150"";""WorkToBuild"",""3300"";""Flammability"",""0.4"";""Beauty"",""-12""
+|ThingDef.statBases=""MaxHitPoints"",""150"";""WorkToBuild"",""3300"";""Flammability"",""0.4"";""Beauty"",""-12"";""SellPriceFactor"",""0.70""
 |ThingDef.passability=Impassable
 |ThingDef.costList=""Steel"",""100"";""Component"",""2""
 |ThingDef.terrainAffordanceNeeded=Light
@@ -76433,7 +76435,7 @@ Core:Defs_ThingDef_WoodLog,"{{#set:
 |ThingDef.description=Wood from trees or other fibrous plants. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch.
 |ThingDef.description.zh-cn=源自树或其他纤维性植物的木材。可以用来建造建筑、武器甚至简单的假肢。一根原木做的木棒在危急时刻也能作为武器使用。
 |ThingDef.description.zh-tw=從樹木或是其他木本植物採伐得來。用來建造建築、武器，甚至簡單的義肢。木材的原料，可在緊要關頭做為武器使用。
-|ThingDef.statBases=""MarketValue"",""1.4"";""MaxHitPoints"",""150"";""Mass"",""0.4"";""Flammability"",""1.0"";""DeteriorationRate"",""2"";""MeleeWeapon_DamageAmount"",""8"";""MeleeWeapon_Cooldown"",""2.2"";""SharpDamageMultiplier"",""0.3"";""BluntDamageMultiplier"",""0.8"";""Beauty"",""-4""
+|ThingDef.statBases=""MarketValue"",""1.4"";""MaxHitPoints"",""150"";""Mass"",""0.4"";""Flammability"",""1.0"";""DeteriorationRate"",""1"";""MeleeWeapon_DamageAmount"",""8"";""MeleeWeapon_Cooldown"",""2.2"";""SharpDamageMultiplier"",""0.3"";""BluntDamageMultiplier"",""0.8"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -76661,7 +76663,7 @@ Core:Defs_ThingDef_Wort,"{{#set:
 |ThingDef.description=Beer before fermentation. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer.
 |ThingDef.description.zh-cn=各种材料混合在一起，还未发酵的啤酒，需要放在发酵桶里酿造后才能变成真正的啤酒。
 |ThingDef.description.zh-tw=尚未釀造的啤酒原料。麥汁需要被裝進釀酒桶中發酵才能成為可飲用的啤酒。
-|ThingDef.statBases=""DeteriorationRate"",""1.0"";""MarketValue"",""2.5"";""Mass"",""0.8"";""Beauty"",""-4""
+|ThingDef.statBases=""DeteriorationRate"",""1.0"";""MarketValue"",""2.5"";""Mass"",""0.8"";""MaxHitPoints"",""60"";""Beauty"",""-4""
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps
@@ -78655,9 +78657,9 @@ Core:Defs_ThoughtDef_AttendedParty,"{{#set:
 |ThoughtDef.stages.0.description=I had a good time at that party.
 |ThoughtDef.stages.0.description.zh-cn=我在聚会中玩得很愉快。
 |ThoughtDef.stages.0.description.zh-tw=我在派對過得很愉快。
-|ThoughtDef.stages.0.baseMoodEffect=15
-|ThoughtDef.stackLimit=3
-|ThoughtDef.stackedEffectMultiplier=0.5
+|ThoughtDef.stages.0.baseMoodEffect=1
+|ThoughtDef.stackLimit=15
+|ThoughtDef.stackedEffectMultiplier=1
 |ThoughtDef.durationDays=10.0
 }}"
 Core:Defs_ThoughtDef_AttendedWedding,"{{#set:
@@ -84506,7 +84508,7 @@ Core:Defs_TraitDef_Brawler,"{{#set:
 |TraitDef.degreeDatas.0.description.zh-tw=NAME喜愛近身搏鬥，HISCAP近身攻擊命中率大大的增加，但當你想讓牠帶上遠距離的武器，HE可是會非常不悅。
 |TraitDef.degreeDatas.0.statFactors=""MeleeHitChance"",""1.30""
 |TraitDef.degreeDatas.0.skillGains=""Melee"",""4"";""Shooting"",""-4""
-|TraitDef.conflictingTraits=""ShootingAccuracy""
+|TraitDef.conflictingTraits=""ShootingAccuracy"",""Wimp""
 |TraitDef.requiredWorkTags=""Violent""
 |TraitDef.commonality=0.5
 }}"
@@ -85124,6 +85126,7 @@ Core:Defs_TraitDef_Wimp,"{{#set:
 |TraitDef.degreeDatas.0.description.zh-cn=NAME软弱且胆小。一点小伤小疼就能让他晕过去。
 |TraitDef.degreeDatas.0.description.zh-tw=NAME is weak and cowardly. Even a little pain will immobilize HIM.
 |TraitDef.degreeDatas.0.painShockThreshold=0.15
+|TraitDef.conflictingTraits=""Brawler""
 |TraitDef.commonality=0.15
 }}"
 Core:Defs_TransferableSorterDef_Category,"{{#set:
@@ -86250,6 +86253,27 @@ Core:Defs_WorkGiverDef_DoctorRescue,"{{#set:
 |WorkGiverDef.requiredCapacities=""Manipulation""
 |WorkGiverDef.directOrderable=false
 }}"
+Core:Defs_WorkGiverDef_DoctorTendEmergency,"{{#set:
+|dataType=Def
+|defType=WorkGiverDef
+|defName=DoctorTendEmergency
+|WorkGiverDef.defName=DoctorTendEmergency
+|WorkGiverDef.label=give emergency treatment
+|WorkGiverDef.label.zh-cn=提供紧急治疗
+|WorkGiverDef.label.zh-tw=give emergency treatment
+|WorkGiverDef.giverClass=WorkGiver_TendEmergency
+|WorkGiverDef.workType=Doctor
+|WorkGiverDef.priorityInType=100
+|WorkGiverDef.verb=tend to
+|WorkGiverDef.verb.zh-cn=治疗
+|WorkGiverDef.verb.zh-tw=tend to
+|WorkGiverDef.gerund=tending to
+|WorkGiverDef.gerund.zh-cn=治疗
+|WorkGiverDef.gerund.zh-tw=tending to
+|WorkGiverDef.emergency=true
+|WorkGiverDef.requiredCapacities=""Manipulation""
+|WorkGiverDef.prioritizeSustains=true
+}}"
 Core:Defs_WorkGiverDef_DoctorTendToAnimals,"{{#set:
 |dataType=Def
 |defType=WorkGiverDef
@@ -86309,27 +86333,6 @@ Core:Defs_WorkGiverDef_DoctorTendToSelf,"{{#set:
 |WorkGiverDef.gerund=tending to
 |WorkGiverDef.gerund.zh-cn=治疗
 |WorkGiverDef.gerund.zh-tw=治療
-|WorkGiverDef.requiredCapacities=""Manipulation""
-|WorkGiverDef.prioritizeSustains=true
-}}"
-Core:Defs_WorkGiverDef_DoctorTreatEmergency,"{{#set:
-|dataType=Def
-|defType=WorkGiverDef
-|defName=DoctorTreatEmergency
-|WorkGiverDef.defName=DoctorTreatEmergency
-|WorkGiverDef.label=give emergency treatment
-|WorkGiverDef.label.zh-cn=提供紧急治疗
-|WorkGiverDef.label.zh-tw=緊急治療
-|WorkGiverDef.giverClass=WorkGiver_TendEmergency
-|WorkGiverDef.workType=Doctor
-|WorkGiverDef.priorityInType=100
-|WorkGiverDef.verb=treat
-|WorkGiverDef.verb.zh-cn=治疗
-|WorkGiverDef.verb.zh-tw=緊急治療
-|WorkGiverDef.gerund=treating
-|WorkGiverDef.gerund.zh-cn=治疗
-|WorkGiverDef.gerund.zh-tw=急救
-|WorkGiverDef.emergency=true
 |WorkGiverDef.requiredCapacities=""Manipulation""
 |WorkGiverDef.prioritizeSustains=true
 }}"

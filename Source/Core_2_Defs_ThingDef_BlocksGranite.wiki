@@ -9,7 +9,7 @@
 |ThingDef.description=Blocks of solid granite. Granite is a very hard stone.
 |ThingDef.description.zh-cn=坚固的花岗岩砖块。花岗岩是一种非常硬的岩石。
 |ThingDef.description.zh-tw=花崗岩磚。這是一種極堅硬的岩石。
-|ThingDef.statBases="MarketValue","2.1";"Mass","1.25";"SharpDamageMultiplier","0.65";"BluntDamageMultiplier","1.0";"Beauty","-12"
+|ThingDef.statBases="MarketValue","2.1";"Mass","1.25";"SharpDamageMultiplier","0.65";"MaxHitPoints","200";"BluntDamageMultiplier","1.0";"Beauty","-12"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

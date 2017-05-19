@@ -9,7 +9,7 @@
 |ThingDef.description=A work station for assembling and disassembling machinery such as guns or mechanoid corpses.
 |ThingDef.description.zh-cn=用于组装和拆解机械装置的平台，比如枪械和机械体尸体。
 |ThingDef.description.zh-tw=一套專門在組裝或拆解機械用的桌子與工具。
-|ThingDef.statBases="WorkToBuild","3000";"MaxHitPoints","180";"Flammability","1.0";"Cleanliness","-2"
+|ThingDef.statBases="WorkToBuild","3000";"MaxHitPoints","180";"Flammability","1.0";"Cleanliness","-2";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","150";"Component","5"

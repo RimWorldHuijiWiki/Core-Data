@@ -9,7 +9,7 @@
 |ThingDef.description=Raw potatoes.
 |ThingDef.description.zh-cn=生土豆。生吃味道很差。
 |ThingDef.description.zh-tw=生馬鈴薯。
-|ThingDef.statBases="MarketValue","1.5";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Mass","0.03";"Beauty","-4"
+|ThingDef.statBases="MarketValue","1.5";"MaxHitPoints","60";"Flammability","1.0";"DeteriorationRate","6";"Mass","0.03";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

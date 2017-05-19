@@ -9,7 +9,7 @@
 |ThingDef.description=A soft bed for animals to sleep on. Fits any animal.
 |ThingDef.description.zh-cn=一个供动物睡觉的柔软床铺。适合任何类型动物。
 |ThingDef.description.zh-tw=一張給動物睡覺的舒適床鋪，適合任何體型的動物。
-|ThingDef.statBases="MaxHitPoints","140";"Flammability","1.0";"WorkToBuild","600";"Mass","10";"BedRestEffectiveness","1";"Comfort","0.75";"ImmunityGainSpeedFactor","1.1"
+|ThingDef.statBases="MaxHitPoints","140";"Flammability","1.0";"WorkToBuild","600";"Mass","10";"BedRestEffectiveness","1";"Comfort","0.75";"ImmunityGainSpeedFactor","1.1";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=40
 |ThingDef.costStuffCount=45

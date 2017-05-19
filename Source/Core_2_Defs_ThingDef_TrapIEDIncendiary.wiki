@@ -9,7 +9,7 @@
 |ThingDef.description=Explosives mixed into an incendiary paste with a chemical trigger for dispersal. Its chemical trigger is simple and reliable.
 |ThingDef.description.zh-cn=将炸药与燃烧剂经过混合，然后采用化学引信引爆。这种化学引信简单可靠。
 |ThingDef.description.zh-tw=一種混合了易燃藥劑的燃燒彈，當受害者觸發了裝置，被點燃的藥劑會立刻四散。因為它不需要強烈的爆炸性，而且只用了簡單的化學反應來觸發，是一種十分可靠的的爆炸裝置。
-|ThingDef.statBases="MaxHitPoints","40";"WorkToBuild","2000";"Beauty","-4";"TrapSpringChance","0.8"
+|ThingDef.statBases="MaxHitPoints","40";"WorkToBuild","2000";"Beauty","-4";"TrapSpringChance","0.8";"SellPriceFactor","0.70"
 |ThingDef.costList="Chemfuel","25";"Component","1"
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.researchPrerequisites="IEDIncendiary"

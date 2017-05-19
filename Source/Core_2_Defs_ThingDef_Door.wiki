@@ -9,7 +9,7 @@
 |ThingDef.description=Divides rooms. Must be manually opened and closed, which slows people down.
 |ThingDef.description.zh-cn=分隔房间。只能手动开关，会减慢人的速度。
 |ThingDef.description.zh-tw=將房間分隔開來。只能手動開關，人們通過時會减慢速度。
-|ThingDef.statBases="WorkToBuild","850";"MaxHitPoints","250";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","850";"MaxHitPoints","250";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.costStuffCount=25
 |ThingDef.stuffCategories="Metallic","Woody","Stony"
 |ThingDef.terrainAffordanceNeeded=Light

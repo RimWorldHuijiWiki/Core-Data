@@ -9,7 +9,7 @@
 |ThingDef.description=Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.
 |ThingDef.description.zh-cn=在人工培养液中快速种植植物。运行时需要消耗电力，断电后植物会死亡。
 |ThingDef.description.zh-tw=用來種植作物，水培植物盆能讓植物快速生長。
-|ThingDef.statBases="WorkToBuild","2800";"MaxHitPoints","180";"Flammability","1.0";"Cleanliness","-3"
+|ThingDef.statBases="WorkToBuild","2800";"MaxHitPoints","180";"Flammability","1.0";"Cleanliness","-3";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.fertility=2.3

@@ -9,7 +9,7 @@
 |ThingDef.description=A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.
 |ThingDef.description.zh-cn=一个供动物睡觉的小箱子。适合较小的动物，比如鸡、猫或小狗。
 |ThingDef.description.zh-tw=一個給動物睡覺的小箱子，適合雞、貓或是小狗等小型動物。
-|ThingDef.statBases="MaxHitPoints","75";"Flammability","1.0";"WorkToBuild","120";"Mass","3";"BedRestEffectiveness","0.93";"Comfort","0.60";"ImmunityGainSpeedFactor","1.05"
+|ThingDef.statBases="MaxHitPoints","75";"Flammability","1.0";"WorkToBuild","120";"Mass","3";"BedRestEffectiveness","0.93";"Comfort","0.60";"ImmunityGainSpeedFactor","1.05";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=40
 |ThingDef.costStuffCount=35

@@ -9,7 +9,7 @@
 |ThingDef.description=A bed specially designed for injured people. Improves chance of successful medical work.
 |ThingDef.description.zh-cn=一张专为伤员设计的床。可以增加治疗的成功率。
 |ThingDef.description.zh-tw=一張為病患特別設計的床。能夠提高各種醫療行為的成功率。
-|ThingDef.statBases="MaxHitPoints","150";"WorkToBuild","2850";"Mass","45";"Flammability","1.0";"BedRestEffectiveness","1";"Comfort","0.80";"ImmunityGainSpeedFactor","1.144";"MedicalTendQualityOffset","0.10"
+|ThingDef.statBases="MaxHitPoints","150";"WorkToBuild","2850";"Mass","45";"Flammability","1.0";"BedRestEffectiveness","1";"Comfort","0.80";"ImmunityGainSpeedFactor","1.144";"MedicalTendQualityOffset","0.10";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costList="Steel","80";"Medicine","10"

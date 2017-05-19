@@ -9,7 +9,7 @@
 |ThingDef.description=A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.
 |ThingDef.description.zh-cn=用阴极射线管显示器显示运动图像和声音。即使在边缘世界，也经常有个老旧发射塔发送一些有趣的玩意。
 |ThingDef.description.zh-tw=一台用來放映影像及聲音的舊型機器，在RimWorld裡，這算是稍微有趣的娛樂媒介。
-|ThingDef.statBases="WorkToBuild","6000";"MaxHitPoints","100";"Mass","28";"Flammability","1.0";"MarketValue","700";"EntertainmentStrengthFactor","1"
+|ThingDef.statBases="WorkToBuild","6000";"MaxHitPoints","100";"Mass","28";"Flammability","1.0";"MarketValue","700";"EntertainmentStrengthFactor","1";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","100";"Component","8"

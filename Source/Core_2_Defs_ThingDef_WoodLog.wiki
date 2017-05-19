@@ -9,7 +9,7 @@
 |ThingDef.description=Wood from trees or other fibrous plants. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch.
 |ThingDef.description.zh-cn=源自树或其他纤维性植物的木材。可以用来建造建筑、武器甚至简单的假肢。一根原木做的木棒在危急时刻也能作为武器使用。
 |ThingDef.description.zh-tw=從樹木或是其他木本植物採伐得來。用來建造建築、武器，甚至簡單的義肢。木材的原料，可在緊要關頭做為武器使用。
-|ThingDef.statBases="MarketValue","1.4";"MaxHitPoints","150";"Mass","0.4";"Flammability","1.0";"DeteriorationRate","2";"MeleeWeapon_DamageAmount","8";"MeleeWeapon_Cooldown","2.2";"SharpDamageMultiplier","0.3";"BluntDamageMultiplier","0.8";"Beauty","-4"
+|ThingDef.statBases="MarketValue","1.4";"MaxHitPoints","150";"Mass","0.4";"Flammability","1.0";"DeteriorationRate","1";"MeleeWeapon_DamageAmount","8";"MeleeWeapon_Cooldown","2.2";"SharpDamageMultiplier","0.3";"BluntDamageMultiplier","0.8";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

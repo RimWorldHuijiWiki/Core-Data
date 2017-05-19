@@ -9,7 +9,7 @@
 |ThingDef.description=A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration.
 |ThingDef.description.zh-cn=一种由肉食和素食混合脱水制成的食物。味道平平但又不会让人讨厌。无需冷藏即能保存很长时间。
 |ThingDef.description.zh-tw=將肉類和作物混和後壓扁製成的食品，無須冷藏也能夠長時間保存。
-|ThingDef.statBases="MarketValue","1.5";"Mass","0.018";"WorkToMake","700";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Beauty","-4"
+|ThingDef.statBases="MarketValue","1.5";"Mass","0.018";"WorkToMake","700";"DeteriorationRate","2";"MaxHitPoints","60";"Flammability","1.0";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

@@ -9,7 +9,7 @@
 |ThingDef.description=Stores electricity when there is excess power and yields it when there is not. Warning - charged batteries tend to explode when exposed to rain or fire.
 |ThingDef.description.zh-cn=储存多余的电力并在电力供给不足时释放电力。警告：充满的电池在暴露于雨水或火焰中时极易爆炸。
 |ThingDef.description.zh-tw=儲存多餘的電力並在電力供給不足時釋放電力。警告：充滿的電池容易在高温或潮濕時爆炸。
-|ThingDef.statBases="MaxHitPoints","100";"WorkToBuild","800";"Mass","20";"Flammability","1.0";"Beauty","-18"
+|ThingDef.statBases="MaxHitPoints","100";"WorkToBuild","800";"Mass","20";"Flammability","1.0";"Beauty","-18";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","50";"Component","2"

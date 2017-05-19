@@ -9,7 +9,7 @@
 |ThingDef.description=An improvised knife-like weapon.
 |ThingDef.description.zh-cn=一种自制的长得像匕首的武器。
 |ThingDef.description.zh-tw=一把簡易的刀式武器。
-|ThingDef.statBases="WorkToMake","400";"Mass","0.4";"MeleeWeapon_DamageAmount","8";"DeteriorationRate","0.5";"MeleeWeapon_Cooldown","1.6";"MaxHitPoints","100";"Flammability","1.0";"Beauty","-6";"SellPriceFactor","0.20"
+|ThingDef.statBases="WorkToMake","400";"Mass","0.4";"MeleeWeapon_DamageAmount","8";"MeleeWeapon_Cooldown","1.6";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-6";"SellPriceFactor","0.20"
 |ThingDef.pathCost=10
 |ThingDef.costStuffCount=10
 |ThingDef.stuffCategories="Metallic","Woody","Stony"

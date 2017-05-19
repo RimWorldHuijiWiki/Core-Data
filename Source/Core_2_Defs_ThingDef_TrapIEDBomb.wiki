@@ -9,7 +9,7 @@
 |ThingDef.description=A mortar shell connected to a homemade trigger. When someone disturbs the trigger, the shell explodes. The improvised trigger has a random delay that might allow a nimble enemy to escape.
 |ThingDef.description.zh-cn=用一个自制的触发机关连接到迫击炮炮弹上。当有人触发机关时炮弹会爆炸。简易的机关在触发时会有随机的延迟，可能会让一些灵活的敌人逃走。
 |ThingDef.description.zh-tw=一顆砲彈連接著一個自製的觸發裝置，當裝置被觸發，隨即會引爆砲彈。觸發裝置的延遲時機是隨機的，敏捷的敵人有可能藉此逃脫。
-|ThingDef.statBases="MaxHitPoints","40";"WorkToBuild","2000";"Beauty","-4";"TrapSpringChance","0.8"
+|ThingDef.statBases="MaxHitPoints","40";"WorkToBuild","2000";"Beauty","-4";"TrapSpringChance","0.8";"SellPriceFactor","0.70"
 |ThingDef.costList="MortarShell","1";"Component","1"
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.researchPrerequisites="IEDBomb"

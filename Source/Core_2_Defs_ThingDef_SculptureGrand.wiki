@@ -9,7 +9,7 @@
 |ThingDef.description=A car-sized piece of material sculpted into an artistic form.
 |ThingDef.description.zh-cn=由一块汽车大小的材料塑造而成的艺术品。
 |ThingDef.description.zh-tw=一座汽車大小，使用素材雕刻而成的藝術品。
-|ThingDef.statBases="MaxHitPoints","250";"Beauty","240";"Mass","50";"WorkToMake","65000";"Flammability","1.0";"SellPriceFactor","1.15"
+|ThingDef.statBases="MaxHitPoints","250";"Beauty","240";"Mass","50";"WorkToMake","65000";"Flammability","1.0";"SellPriceFactor","1.10"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costStuffCount=260

@@ -9,7 +9,7 @@
 |ThingDef.description=Synthesizes nutrient paste from organic feedstocks. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.
 |ThingDef.description.zh-cn=将有机原料合成为营养膏。比其他的食物生产方法消耗更少的原料和时间——但没人喜欢吃营养膏。可以处理生食，但无法处理某些的植物材料，比如干草。只有当殖民者缺少食物时，才会从营养膏合成机中拿取营养膏。
 |ThingDef.description.zh-tw=將有機材料合成為營養膏。比起其他的食物調理方式，合成營養高所消耗的物料成本與時間都更低，然而，沒人喜歡吃這黏糊糊的食物。可接受各種生食作為原料，除了牧草這類植物原料。
-|ThingDef.statBases="WorkToBuild","2200";"MaxHitPoints","350";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","2200";"MaxHitPoints","350";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.costList="Steel","90";"Component","3"
 |ThingDef.terrainAffordanceNeeded=Heavy

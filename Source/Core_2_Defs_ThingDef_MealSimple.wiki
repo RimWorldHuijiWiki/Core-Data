@@ -9,7 +9,7 @@
 |ThingDef.description=A simple meal quickly cooked from a few ingredients.
 |ThingDef.description.zh-cn=用少量原料快速烹饪出的一份简单的食物。
 |ThingDef.description.zh-tw=用一種原料烹調出的一份簡單的料理。
-|ThingDef.statBases="DeteriorationRate","20";"MarketValue","18";"WorkToMake","300";"MaxHitPoints","50";"Flammability","1.0";"Beauty","-4";"Mass","0.44"
+|ThingDef.statBases="MarketValue","18";"WorkToMake","300";"MaxHitPoints","50";"Flammability","1.0";"Beauty","-4";"Mass","0.44";"DeteriorationRate","10"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

@@ -9,7 +9,7 @@
 |ThingDef.description=An electrical device that fits into a wall and pushes cold air into a room. Its exhaust port generates a lot of heat. Can be used to cool down rooms during summer, or to create a walk-in freezer. 
 |ThingDef.description.zh-cn=一个能够作为墙体安装的电器设备，可将冷空气吹入房间内，同时外机部分产生大量热量。可以在夏季为房间降温，或者用其建造一个冷库。
 |ThingDef.description.zh-tw=一種嵌入牆中的電器設備，能將冰涼的空氣送入室內，但會在排氣口產生大量熱能。可以用來調節室內溫度，或打造一座大型冷藏庫。
-|ThingDef.statBases="WorkToBuild","1600";"MaxHitPoints","100";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","1600";"MaxHitPoints","100";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.costList="Steel","90";"Component","3"
 |ThingDef.terrainAffordanceNeeded=Heavy

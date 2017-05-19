@@ -9,7 +9,7 @@
 |ThingDef.description=Produces electricity from sunlight. Does not work in the dark.
 |ThingDef.description.zh-cn=利用太阳光来发电，在阳光不足时不工作，人工光源无法用作发电。
 |ThingDef.description.zh-tw=用陽光發電，但在缺乏陽光時無法工作。
-|ThingDef.statBases="MaxHitPoints","300";"WorkToBuild","2500";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","300";"WorkToBuild","2500";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","100";"Component","3"

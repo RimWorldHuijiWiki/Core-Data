@@ -9,7 +9,7 @@
 |ThingDef.description=An elephant's tusk. Very durable and valuable. Deadly but somewhat unwieldy as a weapon.
 |ThingDef.description.zh-cn=大象的长牙。非常坚固、珍贵。虽然致命但很难作为武器使用。
 |ThingDef.description.zh-tw=大象的象牙，非常耐用且珍貴，雖然有些笨重，但作為武器仍然十分致命。
-|ThingDef.statBases="MarketValue","450";"MaxHitPoints","150";"Mass","1.8";"Flammability","1.0";"DeteriorationRate","0.4";"MeleeWeapon_DamageAmount","16";"MeleeWeapon_Cooldown","2.5";"Beauty","-4"
+|ThingDef.statBases="MarketValue","450";"MaxHitPoints","150";"Mass","1.8";"Flammability","1.0";"DeteriorationRate","0.5";"MeleeWeapon_DamageAmount","16";"MeleeWeapon_Cooldown","2.5";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

@@ -9,7 +9,7 @@
 |ThingDef.description=A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity.
 |ThingDef.description.zh-cn=向下的探地雷达，结合声纳和磁成像，可检测深埋于地底的矿物（但不能判断矿物类型）。需要消耗大量电力。
 |ThingDef.description.zh-tw=一具朝向地面，專門探測地下礦脈位置(但無法辨別礦物種類)的雷達探測器，備有聲納與回波顯示器。需消耗巨量電力。
-|ThingDef.statBases="MaxHitPoints","50";"WorkToBuild","1500";"Flammability","1.0";"Beauty","-8"
+|ThingDef.statBases="MaxHitPoints","50";"WorkToBuild","1500";"Flammability","1.0";"Beauty","-8";"SellPriceFactor","0.70"
 |ThingDef.pathCost=25
 |ThingDef.costList="Steel","400";"Component","12"
 |ThingDef.terrainAffordanceNeeded=Light

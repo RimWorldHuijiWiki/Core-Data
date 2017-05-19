@@ -9,7 +9,7 @@
 |ThingDef.description=A computer core capable of housing a superhumanlike AI who can guide a ship through any challenge.
 |ThingDef.description.zh-cn=一个电脑核心，装载有类似于超人一般的人工智能，可以带领飞船经受任何挑战。
 |ThingDef.description.zh-tw=一個可以搭載星艦導航AI的電腦核心。
-|ThingDef.statBases="WorkToBuild","16000";"MaxHitPoints","150";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","16000";"MaxHitPoints","150";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.costList="Steel","600";"Component","16";"Gold","100";"AIPersonaCore","1"
 |ThingDef.terrainAffordanceNeeded=Heavy

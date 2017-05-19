@@ -9,7 +9,7 @@
 |ThingDef.description=An addictive stimulant. Fills the need for rest, and allows users to work for extended periods without getting tired. Addiction causes reduced mental performance and, sometimes, psychotic breaks with reality.
 |ThingDef.description.zh-cn=一种成瘾性极强的兴奋剂，清醒丸能够强化使用者的认知能力，使得服用者在短时期内工作时更加集中，忘记疲劳。但是药物成瘾后会使得精神受损，有时还会导致精神崩溃。
 |ThingDef.description.zh-tw=一種會致癮的興奮劑。能夠補足休息需求，讓居民能夠長時間持續工作。成癮後會導致負面心情，還有可能會精神崩潰。
-|ThingDef.statBases="WorkToMake","900";"MarketValue","24";"Mass","0.005";"MaxHitPoints","50";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-4"
+|ThingDef.statBases="WorkToMake","900";"MarketValue","45";"Mass","0.005";"MaxHitPoints","50";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.costList="Neutroamine","2"
 |ThingDef.altitudeLayer=Item

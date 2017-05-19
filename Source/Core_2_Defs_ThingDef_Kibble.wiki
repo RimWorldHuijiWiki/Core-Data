@@ -9,7 +9,7 @@
 |ThingDef.description=Kibble animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it.
 |ThingDef.description.zh-cn=将肉和植物原料混合而成的动物粗饲料。人也能吃，但真的、真的没人喜欢。
 |ThingDef.description.zh-tw=混合肉類與作物製成的動物飼料。
-|ThingDef.statBases="MarketValue","1.3";"Mass","0.015";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Beauty","-4"
+|ThingDef.statBases="MarketValue","1.3";"Mass","0.015";"MaxHitPoints","60";"Flammability","1.0";"DeteriorationRate","6";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

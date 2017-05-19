@@ -9,7 +9,7 @@
 |ThingDef.description=This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain?
 |ThingDef.description.zh-cn=这个低温休眠舱看起来已经在这里有很长时间了。谁知道这里边装着什么？
 |ThingDef.description.zh-tw=看起來已經存在了非常久的休眠艙，誰知道裡頭裝了些什麼？
-|ThingDef.statBases="MaxHitPoints","250";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","250";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","180";"Uranium","5"

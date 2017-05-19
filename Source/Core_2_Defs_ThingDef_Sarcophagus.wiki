@@ -9,7 +9,7 @@
 |ThingDef.description=An ornamented burial receptacle for the honored dead.
 |ThingDef.description.zh-cn=受尊敬的死者用的、装饰华丽的安葬容器。
 |ThingDef.description.zh-tw=一個替光榮犧牲的死者準備的安身之處。
-|ThingDef.statBases="WorkToBuild","2500";"MaxHitPoints","250";"Flammability","1.0";"Beauty","0"
+|ThingDef.statBases="WorkToBuild","2500";"MaxHitPoints","250";"Flammability","1.0";"Beauty","0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costStuffCount=60

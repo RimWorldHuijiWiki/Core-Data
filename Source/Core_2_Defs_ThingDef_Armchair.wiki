@@ -9,7 +9,7 @@
 |ThingDef.description=A large, soft, comfy seat. Great for relaxation.
 |ThingDef.description.zh-cn=一个非常大、柔软、舒适的椅子。非常适合休闲放松。
 |ThingDef.description.zh-tw=寬敞又舒適的座椅，十分適合放鬆。
-|ThingDef.statBases="MaxHitPoints","220";"WorkToBuild","7500";"Mass","18";"Flammability","1.0";"Beauty","1";"Comfort","0.8"
+|ThingDef.statBases="MaxHitPoints","220";"WorkToBuild","7500";"Mass","18";"Flammability","1.0";"Beauty","1";"Comfort","0.8";"SellPriceFactor","0.70"
 |ThingDef.pathCost=30
 |ThingDef.costStuffCount=100
 |ThingDef.stuffCategories="Fabric","Leathery"

@@ -9,7 +9,7 @@
 |ThingDef.description=A chemical refining plant. Used to refine wood into chemfuel.
 |ThingDef.description.zh-cn=一台大型化工提炼设备。用于从木材中提炼化合燃料。
 |ThingDef.description.zh-tw=一具化學提煉裝置，用來將木頭提煉加工成化合燃料。
-|ThingDef.statBases="MaxHitPoints","200";"WorkToBuild","2000";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","200";"WorkToBuild","2000";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","150";"Component","3"

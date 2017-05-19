@@ -9,13 +9,13 @@
 |ThingDef.description=A launchable suborbital-travel cargo pod capable of carrying people, items, or animals. Can be used for transport, surprise attacks, or reinforcing battles.
 |ThingDef.description.zh-cn=可运输人员、物品和动物的可发射亚轨道远程货运舱。可用于运输、奇袭或者增援战场。
 |ThingDef.description.zh-tw=一個可以裝載人員、物資及動物的莢艙，可以用來運輸、突襲或支援戰鬥。
-|ThingDef.statBases="MaxHitPoints","250";"WorkToBuild","3000";"Flammability","0"
+|ThingDef.statBases="MaxHitPoints","250";"WorkToBuild","3000";"Flammability","0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.costList="Steel","80";"Component","1"
 |ThingDef.terrainAffordanceNeeded=Light
 |ThingDef.researchPrerequisites="TransportPod"
 |ThingDef.repairEffect=Repair
-|ThingDef.altitudeLayer=Building
+|ThingDef.altitudeLayer=BuildingOnTop
 |ThingDef.placeWorkers="PlaceWorker_NeedsFuelingPort","PlaceWorker_NotUnderRoof"
 |ThingDef.designationCategory=Misc
 |ThingDef.thingClass=Building

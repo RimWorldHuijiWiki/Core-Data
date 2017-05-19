@@ -9,7 +9,7 @@
 |ThingDef.description=A wooden torch for lighting an area. Can be automatically refueled with wood. Produces a small amount of heat.
 |ThingDef.description.zh-cn=将一片区域照亮的木制火把。能自动添加原木作燃料。产生少量的热。
 |ThingDef.description.zh-tw=用火作為光線來源的設備，需要定期添加木頭燃料，會產生少許熱。
-|ThingDef.statBases="MaxHitPoints","80";"WorkToBuild","200";"Flammability","0"
+|ThingDef.statBases="MaxHitPoints","80";"WorkToBuild","200";"Flammability","0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=8
 |ThingDef.costList="WoodLog","20"

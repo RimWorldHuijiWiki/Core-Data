@@ -9,7 +9,7 @@
 |ThingDef.description=A simple ancient game played with a few horseshoes and a large pin in the ground. Players toss horseshoes from a distance and attempt to get them to land close to or around the pin. It's relaxing, and even trains hand-eye coordination.
 |ThingDef.description.zh-cn=一种用马蹄铁和钉在地上的大钉的、简单的古老游戏。玩家在一定距离外，将马蹄铁尽量投掷得靠近或套住钉子。很轻松，还能训练手眼协调能力。
 |ThingDef.description.zh-tw=一種古老而簡單的遊戲，只需要幾個馬蹄鐵與一根豎立在地面上的大棒子。玩家從一段距離外擲出馬蹄鐵，盡可能的落在接近棒子的位置。這是一種消遣，但也可以訓練手眼協調能力。
-|ThingDef.statBases="MaxHitPoints","75";"WorkToBuild","150";"Mass","3";"Flammability","1.0";"EntertainmentStrengthFactor","1"
+|ThingDef.statBases="MaxHitPoints","75";"WorkToBuild","150";"Mass","3";"Flammability","1.0";"EntertainmentStrengthFactor","1";"SellPriceFactor","0.70"
 |ThingDef.pathCost=10
 |ThingDef.costStuffCount=15
 |ThingDef.stuffCategories="Metallic","Woody","Stony"

@@ -9,7 +9,7 @@
 |ThingDef.description=A mortar that launches incendiary shells. Must be manned. Explodes when damaged.
 |ThingDef.description.zh-cn=一个发射燃烧炮弹的迫击炮。必须有人操纵。受损严重时爆炸。
 |ThingDef.description.zh-tw=一個發射燃燒炮弹的迫擊炮，必須由人來操縱。被摧毀後會引起爆炸。
-|ThingDef.statBases="MaxHitPoints","180";"Flammability","1.0";"WorkToBuild","1900";"Mass","100";"Beauty","-20"
+|ThingDef.statBases="MaxHitPoints","180";"Flammability","1.0";"WorkToBuild","1900";"Mass","100";"Beauty","-20";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=50
 |ThingDef.costList="Steel","100";"Component","3"

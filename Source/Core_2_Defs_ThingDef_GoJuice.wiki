@@ -9,7 +9,7 @@
 |ThingDef.description=A synthetic combat drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain and increases the user's melee and shooting abilities. It also enhances movement speed.<br/><br/>Military chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit.
 |ThingDef.description.zh-cn=一种合成的作战用药剂，研制用于在早期的行星间战斗中提供给太空陆战队员服用。活力水能够屏蔽服用者的痛觉同时能够提升近战和射击技能。它还能够提升移动速度<br/><br/>但是发明它的军事化学家们却无法消除它的成瘾性。有些人认为这是个缺点，而有些人却认为这是个优点。
 |ThingDef.description.zh-tw=在星際戰爭初期開發給宇宙陸戰隊士兵使用的複合型戰鬥能力強化藥物，俗稱能量果飲。能量果飲能夠阻斷痛覺、強化使用者的肉搏與射擊能力，並提升移動速度。<br/><br/>即便是開發出這款藥物的科學家也沒能找出消除成癮性的方法，有些人視此為致命缺陷，有些人則認為是一大優點。
-|ThingDef.statBases="WorkToMake","600";"MarketValue","45";"Mass","0.1";"MaxHitPoints","50";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-4"
+|ThingDef.statBases="WorkToMake","600";"MarketValue","53";"Mass","0.1";"MaxHitPoints","50";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.costList="Neutroamine","2";"Yayo","1"
 |ThingDef.altitudeLayer=Item

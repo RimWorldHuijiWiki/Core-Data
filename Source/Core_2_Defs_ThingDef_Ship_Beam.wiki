@@ -9,7 +9,7 @@
 |ThingDef.description=A structural beam around which a ship can be constructed.
 |ThingDef.description.zh-cn=一根用来支撑飞船其他部分的结构梁，在其周围能建造飞船。
 |ThingDef.description.zh-tw=一個用來銜接星艦各部位組件的結構住。
-|ThingDef.statBases="WorkToBuild","8000";"MaxHitPoints","400";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","8000";"MaxHitPoints","400";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.costList="Steel","200";"Plasteel","150";"Component","10"
 |ThingDef.terrainAffordanceNeeded=Heavy

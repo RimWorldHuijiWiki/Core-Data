@@ -9,7 +9,7 @@
 |ThingDef.description=Unfertilized chicken egg. It can be eaten raw, but it's much, much better cooked.
 |ThingDef.description.zh-cn=未受精的鸡蛋。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=未受精的雞蛋。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases="MarketValue","7.0";"Mass","0.15";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Beauty","-4"
+|ThingDef.statBases="MarketValue","7.0";"Mass","0.15";"MaxHitPoints","20";"DeteriorationRate","2";"Flammability","1.0";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

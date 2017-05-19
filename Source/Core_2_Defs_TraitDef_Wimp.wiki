@@ -13,5 +13,6 @@
 |TraitDef.degreeDatas.0.description.zh-cn=NAME软弱且胆小。一点小伤小疼就能让他晕过去。
 |TraitDef.degreeDatas.0.description.zh-tw=NAME is weak and cowardly. Even a little pain will immobilize HIM.
 |TraitDef.degreeDatas.0.painShockThreshold=0.15
+|TraitDef.conflictingTraits="Brawler"
 |TraitDef.commonality=0.15
 }}

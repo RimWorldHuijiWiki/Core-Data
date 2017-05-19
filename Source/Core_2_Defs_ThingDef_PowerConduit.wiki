@@ -9,7 +9,7 @@
 |ThingDef.description=A set of electrical cables for moving power around. Can be placed under walls and other buildings.
 |ThingDef.description.zh-cn=一组用于传输电力的电缆。可以安装于墙体和其他建筑之下，但不能埋进山体中。
 |ThingDef.description.zh-tw=一條用於傳輸電力的電纜線。
-|ThingDef.statBases="MaxHitPoints","80";"WorkToBuild","35";"Flammability","1.0";"Beauty","-2"
+|ThingDef.statBases="MaxHitPoints","80";"WorkToBuild","35";"Flammability","1.0";"Beauty","-2";"SellPriceFactor","0.70"
 |ThingDef.passability=Standable
 |ThingDef.costList="Steel","1"
 |ThingDef.terrainAffordanceNeeded=Light

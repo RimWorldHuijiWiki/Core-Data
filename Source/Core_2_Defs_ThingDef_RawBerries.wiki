@@ -9,7 +9,7 @@
 |ThingDef.description=Assorted berries. Nice to eat, even when raw.
 |ThingDef.description.zh-cn=各种各样的浆果，就算生吃味道也很好。
 |ThingDef.description.zh-tw=各種各樣的莓果，就算生吃味道也很好。
-|ThingDef.statBases="MarketValue","2.0";"Mass","0.027";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Beauty","-4"
+|ThingDef.statBases="MarketValue","2.0";"Mass","0.027";"MaxHitPoints","60";"Flammability","1.0";"DeteriorationRate","6";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

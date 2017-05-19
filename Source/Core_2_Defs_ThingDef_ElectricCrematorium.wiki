@@ -9,7 +9,7 @@
 |ThingDef.description=Cremates corpses. Electrically-powered.
 |ThingDef.description.zh-cn=火化尸体和衣物。电力驱动。
 |ThingDef.description.zh-tw=以電力驅動的火化爐。
-|ThingDef.statBases="WorkToBuild","4500";"MaxHitPoints","300";"Flammability","0";"Cleanliness","-20"
+|ThingDef.statBases="WorkToBuild","4500";"MaxHitPoints","300";"Flammability","0";"Cleanliness","-20";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.costList="Steel","20";"Component","2"
 |ThingDef.costStuffCount=150

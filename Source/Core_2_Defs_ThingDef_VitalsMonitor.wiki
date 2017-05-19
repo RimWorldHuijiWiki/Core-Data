@@ -9,7 +9,7 @@
 |ThingDef.description=Increases patients treatment quality. Needs to be placed adjacent to a medical bed. One medical bed can be linked to only one vitals monitor.
 |ThingDef.description.zh-cn=提高患者的治疗质量。需要放置在毗邻医疗床的位置。一个医疗床只能连接一个生命体征监测仪。
 |ThingDef.description.zh-tw=提升患者醫療品質。檢測器必須與醫療床相鄰，一張醫療床同時只能與一台生命體徵檢測器連結。
-|ThingDef.statBases="MaxHitPoints","100";"WorkToBuild","4000";"Mass","20";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","100";"WorkToBuild","4000";"Mass","20";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.costList="Steel","180"
 |ThingDef.terrainAffordanceNeeded=Light

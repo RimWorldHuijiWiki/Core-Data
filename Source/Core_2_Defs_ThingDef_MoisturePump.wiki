@@ -9,7 +9,7 @@
 |ThingDef.description=Very slowly removes moisture from nearby terrain, converting marshes or shallow water into dry ground. Does not affect deep water.
 |ThingDef.description.zh-cn=非常缓慢地抽走附近地形的水分，能将沼泽或浅水改造成干燥的土地。不能改造深水。
 |ThingDef.description.zh-tw=緩慢移除周圍的濕氣，將沼澤地與淺水轉換成乾燥地面，但對深水沒有效果。
-|ThingDef.statBases="MaxHitPoints","50";"WorkToBuild","1500";"Flammability","1.0";"Beauty","-8"
+|ThingDef.statBases="MaxHitPoints","50";"WorkToBuild","1500";"Flammability","1.0";"Beauty","-8";"SellPriceFactor","0.70"
 |ThingDef.pathCost=25
 |ThingDef.costList="Steel","75";"Component","5"
 |ThingDef.terrainAffordanceNeeded=Light

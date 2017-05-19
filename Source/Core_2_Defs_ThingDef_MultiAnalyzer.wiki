@@ -9,7 +9,7 @@
 |ThingDef.description=Increases research speed. Needs to be placed near hi-tech research bench. One research bench can be linked to only one multi-analyzer.
 |ThingDef.description.zh-cn=提高研究速度，一些高级研究项目所必需的设备。需要放置在高级研究台附近。一个研究台只能连接一个多元分析仪。
 |ThingDef.description.zh-tw=提升研究速度。裝置必須設置於研究桌附近，一張研究桌同時只能與一台多重分析裝置連結。
-|ThingDef.statBases="MaxHitPoints","200";"WorkToBuild","5000";"Mass","100";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","200";"WorkToBuild","5000";"Mass","100";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.costList="Steel","100";"Plasteel","50";"Gold","20"
 |ThingDef.terrainAffordanceNeeded=Light

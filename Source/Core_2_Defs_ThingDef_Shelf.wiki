@@ -9,7 +9,7 @@
 |ThingDef.description=Items stored in this will not deteriorate, even if outside.
 |ThingDef.description.zh-cn=储存于此的物品即使露天也不会老化。
 |ThingDef.description.zh-tw=儲存在此的物品能夠避免摔壞，無論室內室外。
-|ThingDef.statBases="MaxHitPoints","100";"Mass","8";"WorkToBuild","1050";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","100";"Mass","8";"WorkToBuild","1050";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.costStuffCount=30
 |ThingDef.stuffCategories="Metallic","Woody","Stony"

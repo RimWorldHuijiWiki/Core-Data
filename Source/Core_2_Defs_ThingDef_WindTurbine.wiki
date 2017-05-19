@@ -9,7 +9,7 @@
 |ThingDef.description=A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow.
 |ThingDef.description.zh-cn=一个风力驱动的发电机，前后需要较大的空旷空间，以获得最理想的气流。
 |ThingDef.description.zh-tw=利用風力產生電力的發電設備，其前後必須保持開闊以便空氣流通。
-|ThingDef.statBases="MaxHitPoints","150";"WorkToBuild","3300";"Flammability","0.4";"Beauty","-12"
+|ThingDef.statBases="MaxHitPoints","150";"WorkToBuild","3300";"Flammability","0.4";"Beauty","-12";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.costList="Steel","100";"Component","2"
 |ThingDef.terrainAffordanceNeeded=Light

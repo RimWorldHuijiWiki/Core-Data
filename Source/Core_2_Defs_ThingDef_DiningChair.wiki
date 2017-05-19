@@ -9,7 +9,7 @@
 |ThingDef.description=A comfortable and attractive chair for sitting at a table.
 |ThingDef.description.zh-cn=一张放在桌子前看起来很舒适和招人喜爱的椅子。
 |ThingDef.description.zh-tw=舒適且優雅的扶手椅。
-|ThingDef.statBases="MaxHitPoints","170";"WorkToBuild","6000";"Mass","5";"Flammability","1.0";"Beauty","4";"Comfort","0.70"
+|ThingDef.statBases="MaxHitPoints","170";"WorkToBuild","6000";"Mass","5";"Flammability","1.0";"Beauty","4";"Comfort","0.70";"SellPriceFactor","0.70"
 |ThingDef.pathCost=30
 |ThingDef.costStuffCount=60
 |ThingDef.stuffCategories="Metallic","Woody"

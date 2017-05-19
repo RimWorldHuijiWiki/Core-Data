@@ -9,7 +9,7 @@
 |ThingDef.description=A chunk of a spacecraft. Can be deconstructed to yield useful steel and components.
 |ThingDef.description.zh-cn=飞船的一部分。可以拆出有用的钢材和零部件。
 |ThingDef.description.zh-tw=一塊星艦的殘骸，拆除後可回收鋼鐵和電子零件。
-|ThingDef.statBases="MaxHitPoints","300";"Flammability","0";"Beauty","-20";"WorkToBuild","12000"
+|ThingDef.statBases="MaxHitPoints","300";"Flammability","0";"Beauty","-20";"WorkToBuild","12000";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=35
 |ThingDef.costList="Component","11";"Steel","40"

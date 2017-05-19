@@ -9,7 +9,7 @@
 |ThingDef.description=Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency. Can be produced without equipment, at a crafting spot.
 |ThingDef.description.zh-cn=大麻叶卷成的烟卷。这种烟卷会让人兴奋，但是也会成瘾，减缓使用者的注意力和行动速度，长期使用会产生药物依赖。大麻烟可在手工加工点制作。
 |ThingDef.description.zh-tw=將菸葉捲成條狀後吸食。捲菸能提振心情，但會增加食慾、降低專注力與移動速度，並可能上癮。捲菸可在手工製作點徒手製作。
-|ThingDef.statBases="WorkToMake","450";"MarketValue","11";"Mass","0.05";"MaxHitPoints","50";"Flammability","1.0";"DeteriorationRate","2";"Beauty","-4"
+|ThingDef.statBases="WorkToMake","450";"MarketValue","11";"Mass","0.05";"DeteriorationRate","6";"MaxHitPoints","50";"Flammability","1.0";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.costList="SmokeleafLeaves","4"
 |ThingDef.altitudeLayer=Item

@@ -9,7 +9,7 @@
 |ThingDef.description=An impassable wall. Capable of holding up a roof.
 |ThingDef.description.zh-cn=一面无法通过的墙。可以支撑起屋顶。
 |ThingDef.description.zh-tw=一面無法穿越的牆，可以用來支撐屋頂。
-|ThingDef.statBases="MaxHitPoints","350";"WorkToBuild","150";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","350";"WorkToBuild","150";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.costStuffCount=5
 |ThingDef.stuffCategories="Metallic","Woody","Stony"

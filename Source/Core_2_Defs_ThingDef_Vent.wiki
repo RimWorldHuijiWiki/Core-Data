@@ -9,7 +9,7 @@
 |ThingDef.description=A simple vent for equalizing the temperature between two rooms without allowing people to walk between them.
 |ThingDef.description.zh-cn=一个简单的通风孔，在平衡两个房间的温度同时保持墙体无法通过。
 |ThingDef.description.zh-tw=一個簡單的風扇，用於調節兩個房間之間的室溫。人們無法通過空調扇往來兩個房間。
-|ThingDef.statBases="WorkToBuild","400";"MaxHitPoints","100";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","400";"MaxHitPoints","100";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.costList="Steel","30"
 |ThingDef.terrainAffordanceNeeded=Heavy

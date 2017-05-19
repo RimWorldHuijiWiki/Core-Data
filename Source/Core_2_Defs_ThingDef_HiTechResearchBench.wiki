@@ -9,7 +9,7 @@
 |ThingDef.description=A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.
 |ThingDef.description.zh-cn=一种配有电脑和电子测量设备的高科技工作台。高科技工具加快了研究速度。需要消耗电力。
 |ThingDef.description.zh-tw=一張備有電腦及電子測量設備的研究桌。高科技設備加快了研究速度，但須消耗電力。
-|ThingDef.statBases="MaxHitPoints","250";"WorkToBuild","5000";"Flammability","1.0";"ResearchSpeedFactor","1.0"
+|ThingDef.statBases="MaxHitPoints","250";"WorkToBuild","5000";"Flammability","1.0";"ResearchSpeedFactor","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","100";"Component","10"

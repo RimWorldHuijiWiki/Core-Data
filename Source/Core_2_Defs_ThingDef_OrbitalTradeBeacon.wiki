@@ -9,7 +9,7 @@
 |ThingDef.description=Required for orbital trading. You can only sell goods that are near an orbital trade beacon. Can be placed indoors.
 |ThingDef.description.zh-cn=若想和轨道贸易商进行交易，你必须建造一个轨道交易信标。只有信标有效范围内的货物和白银才能用于交易。可以放置于室内，但至少要有一个信标露天，以接收商人发送给你的货物和白银。需要消耗电力。
 |ThingDef.description.zh-tw=用來進行軌道交易。你只能賣出信標周圍的商品。軌道商人也會將商品丢在這附近。
-|ThingDef.statBases="MaxHitPoints","75";"WorkToBuild","1300";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","75";"WorkToBuild","1300";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.pathCost=8
 |ThingDef.costList="Steel","50";"Component","1"
 |ThingDef.terrainAffordanceNeeded=Light

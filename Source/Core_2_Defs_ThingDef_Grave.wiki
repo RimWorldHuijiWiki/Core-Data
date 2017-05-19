@@ -9,7 +9,7 @@
 |ThingDef.description=Place the dead in graves to give them a decent final resting place. Colonists will visit full graves to gain meditative joy.
 |ThingDef.description.zh-cn=给死者提供一个得体的栖身之所。殖民者会扫墓来获得「冥想」娱乐。
 |ThingDef.description.zh-tw=给死者提供一個得體的棲身之所。
-|ThingDef.statBases="WorkToBuild","650"
+|ThingDef.statBases="WorkToBuild","650";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.terrainAffordanceNeeded=Diggable
 |ThingDef.repairEffect=Repair

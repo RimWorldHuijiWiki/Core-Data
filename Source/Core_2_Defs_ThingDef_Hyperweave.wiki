@@ -9,7 +9,7 @@
 |ThingDef.description=High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures.
 |ThingDef.description.zh-cn=高科技纳米纤维织成的布。稍微有点重，但是几乎不可能破损。其生产技术只有最先进的闪耀世界才掌握。
 |ThingDef.description.zh-tw=以高科技奈米纖維織成，有點厚重，但令人難以置信的難以破壞。
-|ThingDef.statBases="MarketValue","16";"Mass","0.038";"Flammability","1.0";"DeteriorationRate","1.0";"Beauty","-4"
+|ThingDef.statBases="MaxHitPoints","200";"MarketValue","16";"Mass","0.038";"Flammability","1.0";"DeteriorationRate","1.0";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

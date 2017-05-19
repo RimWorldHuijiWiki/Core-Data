@@ -9,7 +9,7 @@
 |ThingDef.description=A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul.
 |ThingDef.description.zh-cn=厨艺界的大师级作品，这份食物同时滋养了身体、思想和灵魂。
 |ThingDef.description.zh-tw=廚藝界的大師級作品，這份食物會滋養身體和靈魂。
-|ThingDef.statBases="DeteriorationRate","20";"MarketValue","30";"WorkToMake","800";"MaxHitPoints","50";"Flammability","1.0";"Beauty","-4";"Mass","0.44"
+|ThingDef.statBases="MarketValue","30";"WorkToMake","800";"MaxHitPoints","50";"Flammability","1.0";"Beauty","-4";"Mass","0.44";"DeteriorationRate","10"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

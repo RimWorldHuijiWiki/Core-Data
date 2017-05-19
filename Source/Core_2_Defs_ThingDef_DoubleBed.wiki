@@ -9,7 +9,7 @@
 |ThingDef.description=A simple double-wide bed that fits two people.
 |ThingDef.description.zh-cn=一张适合两个人使用的普通双人床。
 |ThingDef.description.zh-tw=一張能夠睡下兩人的簡單雙人床。
-|ThingDef.statBases="MaxHitPoints","200";"Flammability","1.0";"WorkToBuild","1740";"Mass","85";"Comfort","0.75";"Beauty","2";"BedRestEffectiveness","1";"ImmunityGainSpeedFactor","1.1"
+|ThingDef.statBases="MaxHitPoints","200";"Flammability","1.0";"WorkToBuild","1740";"Mass","85";"Comfort","0.75";"Beauty","2";"BedRestEffectiveness","1";"ImmunityGainSpeedFactor","1.1";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costStuffCount=70

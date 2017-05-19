@@ -9,7 +9,7 @@
 |ThingDef.description=Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans.
 |ThingDef.description.zh-cn=营养丰富的草和幼芽，收获并压缩储存起来。干草是很好的饲料，但对于人类来说难以下咽。
 |ThingDef.description.zh-tw=營養豐富的牧草，專門做為動物的飼料，人類無法食用。
-|ThingDef.statBases="MarketValue","0.9";"Mass","0.014";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Beauty","-4"
+|ThingDef.statBases="MarketValue","0.9";"Mass","0.014";"MaxHitPoints","60";"Flammability","1.0";"DeteriorationRate","6";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

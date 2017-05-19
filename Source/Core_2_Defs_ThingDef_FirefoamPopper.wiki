@@ -9,7 +9,7 @@
 |ThingDef.description=When touched by fire or triggered by hand, this pops and sprays a fire-extinguishing foam in a circular field around itself.
 |ThingDef.description.zh-cn=当被火焰触发或手动触发后，会向着四周圆形范围喷出灭火泡沫。
 |ThingDef.description.zh-tw=當遭遇火燒或是人為啟動時，滅火裝置會以它為中心向一個範圍內噴灑消防泡沫，以此撲滅火焰。
-|ThingDef.statBases="MaxHitPoints","50";"WorkToBuild","1500";"Mass","10";"Flammability","1.0";"Beauty","-8"
+|ThingDef.statBases="MaxHitPoints","50";"WorkToBuild","1500";"Mass","10";"Flammability","1.0";"Beauty","-8";"SellPriceFactor","0.70"
 |ThingDef.pathCost=25
 |ThingDef.costList="Steel","75";"Component","1"
 |ThingDef.terrainAffordanceNeeded=Light

@@ -9,7 +9,7 @@
 |ThingDef.description=Divides rooms. Powered operation allows people to move through the door without slowing down.
 |ThingDef.description.zh-cn=分隔房间。电力运转，人穿过门不会减速。
 |ThingDef.description.zh-tw=將房間分隔開來。有通電時會在人們通過時自動開啟，讓人無須減速即可通過。
-|ThingDef.statBases="WorkToBuild","1100";"MaxHitPoints","250";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","1100";"MaxHitPoints","250";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.costList="Steel","40";"Component","2"
 |ThingDef.costStuffCount=25
 |ThingDef.stuffCategories="Metallic","Woody","Stony"

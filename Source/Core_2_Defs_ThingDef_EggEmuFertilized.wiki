@@ -9,7 +9,7 @@
 |ThingDef.description=Fertilized emu egg. If all goes well, it should hatch into a baby emu. It can be eaten raw, but it's much better cooked.
 |ThingDef.description.zh-cn=已受精的鸸鹋蛋。如果一切顺利应该可以孵化出鸸鹋仔。可以生吃，但是最好烹饪后食用。
 |ThingDef.description.zh-tw=已受精的鴯鶓蛋。如果順利，蛋將會孵出鴯鶓寶寶。蛋可以生吃，但烹調後風味更佳。
-|ThingDef.statBases="MarketValue","18.0";"Mass","0.15";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Beauty","-4"
+|ThingDef.statBases="MarketValue","18.0";"Mass","0.15";"MaxHitPoints","20";"DeteriorationRate","2";"Flammability","1.0";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

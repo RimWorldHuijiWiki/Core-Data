@@ -9,7 +9,7 @@
 |ThingDef.description=Raw cut leaves of a smokeleaf plant. Can be rolled into smokeable joint at a crafting spot.
 |ThingDef.description.zh-cn=从大麻上收获的新鲜叶子，可以在手工加工点处被制成大麻烟。
 |ThingDef.description.zh-tw=從菸草上收割來的菸葉，能在手工製作點加工成捲菸。
-|ThingDef.statBases="MarketValue","2.0";"MaxHitPoints","100";"Flammability","1.0";"DeteriorationRate","10";"Mass","0.03";"Beauty","-4"
+|ThingDef.statBases="MarketValue","2.0";"MaxHitPoints","60";"Flammability","1.0";"DeteriorationRate","6";"Mass","0.03";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

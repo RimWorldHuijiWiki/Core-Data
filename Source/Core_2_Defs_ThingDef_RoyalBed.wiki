@@ -9,7 +9,7 @@
 |ThingDef.description=A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful. Fits two.
 |ThingDef.description.zh-cn=一张给贵族使用的豪华的，镶金边的床。非常舒适和漂亮。适合双人。
 |ThingDef.description.zh-tw=一張鑲金的豪華大床，舒適而美觀，給你貴族般的待遇。能夠睡下兩人。
-|ThingDef.statBases="MaxHitPoints","200";"Flammability","1.0";"WorkToBuild","4500";"Mass","90";"Beauty","25";"BedRestEffectiveness","1.05";"Comfort","0.90";"ImmunityGainSpeedFactor","1.1"
+|ThingDef.statBases="MaxHitPoints","200";"Flammability","1.0";"WorkToBuild","4500";"Mass","90";"Beauty","25";"BedRestEffectiveness","1.05";"Comfort","0.90";"ImmunityGainSpeedFactor","1.1";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costList="Gold","50"

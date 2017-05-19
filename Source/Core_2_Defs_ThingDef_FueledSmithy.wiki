@@ -9,7 +9,7 @@
 |ThingDef.description=A wood-fueled station equipped for smithing non-mechanical weapons and tools.
 |ThingDef.description.zh-cn=用木材当燃料的锻造台，用于制作非机械武器和工具。
 |ThingDef.description.zh-tw=製造非機械式武器和工具的工作台，需要消耗木材燃料。
-|ThingDef.statBases="WorkToBuild","3000";"MaxHitPoints","180";"Flammability","1.0";"Cleanliness","-3"
+|ThingDef.statBases="WorkToBuild","3000";"MaxHitPoints","180";"Flammability","1.0";"Cleanliness","-3";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costList="Steel","100"

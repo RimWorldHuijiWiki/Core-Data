@@ -9,7 +9,7 @@
 |ThingDef.description=A barrel for fermenting raw wort into beer.
 |ThingDef.description.zh-cn=一个将麦芽汁发酵成啤酒的桶。
 |ThingDef.description.zh-tw=用來將麥汁發酵成啤酒的巨大容器。
-|ThingDef.statBases="WorkToBuild","600";"Mass","10";"MaxHitPoints","100";"Flammability","1.0"
+|ThingDef.statBases="WorkToBuild","600";"Mass","10";"MaxHitPoints","100";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costList="Steel","10";"WoodLog","30"

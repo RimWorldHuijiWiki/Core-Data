@@ -9,7 +9,7 @@
 |ThingDef.description=A workbench for tailoring clothes by hand. Works at 50% of the speed of an electric tailoring bench.
 |ThingDef.description.zh-cn=用于手工缝制衣服的工作台。工作速度只有电动裁缝台的50%。
 |ThingDef.description.zh-tw=用來裁縫衣服的工作台，工作效率只有電動裁縫桌的40%。
-|ThingDef.statBases="WorkToBuild","2000";"MaxHitPoints","180";"Flammability","1.0";"WorkTableWorkSpeedFactor","0.5"
+|ThingDef.statBases="WorkToBuild","2000";"MaxHitPoints","180";"Flammability","1.0";"WorkTableWorkSpeedFactor","0.5";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=70
 |ThingDef.costStuffCount=75

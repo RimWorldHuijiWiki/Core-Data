@@ -19,7 +19,7 @@
 |RecipeDef.ingredients.0=Exist
 |RecipeDef.ingredients.0.filter=Exist
 |RecipeDef.ingredients.0.filter.thingDefs="Neutroamine"
-|RecipeDef.ingredients.0.count=3
+|RecipeDef.ingredients.0.count=2
 |RecipeDef.fixedIngredientFilter=Exist
 |RecipeDef.fixedIngredientFilter.thingDefs="Neutroamine"
 |RecipeDef.products="Penoxycyline","1"

@@ -9,7 +9,7 @@
 |ThingDef.description=A cozy mattress and sheets on a frame for resting.
 |ThingDef.description.zh-cn=一张单人床，在框架上铺了舒适的床垫和床单用于休息。
 |ThingDef.description.zh-tw=一個鋪了舒適的床墊和床單的床架。
-|ThingDef.statBases="MaxHitPoints","140";"Flammability","1.0";"Beauty","1";"WorkToBuild","870";"Mass","50";"BedRestEffectiveness","1";"Comfort","0.75";"ImmunityGainSpeedFactor","1.1"
+|ThingDef.statBases="MaxHitPoints","140";"Flammability","1.0";"Beauty","1";"WorkToBuild","870";"Mass","50";"BedRestEffectiveness","1";"Comfort","0.75";"ImmunityGainSpeedFactor","1.1";"SellPriceFactor","0.70"
 |ThingDef.passability=PassThroughOnly
 |ThingDef.pathCost=60
 |ThingDef.costStuffCount=35

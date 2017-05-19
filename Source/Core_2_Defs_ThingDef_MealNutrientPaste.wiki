@@ -9,7 +9,7 @@
 |ThingDef.description=A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting.
 |ThingDef.description.zh-cn=一种由蛋白质、碳水化合物、维生素、氨基酸和矿物质混在一起的合成物。满足一切身体需要，但是食用起来非常恶心。
 |ThingDef.description.zh-tw=一種由蛋白質，碳水化合物，维生素，氨基酸和礦物質混在一起的合成物。滿足一切身體需要，但是食用起来非常噁心。
-|ThingDef.statBases="DeteriorationRate","20";"MarketValue","12";"MaxHitPoints","50";"Flammability","1.0";"Beauty","-4";"Mass","0.44"
+|ThingDef.statBases="MarketValue","12";"MaxHitPoints","50";"Flammability","1.0";"Beauty","-4";"Mass","0.44";"DeteriorationRate","10"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

@@ -9,7 +9,7 @@
 |ThingDef.description=Cloth woven from organic fibers.
 |ThingDef.description.zh-cn=由有机纤维织成的布。
 |ThingDef.description.zh-tw=以有機纖維編織而成的布料。
-|ThingDef.statBases="MaxHitPoints","100";"MarketValue","1.9";"Mass","0.026";"Flammability","1.0";"DeteriorationRate","4";"Beauty","-4"
+|ThingDef.statBases="MaxHitPoints","80";"MarketValue","1.9";"Mass","0.026";"Flammability","1.0";"DeteriorationRate","4";"Beauty","-4"
 |ThingDef.pathCost=15
 |ThingDef.altitudeLayer=Item
 |ThingDef.thingClass=ThingWithComps

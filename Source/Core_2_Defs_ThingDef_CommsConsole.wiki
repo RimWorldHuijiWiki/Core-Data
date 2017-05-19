@@ -9,7 +9,7 @@
 |ThingDef.description=Allows radio contact with remote traders as well as other factions for trade and diplomacy.
 |ThingDef.description.zh-cn=可以通过无线电和遥远的轨道贸易商进行交易。以及和联系其他派系进行外交（发送礼物或呼叫援军）或请求商队交易。
 |ThingDef.description.zh-tw=用以和附近的商船與組織談判或交易。
-|ThingDef.statBases="MaxHitPoints","250";"WorkToBuild","2200";"Flammability","1.0"
+|ThingDef.statBases="MaxHitPoints","250";"WorkToBuild","2200";"Flammability","1.0";"SellPriceFactor","0.70"
 |ThingDef.passability=Impassable
 |ThingDef.costList="Steel","120";"Component","4"
 |ThingDef.terrainAffordanceNeeded=Heavy
