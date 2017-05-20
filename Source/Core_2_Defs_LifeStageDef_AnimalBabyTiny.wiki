@@ -13,4 +13,5 @@
 |LifeStageDef.healthScaleFactor=0.25
 |LifeStageDef.hungerRateFactor=0.4
 |LifeStageDef.marketValueFactor=0.4
+|LifeStageDef.foodMaxFactor=4
 }}

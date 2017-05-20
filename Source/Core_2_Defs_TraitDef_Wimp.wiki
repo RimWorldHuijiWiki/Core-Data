@@ -15,4 +15,5 @@
 |TraitDef.degreeDatas.0.painShockThreshold=0.15
 |TraitDef.conflictingTraits="Brawler"
 |TraitDef.commonality=0.15
+|TraitDef.allowOnHostileSpawn=false
 }}

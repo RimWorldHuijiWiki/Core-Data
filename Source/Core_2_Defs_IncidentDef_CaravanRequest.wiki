@@ -11,4 +11,7 @@
 |IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=1
 |IncidentDef.earliestDay=15
+|IncidentDef.minPopulation=4
+|IncidentDef.chanceFactorByPopulationCurve=Exist
+|IncidentDef.chanceFactorByPopulationCurve.points="(2,0)","(7,1)"
 }}

@@ -52,5 +52,6 @@
 |ThingDef.blockWind=true
 |ThingDef.building=Exist
 |ThingDef.building.ignoreNeedsPower=true
+|ThingDef.building.allowAutoroof=false
 |ThingDef.building.ai_chillDestination=false
 }}

@@ -28,7 +28,7 @@
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.neverMultiSelect=True
-|ThingDef.fillPercent=0.29
+|ThingDef.fillPercent=0.20
 |ThingDef.plant=Exist
 |ThingDef.plant.blockAdjacentSow=true
 |ThingDef.plant.harvestWork=200

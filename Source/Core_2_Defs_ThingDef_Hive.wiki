@@ -61,6 +61,6 @@
 |ThingDef.graphicData.drawSize=1.6
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
-|ThingDef.fillPercent=0.7
+|ThingDef.fillPercent=0.60
 |ThingDef.blockWind=true
 }}

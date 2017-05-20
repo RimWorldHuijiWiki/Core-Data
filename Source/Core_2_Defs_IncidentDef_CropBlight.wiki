@@ -9,6 +9,6 @@
 |IncidentDef.workerClass=IncidentWorker_CropBlight
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
-|IncidentDef.baseChance=0.35
+|IncidentDef.baseChance=0.30
 |IncidentDef.minRefireDays=30
 }}

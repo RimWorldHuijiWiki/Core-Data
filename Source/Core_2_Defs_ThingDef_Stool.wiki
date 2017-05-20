@@ -45,7 +45,7 @@
 |ThingDef.selectable=true
 |ThingDef.socialPropernessMatters=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.30
+|ThingDef.fillPercent=0.20
 |ThingDef.tradeTags="Furniture"
 |ThingDef.building=Exist
 |ThingDef.building.isSittable=true

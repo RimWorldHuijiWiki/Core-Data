@@ -94,6 +94,7 @@
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.texPath=Things/Pawn/Animal/Dessicated/CritterDessicatedSmall
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.drawSize=1.0
 |PawnKindDef.combatPower=30
+|PawnKindDef.canArriveManhunter=false
 |PawnKindDef.labelMale=male megascarab
 |PawnKindDef.labelMale.zh-cn=巨型甲虫
 |PawnKindDef.labelMale.zh-tw=male megascarab

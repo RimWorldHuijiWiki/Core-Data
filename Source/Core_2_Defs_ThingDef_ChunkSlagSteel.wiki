@@ -25,6 +25,6 @@
 |ThingDef.thingCategories="Chunks"
 |ThingDef.soundDrop=ChunkSlag_Drop
 |ThingDef.saveCompressible=true
-|ThingDef.fillPercent=0.4
+|ThingDef.fillPercent=0.50
 |ThingDef.tradeability=Never
 }}

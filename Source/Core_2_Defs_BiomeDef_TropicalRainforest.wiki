@@ -28,7 +28,7 @@
 |BiomeDef.terrainPatchMakers.1.thresholds="MarshyTerrain","0.64 ~ 0.87";"Marsh","0.87 ~ 999"
 |BiomeDef.terrainPatchMakers.1.perlinFrequency=0.035
 |BiomeDef.wildPlants="PlantTallGrass","7.0";"PlantDandelion","0.8";"PlantBush","0.7";"PlantTreeCecropia","0.6";"PlantTreeTeak","0.3";"PlantRaspberry","0.1"
-|BiomeDef.wildAnimals="Elephant","0.05";"Monkey","0.5";"WildBoar","0.5";"Tortoise","0.3";"Chinchilla","0.3";"Boomalope","0.35";"Capybara","0.35";"Alpaca","0.25";"Cassowary","0.35";"Turkey","0.1";"Emu","0.1";"Rat","0.5";"Cobra","0.12";"Panther","0.085"
+|BiomeDef.wildAnimals="Rat","1";"Monkey","1";"WildBoar","1";"Boomalope","0.7";"Capybara","0.7";"Cassowary","0.7";"Tortoise","0.6";"Chinchilla","0.6";"Alpaca","0.5";"Turkey","0.2";"Emu","0.2";"Cobra","0.17";"Panther","0.09";"Elephant","0.1"
 |BiomeDef.diseases="Disease_Flu","100";"Disease_Plague","100";"Disease_Malaria","160";"Disease_SleepingSickness","140";"Disease_FibrousMechanites","30";"Disease_SensoryMechanites","30";"Disease_GutWorms","80";"Disease_MuscleParasites","80"
 |BiomeDef.allowedPackAnimals="Muffalo"
 |BiomeDef.texture=World/Biomes/TropicalRainforest

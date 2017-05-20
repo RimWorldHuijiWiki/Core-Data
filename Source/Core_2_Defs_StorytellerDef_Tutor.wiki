@@ -15,4 +15,8 @@
 |StorytellerDef.forcedDifficulty=VeryEasy
 |StorytellerDef.comps=Exist
 |StorytellerDef.comps.Count=0
+|StorytellerDef.populationIntentFromPopCurve=Exist
+|StorytellerDef.populationIntentFromPopCurve.points="0, 0"
+|StorytellerDef.populationIntentFromTimeCurve=Exist
+|StorytellerDef.populationIntentFromTimeCurve.points="0, 0.15","3, 0.15","10, 1"
 }}

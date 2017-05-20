@@ -100,6 +100,7 @@
 |PawnKindDef.lifeStages.2.butcherBodyPart.bodyPartGroup=HornAttackTool
 |PawnKindDef.lifeStages.2.butcherBodyPart.thing=ThrumboHorn
 |PawnKindDef.combatPower=600
+|PawnKindDef.canArriveManhunter=false
 |PawnKindDef.labelMale=male thrumbo
 |PawnKindDef.labelMale.zh-cn=公敲击兽
 |PawnKindDef.labelMale.zh-tw=male thrumbo

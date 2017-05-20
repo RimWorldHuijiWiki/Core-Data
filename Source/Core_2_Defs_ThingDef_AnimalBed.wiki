@@ -40,7 +40,7 @@
 |ThingDef.castEdgeShadows=true
 |ThingDef.selectable=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.15
 |ThingDef.tradeTags="Furniture"
 |ThingDef.building=Exist
 |ThingDef.building.bed_healPerDay=3

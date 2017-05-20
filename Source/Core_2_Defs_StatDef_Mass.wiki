@@ -24,4 +24,6 @@
 |StatDef.parts.1.Class=StatPart_NaturalNotMissingBodyPartsCoverage
 |StatDef.parts.2=Exist
 |StatDef.parts.2.Class=StatPart_GearAndInventoryMass
+|StatDef.parts.3=Exist
+|StatDef.parts.3.Class=StatPart_UnfinishedThingIngredientsMass
 }}

@@ -63,7 +63,7 @@
 |ThingDef.inspectorTabs="ITab_Bills"
 |ThingDef.drawPlaceWorkersWhileSelected=true
 |ThingDef.soundImpactDefault=BulletImpactGround
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.20
 |ThingDef.recipes="CookMealSimpleCampfire","MakePemmicanCampfire","BurnApparelCampfire","BurnDrugs"
 |ThingDef.building=Exist
 |ThingDef.building.spawnedConceptLearnOpportunity=BillsTab

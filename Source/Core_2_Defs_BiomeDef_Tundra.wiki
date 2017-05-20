@@ -26,7 +26,7 @@
 |BiomeDef.terrainPatchMakers.0.thresholds="MossyTerrain","0.64 ~ 0.83";"Marsh","0.83 ~ 999"
 |BiomeDef.terrainPatchMakers.0.perlinFrequency=0.015
 |BiomeDef.wildPlants="PlantGrass","0.36";"PlantMoss","0.05";"PlantBush","0.03";"PlantRaspberry","0.01";"PlantAstragalus","0.01";"PlantDandelion","0.01";"PlantTreePine","0.005";"PlantTreeBirch","0.005";"PlantWildHealroot","0.005"
-|BiomeDef.wildAnimals="Elk","0.25";"Ibex","0.1";"Caribou","0.75";"Muffalo","0.5";"Squirrel","1";"Hare","1";"Snowhare","1";"Husky","0.01";"Rat","0.4";"Megasloth","0.02";"Warg","0.03";"PolarBear","0.01";"GrizzlyBear","0.02";"Cougar","0.01";"Lynx","0.02";"WolfTimber","0.04";"WolfArctic","0.12";"FoxArctic","0.04";"FoxRed","0.01"
+|BiomeDef.wildAnimals="Squirrel","1";"Caribou","0.75";"Hare","0.5";"Snowhare","0.5";"Muffalo","0.5";"Rat","0.4";"Elk","0.25";"Ibex","0.1";"WolfArctic","0.06";"Megasloth","0.02";"FoxArctic","0.03";"Lynx","0.015";"WolfTimber","0.008";"Cougar","0.008";"Warg","0.008";"PolarBear","0.008";"GrizzlyBear","0.008";"FoxRed","0.008";"Husky","0.008"
 |BiomeDef.diseases="Disease_Flu","100";"Disease_Plague","80";"Disease_FibrousMechanites","40";"Disease_SensoryMechanites","40";"Disease_GutWorms","30";"Disease_MuscleParasites","30"
 |BiomeDef.allowedPackAnimals="Muffalo"
 |BiomeDef.texture=World/Biomes/Tundra

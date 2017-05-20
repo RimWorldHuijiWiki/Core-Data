@@ -94,6 +94,7 @@
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.texPath=Things/Pawn/Animal/Dessicated/CritterDessicatedSmall
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.drawSize=1.65
 |PawnKindDef.combatPower=65
+|PawnKindDef.canArriveManhunter=false
 |PawnKindDef.labelMale=male spelopede
 |PawnKindDef.labelMale.zh-cn=洞穴阔步虫
 |PawnKindDef.labelMale.zh-tw=male spelopede

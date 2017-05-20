@@ -20,7 +20,7 @@
 |BiomeDef.terrainsByFertility="Sand","-999 ~ 0.45";"Soil","0.45 ~ 0.90";"SoilRich","0.90 ~ 999"
 |BiomeDef.soundsAmbient="AmbientNightInsects_Standard"
 |BiomeDef.wildPlants="PlantGrass","7.0";"PlantDandelion","0.8";"PlantBush","0.7";"PlantPincushionCactus","0.6";"PlantTreePoplar","0.35";"PlantAgave","0.3";"PlantSaguaroCactus","0.3";"PlantTreeOak","0.25";"PlantRaspberry","0.1"
-|BiomeDef.wildAnimals="Muffalo","0.5";"Gazelle","0.5";"Ibex","0.3";"Alpaca","0.2";"Elephant","0.5";"Squirrel","1";"Boomrat","1";"Iguana","0.2";"Rhinoceros","0.15";"WildBoar","0.4";"Boomalope","0.5";"Emu","0.3";"Ostrich","0.5";"Rat","1.0";"Megasloth","0.03";"Cougar","0.10";"WolfTimber","0.01";"FoxFennec","0.03"
+|BiomeDef.wildAnimals="Muffalo","0.5";"Gazelle","0.5";"Ibex","0.3";"Alpaca","0.2";"Elephant","0.5";"Squirrel","1";"Boomrat","1";"Iguana","0.2";"Rhinoceros","0.15";"WildBoar","0.4";"Boomalope","0.5";"Emu","0.3";"Ostrich","0.5";"Rat","1.0";"Megasloth","0.03";"Cougar","0.08";"WolfTimber","0.01";"FoxFennec","0.03"
 |BiomeDef.diseases="Disease_Flu","100";"Disease_Plague","100";"Disease_FibrousMechanites","30";"Disease_SensoryMechanites","30";"Disease_GutWorms","60";"Disease_MuscleParasites","60"
 |BiomeDef.allowedPackAnimals="Muffalo","Dromedary"
 |BiomeDef.texture=World/Biomes/AridShrubland

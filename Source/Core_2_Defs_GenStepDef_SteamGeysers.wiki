@@ -22,4 +22,6 @@
 |GenStepDef.genStep.allowOnWater=false
 |GenStepDef.genStep.thingDef=SteamGeyser
 |GenStepDef.genStep.clearSpaceSize=30
+|GenStepDef.genStep.terrainValidationRadius=4
+|GenStepDef.genStep.terrainValidationDisallowed="Road"
 }}

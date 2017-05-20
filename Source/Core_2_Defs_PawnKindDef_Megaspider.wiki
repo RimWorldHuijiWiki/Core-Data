@@ -94,6 +94,7 @@
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.texPath=Things/Pawn/Animal/Dessicated/CritterDessicatedMedium
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.drawSize=2.5
 |PawnKindDef.combatPower=150
+|PawnKindDef.canArriveManhunter=false
 |PawnKindDef.labelMale=male megaspider
 |PawnKindDef.labelMale.zh-cn=巨型蜘蛛
 |PawnKindDef.labelMale.zh-tw=male megaspider

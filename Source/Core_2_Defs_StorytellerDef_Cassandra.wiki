@@ -52,10 +52,14 @@
 |StorytellerDef.comps.7.Class=StorytellerCompProperties_ShipChunkDrop
 |StorytellerDef.comps.8=Exist
 |StorytellerDef.comps.8.Class=StorytellerCompProperties_Disease
-|StorytellerDef.comps.8.minDaysPassed=5
+|StorytellerDef.comps.8.minDaysPassed=7
 |StorytellerDef.comps.9=Exist
 |StorytellerDef.comps.9.Class=StorytellerCompProperties_CategoryIndividualMTBByBiome
 |StorytellerDef.comps.9.category=CaravanTarget
 |StorytellerDef.comps.10=Exist
 |StorytellerDef.comps.10.Class=StorytellerCompProperties_JourneyOffer
+|StorytellerDef.populationIntentFromPopCurve=Exist
+|StorytellerDef.populationIntentFromPopCurve.points="0, 8","1, 4","5, 1","9, 0.5","13, 0","18, -1"
+|StorytellerDef.populationIntentFromTimeCurve=Exist
+|StorytellerDef.populationIntentFromTimeCurve.points="0, 0.15","3, 0.15","10, 1"
 }}

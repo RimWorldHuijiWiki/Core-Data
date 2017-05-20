@@ -50,5 +50,5 @@
 |ThingDef.drawerType=MapMeshAndRealTime
 |ThingDef.selectable=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.40
 }}

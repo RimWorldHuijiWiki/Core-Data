@@ -26,7 +26,7 @@
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.neverMultiSelect=True
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.20
 |ThingDef.ingestible=Exist
 |ThingDef.ingestible.foodType=Plant
 |ThingDef.ingestible.nutrition=0.20

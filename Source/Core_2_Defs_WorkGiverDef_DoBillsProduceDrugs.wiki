@@ -8,6 +8,7 @@
 |WorkGiverDef.label.zh-tw=製作藥物
 |WorkGiverDef.giverClass=WorkGiver_DoBill
 |WorkGiverDef.workType=Crafting
+|WorkGiverDef.workTags="Intellectual"
 |WorkGiverDef.priorityInType=95
 |WorkGiverDef.verb=produce drugs
 |WorkGiverDef.verb.zh-cn=制作

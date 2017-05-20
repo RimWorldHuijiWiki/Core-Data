@@ -47,7 +47,7 @@
 |ThingDef.drawPlaceWorkersWhileSelected=true
 |ThingDef.socialPropernessMatters=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.35
 |ThingDef.tradeTags="Television"
 |ThingDef.building=Exist
 |ThingDef.building.spawnedConceptLearnOpportunity=TVForSickPeople

@@ -55,7 +55,7 @@ Core:Defs_BiomeDef_AridShrubland,"{{#set:
 |BiomeDef.terrainsByFertility=""Sand"",""-999 ~ 0.45"";""Soil"",""0.45 ~ 0.90"";""SoilRich"",""0.90 ~ 999""
 |BiomeDef.soundsAmbient=""AmbientNightInsects_Standard""
 |BiomeDef.wildPlants=""PlantGrass"",""7.0"";""PlantDandelion"",""0.8"";""PlantBush"",""0.7"";""PlantPincushionCactus"",""0.6"";""PlantTreePoplar"",""0.35"";""PlantAgave"",""0.3"";""PlantSaguaroCactus"",""0.3"";""PlantTreeOak"",""0.25"";""PlantRaspberry"",""0.1""
-|BiomeDef.wildAnimals=""Muffalo"",""0.5"";""Gazelle"",""0.5"";""Ibex"",""0.3"";""Alpaca"",""0.2"";""Elephant"",""0.5"";""Squirrel"",""1"";""Boomrat"",""1"";""Iguana"",""0.2"";""Rhinoceros"",""0.15"";""WildBoar"",""0.4"";""Boomalope"",""0.5"";""Emu"",""0.3"";""Ostrich"",""0.5"";""Rat"",""1.0"";""Megasloth"",""0.03"";""Cougar"",""0.10"";""WolfTimber"",""0.01"";""FoxFennec"",""0.03""
+|BiomeDef.wildAnimals=""Muffalo"",""0.5"";""Gazelle"",""0.5"";""Ibex"",""0.3"";""Alpaca"",""0.2"";""Elephant"",""0.5"";""Squirrel"",""1"";""Boomrat"",""1"";""Iguana"",""0.2"";""Rhinoceros"",""0.15"";""WildBoar"",""0.4"";""Boomalope"",""0.5"";""Emu"",""0.3"";""Ostrich"",""0.5"";""Rat"",""1.0"";""Megasloth"",""0.03"";""Cougar"",""0.08"";""WolfTimber"",""0.01"";""FoxFennec"",""0.03""
 |BiomeDef.diseases=""Disease_Flu"",""100"";""Disease_Plague"",""100"";""Disease_FibrousMechanites"",""30"";""Disease_SensoryMechanites"",""30"";""Disease_GutWorms"",""60"";""Disease_MuscleParasites"",""60""
 |BiomeDef.allowedPackAnimals=""Muffalo"",""Dromedary""
 |BiomeDef.texture=World/Biomes/AridShrubland
@@ -88,7 +88,7 @@ Core:Defs_BiomeDef_BorealForest,"{{#set:
 |BiomeDef.terrainPatchMakers.0.thresholds=""MossyTerrain"",""0.0 ~ 0.32"";""Marsh"",""0.32 ~ 0.76"";""WaterShallow"",""0.76 ~ 0.98"";""WaterDeep"",""0.98 ~ 999""
 |BiomeDef.terrainPatchMakers.0.perlinFrequency=0.015
 |BiomeDef.wildPlants=""PlantGrass"",""10.0"";""PlantMoss"",""4.0"";""PlantBush"",""3.0"";""PlantTreePine"",""5.0"";""PlantRaspberry"",""1.8"";""PlantTreeBirch"",""1.5"";""PlantTreePoplar"",""1.2"";""PlantWildHealroot"",""0.3""
-|BiomeDef.wildAnimals=""Elk"",""0.5"";""Ibex"",""0.4"";""Caribou"",""0.5"";""Muffalo"",""0.5"";""Squirrel"",""1"";""WildBoar"",""0.5"";""Hare"",""1"";""Husky"",""0.01"";""Turkey"",""0.2"";""Deer"",""0.03"";""Rat"",""0.8"";""Megasloth"",""0.03"";""Raccoon"",""0.4"";""Warg"",""0.02"";""GrizzlyBear"",""0.03"";""Cougar"",""0.02"";""Lynx"",""0.02"";""WolfTimber"",""0.14"";""WolfArctic"",""0.03"";""FoxArctic"",""0.04"";""FoxRed"",""0.04""
+|BiomeDef.wildAnimals=""Elk"",""0.5"";""Ibex"",""0.4"";""Caribou"",""0.5"";""Muffalo"",""0.5"";""Squirrel"",""1"";""WildBoar"",""0.5"";""Hare"",""1"";""Husky"",""0.01"";""Turkey"",""0.2"";""Deer"",""0.03"";""Rat"",""0.8"";""Megasloth"",""0.03"";""Raccoon"",""0.4"";""GrizzlyBear"",""0.01"";""Cougar"",""0.007"";""Lynx"",""0.007"";""Warg"",""0.007"";""WolfTimber"",""0.07"";""FoxRed"",""0.07"";""WolfArctic"",""0.03"";""FoxArctic"",""0.03""
 |BiomeDef.diseases=""Disease_Flu"",""100"";""Disease_Plague"",""100"";""Disease_FibrousMechanites"",""30"";""Disease_SensoryMechanites"",""30"";""Disease_GutWorms"",""50"";""Disease_MuscleParasites"",""50""
 |BiomeDef.allowedPackAnimals=""Muffalo""
 |BiomeDef.texture=World/Biomes/BorealForest
@@ -114,7 +114,7 @@ Core:Defs_BiomeDef_Desert,"{{#set:
 |BiomeDef.baseWeatherCommonalities=""Clear"",""18"";""Rain"",""2"";""DryThunderstorm"",""1"";""RainyThunderstorm"",""1"";""SnowGentle"",""4"";""SnowHard"",""4""
 |BiomeDef.terrainsByFertility=""Sand"",""-999 ~ 0.80"";""Soil"",""0.80 ~ 999""
 |BiomeDef.wildPlants=""PlantGrass"",""6"";""PlantSaguaroCactus"",""1"";""PlantPincushionCactus"",""1"";""PlantDandelion"",""0.5"";""PlantTreePoplar"",""0.45"";""PlantAgave"",""0.25"";""PlantBush"",""0.25""
-|BiomeDef.wildAnimals=""Gazelle"",""0.1"";""Emu"",""0.02"";""Megascarab"",""1"";""Iguana"",""0.7"";""Dromedary"",""0.5"";""Boomalope"",""0.2"";""Ostrich"",""0.2"";""Rat"",""0.30"";""Cougar"",""0.04"";""FoxFennec"",""0.02""
+|BiomeDef.wildAnimals=""Gazelle"",""0.1"";""Emu"",""0.02"";""Megascarab"",""1"";""Iguana"",""0.7"";""Dromedary"",""0.5"";""Boomalope"",""0.2"";""Ostrich"",""0.2"";""Rat"",""0.30"";""Cougar"",""0.02"";""FoxFennec"",""0.02""
 |BiomeDef.diseases=""Disease_Flu"",""100"";""Disease_Plague"",""80"";""Disease_FibrousMechanites"",""30"";""Disease_SensoryMechanites"",""30"";""Disease_GutWorms"",""60"";""Disease_MuscleParasites"",""60""
 |BiomeDef.allowedPackAnimals=""Muffalo"",""Dromedary""
 |BiomeDef.texture=World/Biomes/Desert
@@ -280,7 +280,7 @@ Core:Defs_BiomeDef_TemperateForest,"{{#set:
 |BiomeDef.terrainPatchMakers.0.thresholds=""SoilRich"",""0.73 ~ 0.80"";""Mud"",""0.80 ~ 0.93"";""WaterShallow"",""0.93 ~ 1.06"";""WaterDeep"",""1.06 ~ 999""
 |BiomeDef.terrainPatchMakers.0.perlinFrequency=0.015
 |BiomeDef.wildPlants=""PlantGrass"",""8.0"";""PlantDandelion"",""0.8"";""PlantBush"",""0.7"";""PlantTreeOak"",""0.5"";""PlantTreePoplar"",""0.5"";""PlantRaspberry"",""0.1"";""PlantWildHealroot"",""0.05""
-|BiomeDef.wildAnimals=""Gazelle"",""0.05"";""Ibex"",""0.3"";""Deer"",""0.5"";""Muffalo"",""0.2"";""Alpaca"",""0.1"";""Squirrel"",""1"";""WildBoar"",""0.5"";""Boomrat"",""0.25"";""Tortoise"",""0.4"";""Hare"",""1"";""Boomalope"",""0.2"";""Emu"",""0.1"";""Turkey"",""0.5"";""Ostrich"",""0.1"";""Rat"",""0.8"";""Raccoon"",""0.4"";""Megasloth"",""0.04"";""Warg"",""0.03"";""GrizzlyBear"",""0.06"";""Cougar"",""0.02"";""Lynx"",""0.01"";""WolfTimber"",""0.09"";""FoxRed"",""0.06""
+|BiomeDef.wildAnimals=""Hare"",""1.00"";""Squirrel"",""1.00"";""Rat"",""0.8"";""Deer"",""0.5"";""WildBoar"",""0.5"";""Turkey"",""0.5"";""Raccoon"",""0.4"";""Tortoise"",""0.4"";""Ibex"",""0.3"";""Boomrat"",""0.25"";""Muffalo"",""0.2"";""Boomalope"",""0.2"";""Alpaca"",""0.1"";""Emu"",""0.1"";""Ostrich"",""0.1"";""Gazelle"",""0.05"";""WolfTimber"",""0.04"";""FoxRed"",""0.04"";""Megasloth"",""0.04"";""GrizzlyBear"",""0.022"";""Warg"",""0.012"";""Cougar"",""0.012"";""Lynx"",""0.008""
 |BiomeDef.diseases=""Disease_Flu"",""100"";""Disease_Plague"",""100"";""Disease_Malaria"",""100"";""Disease_FibrousMechanites"",""30"";""Disease_SensoryMechanites"",""30"";""Disease_GutWorms"",""50"";""Disease_MuscleParasites"",""50""
 |BiomeDef.allowedPackAnimals=""Muffalo""
 |BiomeDef.texture=World/Biomes/TemperateForest
@@ -315,7 +315,7 @@ Core:Defs_BiomeDef_TropicalRainforest,"{{#set:
 |BiomeDef.terrainPatchMakers.1.thresholds=""MarshyTerrain"",""0.64 ~ 0.87"";""Marsh"",""0.87 ~ 999""
 |BiomeDef.terrainPatchMakers.1.perlinFrequency=0.035
 |BiomeDef.wildPlants=""PlantTallGrass"",""7.0"";""PlantDandelion"",""0.8"";""PlantBush"",""0.7"";""PlantTreeCecropia"",""0.6"";""PlantTreeTeak"",""0.3"";""PlantRaspberry"",""0.1""
-|BiomeDef.wildAnimals=""Elephant"",""0.05"";""Monkey"",""0.5"";""WildBoar"",""0.5"";""Tortoise"",""0.3"";""Chinchilla"",""0.3"";""Boomalope"",""0.35"";""Capybara"",""0.35"";""Alpaca"",""0.25"";""Cassowary"",""0.35"";""Turkey"",""0.1"";""Emu"",""0.1"";""Rat"",""0.5"";""Cobra"",""0.12"";""Panther"",""0.085""
+|BiomeDef.wildAnimals=""Rat"",""1"";""Monkey"",""1"";""WildBoar"",""1"";""Boomalope"",""0.7"";""Capybara"",""0.7"";""Cassowary"",""0.7"";""Tortoise"",""0.6"";""Chinchilla"",""0.6"";""Alpaca"",""0.5"";""Turkey"",""0.2"";""Emu"",""0.2"";""Cobra"",""0.17"";""Panther"",""0.09"";""Elephant"",""0.1""
 |BiomeDef.diseases=""Disease_Flu"",""100"";""Disease_Plague"",""100"";""Disease_Malaria"",""160"";""Disease_SleepingSickness"",""140"";""Disease_FibrousMechanites"",""30"";""Disease_SensoryMechanites"",""30"";""Disease_GutWorms"",""80"";""Disease_MuscleParasites"",""80""
 |BiomeDef.allowedPackAnimals=""Muffalo""
 |BiomeDef.texture=World/Biomes/TropicalRainforest
@@ -348,7 +348,7 @@ Core:Defs_BiomeDef_Tundra,"{{#set:
 |BiomeDef.terrainPatchMakers.0.thresholds=""MossyTerrain"",""0.64 ~ 0.83"";""Marsh"",""0.83 ~ 999""
 |BiomeDef.terrainPatchMakers.0.perlinFrequency=0.015
 |BiomeDef.wildPlants=""PlantGrass"",""0.36"";""PlantMoss"",""0.05"";""PlantBush"",""0.03"";""PlantRaspberry"",""0.01"";""PlantAstragalus"",""0.01"";""PlantDandelion"",""0.01"";""PlantTreePine"",""0.005"";""PlantTreeBirch"",""0.005"";""PlantWildHealroot"",""0.005""
-|BiomeDef.wildAnimals=""Elk"",""0.25"";""Ibex"",""0.1"";""Caribou"",""0.75"";""Muffalo"",""0.5"";""Squirrel"",""1"";""Hare"",""1"";""Snowhare"",""1"";""Husky"",""0.01"";""Rat"",""0.4"";""Megasloth"",""0.02"";""Warg"",""0.03"";""PolarBear"",""0.01"";""GrizzlyBear"",""0.02"";""Cougar"",""0.01"";""Lynx"",""0.02"";""WolfTimber"",""0.04"";""WolfArctic"",""0.12"";""FoxArctic"",""0.04"";""FoxRed"",""0.01""
+|BiomeDef.wildAnimals=""Squirrel"",""1"";""Caribou"",""0.75"";""Hare"",""0.5"";""Snowhare"",""0.5"";""Muffalo"",""0.5"";""Rat"",""0.4"";""Elk"",""0.25"";""Ibex"",""0.1"";""WolfArctic"",""0.06"";""Megasloth"",""0.02"";""FoxArctic"",""0.03"";""Lynx"",""0.015"";""WolfTimber"",""0.008"";""Cougar"",""0.008"";""Warg"",""0.008"";""PolarBear"",""0.008"";""GrizzlyBear"",""0.008"";""FoxRed"",""0.008"";""Husky"",""0.008""
 |BiomeDef.diseases=""Disease_Flu"",""100"";""Disease_Plague"",""80"";""Disease_FibrousMechanites"",""40"";""Disease_SensoryMechanites"",""40"";""Disease_GutWorms"",""30"";""Disease_MuscleParasites"",""30""
 |BiomeDef.allowedPackAnimals=""Muffalo""
 |BiomeDef.texture=World/Biomes/Tundra
@@ -9305,6 +9305,8 @@ Core:Defs_GenStepDef_SteamGeysers,"{{#set:
 |GenStepDef.genStep.allowOnWater=false
 |GenStepDef.genStep.thingDef=SteamGeyser
 |GenStepDef.genStep.clearSpaceSize=30
+|GenStepDef.genStep.terrainValidationRadius=4
+|GenStepDef.genStep.terrainValidationDisallowed=""Road""
 }}"
 Core:Defs_GenStepDef_Terrain,"{{#set:
 |dataType=Def
@@ -13489,6 +13491,9 @@ Core:Defs_IncidentDef_CaravanRequest,"{{#set:
 |IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=1
 |IncidentDef.earliestDay=15
+|IncidentDef.minPopulation=4
+|IncidentDef.chanceFactorByPopulationCurve=Exist
+|IncidentDef.chanceFactorByPopulationCurve.points=""(2,0)"",""(7,1)""
 }}"
 Core:Defs_IncidentDef_ColdSnap,"{{#set:
 |dataType=Def
@@ -13524,7 +13529,7 @@ Core:Defs_IncidentDef_CropBlight,"{{#set:
 |IncidentDef.workerClass=IncidentWorker_CropBlight
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
-|IncidentDef.baseChance=0.35
+|IncidentDef.baseChance=0.30
 |IncidentDef.minRefireDays=30
 }}"
 Core:Defs_IncidentDef_Disease_FibrousMechanites,"{{#set:
@@ -13903,6 +13908,8 @@ Core:Defs_IncidentDef_QuestBanditCamp,"{{#set:
 |IncidentDef.targetType=World
 |IncidentDef.baseChance=1.3
 |IncidentDef.minRefireDays=5
+|IncidentDef.chanceFactorByPopulationCurve=Exist
+|IncidentDef.chanceFactorByPopulationCurve.points=""(3,0)"",""(7,1)""
 |IncidentDef.letterText={0}, {1} of {2}, has sent us a message.<br/><br/>Apparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.<br/><br/>If we succeed, their relations will improve, and they'll send us this reward:<br/><br/>{3}
 |IncidentDef.letterText.zh-cn={2}的{1}，{0}，给我们发送了一条消息。<br/><br/>附近一个营地中的匪徒基地袭击了他们的远行队。他们请求我们将其摧毁，这意味着要消灭所有敌人和炮塔。<br/><br/>成功后，关系将会得到提升，并且他们会发送给我们以下报酬：<br/><br/>{3}
 |IncidentDef.letterText.zh-tw={0}, {1} of {2}, has sent us a message.<br/><br/>Apparently bandits based in a nearby camp have been raiding their caravans. They've asked us to destroy it, which means eliminating all enemies and turrets.<br/><br/>If we succeed, their relations will improve, and they'll send us this reward:<br/><br/>{3}
@@ -13924,6 +13931,8 @@ Core:Defs_IncidentDef_QuestItemStash,"{{#set:
 |IncidentDef.targetType=World
 |IncidentDef.baseChance=1.3
 |IncidentDef.minRefireDays=5
+|IncidentDef.chanceFactorByPopulationCurve=Exist
+|IncidentDef.chanceFactorByPopulationCurve.points=""(2,0)"",""(7,1)""
 |IncidentDef.letterText={0}, {1} of {2}, has sent us a message.<br/><br/>They've learned that a collection of valuable items have been left for the taking not far from us. The collection consists of:<br/><br/>{3}<br/><br/>Unfortunately, it won’t last - others will take the items in {4} days if we don't.<br/><br/>Valuables tend to attract danger, so beware.<br/><br/>{5}
 |IncidentDef.letterText.zh-cn={2}的{1}，{0}，给我们发送了一条消息。<br/><br/>他们了解到一批贵重物品在离我们不远处被留了下来等待接收。这批物品包含：<br/><br/>{3}<br/><br/>遗憾的是，时间并不充裕——如果我们不接收这批物品，其他人会在{4}天后来接收。<br/><br/>机会往往伴随着风险，务必当心。<br/><br/>{5}
 |IncidentDef.letterText.zh-tw={0}, {1} of {2}, has sent us a message.<br/><br/>They've learned that a collection of valuable items have been left for the taking not far from us. The collection consists of:<br/><br/>{3}<br/><br/>Unfortunately, it won’t last - others will take the items in {4} days if we don't.<br/><br/>Valuables tend to attract danger, so beware.<br/><br/>{5}
@@ -17618,6 +17627,7 @@ Core:Defs_LifeStageDef_AnimalBaby,"{{#set:
 |LifeStageDef.healthScaleFactor=0.25
 |LifeStageDef.hungerRateFactor=0.4
 |LifeStageDef.marketValueFactor=0.4
+|LifeStageDef.foodMaxFactor=2
 }}"
 Core:Defs_LifeStageDef_AnimalBabyTiny,"{{#set:
 |dataType=Def
@@ -17634,6 +17644,7 @@ Core:Defs_LifeStageDef_AnimalBabyTiny,"{{#set:
 |LifeStageDef.healthScaleFactor=0.25
 |LifeStageDef.hungerRateFactor=0.4
 |LifeStageDef.marketValueFactor=0.4
+|LifeStageDef.foodMaxFactor=4
 }}"
 Core:Defs_LifeStageDef_AnimalJuvenile,"{{#set:
 |dataType=Def
@@ -17649,6 +17660,7 @@ Core:Defs_LifeStageDef_AnimalJuvenile,"{{#set:
 |LifeStageDef.healthScaleFactor=0.6
 |LifeStageDef.hungerRateFactor=0.75
 |LifeStageDef.marketValueFactor=0.75
+|LifeStageDef.foodMaxFactor=1.5
 }}"
 Core:Defs_LifeStageDef_EusocialInsectAdult,"{{#set:
 |dataType=Def
@@ -17675,6 +17687,7 @@ Core:Defs_LifeStageDef_EusocialInsectJuvenile,"{{#set:
 |LifeStageDef.healthScaleFactor=0.6
 |LifeStageDef.hungerRateFactor=0.75
 |LifeStageDef.marketValueFactor=0.75
+|LifeStageDef.foodMaxFactor=1.5
 }}"
 Core:Defs_LifeStageDef_EusocialInsectLarva,"{{#set:
 |dataType=Def
@@ -17691,6 +17704,7 @@ Core:Defs_LifeStageDef_EusocialInsectLarva,"{{#set:
 |LifeStageDef.healthScaleFactor=0.25
 |LifeStageDef.hungerRateFactor=0.4
 |LifeStageDef.marketValueFactor=0.4
+|LifeStageDef.foodMaxFactor=2
 }}"
 Core:Defs_LifeStageDef_HumanlikeAdult,"{{#set:
 |dataType=Def
@@ -17716,6 +17730,7 @@ Core:Defs_LifeStageDef_HumanlikeBaby,"{{#set:
 |LifeStageDef.healthScaleFactor=0.2
 |LifeStageDef.hungerRateFactor=0.2
 |LifeStageDef.marketValueFactor=0.5
+|LifeStageDef.foodMaxFactor=1.5
 }}"
 Core:Defs_LifeStageDef_HumanlikeChild,"{{#set:
 |dataType=Def
@@ -17760,6 +17775,7 @@ Core:Defs_LifeStageDef_HumanlikeToddler,"{{#set:
 |LifeStageDef.healthScaleFactor=0.4
 |LifeStageDef.hungerRateFactor=0.4
 |LifeStageDef.marketValueFactor=0.7
+|LifeStageDef.foodMaxFactor=1.5
 }}"
 Core:Defs_LifeStageDef_MechanoidFullyFormed,"{{#set:
 |dataType=Def
@@ -22674,6 +22690,7 @@ Core:Defs_PawnKindDef_Megascarab,"{{#set:
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.texPath=Things/Pawn/Animal/Dessicated/CritterDessicatedSmall
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.drawSize=1.0
 |PawnKindDef.combatPower=30
+|PawnKindDef.canArriveManhunter=false
 |PawnKindDef.labelMale=male megascarab
 |PawnKindDef.labelMale.zh-cn=巨型甲虫
 |PawnKindDef.labelMale.zh-tw=male megascarab
@@ -22899,6 +22916,7 @@ Core:Defs_PawnKindDef_Megaspider,"{{#set:
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.texPath=Things/Pawn/Animal/Dessicated/CritterDessicatedMedium
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.drawSize=2.5
 |PawnKindDef.combatPower=150
+|PawnKindDef.canArriveManhunter=false
 |PawnKindDef.labelMale=male megaspider
 |PawnKindDef.labelMale.zh-cn=巨型蜘蛛
 |PawnKindDef.labelMale.zh-tw=male megaspider
@@ -24617,6 +24635,7 @@ Core:Defs_PawnKindDef_Spelopede,"{{#set:
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.texPath=Things/Pawn/Animal/Dessicated/CritterDessicatedSmall
 |PawnKindDef.lifeStages.2.dessicatedBodyGraphicData.drawSize=1.65
 |PawnKindDef.combatPower=65
+|PawnKindDef.canArriveManhunter=false
 |PawnKindDef.labelMale=male spelopede
 |PawnKindDef.labelMale.zh-cn=洞穴阔步虫
 |PawnKindDef.labelMale.zh-tw=male spelopede
@@ -24884,6 +24903,7 @@ Core:Defs_PawnKindDef_Thrumbo,"{{#set:
 |PawnKindDef.lifeStages.2.butcherBodyPart.bodyPartGroup=HornAttackTool
 |PawnKindDef.lifeStages.2.butcherBodyPart.thing=ThrumboHorn
 |PawnKindDef.combatPower=600
+|PawnKindDef.canArriveManhunter=false
 |PawnKindDef.labelMale=male thrumbo
 |PawnKindDef.labelMale.zh-cn=公敲击兽
 |PawnKindDef.labelMale.zh-tw=male thrumbo
@@ -45335,6 +45355,8 @@ Core:Defs_StatDef_Mass,"{{#set:
 |StatDef.parts.1.Class=StatPart_NaturalNotMissingBodyPartsCoverage
 |StatDef.parts.2=Exist
 |StatDef.parts.2.Class=StatPart_GearAndInventoryMass
+|StatDef.parts.3=Exist
+|StatDef.parts.3.Class=StatPart_UnfinishedThingIngredientsMass
 }}"
 Core:Defs_StatDef_MaxHitPoints,"{{#set:
 |dataType=Def
@@ -46610,12 +46632,16 @@ Core:Defs_StorytellerDef_Cassandra,"{{#set:
 |StorytellerDef.comps.7.Class=StorytellerCompProperties_ShipChunkDrop
 |StorytellerDef.comps.8=Exist
 |StorytellerDef.comps.8.Class=StorytellerCompProperties_Disease
-|StorytellerDef.comps.8.minDaysPassed=5
+|StorytellerDef.comps.8.minDaysPassed=7
 |StorytellerDef.comps.9=Exist
 |StorytellerDef.comps.9.Class=StorytellerCompProperties_CategoryIndividualMTBByBiome
 |StorytellerDef.comps.9.category=CaravanTarget
 |StorytellerDef.comps.10=Exist
 |StorytellerDef.comps.10.Class=StorytellerCompProperties_JourneyOffer
+|StorytellerDef.populationIntentFromPopCurve=Exist
+|StorytellerDef.populationIntentFromPopCurve.points=""0, 8"",""1, 4"",""5, 1"",""9, 0.5"",""13, 0"",""18, -1""
+|StorytellerDef.populationIntentFromTimeCurve=Exist
+|StorytellerDef.populationIntentFromTimeCurve.points=""0, 0.15"",""3, 0.15"",""10, 1""
 }}"
 Core:Defs_StorytellerDef_Phoebe,"{{#set:
 |dataType=Def
@@ -46670,12 +46696,16 @@ Core:Defs_StorytellerDef_Phoebe,"{{#set:
 |StorytellerDef.comps.7.Class=StorytellerCompProperties_ShipChunkDrop
 |StorytellerDef.comps.8=Exist
 |StorytellerDef.comps.8.Class=StorytellerCompProperties_Disease
-|StorytellerDef.comps.8.minDaysPassed=5
+|StorytellerDef.comps.8.minDaysPassed=12
 |StorytellerDef.comps.9=Exist
 |StorytellerDef.comps.9.Class=StorytellerCompProperties_CategoryIndividualMTBByBiome
 |StorytellerDef.comps.9.category=CaravanTarget
 |StorytellerDef.comps.10=Exist
 |StorytellerDef.comps.10.Class=StorytellerCompProperties_JourneyOffer
+|StorytellerDef.populationIntentFromPopCurve=Exist
+|StorytellerDef.populationIntentFromPopCurve.points=""0, 8"",""1, 4"",""5, 1"",""9, 0.5"",""13, 0"",""18, -1""
+|StorytellerDef.populationIntentFromTimeCurve=Exist
+|StorytellerDef.populationIntentFromTimeCurve.points=""0, 0.15"",""3, 0.15"",""10, 1""
 }}"
 Core:Defs_StorytellerDef_Randy,"{{#set:
 |dataType=Def
@@ -46697,6 +46727,7 @@ Core:Defs_StorytellerDef_Randy,"{{#set:
 |StorytellerDef.comps.0.Class=StorytellerCompProperties_RandomMain
 |StorytellerDef.comps.0.minDaysPassed=1
 |StorytellerDef.comps.0.allowedTargetTypes=MapPlayerHome
+|StorytellerDef.comps.0.minIncChancePopulationIntentFactor=0.2
 |StorytellerDef.comps.0.mtbDays=1.13
 |StorytellerDef.comps.0.categoryWeights=""Misc"",""5.5"";""OrbitalVisitor"",""1"";""ThreatBig"",""1"";""ThreatSmall"",""0.9"";""AllyArrival"",""1"";""AllyAssistance"",""0.5"";""ShipChunkDrop"",""0.5""
 |StorytellerDef.comps.0.maxThreatBigIntervalDays=13
@@ -46714,6 +46745,10 @@ Core:Defs_StorytellerDef_Randy,"{{#set:
 |StorytellerDef.comps.3.category=CaravanTarget
 |StorytellerDef.comps.4=Exist
 |StorytellerDef.comps.4.Class=StorytellerCompProperties_JourneyOffer
+|StorytellerDef.populationIntentFromPopCurve=Exist
+|StorytellerDef.populationIntentFromPopCurve.points=""0, 8"",""1, 4"",""5, 1"",""9, 0.5"",""13, 0"",""50, -1""
+|StorytellerDef.populationIntentFromTimeCurve=Exist
+|StorytellerDef.populationIntentFromTimeCurve.points=""0, 0.15"",""3, 0.15"",""10, 1""
 }}"
 Core:Defs_StorytellerDef_Tutor,"{{#set:
 |dataType=Def
@@ -46732,6 +46767,10 @@ Core:Defs_StorytellerDef_Tutor,"{{#set:
 |StorytellerDef.forcedDifficulty=VeryEasy
 |StorytellerDef.comps=Exist
 |StorytellerDef.comps.Count=0
+|StorytellerDef.populationIntentFromPopCurve=Exist
+|StorytellerDef.populationIntentFromPopCurve.points=""0, 0""
+|StorytellerDef.populationIntentFromTimeCurve=Exist
+|StorytellerDef.populationIntentFromTimeCurve.points=""0, 0.15"",""3, 0.15"",""10, 1""
 }}"
 Core:Defs_StuffAppearanceDef_Bricks,"{{#set:
 |dataType=Def
@@ -49626,7 +49665,7 @@ Core:Defs_ThingDef_AncientLamppost,"{{#set:
 |ThingDef.drawerType=MapMeshAndRealTime
 |ThingDef.selectable=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.35
+|ThingDef.fillPercent=0.25
 |ThingDef.blockWind=true
 }}"
 Core:Defs_ThingDef_AnimalBed,"{{#set:
@@ -49671,7 +49710,7 @@ Core:Defs_ThingDef_AnimalBed,"{{#set:
 |ThingDef.castEdgeShadows=true
 |ThingDef.selectable=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.15
 |ThingDef.tradeTags=""Furniture""
 |ThingDef.building=Exist
 |ThingDef.building.bed_healPerDay=3
@@ -49725,7 +49764,7 @@ Core:Defs_ThingDef_AnimalSleepingBox,"{{#set:
 |ThingDef.castEdgeShadows=true
 |ThingDef.selectable=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.15
 |ThingDef.tradeTags=""Furniture""
 |ThingDef.building=Exist
 |ThingDef.building.bed_healPerDay=3
@@ -52912,7 +52951,7 @@ Core:Defs_ThingDef_BurnedTree,"{{#set:
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.neverMultiSelect=True
-|ThingDef.fillPercent=0.29
+|ThingDef.fillPercent=0.20
 |ThingDef.plant=Exist
 |ThingDef.plant.blockAdjacentSow=true
 |ThingDef.plant.harvestWork=200
@@ -52995,7 +53034,7 @@ Core:Defs_ThingDef_Campfire,"{{#set:
 |ThingDef.inspectorTabs=""ITab_Bills""
 |ThingDef.drawPlaceWorkersWhileSelected=true
 |ThingDef.soundImpactDefault=BulletImpactGround
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.20
 |ThingDef.recipes=""CookMealSimpleCampfire"",""MakePemmicanCampfire"",""BurnApparelCampfire"",""BurnDrugs""
 |ThingDef.building=Exist
 |ThingDef.building.spawnedConceptLearnOpportunity=BillsTab
@@ -54292,7 +54331,7 @@ Core:Defs_ThingDef_ChunkGranite,"{{#set:
 |ThingDef.thingCategories=""StoneChunks""
 |ThingDef.soundDrop=ChunkRock_Drop
 |ThingDef.saveCompressible=true
-|ThingDef.fillPercent=0.4
+|ThingDef.fillPercent=0.50
 |ThingDef.tradeability=Never
 }}"
 Core:Defs_ThingDef_ChunkLimestone,"{{#set:
@@ -54324,7 +54363,7 @@ Core:Defs_ThingDef_ChunkLimestone,"{{#set:
 |ThingDef.thingCategories=""StoneChunks""
 |ThingDef.soundDrop=ChunkRock_Drop
 |ThingDef.saveCompressible=true
-|ThingDef.fillPercent=0.4
+|ThingDef.fillPercent=0.50
 |ThingDef.tradeability=Never
 }}"
 Core:Defs_ThingDef_ChunkMarble,"{{#set:
@@ -54356,7 +54395,7 @@ Core:Defs_ThingDef_ChunkMarble,"{{#set:
 |ThingDef.thingCategories=""StoneChunks""
 |ThingDef.soundDrop=ChunkRock_Drop
 |ThingDef.saveCompressible=true
-|ThingDef.fillPercent=0.4
+|ThingDef.fillPercent=0.50
 |ThingDef.tradeability=Never
 }}"
 Core:Defs_ThingDef_ChunkSandstone,"{{#set:
@@ -54388,7 +54427,7 @@ Core:Defs_ThingDef_ChunkSandstone,"{{#set:
 |ThingDef.thingCategories=""StoneChunks""
 |ThingDef.soundDrop=ChunkRock_Drop
 |ThingDef.saveCompressible=true
-|ThingDef.fillPercent=0.4
+|ThingDef.fillPercent=0.50
 |ThingDef.tradeability=Never
 }}"
 Core:Defs_ThingDef_ChunkSlagSteel,"{{#set:
@@ -54418,7 +54457,7 @@ Core:Defs_ThingDef_ChunkSlagSteel,"{{#set:
 |ThingDef.thingCategories=""Chunks""
 |ThingDef.soundDrop=ChunkSlag_Drop
 |ThingDef.saveCompressible=true
-|ThingDef.fillPercent=0.4
+|ThingDef.fillPercent=0.50
 |ThingDef.tradeability=Never
 }}"
 Core:Defs_ThingDef_ChunkSlate,"{{#set:
@@ -54450,7 +54489,7 @@ Core:Defs_ThingDef_ChunkSlate,"{{#set:
 |ThingDef.thingCategories=""StoneChunks""
 |ThingDef.soundDrop=ChunkRock_Drop
 |ThingDef.saveCompressible=true
-|ThingDef.fillPercent=0.4
+|ThingDef.fillPercent=0.50
 |ThingDef.tradeability=Never
 }}"
 Core:Defs_ThingDef_Cloth,"{{#set:
@@ -58067,7 +58106,7 @@ Core:Defs_ThingDef_FirefoamPopper,"{{#set:
 |ThingDef.drawerType=MapMeshAndRealTime
 |ThingDef.selectable=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.15
+|ThingDef.fillPercent=0.30
 }}"
 Core:Defs_ThingDef_Flake,"{{#set:
 |dataType=Def
@@ -58211,7 +58250,7 @@ Core:Defs_ThingDef_FlatscreenTelevision,"{{#set:
 |ThingDef.drawPlaceWorkersWhileSelected=true
 |ThingDef.socialPropernessMatters=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.35
 |ThingDef.tradeTags=""Television""
 |ThingDef.building=Exist
 |ThingDef.building.spawnedConceptLearnOpportunity=TVForSickPeople
@@ -59730,7 +59769,7 @@ Core:Defs_ThingDef_GroundPenetratingScanner,"{{#set:
 |ThingDef.drawerType=MapMeshAndRealTime
 |ThingDef.selectable=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.40
 }}"
 Core:Defs_ThingDef_Gun_AssaultRifle,"{{#set:
 |dataType=Def
@@ -61456,7 +61495,7 @@ Core:Defs_ThingDef_Hive,"{{#set:
 |ThingDef.graphicData.drawSize=1.6
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
-|ThingDef.fillPercent=0.7
+|ThingDef.fillPercent=0.60
 |ThingDef.blockWind=true
 }}"
 Core:Defs_ThingDef_Hopper,"{{#set:
@@ -62983,7 +63022,7 @@ Core:Defs_ThingDef_LongRangeMineralScanner,"{{#set:
 |ThingDef.drawerType=MapMeshAndRealTime
 |ThingDef.selectable=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.40
 }}"
 Core:Defs_ThingDef_Luciferium,"{{#set:
 |dataType=Def
@@ -63902,7 +63941,7 @@ Core:Defs_ThingDef_MegascreenTelevision,"{{#set:
 |ThingDef.drawPlaceWorkersWhileSelected=true
 |ThingDef.socialPropernessMatters=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.35
 |ThingDef.tradeTags=""Television""
 |ThingDef.building=Exist
 |ThingDef.building.spawnedConceptLearnOpportunity=TVForSickPeople
@@ -67984,7 +68023,7 @@ Core:Defs_ThingDef_PlantAgave,"{{#set:
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.neverMultiSelect=True
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.20
 |ThingDef.ingestible=Exist
 |ThingDef.ingestible.foodType=Plant
 |ThingDef.ingestible.nutrition=0.20
@@ -68130,7 +68169,7 @@ Core:Defs_ThingDef_PlantBush,"{{#set:
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.neverMultiSelect=True
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.20
 |ThingDef.ingestible=Exist
 |ThingDef.ingestible.foodType=Plant
 |ThingDef.ingestible.nutrition=0.30
@@ -68836,7 +68875,7 @@ Core:Defs_ThingDef_PlantRaspberry,"{{#set:
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.neverMultiSelect=True
-|ThingDef.fillPercent=0.25
+|ThingDef.fillPercent=0.20
 |ThingDef.ingestible=Exist
 |ThingDef.ingestible.foodType=Plant
 |ThingDef.ingestible.nutrition=0.35
@@ -69178,7 +69217,7 @@ Core:Defs_ThingDef_PlantTreeBirch,"{{#set:
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.neverMultiSelect=True
-|ThingDef.fillPercent=0.43
+|ThingDef.fillPercent=0.25
 |ThingDef.blockWind=true
 |ThingDef.ingestible=Exist
 |ThingDef.ingestible.foodType=Tree
@@ -69235,7 +69274,7 @@ Core:Defs_ThingDef_PlantTreeCecropia,"{{#set:
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.neverMultiSelect=True
-|ThingDef.fillPercent=0.43
+|ThingDef.fillPercent=0.25
 |ThingDef.blockWind=true
 |ThingDef.ingestible=Exist
 |ThingDef.ingestible.foodType=Tree
@@ -69291,7 +69330,7 @@ Core:Defs_ThingDef_PlantTreeOak,"{{#set:
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.neverMultiSelect=True
-|ThingDef.fillPercent=0.43
+|ThingDef.fillPercent=0.25
 |ThingDef.blockWind=true
 |ThingDef.ingestible=Exist
 |ThingDef.ingestible.foodType=Tree
@@ -69348,7 +69387,7 @@ Core:Defs_ThingDef_PlantTreePine,"{{#set:
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.neverMultiSelect=True
-|ThingDef.fillPercent=0.43
+|ThingDef.fillPercent=0.25
 |ThingDef.blockWind=true
 |ThingDef.ingestible=Exist
 |ThingDef.ingestible.foodType=Tree
@@ -69404,7 +69443,7 @@ Core:Defs_ThingDef_PlantTreePoplar,"{{#set:
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.neverMultiSelect=True
-|ThingDef.fillPercent=0.43
+|ThingDef.fillPercent=0.25
 |ThingDef.blockWind=true
 |ThingDef.ingestible=Exist
 |ThingDef.ingestible.foodType=Tree
@@ -69461,7 +69500,7 @@ Core:Defs_ThingDef_PlantTreeTeak,"{{#set:
 |ThingDef.drawerType=MapMeshOnly
 |ThingDef.selectable=true
 |ThingDef.neverMultiSelect=True
-|ThingDef.fillPercent=0.43
+|ThingDef.fillPercent=0.25
 |ThingDef.blockWind=true
 |ThingDef.ingestible=Exist
 |ThingDef.ingestible.foodType=Tree
@@ -73286,7 +73325,7 @@ Core:Defs_ThingDef_Stool,"{{#set:
 |ThingDef.selectable=true
 |ThingDef.socialPropernessMatters=true
 |ThingDef.soundImpactDefault=BulletImpactMetal
-|ThingDef.fillPercent=0.30
+|ThingDef.fillPercent=0.20
 |ThingDef.tradeTags=""Furniture""
 |ThingDef.building=Exist
 |ThingDef.building.isSittable=true
@@ -76073,6 +76112,7 @@ Core:Defs_ThingDef_WindTurbine,"{{#set:
 |ThingDef.blockWind=true
 |ThingDef.building=Exist
 |ThingDef.building.ignoreNeedsPower=true
+|ThingDef.building.allowAutoroof=false
 |ThingDef.building.ai_chillDestination=false
 }}"
 Core:Defs_ThingDef_WolfArctic,"{{#set:
@@ -85128,6 +85168,7 @@ Core:Defs_TraitDef_Wimp,"{{#set:
 |TraitDef.degreeDatas.0.painShockThreshold=0.15
 |TraitDef.conflictingTraits=""Brawler""
 |TraitDef.commonality=0.15
+|TraitDef.allowOnHostileSpawn=false
 }}"
 Core:Defs_TransferableSorterDef_Category,"{{#set:
 |dataType=Def
@@ -86075,6 +86116,7 @@ Core:Defs_WorkGiverDef_DoBillsProduceDrugs,"{{#set:
 |WorkGiverDef.label.zh-tw=製作藥物
 |WorkGiverDef.giverClass=WorkGiver_DoBill
 |WorkGiverDef.workType=Crafting
+|WorkGiverDef.workTags=""Intellectual""
 |WorkGiverDef.priorityInType=95
 |WorkGiverDef.verb=produce drugs
 |WorkGiverDef.verb.zh-cn=制作

@@ -19,7 +19,7 @@
 |BiomeDef.baseWeatherCommonalities="Clear","18";"Rain","2";"DryThunderstorm","1";"RainyThunderstorm","1";"SnowGentle","4";"SnowHard","4"
 |BiomeDef.terrainsByFertility="Sand","-999 ~ 0.80";"Soil","0.80 ~ 999"
 |BiomeDef.wildPlants="PlantGrass","6";"PlantSaguaroCactus","1";"PlantPincushionCactus","1";"PlantDandelion","0.5";"PlantTreePoplar","0.45";"PlantAgave","0.25";"PlantBush","0.25"
-|BiomeDef.wildAnimals="Gazelle","0.1";"Emu","0.02";"Megascarab","1";"Iguana","0.7";"Dromedary","0.5";"Boomalope","0.2";"Ostrich","0.2";"Rat","0.30";"Cougar","0.04";"FoxFennec","0.02"
+|BiomeDef.wildAnimals="Gazelle","0.1";"Emu","0.02";"Megascarab","1";"Iguana","0.7";"Dromedary","0.5";"Boomalope","0.2";"Ostrich","0.2";"Rat","0.30";"Cougar","0.02";"FoxFennec","0.02"
 |BiomeDef.diseases="Disease_Flu","100";"Disease_Plague","80";"Disease_FibrousMechanites","30";"Disease_SensoryMechanites","30";"Disease_GutWorms","60";"Disease_MuscleParasites","60"
 |BiomeDef.allowedPackAnimals="Muffalo","Dromedary"
 |BiomeDef.texture=World/Biomes/Desert
