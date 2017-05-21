@@ -4,7 +4,7 @@
 |defName=Master
 |PawnColumnDef.defName=Master
 |PawnColumnDef.label=master
-|PawnColumnDef.label.zh-cn=主要
+|PawnColumnDef.label.zh-cn=主人
 |PawnColumnDef.label.zh-tw=master
 |PawnColumnDef.workerClass=PawnColumnWorker_Master
 |PawnColumnDef.sortable=true

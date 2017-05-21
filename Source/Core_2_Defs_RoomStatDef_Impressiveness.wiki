@@ -4,7 +4,7 @@
 |defName=Impressiveness
 |RoomStatDef.defName=Impressiveness
 |RoomStatDef.label=impressiveness
-|RoomStatDef.label.zh-cn=感观
+|RoomStatDef.label.zh-cn=观感
 |RoomStatDef.label.zh-tw=觀感
 |RoomStatDef.workerClass=RoomStatWorker_Impressiveness
 |RoomStatDef.updatePriority=1

@@ -19016,7 +19016,7 @@ Core:Defs_PawnColumnDef_Master,"{{#set:
 |defName=Master
 |PawnColumnDef.defName=Master
 |PawnColumnDef.label=master
-|PawnColumnDef.label.zh-cn=主要
+|PawnColumnDef.label.zh-cn=主人
 |PawnColumnDef.label.zh-tw=master
 |PawnColumnDef.workerClass=PawnColumnWorker_Master
 |PawnColumnDef.sortable=true
@@ -32750,7 +32750,7 @@ Core:Defs_RoomStatDef_Impressiveness,"{{#set:
 |defName=Impressiveness
 |RoomStatDef.defName=Impressiveness
 |RoomStatDef.label=impressiveness
-|RoomStatDef.label.zh-cn=感观
+|RoomStatDef.label.zh-cn=观感
 |RoomStatDef.label.zh-tw=觀感
 |RoomStatDef.workerClass=RoomStatWorker_Impressiveness
 |RoomStatDef.updatePriority=1
