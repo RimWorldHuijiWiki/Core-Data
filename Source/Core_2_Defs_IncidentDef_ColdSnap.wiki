@@ -9,8 +9,8 @@
 |IncidentDef.workerClass=IncidentWorker_ColdSnap
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
-|IncidentDef.baseChance=3
-|IncidentDef.minRefireDays=15
+|IncidentDef.baseChance=2
+|IncidentDef.minRefireDays=30
 |IncidentDef.letterText=An unusual cold snap has set in.<br/><br/>Cold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die.
 |IncidentDef.letterText.zh-cn=一场罕见的寒流开始了。<br/><br/>寒流中，低温病是致命的。确保室内的热量才能生存下去，穿上合适的衣物，并且设法在作物冻死之前进行收获。
 |IncidentDef.letterText.zh-tw=一波不尋常的寒流正在凍結這個地區，注意保暖，並且注意作物的狀況。

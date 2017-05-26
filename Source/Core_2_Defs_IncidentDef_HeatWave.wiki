@@ -10,7 +10,7 @@
 |IncidentDef.category=Misc
 |IncidentDef.targetType=MapPlayerHome
 |IncidentDef.baseChance=3
-|IncidentDef.minRefireDays=15
+|IncidentDef.minRefireDays=30
 |IncidentDef.letterText=An unusual heat wave has begun.<br/><br/>Heat waves can kill quickly if people start getting heatstroke. Stay cool by building a cooler or getting deep under a mountain.
 |IncidentDef.letterText.zh-cn=一场罕见的热浪开始了。<br/><br/>在热浪中如果中暑，极易死亡。建造冷却器来降温或呆在清凉的山洞深处。
 |IncidentDef.letterText.zh-tw=一波極端酷熱的熱浪正在烤熟這片地區，小心別中暑了。
