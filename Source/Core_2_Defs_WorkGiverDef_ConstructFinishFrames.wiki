@@ -4,7 +4,7 @@
 |defName=ConstructFinishFrames
 |WorkGiverDef.defName=ConstructFinishFrames
 |WorkGiverDef.label=construct placed frames
-|WorkGiverDef.label.zh-cn=建造放置的框架
+|WorkGiverDef.label.zh-cn=建造布置好的框架
 |WorkGiverDef.label.zh-tw=建造
 |WorkGiverDef.giverClass=WorkGiver_ConstructFinishFrames
 |WorkGiverDef.workType=Construction

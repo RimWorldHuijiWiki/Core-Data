@@ -13,7 +13,7 @@
 |WorkGiverDef.verb.zh-cn=填满
 |WorkGiverDef.verb.zh-tw=裝填
 |WorkGiverDef.gerund=filling
-|WorkGiverDef.gerund.zh-cn=填满发酵桶
+|WorkGiverDef.gerund.zh-cn=填满
 |WorkGiverDef.gerund.zh-tw=裝填
 |WorkGiverDef.requiredCapacities="Manipulation"
 }}
